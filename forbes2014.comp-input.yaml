@@ -1,0 +1,964 @@
+comp:
+  compName: Australian National Hang Gliding Championships 2014
+  location: Forbes, Australia
+  from: '2013-12-28'
+  to: '2014-01-04'
+  civilId: '9182'
+  utcOffset:
+    timeZoneMinutes: 660
+nominal:
+  launch: 0.96
+  goal: 0.2
+  distance: 80.0 km
+  free: 5.0 km
+  time: 2.0 h
+tasks:
+- taskName: Task 1 - Child of god
+  zones:
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 400.0 m
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 5000.0 m
+  - zoneName: GRENF
+    lat: -33.8596
+    lng: 148.11209999
+    radius: 400.0 m
+  - zoneName: GOOLOO
+    lat: -33.61957
+    lng: 148.41023
+    radius: 400.0 m
+  - zoneName: CANOWI
+    lat: -33.55378
+    lng: 148.67146999
+    radius: 400.0 m
+  - zoneName: WOODST
+    lat: -33.73931999
+    lng: 148.84062
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2013-12-28T01:00:00Z
+    close: 2013-12-28T09:00:00Z
+  startGates:
+  - 2013-12-28T03:00:00Z
+  - 2013-12-28T03:20:00Z
+  - 2013-12-28T03:40:00Z
+  absent: []
+- taskName: Task 2 - Blown Away
+  zones:
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 400.0 m
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 15000.0 m
+  - zoneName: TRANG
+    lat: -31.9798
+    lng: 148.0035
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 3
+  zoneTimes:
+  - open: 2013-12-29T01:00:00Z
+    close: 2013-12-29T09:00:00Z
+  startGates:
+  - 2013-12-29T03:00:00Z
+  - 2013-12-29T03:15:00Z
+  - 2013-12-29T03:30:00Z
+  - 2013-12-29T03:45:00Z
+  absent:
+  - Adam Jones
+- taskName: Task 3 - TCDSay
+  zones:
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 400.0 m
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 10000.0 m
+  - zoneName: TOMING
+    lat: -32.56607999
+    lng: 148.22657
+    radius: 11000.0 m
+  - zoneName: WELLIN
+    lat: -32.46359999
+    lng: 148.98849999
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2013-12-30T01:00:00Z
+    close: 2013-12-30T09:00:00Z
+  startGates:
+  - 2013-12-30T03:30:00Z
+  - 2013-12-30T03:50:00Z
+  - 2013-12-30T04:10:00Z
+  absent: []
+- taskName: Task 4 - Greased Lightning
+  zones:
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 400.0 m
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 10000.0 m
+  - zoneName: YEOVAL
+    lat: -32.76051999
+    lng: 148.64957999
+    radius: 5000.0 m
+  - zoneName: CUMNOC
+    lat: -32.93491999
+    lng: 148.75057
+    radius: 5000.0 m
+  - zoneName: WELLIN
+    lat: -32.46359999
+    lng: 148.98849999
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2013-12-31T01:00:00Z
+    close: 2013-12-31T09:00:00Z
+  startGates:
+  - 2013-12-31T03:15:00Z
+  - 2013-12-31T03:35:00Z
+  - 2013-12-31T03:55:00Z
+  absent: []
+- taskName: Task 5 - Find Your Own Fxx Pad
+  zones:
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 400.0 m
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 10000.0 m
+  - zoneName: CROW
+    lat: -34.11795
+    lng: 148.50129999
+    radius: 13000.0 m
+  - zoneName: STOCKI
+    lat: -34.49978
+    lng: 147.89785
+    radius: 1000.0 m
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2014-01-01T01:00:00Z
+    close: 2014-01-01T09:00:00Z
+  startGates:
+  - 2014-01-01T03:00:00Z
+  - 2014-01-01T03:30:00Z
+  absent:
+  - Adam Jones
+  - Ai Fukutomi
+- taskName: Task 6 - Attila Killer
+  zones:
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 400.0 m
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 10000.0 m
+  - zoneName: BOOROW
+    lat: -34.46309999
+    lng: 148.7032
+    radius: 400.0 m
+  - zoneName: DALTON
+    lat: -34.71569999
+    lng: 149.19337999
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2014-01-03T01:00:00Z
+    close: 2014-01-03T09:00:00Z
+  startGates:
+  - 2014-01-03T03:00:00Z
+  - 2014-01-03T03:30:00Z
+  absent:
+  - Adam Jones
+  - Ai Fukutomi
+  - Michael Tomlinson
+- taskName: Task 7 - 126.7
+  zones:
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 400.0 m
+  - zoneName: FORBE
+    lat: -33.36079999
+    lng: 147.93199999
+    radius: 10000.0 m
+  - zoneName: DUNED2
+    lat: -32.01207999
+    lng: 149.41763
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 3
+  zoneTimes:
+  - open: 2014-01-04T01:00:00Z
+    close: 2014-01-04T09:00:00Z
+  startGates:
+  - 2014-01-04T03:00:00Z
+  - 2014-01-04T03:30:00Z
+  absent:
+  - Ai Fukutomi
+  - Nick Purcell
+  - Peter Ebeling
+  - Tony Masters
+  - Victor Hare
+taskFolders:
+- - day 1
+- - day 2
+- - day 3
+- - day 4
+- - day 5
+- - day 6
+- - day 7
+pilots:
+- - - Adam Jones
+    - Adam Jones.20131228-103728.[CIVLID].22.kml
+  - - Adam Stevens
+    - Adam Stevens.20131228-094605.17640.29.kml
+  - - Ai Fukutomi
+    - null
+  - - Akiko Suzuki
+    - null
+  - - Andrew Barnes
+    - Andrew Barnes.20131228-085356.5800.2.kml
+  - - Andrew Luton
+    - Andrew Luton.20131228-103157.25937.19.kml
+  - - Anton Struganov
+    - Anton Struganov.20131228-102335.5845.23.kml
+  - - Attila Bertok
+    - Attila Bertok.20131228-100408.5885.41.kml
+  - - Cameron Tunbridge
+    - Cameron Tunbridge.20131228-101930.5986.4.kml
+  - - Christian Voiblet
+    - Christian Voiblet.20131228-093052.6040.62.kml
+  - - Conrad Loten
+    - Conrad Loten.20131228-091725.6067.50.kml
+  - - Davis Straub
+    - Davis Straub.20131228-090324.6143.60.kml
+  - - Dean Hervatin
+    - Dean Hervatin.20131228-094935.[CIVLID].31.kml
+  - - Enda Murphy
+    - Enda Murphy.20131228-083546.295.36.kml
+  - - Federico Martini
+    - Federico Martini.20131228-093506.6279.8.kml
+  - - Filippo Oppici
+    - Filippo Oppici.20131228-105113.6295.33.kml
+  - - Gavin Myers
+    - Gavin Myers.20131228-102434.18334.51.kml
+  - - Geoff Robertson
+    - Jeff Robertson.20131228-111142.[CIVLID].45.kml
+  - - Glen Mcfarlane
+    - Glen Mcfarlane.20131228-104944.17641.34.kml
+  - - Guy Hubbard
+    - Guy Hubbard.20131228-095453.6467.28.kml
+  - - Hadewych van Kempen
+    - null
+  - - Hanspeter Schütz
+    - null
+  - - Jamie Shelden
+    - Jamie Shelden.20131228-104645.10960.35.kml
+  - - Jon snr Durand
+    - Jon snr Durand.20131228-085617.6731.37.kml
+  - - Jonas Lobitz
+    - Jonas Lobitz.20131228-090823.12354.49.kml
+  - - Jonny Durand
+    - Jonny Durand.20131228-083221.2231.39.kml
+  - - Kathryn O'Riordan
+    - null
+  - - Len Paton
+    - Len Paton.20131228-110954.6946.55.kml
+  - - Lukas Bader
+    - Lukas Bader.20131228-094035.6992.40.kml
+  - - Mark Russell
+    - Mark Russell.20131228-093724.14776.58.kml
+  - - Maximilian Respondek
+    - Maximilian Respondek.20131228-093410.29345.56.kml
+  - - Michael Bilyk
+    - Michael Bilyk.20131228-093732.30148.1.kml
+  - - Michael Tomlinson
+    - Michael Tomlinson.20131228-230110.[CIVLID].16.kml
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20131228-102150.7169.14.kml
+  - - Neil Petersen
+    - Neil Petersen.20131228-090946.7220.21.kml
+  - - Nick Purcell
+    - Nick Purcell.20131228-101016.7229.15.kml
+  - - Nils Vesk
+    - Nils Vesk.20131228-090138.7250.20.kml
+  - - Olav Olsen
+    - Olav Olsen.20131228-102607.7270.52.kml
+  - - Paris Williams
+    - Paris Williams.20131228-090706.7323.3.kml
+  - - Patrick Collin
+    - Patrick Collin.20131228-091103.7332.44.kml
+  - - Peter Ebeling
+    - Peter Ebeling.20131228-101611.7388.13.kml
+  - - Peter Lamont
+    - Peter Lamont.20131228-103934.25959.17.kml
+  - - Phil Schroder
+    - Phil Schroder.20131228-111340.7419.30.kml
+  - - Phil Seeley
+    - Phil Seeley.20131228-091431.[CIVLID].69.kml
+  - - Rod Flockhart
+    - Rod Flockhart.20131228-083733.7537.43.kml
+  - - Rohan Taylor
+    - Rohan Taylor.20131228-090922.7545.18.kml
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20131228-094603.15164.5.kml
+  - - Steve Blenkinsop
+    - Steve Blenkinsop.20131228-085938.7701.24.kml
+  - - Tony Giammichele
+    - Tony Giammichele.20131228-085808.7839.7.kml
+  - - Tony Masters
+    - Tony Masters.20131228-085120.[CIVLID].26.kml
+  - - Trent Brown
+    - Trent Brown.20131228-111250.7853.42.kml
+  - - Victor Hare
+    - Victor Hare.20131228-102057.24476.48.kml
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20131228-111630.7971.46.kml
+- - - Adam Stevens
+    - Adam Stevens.20131229-113436.17640.29.kml
+  - - Ai Fukutomi
+    - null
+  - - Akiko Suzuki
+    - null
+  - - Andrew Barnes
+    - Andrew Barnes.20131229-114935.5800.2.kml
+  - - Andrew Luton
+    - Andrew Luton.20131229-065252.25937.19.kml
+  - - Anton Struganov
+    - Anton Struganov.20131229-101330.5845.23.kml
+  - - Attila Bertok
+    - Attila Bertok.20131229-102624.5885.41.kml
+  - - Cameron Tunbridge
+    - Cameron Tunbridge.20131229-103941.5986.4.kml
+  - - Christian Voiblet
+    - Christian Voiblet.20131229-055509.6040.62.kml
+  - - Conrad Loten
+    - Conrad Loten.20131229-100849.6067.50.kml
+  - - Davis Straub
+    - Davis Straub.20131229-100123.6143.60.kml
+  - - Dean Hervatin
+    - Dean Hervatin.20131229-113614.[CIVLID].31.kml
+  - - Enda Murphy
+    - Enda Murphy.20131229-053309.295.36.kml
+  - - Federico Martini
+    - Federico Martini.20131229-062315.6279.8.kml
+  - - Filippo Oppici
+    - Filippo Oppici.20131229-055159.6295.33.kml
+  - - Gavin Myers
+    - Gavin Myers.20131229-113648.18334.51.kml
+  - - Geoff Robertson
+    - Jeff Robertson.20131229-111127.[CIVLID].45.kml
+  - - Glen Mcfarlane
+    - Glen Mcfarlane.20131229-114324.17641.34.kml
+  - - Guy Hubbard
+    - Guy Hubbard.20131229-113518.6467.28.kml
+  - - Hadewych van Kempen
+    - null
+  - - Hanspeter Schütz
+    - null
+  - - Jamie Shelden
+    - Jamie Shelden.20131229-104913.10960.35.kml
+  - - Jon snr Durand
+    - Jon snr Durand.20131229-114736.6731.37.kml
+  - - Jonas Lobitz
+    - Jonas Lobitz.20131229-100511.12354.49.kml
+  - - Jonny Durand
+    - Jonny Durand.20131229-053519.2231.39.kml
+  - - Kathryn O'Riordan
+    - Kathryn O'Riordan.20131229-104934.21371.53.kml
+  - - Len Paton
+    - Len Paton.20131229-111312.6946.55.kml
+  - - Lukas Bader
+    - Lukas Bader.20131229-102907.6992.40.kml
+  - - Mark Russell
+    - Mark Russell.20131229-062046.14776.58.kml
+  - - Maximilian Respondek
+    - Maximilian Respondek.20131229-055308.29345.56.kml
+  - - Michael Bilyk
+    - Michael Bilyk.20131229-102516.30148.1.kml
+  - - Michael Tomlinson
+    - Michael Tomlinson.20131229-065203.[CIVLID].16.kml
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20131229-101025.7169.14.kml
+  - - Neil Petersen
+    - Neil Petersen.20131229-100742.7220.21.kml
+  - - Nick Purcell
+    - Nick Purcell.20131229-113721.7229.15.kml
+  - - Nils Vesk
+    - Nils Vesk.20131229-115251.7250.20.kml
+  - - Olav Olsen
+    - Olav Olsen.20131229-101122.7270.52.kml
+  - - Paris Williams
+    - Paris Williams.20131229-102348.7323.3.kml
+  - - Patrick Collin
+    - Patrick Collin.20131229-105657.7332.44.kml
+  - - Peter Ebeling
+    - Peter Ebeling.20131229-103444.7388.13.kml
+  - - Phil Schroder
+    - Phil Schroder.20131229-111220.7419.30.kml
+  - - Phil Seeley
+    - Phil Seeley.20131229-081611.[CIVLID].69.kml
+  - - Rod Flockhart
+    - Rod Flockhart.20131229-053421.7537.43.kml
+  - - Rohan Taylor
+    - Rohan Taylor.20131229-114806.7545.18.kml
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20131229-110502.15164.5.kml
+  - - Steve Blenkinsop
+    - Steve Blenkinsop.20131229-114450.7701.24.kml
+  - - Tony Giammichele
+    - Tony Giammichele.20131229-114409.7839.7.kml
+  - - Trent Brown
+    - Trent Brown.20131229-113834.7853.42.kml
+  - - Victor Hare
+    - Victor Hare.20131229-103553.24476.48.kml
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20131229-114021.7971.46.kml
+- - - Adam Jones
+    - Adam Jones.20131230-094445.[CIVLID].22.kml
+  - - Adam Stevens
+    - Adam Stevens.20131230-104101.17640.29.kml
+  - - Ai Fukutomi
+    - null
+  - - Akiko Suzuki
+    - null
+  - - Andrew Barnes
+    - Andrew Barnes.20131230-114524.5800.2.kml
+  - - Andrew Luton
+    - Andrew Luton.20131230-102636.25937.19.kml
+  - - Anton Struganov
+    - Anton Struganov.20131230-114037.5845.23.kml
+  - - Attila Bertok
+    - Attila Bertok.20131230-101011.5885.41.kml
+  - - Cameron Tunbridge
+    - Cameron Tunbridge.20131230-113832.5986.4.kml
+  - - Christian Voiblet
+    - Christian Voiblet.20131230-111647.6040.62.kml
+  - - Conrad Loten
+    - Conrad Loten.20131230-101646.6067.50.kml
+  - - Davis Straub
+    - Davis Straub.20131230-110452.6143.60.kml
+  - - Dean Hervatin
+    - Dean Hervatin.20131230-103906.[CIVLID].31.kml
+  - - Enda Murphy
+    - Enda Murphy.20131230-101342.295.36.kml
+  - - Federico Martini
+    - Federico Martini.20131230-110542.6279.8.kml
+  - - Filippo Oppici
+    - Filippo Oppici.20131230-115509.6295.33.kml
+  - - Gavin Myers
+    - Gavin Myers.20131230-104047.18334.51.kml
+  - - Geoff Robertson
+    - Geoff Robertson.20131230-112901.12153.45.kml
+  - - Glen Mcfarlane
+    - Glen Mcfarlane.20131230-115546.17641.34.kml
+  - - Guy Hubbard
+    - Guy Hubbard.20131230-103916.6467.28.kml
+  - - Hadewych van Kempen
+    - null
+  - - Hanspeter Schütz
+    - Hanspeter Schütz.20131230-111706.15361.59.kml
+  - - Jamie Shelden
+    - Jamie Shelden.20131230-115626.10960.35.kml
+  - - Jon snr Durand
+    - Jon snr Durand.20131230-114645.6731.37.kml
+  - - Jonas Lobitz
+    - Jonas Lobitz.20131230-101954.12354.49.kml
+  - - Jonny Durand
+    - Jonny Durand.20131230-101133.2231.39.kml
+  - - Kathryn O'Riordan
+    - Kathryn O'Riordan.20131230-115659.21371.53.kml
+  - - Len Paton
+    - Len Paton.20131230-113154.6946.55.kml
+  - - Lukas Bader
+    - Lukas Bader.20131230-101348.6992.40.kml
+  - - Mark Russell
+    - Mark Russell.20131230-111234.14776.58.kml
+  - - Maximilian Respondek
+    - null
+  - - Michael Bilyk
+    - Michael Bilyk.20131230-100909.30148.1.kml
+  - - Michael Tomlinson
+    - Michael Tomlinson.20131230-055939.[CIVLID].16.kml
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20131230-113622.7169.14.kml
+  - - Neil Petersen
+    - Neil Petersen.20131230-101835.7220.21.kml
+  - - Nick Purcell
+    - Nick Purcell.20131230-104412.7229.15.kml
+  - - Nils Vesk
+    - Nils Vesk.20131230-114854.7250.20.kml
+  - - Olav Olsen
+    - Olav Olsen.20131230-113445.7270.52.kml
+  - - Paris Williams
+    - Paris Williams.20131230-102343.7323.3.kml
+  - - Patrick Collin
+    - Patrick Collin.20131230-120332.7332.44.kml
+  - - Peter Ebeling
+    - Peter Ebeling.20131230-113031.7388.13.kml
+  - - Peter Lamont
+    - Peter Lamont.20131230-093449.25959.17.kml
+  - - Phil Schroder
+    - Phil Schroder.20131230-112130.7419.30.kml
+  - - Phil Seeley
+    - Phil Seeley.20131230-093210.[CIVLID].69.kml
+  - - Rod Flockhart
+    - Rod Flockhart.20131230-101501.7537.43.kml
+  - - Rohan Taylor
+    - Rohan Taylor.20131230-114743.7545.18.kml
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20131230-081456.15164.5.kml
+  - - Steve Blenkinsop
+    - Steve Blenkinsop.20131230-111156.7701.24.kml
+  - - Tony Giammichele
+    - Tony Giammichele.20131230-110354.7839.7.kml
+  - - Tony Masters
+    - Tony Masters.20131230-102553.[CIVLID].26.kml
+  - - Trent Brown
+    - Trent Brown.20131230-113156.7853.42.kml
+  - - Victor Hare
+    - Victor Hare.20131230-112653.24476.48.kml
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20131230-110316.7971.46.kml
+- - - Adam Jones
+    - Adam Jones.20131231-104217.[CIVLID].22.kml
+  - - Adam Stevens
+    - Adam Stevens.20131231-075452.17640.29.kml
+  - - Ai Fukutomi
+    - null
+  - - Akiko Suzuki
+    - Akiko Suzuki.20131231-105056.9768.6.kml
+  - - Andrew Barnes
+    - Andrew Barnes.20131231-101335.5800.2.kml
+  - - Andrew Luton
+    - Andrew Luton.20131231-103421.25937.19.kml
+  - - Anton Struganov
+    - Anton Struganov.20131231-103223.5845.23.kml
+  - - Attila Bertok
+    - Attila Bertok.20131231-094104.5885.41.kml
+  - - Cameron Tunbridge
+    - Cameron Tunbridge.20131231-100249.5986.4.kml
+  - - Carl Wallbank
+    - Carl Wallbank.20131231-110608.5989.70.kml
+  - - Christian Voiblet
+    - Christian Voiblet.20131231-115950.6040.62.kml
+  - - Conrad Loten
+    - Conrad Loten.20131231-102050.6067.50.kml
+  - - Davis Straub
+    - Davis Straub.20131231-110355.6143.60.kml
+  - - Dean Hervatin
+    - Dean Hervatin.20131231-110740.[CIVLID].31.kml
+  - - Enda Murphy
+    - Enda Murphy.20131231-075621.295.36.kml
+  - - Federico Martini
+    - Federico Martini.20131231-095822.6279.8.kml
+  - - Filippo Oppici
+    - Filippo Oppici.20131231-120027.6295.33.kml
+  - - Gavin Myers
+    - Gavin Myers.20131231-110936.18334.51.kml
+  - - Geoff Robertson
+    - Geoff Robertson.20131231-080049.12153.45.kml
+  - - Glen Mcfarlane
+    - Glen Mcfarlane.20131231-120113.17641.34.kml
+  - - Guy Hubbard
+    - Guy Hubbard.20131231-111120.6467.28.kml
+  - - Hadewych van Kempen
+    - null
+  - - Hanspeter Schütz
+    - Hanspeter Schütz.20131231-064508.15361.59.kml
+  - - Jamie Shelden
+    - null
+  - - Jon snr Durand
+    - Jon snr Durand.20131231-105334.6731.37.kml
+  - - Jonas Lobitz
+    - Jonas Lobitz.20131231-102346.12354.49.kml
+  - - Jonny Durand
+    - Jonny Durand.20131231-075233.2231.39.kml
+  - - Kathryn O'Riordan
+    - Kathryn O'Riordan.20131231-115722.21371.53.kml
+  - - Len Paton
+    - Len Paton.20131231-064948.6946.55.kml
+  - - Lukas Bader
+    - Lukas Bader.20131231-094325.6992.40.kml
+  - - Mark Russell
+    - null
+  - - Maximilian Respondek
+    - Maximilian Respondek.20131231-064649.29345.56.kml
+  - - Michael Bilyk
+    - Michael Bilyk.20131231-093935.30148.1.kml
+  - - Michael Tomlinson
+    - Michael Tomlinson.20131231-104133.[CIVLID].16.kml
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20131231-104337.7169.14.kml
+  - - Neil Petersen
+    - Neil Petersen.20131231-101909.7220.21.kml
+  - - Nick Purcell
+    - Nick Purcell.20131231-080130.7229.15.kml
+  - - Nils Vesk
+    - Nils Vesk.20131231-104547.7250.20.kml
+  - - Olav Olsen
+    - Olav Olsen.20131231-103256.7270.52.kml
+  - - Paris Williams
+    - Paris Williams.20131231-102240.7323.3.kml
+  - - Patrick Collin
+    - Patrick Collin.20131231-100810.7332.44.kml
+  - - Peter Ebeling
+    - Peter Ebeling.20131231-072420.7388.13.kml
+  - - Peter Lamont
+    - Peter Lamont.20131231-103621.25959.17.kml
+  - - Phil Schroder
+    - Phil Schroder.20131231-110206.7419.30.kml
+  - - Phil Seeley
+    - Phil Seeley.20131231-114412.[CIVLID].69.kml
+  - - Rod Flockhart
+    - Rod Flockhart.20131231-100617.7537.43.kml
+  - - Rohan Taylor
+    - Rohan Taylor.20131231-104428.7545.18.kml
+  - - Ryosuke Hattori
+    - null
+  - - Steve Blenkinsop
+    - Steve Blenkinsop.20131231-110046.7701.24.kml
+  - - Tony Giammichele
+    - Tony Giammichele.20131231-110305.7839.7.kml
+  - - Tony Masters
+    - Tony Masters.20131231-114039.[CIVLID].26.kml
+  - - Trent Brown
+    - Trent Brown.20131231-080413.7853.42.kml
+  - - Victor Hare
+    - Victor Hare.20131231-072322.24476.48.kml
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20131231-110606.7971.46.kml
+- - - Adam Stevens
+    - Adam Stevens.20140101-092503.17640.29.kml
+  - - Akiko Suzuki
+    - null
+  - - Andrew Barnes
+    - Andrew Barnes.20140101-085207.5800.2.kml
+  - - Andrew Luton
+    - Andrew Luton.20140101-072347.25937.19.kml
+  - - Anton Struganov
+    - Anton Struganov.20140101-090715.5845.23.kml
+  - - Attila Bertok
+    - Attila Bertok.20140101-092158.5885.41.kml
+  - - Cameron Tunbridge
+    - Cameron Tunbridge.20140101-081549.5986.4.kml
+  - - Carl Wallbank
+    - Carl Wallbank.20140101-084947.5989.70.kml
+  - - Christian Voiblet
+    - Christian Voiblet.20140101-083532.6040.62.kml
+  - - Conrad Loten
+    - null
+  - - Davis Straub
+    - Davis Straub.20140101-084925.6143.60.kml
+  - - Dean Hervatin
+    - Dean Hervatin.20140101-081311.[CIVLID].31.kml
+  - - Enda Murphy
+    - null
+  - - Federico Martini
+    - Federico Martini.20140101-092752.6279.8.kml
+  - - Filippo Oppici
+    - Filippo Oppici.20140101-105648.6295.33.kml
+  - - Gavin Myers
+    - Gavin Myers.20140101-081435.18334.51.kml
+  - - Geoff Robertson
+    - Geoff Robertson.20140101-105812.12153.45.kml
+  - - Glen Mcfarlane
+    - null
+  - - Guy Hubbard
+    - Guy Hubbard.20140101-081843.6467.28.kml
+  - - Hadewych van Kempen
+    - null
+  - - Hanspeter Schütz
+    - Hanspeter Schütz.20140101-082548.15361.59.kml
+  - - Jamie Shelden
+    - Jamie Shelden.20140101-105925.10960.35.kml
+  - - Jon snr Durand
+    - Jon snr Durand.20140101-085456.6731.37.kml
+  - - Jonas Lobitz
+    - Jonas Lobitz.20140101-095446.12354.49.kml
+  - - Jonny Durand
+    - null
+  - - Kathryn O'Riordan
+    - Kathryn O'Riordan.20140101-110011.21371.53.kml
+  - - Len Paton
+    - Len Paton.20140101-105527.6946.55.kml
+  - - Lukas Bader
+    - Lukas Bader.20140101-092654.6992.40.kml
+  - - Mark Russell
+    - Mark Russell.20140102-054241.14776.58.kml
+  - - Maximilian Respondek
+    - Maximilian Respondek.20140101-083401.29345.56.kml
+  - - Michael Bilyk
+    - Michael Bilyk.20140101-220323.30148.1.kml
+  - - Michael Tomlinson
+    - Michael Tomlinson.20140101-225605.[CIVLID].16.kml
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20140101-090649.7169.14.kml
+  - - Neil Petersen
+    - null
+  - - Nick Purcell
+    - Nick Purcell.20140101-081512.7229.15.kml
+  - - Nils Vesk
+    - Nils Vesk.20140101-085106.7250.20.kml
+  - - Olav Olsen
+    - null
+  - - Paris Williams
+    - Paris Williams.20140101-100306.7323.3.kml
+  - - Patrick Collin
+    - Patrick Collin.20140101-092832.7332.44.kml
+  - - Peter Ebeling
+    - Peter Ebeling.20140101-081159.7388.13.kml
+  - - Peter Lamont
+    - Peter Lamont.20140101-225317.25959.17.kml
+  - - Phil Schroder
+    - null
+  - - Phil Seeley
+    - Phil Seeley.20140101-072829.[CIVLID].69.kml
+  - - Rod Flockhart
+    - null
+  - - Rohan Taylor
+    - Rohan Taylor.20140101-085306.7545.18.kml
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20140101-083259.15164.5.kml
+  - - Steve Blenkinsop
+    - null
+  - - Tony Giammichele
+    - null
+  - - Tony Masters
+    - Tony Masters.20140101-073606.[CIVLID].26.kml
+  - - Trent Brown
+    - Trent Brown.20140101-105115.7853.42.kml
+  - - Victor Hare
+    - Victor Hare.20140101-081633.24476.48.kml
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20140101-105000.7971.46.kml
+- - - Adam Stevens
+    - Adam Stevens.20140103-124141.17640.29.kml
+  - - Akiko Suzuki
+    - Akiko Suzuki.20140103-093804.9768.6.kml
+  - - Andrew Barnes
+    - Andrew Barnes.20140103-211837.5800.2.kml
+  - - Andrew Luton
+    - Andrew Luton.20140103-104136.25937.19.kml
+  - - Anton Struganov
+    - Anton Struganov.20140103-114907.5845.23.kml
+  - - Attila Bertok
+    - Attila Bertok.20140103-115155.5885.41.kml
+  - - Cameron Tunbridge
+    - Cameron Tunbridge.20140103-123528.5986.4.kml
+  - - Carl Wallbank
+    - Carl Wallbank.20140103-130517.5989.70.kml
+  - - Christian Voiblet
+    - Christian Voiblet.20140103-120420.6040.62.kml
+  - - Conrad Loten
+    - Conrad Loten.20140103-125035.6067.50.kml
+  - - Davis Straub
+    - Davis Straub.20140103-114156.6143.60.kml
+  - - Dean Hervatin
+    - Dean Hervatin.20140103-125053.[CIVLID].31.kml
+  - - Enda Murphy
+    - Enda Murphy.20140103-102419.295.36.kml
+  - - Federico Martini
+    - Federico Martini.20140103-120253.6279.8.kml
+  - - Filippo Oppici
+    - Filippo Oppici.20140103-103313.6295.33.kml
+  - - Gavin Myers
+    - Gavin Myers.20140103-124326.18334.51.kml
+  - - Geoff Robertson
+    - Geoff Robertson.20140103-102306.12153.45.kml
+  - - Glen Mcfarlane
+    - Glen Mcfarlane.20140103-103235.17641.34.kml
+  - - Guy Hubbard
+    - Guy Hubbard.20140103-125200.6467.28.kml
+  - - Hadewych van Kempen
+    - Hadewych van Kempen.20140103-123815.6468.64.kml
+  - - Hanspeter Schütz
+    - Hanspeter Schütz.20140103-120123.15361.59.kml
+  - - Jamie Shelden
+    - Jamie Shelden.20140103-103038.10960.35.kml
+  - - Jon snr Durand
+    - Jon snr Durand.20140103-212536.6731.37.kml
+  - - Jonas Lobitz
+    - Jonas Lobitz.20140103-123655.12354.49.kml
+  - - Jonny Durand
+    - Jonny Durand.20140103-102145.2231.39.kml
+  - - Kathryn O'Riordan
+    - Kathryn O'Riordan.20140103-103154.21371.53.kml
+  - - Len Paton
+    - Len Paton.20140103-123518.6946.55.kml
+  - - Lukas Bader
+    - Lukas Bader.20140103-115723.6992.40.kml
+  - - Mark Russell
+    - Mark Russell.20140103-113204.14776.58.kml
+  - - Maximilian Respondek
+    - Maximilian Respondek.20140103-101334.29345.56.kml
+  - - Michael Bilyk
+    - Michael Bilyk.20140103-115116.30148.1.kml
+  - - Mikhail Karmazin
+    - Mikhail Karmazin.20140103-114705.7169.14.kml
+  - - Neil Petersen
+    - Neil Petersen.20140103-123956.7220.21.kml
+  - - Nick Purcell
+    - Nick Purcell.20140103-124551.7229.15.kml
+  - - Nils Vesk
+    - Nils Vesk.20140103-114249.7250.20.kml
+  - - Olav Olsen
+    - null
+  - - Paris Williams
+    - Paris Williams.20140103-123814.7323.3.kml
+  - - Patrick Collin
+    - Patrick Collin.20140103-115316.7332.44.kml
+  - - Peter Ebeling
+    - Peter Ebeling.20140103-124009.7388.13.kml
+  - - Peter Lamont
+    - Peter Lamont.20140103-104316.25959.17.kml
+  - - Phil Schroder
+    - Phil Schroder.20140103-123137.7419.30.kml
+  - - Phil Seeley
+    - Phil Seeley.20140103-094327.[CIVLID].69.kml
+  - - Rod Flockhart
+    - Rod Flockhart.20140103-102343.7537.43.kml
+  - - Rohan Taylor
+    - Rohan Taylor.20140103-212356.7545.18.kml
+  - - Ryosuke Hattori
+    - Ryosuke Hattori.20140103-093513.15164.5.kml
+  - - Steve Blenkinsop
+    - Steve Blenkinsop.20140103-130736.7701.24.kml
+  - - Tony Giammichele
+    - Tony Giammichele.20140103-130646.7839.7.kml
+  - - Tony Masters
+    - Tony Masters.20140103-095316.[CIVLID].26.kml
+  - - Trent Brown
+    - Trent Brown.20140103-123043.7853.42.kml
+  - - Victor Hare
+    - Victor Hare.20140103-125302.24476.48.kml
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20140103-123407.7971.46.kml
+- - - Adam Jones
+    - null
+  - - Adam Stevens
+    - Adam Stevens.20140104-100607.17640.29.kml
+  - - Akiko Suzuki
+    - null
+  - - Andrew Barnes
+    - null
+  - - Andrew Luton
+    - null
+  - - Anton Struganov
+    - Anton Struganov.20140104-124715.5845.23.kml
+  - - Attila Bertok
+    - Attila Bertok.20140104-111801.5885.41.kml
+  - - Cameron Tunbridge
+    - null
+  - - Carl Wallbank
+    - Carl Wallbank.20140104-121915.5989.70.kml
+  - - Christian Voiblet
+    - Christian Voiblet.20140104-125850.6040.62.kml
+  - - Conrad Loten
+    - Conrad Loten.20140104-113821.6067.50.kml
+  - - Davis Straub
+    - Davis Straub.20140104-121753.6143.60.kml
+  - - Dean Hervatin
+    - Dean Hervatin.20140104-100807.[CIVLID].31.kml
+  - - Enda Murphy
+    - null
+  - - Federico Martini
+    - null
+  - - Filippo Oppici
+    - Filippo Oppici.20140104-100341.6295.33.kml
+  - - Gavin Myers
+    - Gavin Myers.20140104-100235.18334.51.kml
+  - - Geoff Robertson
+    - Geoff Robertson.20140104-125118.12153.45.kml
+  - - Glen Mcfarlane
+    - Glen Mcfarlane.20140104-095554.17641.34.kml
+  - - Guy Hubbard
+    - Guy Hubbard.20140104-100057.6467.28.kml
+  - - Hadewych van Kempen
+    - null
+  - - Hanspeter Schütz
+    - Hanspeter Schütz.20140104-052104.15361.59.kml
+  - - Jamie Shelden
+    - null
+  - - Jon snr Durand
+    - null
+  - - Jonas Lobitz
+    - Jonas Lobitz.20140104-113753.12354.49.kml
+  - - Jonny Durand
+    - Jonny Durand.20140104-104821.2231.39.kml
+  - - Kathryn O'Riordan
+    - null
+  - - Len Paton
+    - Len Paton.20140104-125609.6946.55.kml
+  - - Lukas Bader
+    - Lukas Bader.20140104-112013.6992.40.kml
+  - - Mark Russell
+    - null
+  - - Maximilian Respondek
+    - null
+  - - Michael Bilyk
+    - Michael Bilyk.20140104-112223.30148.1.kml
+  - - Michael Tomlinson
+    - null
+  - - Mikhail Karmazin
+    - null
+  - - Neil Petersen
+    - Neil Petersen.20140104-051846.7220.21.kml
+  - - Nils Vesk
+    - Nils Vesk.20140104-082609.7250.20.kml
+  - - Olav Olsen
+    - Olav Olsen.20140104-124716.7270.52.kml
+  - - Paris Williams
+    - Paris Williams.20140104-113305.7323.3.kml
+  - - Patrick Collin
+    - Patrick Collin.20140104-082835.7332.44.kml
+  - - Peter Lamont
+    - null
+  - - Phil Schroder
+    - Phil Schroder.20140104-124743.7419.30.kml
+  - - Phil Seeley
+    - null
+  - - Rod Flockhart
+    - Rod Flockhart.20140104-105453.7537.43.kml
+  - - Rohan Taylor
+    - null
+  - - Ryosuke Hattori
+    - null
+  - - Steve Blenkinsop
+    - Steve Blenkinsop.20140104-121511.7701.24.kml
+  - - Tony Giammichele
+    - Tony Giammichele.20140104-121512.7839.7.kml
+  - - Trent Brown
+    - Trent Brown.20140104-125237.7853.42.kml
+  - - Yasuhiro Noma
+    - Yasuhiro Noma.20140104-125028.7971.46.kml

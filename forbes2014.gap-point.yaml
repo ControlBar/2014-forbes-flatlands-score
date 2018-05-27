@@ -1,0 +1,4328 @@
+validityWorking:
+- time:
+    bestDistance: 146.7 km
+    nominalTime: 2.0 h
+    bestTime: 2.861943 h
+    nominalDistance: 80.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 48
+    present: 53
+  distance:
+    sum: 5753.8 km
+    flying: 48
+    area: 51.67253619
+    nominalGoal: 0.2
+    nominalDistance: 80.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 146.7 km
+- time:
+    bestDistance: 153.6 km
+    nominalTime: 2.0 h
+    bestTime: 2.475276 h
+    nominalDistance: 80.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 46
+    present: 50
+  distance:
+    sum: 3891.2 km
+    flying: 46
+    area: 52.360551
+    nominalGoal: 0.2
+    nominalDistance: 80.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 153.6 km
+- time:
+    bestDistance: 154.6 km
+    nominalTime: 2.0 h
+    bestTime: 2.658055 h
+    nominalDistance: 80.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 48
+    present: 53
+  distance:
+    sum: 6170.3 km
+    flying: 48
+    area: 52.4655492
+    nominalGoal: 0.2
+    nominalDistance: 80.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 154.6 km
+- time:
+    bestDistance: 157.0 km
+    nominalTime: 2.0 h
+    bestTime: 2.420277 h
+    nominalDistance: 80.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 48
+    present: 54
+  distance:
+    sum: 5444.1 km
+    flying: 48
+    area: 52.70285749
+    nominalGoal: 0.2
+    nominalDistance: 80.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 157.0 km
+- time:
+    bestDistance: 112.7 km
+    nominalTime: 2.0 h
+    bestTime: null
+    nominalDistance: 80.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 35
+    present: 52
+  distance:
+    sum: 0.0 km
+    flying: 35
+    area: 48.27655
+    nominalGoal: 0.2
+    nominalDistance: 80.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 112.7 km
+- time:
+    bestDistance: 194.6 km
+    nominalTime: 2.0 h
+    bestTime: 3.115276 h
+    nominalDistance: 80.0 km
+  launch:
+    nominalLaunch: 0.95999999
+    flying: 49
+    present: 51
+  distance:
+    sum: 6487.4 km
+    flying: 49
+    area: 56.4668307
+    nominalGoal: 0.2
+    nominalDistance: 80.0 km
+    minimumDistance: 5.0 km
+    bestDistance: 194.6 km
+- null
+validity:
+- time: 1
+  launch: 0.98937142
+  distance: 1
+  task: 0.98937142
+- time: 1
+  launch: 0.99387152
+  distance: 1
+  task: 0.99387152
+- time: 1
+  launch: 0.98937142
+  distance: 1
+  task: 0.98937142
+- time: 1
+  launch: 0.98264746
+  distance: 1
+  task: 0.98264746
+- time: 1
+  launch: 0.78284227
+  distance: 0
+  task: 0
+- time: 1
+  launch: 1
+  distance: 1
+  task: 1
+- null
+allocation:
+- goalRatio: 0.5416
+  weight:
+    distance: 0.4074341
+    leading: 0.10369903
+    arrival: 7.407073e-2
+    time: 0.41479612
+  points:
+    reach: 201.5
+    effort: 201.5
+    distance: 403.1
+    leading: 102.5
+    arrival: 73.2
+    time: 410.3
+  taskPoints: 989.0
+- goalRatio: 0.30434782
+  weight:
+    distance: 0.53538382
+    leading: 8.130783e-2
+    arrival: 5.807702e-2
+    time: 0.32523132
+  points:
+    reach: 266.0
+    effort: 266.0
+    distance: 532.1
+    leading: 80.8
+    arrival: 57.7
+    time: 323.2
+  taskPoints: 993.0
+- goalRatio: 0.72916
+  weight:
+    distance: 0.36914039
+    leading: 0.11040043
+    arrival: 7.885745e-2
+    time: 0.44160172
+  points:
+    reach: 182.6
+    effort: 182.6
+    distance: 365.2
+    leading: 109.2
+    arrival: 78.0
+    time: 436.9
+  taskPoints: 989.0
+- goalRatio: 0.5416
+  weight:
+    distance: 0.4074341
+    leading: 0.10369903
+    arrival: 7.407073e-2
+    time: 0.41479612
+  points:
+    reach: 200.1
+    effort: 200.1
+    distance: 400.3
+    leading: 101.8
+    arrival: 72.7
+    time: 407.5
+  taskPoints: 982.0
+- goalRatio: 0
+  weight:
+    distance: 0.9
+    leading: 1.75e-2
+    arrival: 1.25e-2
+    time: 7.0e-2
+  points:
+    reach: 0
+    effort: 0
+    distance: 0
+    leading: 0
+    arrival: 0
+    time: 0
+  taskPoints: 0
+- goalRatio: 0.40816326
+  weight:
+    distance: 0.46587391
+    leading: 9.347206e-2
+    arrival: 6.676576e-2
+    time: 0.37388826
+  points:
+    reach: 232.9
+    effort: 232.9
+    distance: 465.8
+    leading: 93.4
+    arrival: 66.7
+    time: 373.8
+  taskPoints: 1000
+- null
+score:
+- - - Phil Seeley
+    - total: 66.0
+      breakdown:
+        reach: 66.0
+        effort: 0
+        distance: 66.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:01:04Z
+        es: null
+        distance: 48.0 km
+        elapsed: null
+        velocity: null
+  - - Jamie Shelden
+    - total: 75.0
+      breakdown:
+        reach: 75.1
+        effort: 0
+        distance: 75.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:20:38Z
+        es: null
+        distance: 54.7 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 79.0
+      breakdown:
+        reach: 79.0
+        effort: 0
+        distance: 79.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:00:16Z
+        es: null
+        distance: 57.5 km
+        elapsed: null
+        velocity: null
+  - - Tony Masters
+    - total: 79.0
+      breakdown:
+        reach: 79.7
+        effort: 0
+        distance: 79.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:17:03Z
+        es: null
+        distance: 58.0 km
+        elapsed: null
+        velocity: null
+  - - Patrick Collin
+    - total: 81.0
+      breakdown:
+        reach: 81.4
+        effort: 0
+        distance: 81.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:27:23Z
+        es: null
+        distance: 59.2 km
+        elapsed: null
+        velocity: null
+  - - Michael Tomlinson
+    - total: 85.0
+      breakdown:
+        reach: 85.8
+        effort: 0
+        distance: 85.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:07:07Z
+        es: null
+        distance: 62.5 km
+        elapsed: null
+        velocity: null
+  - - Nick Purcell
+    - total: 99.0
+      breakdown:
+        reach: 99.0
+        effort: 0
+        distance: 99.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:00:48Z
+        es: null
+        distance: 72.1 km
+        elapsed: null
+        velocity: null
+  - - Federico Martini
+    - total: 129.0
+      breakdown:
+        reach: 129.9
+        effort: 0
+        distance: 129.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:01:13Z
+        es: null
+        distance: 94.6 km
+        elapsed: null
+        velocity: null
+  - - Adam Jones
+    - total: 131.0
+      breakdown:
+        reach: 131.8
+        effort: 0
+        distance: 131.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:01:20Z
+        es: null
+        distance: 95.9 km
+        elapsed: null
+        velocity: null
+  - - Andrew Barnes
+    - total: 141.0
+      breakdown:
+        reach: 141.2
+        effort: 0
+        distance: 141.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:02:18Z
+        es: null
+        distance: 102.8 km
+        elapsed: null
+        velocity: null
+  - - Dean Hervatin
+    - total: 162.0
+      breakdown:
+        reach: 162.6
+        effort: 0
+        distance: 162.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:14:04Z
+        es: null
+        distance: 118.4 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 163.0
+      breakdown:
+        reach: 163.7
+        effort: 0
+        distance: 163.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:01:22Z
+        es: null
+        distance: 119.1 km
+        elapsed: null
+        velocity: null
+  - - Olav Olsen
+    - total: 166.0
+      breakdown:
+        reach: 166.0
+        effort: 0
+        distance: 166.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:00:47Z
+        es: null
+        distance: 120.9 km
+        elapsed: null
+        velocity: null
+  - - Enda Murphy
+    - total: 166.0
+      breakdown:
+        reach: 166.2
+        effort: 0
+        distance: 166.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:20:35Z
+        es: null
+        distance: 121.0 km
+        elapsed: null
+        velocity: null
+  - - Gavin Myers
+    - total: 166.0
+      breakdown:
+        reach: 166.2
+        effort: 0
+        distance: 166.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:10:33Z
+        es: null
+        distance: 121.0 km
+        elapsed: null
+        velocity: null
+  - - Len Paton
+    - total: 166.0
+      breakdown:
+        reach: 166.2
+        effort: 0
+        distance: 166.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:44:16Z
+        es: null
+        distance: 121.0 km
+        elapsed: null
+        velocity: null
+  - - Phil Schroder
+    - total: 166.0
+      breakdown:
+        reach: 166.3
+        effort: 0
+        distance: 166.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:00:41Z
+        es: null
+        distance: 121.1 km
+        elapsed: null
+        velocity: null
+  - - Maximilian Respondek
+    - total: 166.0
+      breakdown:
+        reach: 166.4
+        effort: 0
+        distance: 166.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:21:54Z
+        es: null
+        distance: 121.1 km
+        elapsed: null
+        velocity: null
+  - - Peter Ebeling
+    - total: 166.0
+      breakdown:
+        reach: 166.5
+        effort: 0
+        distance: 166.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:03:33Z
+        es: null
+        distance: 121.2 km
+        elapsed: null
+        velocity: null
+  - - Jon snr Durand
+    - total: 169.0
+      breakdown:
+        reach: 169.1
+        effort: 0
+        distance: 169.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:43:44Z
+        es: null
+        distance: 123.1 km
+        elapsed: null
+        velocity: null
+  - - Peter Lamont
+    - total: 180.0
+      breakdown:
+        reach: 180.1
+        effort: 0
+        distance: 180.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:01:16Z
+        es: null
+        distance: 131.1 km
+        elapsed: null
+        velocity: null
+  - - Victor Hare
+    - total: 183.0
+      breakdown:
+        reach: 183.9
+        effort: 0
+        distance: 183.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-28T03:00:12Z
+        es: null
+        distance: 133.9 km
+        elapsed: null
+        velocity: null
+  - - Mark Russell
+    - total: 603.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 14.7
+        time: 83.2
+      velocity:
+        ss: 2013-12-28T03:01:21Z
+        es: 2013-12-28T07:05:18Z
+        distance: 146.7 km
+        elapsed: 4.065832 h
+        velocity: 36.0 km / h
+  - - Ryosuke Hattori
+    - total: 721.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.2
+        arrival: 17.7
+        time: 198.7
+      velocity:
+        ss: 2013-12-28T03:00:38Z
+        es: 2013-12-28T06:29:56Z
+        distance: 146.7 km
+        elapsed: 3.488332 h
+        velocity: 42.0 km / h
+  - - Andrew Luton
+    - total: 731.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.2
+        arrival: 18.6
+        time: 207.5
+      velocity:
+        ss: 2013-12-28T03:01:36Z
+        es: 2013-12-28T06:28:36Z
+        distance: 146.7 km
+        elapsed: 3.45 h
+        velocity: 42.5 km / h
+  - - Guy Hubbard
+    - total: 745.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.4
+        arrival: 21.0
+        time: 219.1
+      velocity:
+        ss: 2013-12-28T03:00:29Z
+        es: 2013-12-28T06:24:29Z
+        distance: 146.7 km
+        elapsed: 3.399999 h
+        velocity: 43.1 km / h
+  - - Tony Giammichele
+    - total: 757.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 15.1
+        time: 237.2
+      velocity:
+        ss: 2013-12-28T03:21:00Z
+        es: 2013-12-28T06:40:32Z
+        distance: 146.7 km
+        elapsed: 3.325555 h
+        velocity: 44.1 km / h
+  - - Neil Petersen
+    - total: 764.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.4
+        arrival: 26.1
+        time: 233.1
+      velocity:
+        ss: 2013-12-28T03:00:58Z
+        es: 2013-12-28T06:21:30Z
+        distance: 146.7 km
+        elapsed: 3.342222 h
+        velocity: 43.9 km / h
+  - - Attila Bertok
+    - total: 765.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.7
+        arrival: 15.4
+        time: 245.5
+      velocity:
+        ss: 2013-12-28T03:21:11Z
+        es: 2013-12-28T06:38:44Z
+        distance: 146.7 km
+        elapsed: 3.292498 h
+        velocity: 44.5 km / h
+  - - Anton Struganov
+    - total: 772.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.2
+        arrival: 28.2
+        time: 238.9
+      velocity:
+        ss: 2013-12-28T03:00:26Z
+        es: 2013-12-28T06:19:33Z
+        distance: 146.7 km
+        elapsed: 3.318611 h
+        velocity: 44.2 km / h
+  - - Lukas Bader
+    - total: 775.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 15.8
+        time: 254.9
+      velocity:
+        ss: 2013-12-28T03:22:03Z
+        es: 2013-12-28T06:37:26Z
+        distance: 146.7 km
+        elapsed: 3.256387 h
+        velocity: 45.0 km / h
+  - - Trent Brown
+    - total: 782.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.7
+        arrival: 16.9
+        time: 260.4
+      velocity:
+        ss: 2013-12-28T03:20:08Z
+        es: 2013-12-28T06:34:16Z
+        distance: 146.7 km
+        elapsed: 3.235555 h
+        velocity: 45.3 km / h
+  - - Yasuhiro Noma
+    - total: 782.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 16.3
+        time: 261.1
+      velocity:
+        ss: 2013-12-28T03:20:49Z
+        es: 2013-12-28T06:34:48Z
+        distance: 146.7 km
+        elapsed: 3.233054 h
+        velocity: 45.3 km / h
+  - - Rohan Taylor
+    - total: 790.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 33.4
+        time: 251.6
+      velocity:
+        ss: 2013-12-28T03:00:12Z
+        es: 2013-12-28T06:16:20Z
+        distance: 146.7 km
+        elapsed: 3.268888 h
+        velocity: 44.8 km / h
+  - - Cameron Tunbridge
+    - total: 796.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.0
+        arrival: 36.4
+        time: 254.7
+      velocity:
+        ss: 2013-12-28T03:00:50Z
+        es: 2013-12-28T06:16:15Z
+        distance: 146.7 km
+        elapsed: 3.256943 h
+        velocity: 45.0 km / h
+  - - Jonas Lobitz
+    - total: 808.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.5
+        arrival: 39.8
+        time: 262.6
+      velocity:
+        ss: 2013-12-28T03:00:44Z
+        es: 2013-12-28T06:14:22Z
+        distance: 146.7 km
+        elapsed: 3.227221 h
+        velocity: 45.4 km / h
+  - - Rod Flockhart
+    - total: 828.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 19.7
+        time: 304.0
+      velocity:
+        ss: 2013-12-28T03:21:30Z
+        es: 2013-12-28T06:26:36Z
+        distance: 146.7 km
+        elapsed: 3.084998 h
+        velocity: 47.5 km / h
+  - - Conrad Loten
+    - total: 832.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.4
+        arrival: 47.5
+        time: 279.7
+      velocity:
+        ss: 2013-12-28T03:00:32Z
+        es: 2013-12-28T06:10:29Z
+        distance: 146.7 km
+        elapsed: 3.165833 h
+        velocity: 46.3 km / h
+  - - Glen Mcfarlane
+    - total: 843.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.6
+        arrival: 14.9
+        time: 323.4
+      velocity:
+        ss: 2013-12-28T03:40:25Z
+        es: 2013-12-28T06:42:02Z
+        distance: 146.7 km
+        elapsed: 3.026943 h
+        velocity: 48.4 km / h
+  - - Geoff Robertson
+    - total: 845.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.5
+        arrival: 51.8
+        time: 288.1
+      velocity:
+        ss: 2013-12-28T03:00:42Z
+        es: 2013-12-28T06:08:55Z
+        distance: 146.7 km
+        elapsed: 3.136944 h
+        velocity: 46.7 km / h
+  - - Adam Stevens
+    - total: 856.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.5
+        arrival: 56.6
+        time: 294.4
+      velocity:
+        ss: 2013-12-28T03:00:28Z
+        es: 2013-12-28T06:07:26Z
+        distance: 146.7 km
+        elapsed: 3.116111 h
+        velocity: 47.0 km / h
+  - - Davis Straub
+    - total: 857.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 22.4
+        time: 329.6
+      velocity:
+        ss: 2013-12-28T03:21:22Z
+        es: 2013-12-28T06:21:56Z
+        distance: 146.7 km
+        elapsed: 3.009443 h
+        velocity: 48.7 km / h
+  - - Christian Voiblet
+    - total: 861.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 24.1
+        time: 332.1
+      velocity:
+        ss: 2013-12-28T03:21:27Z
+        es: 2013-12-28T06:21:37Z
+        distance: 146.7 km
+        elapsed: 3.002777 h
+        velocity: 48.8 km / h
+  - - Filippo Oppici
+    - total: 880.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 30.7
+        time: 345.1
+      velocity:
+        ss: 2013-12-28T03:21:02Z
+        es: 2013-12-28T06:19:11Z
+        distance: 146.7 km
+        elapsed: 2.969165 h
+        velocity: 49.4 km / h
+  - - Steve Blenkinsop
+    - total: 881.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.5
+        arrival: 61.7
+        time: 314.2
+      velocity:
+        ss: 2013-12-28T03:00:45Z
+        es: 2013-12-28T06:03:59Z
+        distance: 146.7 km
+        elapsed: 3.053888 h
+        velocity: 48.0 km / h
+  - - Michael Bilyk
+    - total: 888.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.5
+        arrival: 67.3
+        time: 315.4
+      velocity:
+        ss: 2013-12-28T03:00:58Z
+        es: 2013-12-28T06:03:59Z
+        distance: 146.7 km
+        elapsed: 3.050276 h
+        velocity: 48.1 km / h
+  - - Paris Williams
+    - total: 893.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 102.5
+        arrival: 73.2
+        time: 314.0
+      velocity:
+        ss: 2013-12-28T03:00:32Z
+        es: 2013-12-28T06:03:48Z
+        distance: 146.7 km
+        elapsed: 3.054444 h
+        velocity: 48.0 km / h
+  - - Jonny Durand
+    - total: 958.0
+      breakdown:
+        reach: 201.5
+        effort: 201.5
+        distance: 403.1
+        leading: 101.9
+        arrival: 43.4
+        time: 410.3
+      velocity:
+        ss: 2013-12-28T03:20:32Z
+        es: 2013-12-28T06:12:15Z
+        distance: 146.7 km
+        elapsed: 2.861943 h
+        velocity: 51.2 km / h
+- - - Phil Seeley
+    - total: 14.0
+      breakdown:
+        reach: 14.5
+        effort: 0
+        distance: 14.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: null
+        es: null
+        distance: 8.3 km
+        elapsed: null
+        velocity: null
+  - - Enda Murphy
+    - total: 25.0
+      breakdown:
+        reach: 25.9
+        effort: 0
+        distance: 25.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:22:42Z
+        es: null
+        distance: 14.9 km
+        elapsed: null
+        velocity: null
+  - - Cameron Tunbridge
+    - total: 27.0
+      breakdown:
+        reach: 27.6
+        effort: 0
+        distance: 27.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:22:26Z
+        es: null
+        distance: 15.9 km
+        elapsed: null
+        velocity: null
+  - - Mark Russell
+    - total: 32.0
+      breakdown:
+        reach: 32.5
+        effort: 0
+        distance: 32.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:15:50Z
+        es: null
+        distance: 18.8 km
+        elapsed: null
+        velocity: null
+  - - Michael Tomlinson
+    - total: 39.0
+      breakdown:
+        reach: 39.0
+        effort: 0
+        distance: 39.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:16:00Z
+        es: null
+        distance: 22.5 km
+        elapsed: null
+        velocity: null
+  - - Maximilian Respondek
+    - total: 41.0
+      breakdown:
+        reach: 41.7
+        effort: 0
+        distance: 41.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:14:24Z
+        es: null
+        distance: 24.0 km
+        elapsed: null
+        velocity: null
+  - - Neil Petersen
+    - total: 44.0
+      breakdown:
+        reach: 44.6
+        effort: 0
+        distance: 44.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:06:41Z
+        es: null
+        distance: 25.7 km
+        elapsed: null
+        velocity: null
+  - - Kathryn O'Riordan
+    - total: 54.0
+      breakdown:
+        reach: 54.1
+        effort: 0
+        distance: 54.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:06:27Z
+        es: null
+        distance: 31.2 km
+        elapsed: null
+        velocity: null
+  - - Filippo Oppici
+    - total: 56.0
+      breakdown:
+        reach: 56.8
+        effort: 0
+        distance: 56.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:15:41Z
+        es: null
+        distance: 32.8 km
+        elapsed: null
+        velocity: null
+  - - Olav Olsen
+    - total: 63.0
+      breakdown:
+        reach: 63.1
+        effort: 0
+        distance: 63.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:06:33Z
+        es: null
+        distance: 36.4 km
+        elapsed: null
+        velocity: null
+  - - Federico Martini
+    - total: 70.0
+      breakdown:
+        reach: 70.0
+        effort: 0
+        distance: 70.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:26:04Z
+        es: null
+        distance: 40.4 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 94.0
+      breakdown:
+        reach: 41.1
+        effort: 53.8
+        distance: 94.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:28:12Z
+        es: null
+        distance: 23.7 km
+        elapsed: null
+        velocity: null
+  - - Andrew Luton
+    - total: 99.0
+      breakdown:
+        reach: 99.1
+        effort: 0
+        distance: 99.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:34:04Z
+        es: null
+        distance: 57.2 km
+        elapsed: null
+        velocity: null
+  - - Len Paton
+    - total: 104.0
+      breakdown:
+        reach: 104.0
+        effort: 0
+        distance: 104.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:10:26Z
+        es: null
+        distance: 60.0 km
+        elapsed: null
+        velocity: null
+  - - Jonny Durand
+    - total: 144.0
+      breakdown:
+        reach: 53.0
+        effort: 91.5
+        distance: 144.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:15:42Z
+        es: null
+        distance: 30.6 km
+        elapsed: null
+        velocity: null
+  - - Rod Flockhart
+    - total: 144.0
+      breakdown:
+        reach: 53.0
+        effort: 91.5
+        distance: 144.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:15:54Z
+        es: null
+        distance: 30.6 km
+        elapsed: null
+        velocity: null
+  - - Attila Bertok
+    - total: 144.0
+      breakdown:
+        reach: 53.0
+        effort: 91.5
+        distance: 144.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:15:49Z
+        es: null
+        distance: 30.6 km
+        elapsed: null
+        velocity: null
+  - - Peter Ebeling
+    - total: 150.0
+      breakdown:
+        reach: 53.2
+        effort: 96.8
+        distance: 150.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:09:19Z
+        es: null
+        distance: 30.7 km
+        elapsed: null
+        velocity: null
+  - - Christian Voiblet
+    - total: 161.0
+      breakdown:
+        reach: 56.1
+        effort: 105.3
+        distance: 161.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:15:55Z
+        es: null
+        distance: 32.3 km
+        elapsed: null
+        velocity: null
+  - - Davis Straub
+    - total: 164.0
+      breakdown:
+        reach: 56.3
+        effort: 108.4
+        distance: 164.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:15:42Z
+        es: null
+        distance: 32.5 km
+        elapsed: null
+        velocity: null
+  - - Nick Purcell
+    - total: 169.0
+      breakdown:
+        reach: 58.9
+        effort: 110.7
+        distance: 169.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:11:56Z
+        es: null
+        distance: 34.0 km
+        elapsed: null
+        velocity: null
+  - - Geoff Robertson
+    - total: 178.0
+      breakdown:
+        reach: 178.0
+        effort: 0
+        distance: 178.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:34:22Z
+        es: null
+        distance: 102.7 km
+        elapsed: null
+        velocity: null
+  - - Patrick Collin
+    - total: 178.0
+      breakdown:
+        reach: 178.8
+        effort: 0
+        distance: 178.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:28:45Z
+        es: null
+        distance: 103.2 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 180.0
+      breakdown:
+        reach: 180.1
+        effort: 0
+        distance: 180.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T04:23:27Z
+        es: null
+        distance: 104.0 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 207.0
+      breakdown:
+        reach: 207.0
+        effort: 0
+        distance: 207.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:48:51Z
+        es: null
+        distance: 119.5 km
+        elapsed: null
+        velocity: null
+  - - Victor Hare
+    - total: 214.0
+      breakdown:
+        reach: 214.6
+        effort: 0
+        distance: 214.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:15:52Z
+        es: null
+        distance: 123.9 km
+        elapsed: null
+        velocity: null
+  - - Jamie Shelden
+    - total: 215.0
+      breakdown:
+        reach: 215.2
+        effort: 0
+        distance: 215.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:44:17Z
+        es: null
+        distance: 124.3 km
+        elapsed: null
+        velocity: null
+  - - Dean Hervatin
+    - total: 249.0
+      breakdown:
+        reach: 132.9
+        effort: 116.1
+        distance: 249.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:29:26Z
+        es: null
+        distance: 76.7 km
+        elapsed: null
+        velocity: null
+  - - Andrew Barnes
+    - total: 250.0
+      breakdown:
+        reach: 250.7
+        effort: 0
+        distance: 250.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:15:47Z
+        es: null
+        distance: 144.7 km
+        elapsed: null
+        velocity: null
+  - - Tony Giammichele
+    - total: 253.0
+      breakdown:
+        reach: 253.1
+        effort: 0
+        distance: 253.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:08:07Z
+        es: null
+        distance: 146.1 km
+        elapsed: null
+        velocity: null
+  - - Phil Schroder
+    - total: 253.0
+      breakdown:
+        reach: 253.8
+        effort: 0
+        distance: 253.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:16:08Z
+        es: null
+        distance: 146.5 km
+        elapsed: null
+        velocity: null
+  - - Jon snr Durand
+    - total: 380.0
+      breakdown:
+        reach: 250.2
+        effort: 130.7
+        distance: 380.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-29T03:16:03Z
+        es: null
+        distance: 144.4 km
+        elapsed: null
+        velocity: null
+  - - Ryosuke Hattori
+    - total: 831.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.6
+        arrival: 11.7
+        time: 207.4
+      velocity:
+        ss: 2013-12-29T03:13:54Z
+        es: 2013-12-29T06:02:40Z
+        distance: 153.6 km
+        elapsed: 2.812777 h
+        velocity: 54.6 km / h
+  - - Guy Hubbard
+    - total: 857.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.8
+        arrival: 13.6
+        time: 231.1
+      velocity:
+        ss: 2013-12-29T03:06:25Z
+        es: 2013-12-29T05:49:17Z
+        distance: 153.6 km
+        elapsed: 2.714443 h
+        velocity: 56.5 km / h
+  - - Yasuhiro Noma
+    - total: 866.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.6
+        arrival: 12.1
+        time: 241.9
+      velocity:
+        ss: 2013-12-29T03:17:28Z
+        es: 2013-12-29T05:57:53Z
+        distance: 153.6 km
+        elapsed: 2.673611 h
+        velocity: 57.4 km / h
+  - - Gavin Myers
+    - total: 870.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.6
+        arrival: 12.7
+        time: 244.6
+      velocity:
+        ss: 2013-12-29T03:13:53Z
+        es: 2013-12-29T05:53:43Z
+        distance: 153.6 km
+        elapsed: 2.663888 h
+        velocity: 57.6 km / h
+  - - Adam Stevens
+    - total: 876.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.7
+        arrival: 19.0
+        time: 244.7
+      velocity:
+        ss: 2013-12-29T03:06:34Z
+        es: 2013-12-29T05:46:23Z
+        distance: 153.6 km
+        elapsed: 2.66361 h
+        velocity: 57.6 km / h
+  - - Steve Blenkinsop
+    - total: 902.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.7
+        arrival: 35.5
+        time: 253.9
+      velocity:
+        ss: 2013-12-29T03:06:35Z
+        es: 2013-12-29T05:44:28Z
+        distance: 153.6 km
+        elapsed: 2.631387 h
+        velocity: 58.3 km / h
+  - - Lukas Bader
+    - total: 918.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.6
+        arrival: 14.9
+        time: 290.6
+      velocity:
+        ss: 2013-12-29T03:15:59Z
+        es: 2013-12-29T05:47:31Z
+        distance: 153.6 km
+        elapsed: 2.525555 h
+        velocity: 60.8 km / h
+  - - Trent Brown
+    - total: 926.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.7
+        arrival: 16.7
+        time: 296.5
+      velocity:
+        ss: 2013-12-29T03:15:57Z
+        es: 2013-12-29T05:46:42Z
+        distance: 153.6 km
+        elapsed: 2.5125 h
+        velocity: 61.1 km / h
+  - - Anton Struganov
+    - total: 945.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.6
+        arrival: 22.0
+        time: 311.1
+      velocity:
+        ss: 2013-12-29T03:15:48Z
+        es: 2013-12-29T05:45:00Z
+        distance: 153.6 km
+        elapsed: 2.486666 h
+        velocity: 61.7 km / h
+  - - Conrad Loten
+    - total: 949.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.7
+        arrival: 25.7
+        time: 311.3
+      velocity:
+        ss: 2013-12-29T03:15:45Z
+        es: 2013-12-29T05:44:56Z
+        distance: 153.6 km
+        elapsed: 2.486387 h
+        velocity: 61.7 km / h
+  - - Jonas Lobitz
+    - total: 955.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.7
+        arrival: 30.2
+        time: 312.5
+      velocity:
+        ss: 2013-12-29T03:15:44Z
+        es: 2013-12-29T05:44:49Z
+        distance: 153.6 km
+        elapsed: 2.484722 h
+        velocity: 61.8 km / h
+  - - Paris Williams
+    - total: 973.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.4
+        arrival: 41.8
+        time: 319.1
+      velocity:
+        ss: 2013-12-29T03:15:46Z
+        es: 2013-12-29T05:44:25Z
+        distance: 153.6 km
+        elapsed: 2.4775 h
+        velocity: 62.0 km / h
+  - - Glen Mcfarlane
+    - total: 984.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.7
+        arrival: 49.2
+        time: 322.2
+      velocity:
+        ss: 2013-12-29T03:15:53Z
+        es: 2013-12-29T05:44:25Z
+        distance: 153.6 km
+        elapsed: 2.475554 h
+        velocity: 62.0 km / h
+  - - Michael Bilyk
+    - total: 993.0
+      breakdown:
+        reach: 266.0
+        effort: 266.0
+        distance: 532.1
+        leading: 80.6
+        arrival: 57.7
+        time: 323.2
+      velocity:
+        ss: 2013-12-29T03:15:50Z
+        es: 2013-12-29T05:44:21Z
+        distance: 153.6 km
+        elapsed: 2.475277 h
+        velocity: 62.0 km / h
+- - - Michael Tomlinson
+    - total: 19.0
+      breakdown:
+        reach: 19.4
+        effort: 0
+        distance: 19.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T04:20:29Z
+        es: null
+        distance: 16.5 km
+        elapsed: null
+        velocity: null
+  - - Tony Masters
+    - total: 30.0
+      breakdown:
+        reach: 30.0
+        effort: 0
+        distance: 30.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:51:49Z
+        es: null
+        distance: 25.4 km
+        elapsed: null
+        velocity: null
+  - - Ryosuke Hattori
+    - total: 47.0
+      breakdown:
+        reach: 47.0
+        effort: 0
+        distance: 47.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:50:33Z
+        es: null
+        distance: 39.8 km
+        elapsed: null
+        velocity: null
+  - - Peter Ebeling
+    - total: 52.0
+      breakdown:
+        reach: 52.0
+        effort: 0
+        distance: 52.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:51:08Z
+        es: null
+        distance: 44.0 km
+        elapsed: null
+        velocity: null
+  - - Dean Hervatin
+    - total: 52.0
+      breakdown:
+        reach: 52.8
+        effort: 0
+        distance: 52.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:37:23Z
+        es: null
+        distance: 44.7 km
+        elapsed: null
+        velocity: null
+  - - Adam Jones
+    - total: 81.0
+      breakdown:
+        reach: 81.5
+        effort: 0
+        distance: 81.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:48:55Z
+        es: null
+        distance: 69.0 km
+        elapsed: null
+        velocity: null
+  - - Jamie Shelden
+    - total: 86.0
+      breakdown:
+        reach: 86.2
+        effort: 0
+        distance: 86.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:50:42Z
+        es: null
+        distance: 73.0 km
+        elapsed: null
+        velocity: null
+  - - Peter Lamont
+    - total: 107.0
+      breakdown:
+        reach: 107.5
+        effort: 0
+        distance: 107.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:53:15Z
+        es: null
+        distance: 91.1 km
+        elapsed: null
+        velocity: null
+  - - Phil Seeley
+    - total: 108.0
+      breakdown:
+        reach: 108.6
+        effort: 0
+        distance: 108.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T04:12:48Z
+        es: null
+        distance: 91.9 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 115.0
+      breakdown:
+        reach: 115.5
+        effort: 0
+        distance: 115.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:50:32Z
+        es: null
+        distance: 97.8 km
+        elapsed: null
+        velocity: null
+  - - Rod Flockhart
+    - total: 152.0
+      breakdown:
+        reach: 152.5
+        effort: 0
+        distance: 152.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:30:29Z
+        es: null
+        distance: 129.2 km
+        elapsed: null
+        velocity: null
+  - - Patrick Collin
+    - total: 155.0
+      breakdown:
+        reach: 155.7
+        effort: 0
+        distance: 155.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:56:26Z
+        es: null
+        distance: 131.9 km
+        elapsed: null
+        velocity: null
+  - - Len Paton
+    - total: 168.0
+      breakdown:
+        reach: 168.2
+        effort: 0
+        distance: 168.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-30T03:50:33Z
+        es: null
+        distance: 142.5 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 606.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.5
+        arrival: 15.8
+        time: 116.4
+      velocity:
+        ss: 2013-12-30T03:32:02Z
+        es: 2013-12-30T07:12:57Z
+        distance: 154.6 km
+        elapsed: 3.681944 h
+        velocity: 42.0 km / h
+  - - Cameron Tunbridge
+    - total: 607.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.3
+        arrival: 15.6
+        time: 118.4
+      velocity:
+        ss: 2013-12-30T03:45:47Z
+        es: 2013-12-30T07:26:09Z
+        distance: 154.6 km
+        elapsed: 3.672776 h
+        velocity: 42.1 km / h
+  - - Kathryn O'Riordan
+    - total: 642.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.4
+        arrival: 16.1
+        time: 153.0
+      velocity:
+        ss: 2013-12-30T03:34:23Z
+        es: 2013-12-30T07:05:05Z
+        distance: 154.6 km
+        elapsed: 3.511665 h
+        velocity: 44.0 km / h
+  - - Neil Petersen
+    - total: 675.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.3
+        arrival: 15.9
+        time: 185.4
+      velocity:
+        ss: 2013-12-30T03:50:37Z
+        es: 2013-12-30T07:12:48Z
+        distance: 154.6 km
+        elapsed: 3.369721 h
+        velocity: 45.8 km / h
+  - - Geoff Robertson
+    - total: 694.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.9
+        arrival: 17.3
+        time: 202.6
+      velocity:
+        ss: 2013-12-30T03:31:02Z
+        es: 2013-12-30T06:48:55Z
+        distance: 154.6 km
+        elapsed: 3.298055 h
+        velocity: 46.8 km / h
+  - - Victor Hare
+    - total: 723.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.7
+        arrival: 19.0
+        time: 230.7
+      velocity:
+        ss: 2013-12-30T03:31:32Z
+        es: 2013-12-30T06:42:44Z
+        distance: 154.6 km
+        elapsed: 3.186666 h
+        velocity: 48.5 km / h
+  - - Mark Russell
+    - total: 727.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.5
+        arrival: 18.4
+        time: 235.7
+      velocity:
+        ss: 2013-12-30T03:33:54Z
+        es: 2013-12-30T06:43:56Z
+        distance: 154.6 km
+        elapsed: 3.167222 h
+        velocity: 48.8 km / h
+  - - Andrew Luton
+    - total: 739.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.4
+        arrival: 16.3
+        time: 249.7
+      velocity:
+        ss: 2013-12-30T03:50:47Z
+        es: 2013-12-30T06:57:42Z
+        distance: 154.6 km
+        elapsed: 3.115276 h
+        velocity: 49.6 km / h
+  - - Phil Schroder
+    - total: 746.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.8
+        arrival: 20.6
+        time: 251.6
+      velocity:
+        ss: 2013-12-30T03:33:13Z
+        es: 2013-12-30T06:39:43Z
+        distance: 154.6 km
+        elapsed: 3.108333 h
+        velocity: 49.7 km / h
+  - - Tony Giammichele
+    - total: 751.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.3
+        arrival: 16.6
+        time: 261.3
+      velocity:
+        ss: 2013-12-30T03:50:42Z
+        es: 2013-12-30T06:55:06Z
+        distance: 154.6 km
+        elapsed: 3.073332 h
+        velocity: 50.3 km / h
+  - - Federico Martini
+    - total: 752.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.3
+        arrival: 16.9
+        time: 262.2
+      velocity:
+        ss: 2013-12-30T03:50:29Z
+        es: 2013-12-30T06:54:42Z
+        distance: 154.6 km
+        elapsed: 3.070276 h
+        velocity: 50.3 km / h
+  - - Olav Olsen
+    - total: 770.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.9
+        arrival: 28.0
+        time: 268.4
+      velocity:
+        ss: 2013-12-30T03:32:00Z
+        es: 2013-12-30T06:34:54Z
+        distance: 154.6 km
+        elapsed: 3.048332 h
+        velocity: 50.7 km / h
+  - - Rohan Taylor
+    - total: 772.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.8
+        arrival: 23.7
+        time: 274.4
+      velocity:
+        ss: 2013-12-30T03:34:19Z
+        es: 2013-12-30T06:35:59Z
+        distance: 154.6 km
+        elapsed: 3.027776 h
+        velocity: 51.0 km / h
+  - - Adam Stevens
+    - total: 774.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.7
+        arrival: 31.6
+        time: 268.4
+      velocity:
+        ss: 2013-12-30T03:30:33Z
+        es: 2013-12-30T06:33:27Z
+        distance: 154.6 km
+        elapsed: 3.048332 h
+        velocity: 50.7 km / h
+  - - Gavin Myers
+    - total: 780.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 109.0
+        arrival: 29.7
+        time: 276.1
+      velocity:
+        ss: 2013-12-30T03:32:08Z
+        es: 2013-12-30T06:33:27Z
+        distance: 154.6 km
+        elapsed: 3.021943 h
+        velocity: 51.1 km / h
+  - - Nick Purcell
+    - total: 784.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 109.0
+        arrival: 33.6
+        time: 276.0
+      velocity:
+        ss: 2013-12-30T03:31:10Z
+        es: 2013-12-30T06:32:30Z
+        distance: 154.6 km
+        elapsed: 3.022222 h
+        velocity: 51.1 km / h
+  - - Jon snr Durand
+    - total: 800.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 109.1
+        arrival: 46.5
+        time: 279.6
+      velocity:
+        ss: 2013-12-30T03:30:32Z
+        es: 2013-12-30T06:31:08Z
+        distance: 154.6 km
+        elapsed: 3.009999 h
+        velocity: 51.3 km / h
+  - - Andrew Barnes
+    - total: 805.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 17.8
+        time: 313.5
+      velocity:
+        ss: 2013-12-30T03:50:55Z
+        es: 2013-12-30T06:45:05Z
+        distance: 154.6 km
+        elapsed: 2.902776 h
+        velocity: 53.2 km / h
+  - - Enda Murphy
+    - total: 826.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 19.7
+        time: 332.9
+      velocity:
+        ss: 2013-12-30T03:50:18Z
+        es: 2013-12-30T06:41:08Z
+        distance: 154.6 km
+        elapsed: 2.847221 h
+        velocity: 54.3 km / h
+  - - Guy Hubbard
+    - total: 828.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 109.0
+        arrival: 64.4
+        time: 289.4
+      velocity:
+        ss: 2013-12-30T03:30:47Z
+        es: 2013-12-30T06:29:27Z
+        distance: 154.6 km
+        elapsed: 2.977777 h
+        velocity: 51.9 km / h
+  - - Davis Straub
+    - total: 839.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.4
+        arrival: 21.5
+        time: 343.8
+      velocity:
+        ss: 2013-12-30T03:50:12Z
+        es: 2013-12-30T06:39:18Z
+        distance: 154.6 km
+        elapsed: 2.818332 h
+        velocity: 54.8 km / h
+  - - Yasuhiro Noma
+    - total: 839.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.9
+        arrival: 68.7
+        time: 296.5
+      velocity:
+        ss: 2013-12-30T03:30:46Z
+        es: 2013-12-30T06:28:04Z
+        distance: 154.6 km
+        elapsed: 2.955 h
+        velocity: 52.3 km / h
+  - - Steve Blenkinsop
+    - total: 862.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 22.5
+        time: 365.9
+      velocity:
+        ss: 2013-12-30T03:50:29Z
+        es: 2013-12-30T06:36:22Z
+        distance: 154.6 km
+        elapsed: 2.764721 h
+        velocity: 55.9 km / h
+  - - Glen Mcfarlane
+    - total: 868.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 25.0
+        time: 369.9
+      velocity:
+        ss: 2013-12-30T03:50:20Z
+        es: 2013-12-30T06:35:41Z
+        distance: 154.6 km
+        elapsed: 2.755832 h
+        velocity: 56.1 km / h
+  - - Paris Williams
+    - total: 875.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 26.4
+        time: 374.7
+      velocity:
+        ss: 2013-12-30T03:50:30Z
+        es: 2013-12-30T06:35:14Z
+        distance: 154.6 km
+        elapsed: 2.745554 h
+        velocity: 56.3 km / h
+  - - Jonny Durand
+    - total: 890.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 109.2
+        arrival: 73.2
+        time: 342.4
+      velocity:
+        ss: 2013-12-30T03:30:36Z
+        es: 2013-12-30T06:19:55Z
+        distance: 154.6 km
+        elapsed: 2.821943 h
+        velocity: 54.8 km / h
+  - - Conrad Loten
+    - total: 913.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 35.8
+        time: 403.3
+      velocity:
+        ss: 2013-12-30T03:50:29Z
+        es: 2013-12-30T06:32:03Z
+        distance: 154.6 km
+        elapsed: 2.692776 h
+        velocity: 57.4 km / h
+  - - Christian Voiblet
+    - total: 918.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 38.2
+        time: 406.2
+      velocity:
+        ss: 2013-12-30T03:50:33Z
+        es: 2013-12-30T06:31:51Z
+        distance: 154.6 km
+        elapsed: 2.688333 h
+        velocity: 57.5 km / h
+  - - Attila Bertok
+    - total: 919.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.8
+        arrival: 78.0
+        time: 367.9
+      velocity:
+        ss: 2013-12-30T03:34:09Z
+        es: 2013-12-30T06:19:46Z
+        distance: 154.6 km
+        elapsed: 2.760276 h
+        velocity: 56.0 km / h
+  - - Filippo Oppici
+    - total: 925.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 40.8
+        time: 410.5
+      velocity:
+        ss: 2013-12-30T03:50:37Z
+        es: 2013-12-30T06:31:33Z
+        distance: 154.6 km
+        elapsed: 2.682221 h
+        velocity: 57.6 km / h
+  - - Trent Brown
+    - total: 931.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 43.5
+        time: 414.3
+      velocity:
+        ss: 2013-12-30T03:50:32Z
+        es: 2013-12-30T06:31:10Z
+        distance: 154.6 km
+        elapsed: 2.677221 h
+        velocity: 57.7 km / h
+  - - Jonas Lobitz
+    - total: 935.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 49.6
+        time: 411.9
+      velocity:
+        ss: 2013-12-30T03:50:12Z
+        es: 2013-12-30T06:31:01Z
+        distance: 154.6 km
+        elapsed: 2.680276 h
+        velocity: 57.7 km / h
+  - - Michael Bilyk
+    - total: 941.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 53.0
+        time: 414.5
+      velocity:
+        ss: 2013-12-30T03:50:22Z
+        es: 2013-12-30T06:30:59Z
+        distance: 154.6 km
+        elapsed: 2.676944 h
+        velocity: 57.7 km / h
+  - - Anton Struganov
+    - total: 961.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 60.4
+        time: 427.3
+      velocity:
+        ss: 2013-12-30T03:50:22Z
+        es: 2013-12-30T06:30:10Z
+        distance: 154.6 km
+        elapsed: 2.663333 h
+        velocity: 58.0 km / h
+  - - Lukas Bader
+    - total: 967.0
+      breakdown:
+        reach: 182.6
+        effort: 182.6
+        distance: 365.2
+        leading: 108.6
+        arrival: 56.6
+        time: 436.9
+      velocity:
+        ss: 2013-12-30T03:50:44Z
+        es: 2013-12-30T06:30:13Z
+        distance: 154.6 km
+        elapsed: 2.658055 h
+        velocity: 58.1 km / h
+- - - Len Paton
+    - total: 12.0
+      breakdown:
+        reach: 12.2
+        effort: 0
+        distance: 12.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:33:33Z
+        es: null
+        distance: 9.6 km
+        elapsed: null
+        velocity: null
+  - - Maximilian Respondek
+    - total: 17.0
+      breakdown:
+        reach: 17.9
+        effort: 0
+        distance: 17.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:19:37Z
+        es: null
+        distance: 14.0 km
+        elapsed: null
+        velocity: null
+  - - Michael Tomlinson
+    - total: 23.0
+      breakdown:
+        reach: 23.5
+        effort: 0
+        distance: 23.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:35:27Z
+        es: null
+        distance: 18.4 km
+        elapsed: null
+        velocity: null
+  - - Adam Jones
+    - total: 24.0
+      breakdown:
+        reach: 24.5
+        effort: 0
+        distance: 24.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:39:24Z
+        es: null
+        distance: 19.2 km
+        elapsed: null
+        velocity: null
+  - - Peter Ebeling
+    - total: 27.0
+      breakdown:
+        reach: 27.0
+        effort: 0
+        distance: 27.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:19:34Z
+        es: null
+        distance: 21.1 km
+        elapsed: null
+        velocity: null
+  - - Kathryn O'Riordan
+    - total: 40.0
+      breakdown:
+        reach: 40.1
+        effort: 0
+        distance: 40.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:15:34Z
+        es: null
+        distance: 31.4 km
+        elapsed: null
+        velocity: null
+  - - Victor Hare
+    - total: 52.0
+      breakdown:
+        reach: 52.1
+        effort: 0
+        distance: 52.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:15:02Z
+        es: null
+        distance: 40.8 km
+        elapsed: null
+        velocity: null
+  - - Peter Lamont
+    - total: 72.0
+      breakdown:
+        reach: 72.6
+        effort: 0
+        distance: 72.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:37:28Z
+        es: null
+        distance: 56.9 km
+        elapsed: null
+        velocity: null
+  - - Phil Seeley
+    - total: 75.0
+      breakdown:
+        reach: 75.2
+        effort: 0
+        distance: 75.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:43:01Z
+        es: null
+        distance: 59.0 km
+        elapsed: null
+        velocity: null
+  - - Tony Masters
+    - total: 103.0
+      breakdown:
+        reach: 103.7
+        effort: 0
+        distance: 103.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:39:06Z
+        es: null
+        distance: 81.3 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 109.0
+      breakdown:
+        reach: 109.7
+        effort: 0
+        distance: 109.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:35:29Z
+        es: null
+        distance: 86.1 km
+        elapsed: null
+        velocity: null
+  - - Patrick Collin
+    - total: 121.0
+      breakdown:
+        reach: 121.9
+        effort: 0
+        distance: 121.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:32:55Z
+        es: null
+        distance: 95.6 km
+        elapsed: null
+        velocity: null
+  - - Jon snr Durand
+    - total: 124.0
+      breakdown:
+        reach: 124.6
+        effort: 0
+        distance: 124.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:36:02Z
+        es: null
+        distance: 97.7 km
+        elapsed: null
+        velocity: null
+  - - Enda Murphy
+    - total: 126.0
+      breakdown:
+        reach: 126.5
+        effort: 0
+        distance: 126.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:17:04Z
+        es: null
+        distance: 99.3 km
+        elapsed: null
+        velocity: null
+  - - Akiko Suzuki
+    - total: 129.0
+      breakdown:
+        reach: 129.2
+        effort: 0
+        distance: 129.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:27:19Z
+        es: null
+        distance: 101.3 km
+        elapsed: null
+        velocity: null
+  - - Filippo Oppici
+    - total: 131.0
+      breakdown:
+        reach: 131.9
+        effort: 0
+        distance: 131.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:16:34Z
+        es: null
+        distance: 103.4 km
+        elapsed: null
+        velocity: null
+  - - Anton Struganov
+    - total: 133.0
+      breakdown:
+        reach: 133.8
+        effort: 0
+        distance: 133.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:36:58Z
+        es: null
+        distance: 104.9 km
+        elapsed: null
+        velocity: null
+  - - Conrad Loten
+    - total: 133.0
+      breakdown:
+        reach: 133.8
+        effort: 0
+        distance: 133.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:35:28Z
+        es: null
+        distance: 105.0 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 136.0
+      breakdown:
+        reach: 136.4
+        effort: 0
+        distance: 136.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:38:10Z
+        es: null
+        distance: 107.0 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 153.0
+      breakdown:
+        reach: 153.1
+        effort: 0
+        distance: 153.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:35:32Z
+        es: null
+        distance: 120.1 km
+        elapsed: null
+        velocity: null
+  - - Olav Olsen
+    - total: 157.0
+      breakdown:
+        reach: 157.9
+        effort: 0
+        distance: 157.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:15:17Z
+        es: null
+        distance: 123.9 km
+        elapsed: null
+        velocity: null
+  - - Christian Voiblet
+    - total: 222.0
+      breakdown:
+        reach: 132.7
+        effort: 89.3
+        distance: 222.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:16:21Z
+        es: null
+        distance: 104.1 km
+        elapsed: null
+        velocity: null
+  - - Dean Hervatin
+    - total: 515.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 100.7
+        arrival: 14.6
+        time: 0
+      velocity:
+        ss: 2013-12-31T03:41:56Z
+        es: 2013-12-31T07:40:46Z
+        distance: 157.0 km
+        elapsed: 3.980554 h
+        velocity: 39.4 km / h
+  - - Andrew Barnes
+    - total: 676.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.4
+        arrival: 14.8
+        time: 159.7
+      velocity:
+        ss: 2013-12-31T03:16:58Z
+        es: 2013-12-31T06:26:27Z
+        distance: 157.0 km
+        elapsed: 3.158055 h
+        velocity: 49.7 km / h
+  - - Federico Martini
+    - total: 681.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.4
+        arrival: 15.0
+        time: 164.6
+      velocity:
+        ss: 2013-12-31T03:16:52Z
+        es: 2013-12-31T06:25:02Z
+        distance: 157.0 km
+        elapsed: 3.136111 h
+        velocity: 50.0 km / h
+  - - Phil Schroder
+    - total: 721.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.4
+        arrival: 16.8
+        time: 203.0
+      velocity:
+        ss: 2013-12-31T03:16:53Z
+        es: 2013-12-31T06:15:17Z
+        distance: 157.0 km
+        elapsed: 2.973332 h
+        velocity: 52.8 km / h
+  - - Cameron Tunbridge
+    - total: 728.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.6
+        arrival: 17.6
+        time: 208.7
+      velocity:
+        ss: 2013-12-31T03:16:08Z
+        es: 2013-12-31T06:13:10Z
+        distance: 157.0 km
+        elapsed: 2.950555 h
+        velocity: 53.2 km / h
+  - - Carl Wallbank
+    - total: 743.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.5
+        arrival: 28.1
+        time: 213.2
+      velocity:
+        ss: 2013-12-31T03:15:38Z
+        es: 2013-12-31T06:11:35Z
+        distance: 157.0 km
+        elapsed: 2.9325 h
+        velocity: 53.5 km / h
+  - - Geoff Robertson
+    - total: 746.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.5
+        arrival: 25.9
+        time: 218.9
+      velocity:
+        ss: 2013-12-31T03:17:06Z
+        es: 2013-12-31T06:11:43Z
+        distance: 157.0 km
+        elapsed: 2.910276 h
+        velocity: 53.9 km / h
+  - - Neil Petersen
+    - total: 757.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.5
+        arrival: 30.5
+        time: 224.8
+      velocity:
+        ss: 2013-12-31T03:15:33Z
+        es: 2013-12-31T06:08:48Z
+        distance: 157.0 km
+        elapsed: 2.8875 h
+        velocity: 54.3 km / h
+  - - Davis Straub
+    - total: 780.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 15.3
+        time: 263.6
+      velocity:
+        ss: 2013-12-31T03:35:37Z
+        es: 2013-12-31T06:20:25Z
+        distance: 157.0 km
+        elapsed: 2.746665 h
+        velocity: 57.1 km / h
+  - - Jonas Lobitz
+    - total: 787.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 15.7
+        time: 269.6
+      velocity:
+        ss: 2013-12-31T03:35:27Z
+        es: 2013-12-31T06:19:03Z
+        distance: 157.0 km
+        elapsed: 2.726665 h
+        velocity: 57.5 km / h
+  - - Andrew Luton
+    - total: 787.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.7
+        arrival: 39.5
+        time: 245.7
+      velocity:
+        ss: 2013-12-31T03:15:57Z
+        es: 2013-12-31T06:04:32Z
+        distance: 157.0 km
+        elapsed: 2.809721 h
+        velocity: 55.8 km / h
+  - - Tony Giammichele
+    - total: 790.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 16.2
+        time: 272.2
+      velocity:
+        ss: 2013-12-31T03:35:51Z
+        es: 2013-12-31T06:18:56Z
+        distance: 157.0 km
+        elapsed: 2.718055 h
+        velocity: 57.7 km / h
+  - - Steve Blenkinsop
+    - total: 795.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.7
+        arrival: 43.1
+        time: 250.3
+      velocity:
+        ss: 2013-12-31T03:16:17Z
+        es: 2013-12-31T06:03:52Z
+        distance: 157.0 km
+        elapsed: 2.793054 h
+        velocity: 56.2 km / h
+  - - Michael Bilyk
+    - total: 806.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.6
+        arrival: 51.5
+        time: 252.7
+      velocity:
+        ss: 2013-12-31T03:16:38Z
+        es: 2013-12-31T06:03:42Z
+        distance: 157.0 km
+        elapsed: 2.784444 h
+        velocity: 56.3 km / h
+  - - Glen Mcfarlane
+    - total: 823.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.6
+        arrival: 61.3
+        time: 259.9
+      velocity:
+        ss: 2013-12-31T03:16:33Z
+        es: 2013-12-31T06:02:07Z
+        distance: 157.0 km
+        elapsed: 2.759443 h
+        velocity: 56.9 km / h
+  - - Adam Stevens
+    - total: 824.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 18.5
+        time: 304.0
+      velocity:
+        ss: 2013-12-31T03:35:34Z
+        es: 2013-12-31T06:12:44Z
+        distance: 157.0 km
+        elapsed: 2.619444 h
+        velocity: 59.9 km / h
+  - - Paris Williams
+    - total: 824.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 19.6
+        time: 303.1
+      velocity:
+        ss: 2013-12-31T03:35:17Z
+        es: 2013-12-31T06:12:36Z
+        distance: 157.0 km
+        elapsed: 2.621944 h
+        velocity: 59.8 km / h
+  - - Jonny Durand
+    - total: 831.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 22.3
+        time: 307.9
+      velocity:
+        ss: 2013-12-31T03:35:15Z
+        es: 2013-12-31T06:11:45Z
+        distance: 157.0 km
+        elapsed: 2.608333 h
+        velocity: 60.2 km / h
+  - - Rod Flockhart
+    - total: 833.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 20.8
+        time: 310.9
+      velocity:
+        ss: 2013-12-31T03:35:47Z
+        es: 2013-12-31T06:11:47Z
+        distance: 157.0 km
+        elapsed: 2.6 h
+        velocity: 60.3 km / h
+  - - Trent Brown
+    - total: 834.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 24.0
+        time: 308.4
+      velocity:
+        ss: 2013-12-31T03:35:19Z
+        es: 2013-12-31T06:11:44Z
+        distance: 157.0 km
+        elapsed: 2.606943 h
+        velocity: 60.2 km / h
+  - - Yasuhiro Noma
+    - total: 845.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.7
+        arrival: 66.8
+        time: 276.2
+      velocity:
+        ss: 2013-12-31T03:16:29Z
+        es: 2013-12-31T05:58:47Z
+        distance: 157.0 km
+        elapsed: 2.705 h
+        velocity: 58.0 km / h
+  - - Attila Bertok
+    - total: 857.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.8
+        arrival: 72.7
+        time: 282.7
+      velocity:
+        ss: 2013-12-31T03:16:03Z
+        es: 2013-12-31T05:57:05Z
+        distance: 157.0 km
+        elapsed: 2.683888 h
+        velocity: 58.5 km / h
+  - - Gavin Myers
+    - total: 890.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 33.2
+        time: 355.4
+      velocity:
+        ss: 2013-12-31T03:37:35Z
+        es: 2013-12-31T06:07:04Z
+        distance: 157.0 km
+        elapsed: 2.491388 h
+        velocity: 63.0 km / h
+  - - Guy Hubbard
+    - total: 927.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 36.2
+        time: 389.8
+      velocity:
+        ss: 2013-12-31T03:38:28Z
+        es: 2013-12-31T06:04:32Z
+        distance: 157.0 km
+        elapsed: 2.434444 h
+        velocity: 64.5 km / h
+  - - Lukas Bader
+    - total: 938.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.3
+        arrival: 56.2
+        time: 380.6
+      velocity:
+        ss: 2013-12-31T03:35:53Z
+        es: 2013-12-31T06:02:41Z
+        distance: 157.0 km
+        elapsed: 2.446666 h
+        velocity: 64.1 km / h
+  - - Nick Purcell
+    - total: 956.0
+      breakdown:
+        reach: 200.1
+        effort: 200.1
+        distance: 400.3
+        leading: 101.6
+        arrival: 47.1
+        time: 407.5
+      velocity:
+        ss: 2013-12-31T03:38:31Z
+        es: 2013-12-31T06:03:44Z
+        distance: 157.0 km
+        elapsed: 2.420277 h
+        velocity: 64.8 km / h
+- - - Adam Stevens
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:15:43Z
+        es: null
+        distance: 109.0 km
+        elapsed: null
+        velocity: null
+  - - Andrew Barnes
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:21:25Z
+        es: null
+        distance: 51.2 km
+        elapsed: null
+        velocity: null
+  - - Andrew Luton
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:15:39Z
+        es: null
+        distance: 55.1 km
+        elapsed: null
+        velocity: null
+  - - Anton Struganov
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:07:40Z
+        es: null
+        distance: 91.9 km
+        elapsed: null
+        velocity: null
+  - - Attila Bertok
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:07:45Z
+        es: null
+        distance: 109.4 km
+        elapsed: null
+        velocity: null
+  - - Cameron Tunbridge
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:15:48Z
+        es: null
+        distance: 74.3 km
+        elapsed: null
+        velocity: null
+  - - Carl Wallbank
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:06:21Z
+        es: null
+        distance: 112.7 km
+        elapsed: null
+        velocity: null
+  - - Christian Voiblet
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:06:45Z
+        es: null
+        distance: 89.4 km
+        elapsed: null
+        velocity: null
+  - - Davis Straub
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:08:28Z
+        es: null
+        distance: 91.4 km
+        elapsed: null
+        velocity: null
+  - - Dean Hervatin
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:26:45Z
+        es: null
+        distance: 27.1 km
+        elapsed: null
+        velocity: null
+  - - Federico Martini
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:16:07Z
+        es: null
+        distance: 87.1 km
+        elapsed: null
+        velocity: null
+  - - Filippo Oppici
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:06:44Z
+        es: null
+        distance: 94.5 km
+        elapsed: null
+        velocity: null
+  - - Gavin Myers
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:08:02Z
+        es: null
+        distance: 45.4 km
+        elapsed: null
+        velocity: null
+  - - Geoff Robertson
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:07:23Z
+        es: null
+        distance: 94.0 km
+        elapsed: null
+        velocity: null
+  - - Guy Hubbard
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:15:39Z
+        es: null
+        distance: 88.8 km
+        elapsed: null
+        velocity: null
+  - - Jamie Shelden
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:05:42Z
+        es: null
+        distance: 90.2 km
+        elapsed: null
+        velocity: null
+  - - Jon snr Durand
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:07:53Z
+        es: null
+        distance: 43.3 km
+        elapsed: null
+        velocity: null
+  - - Jonas Lobitz
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:05:33Z
+        es: null
+        distance: 94.5 km
+        elapsed: null
+        velocity: null
+  - - Kathryn O'Riordan
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:17:20Z
+        es: null
+        distance: 71.7 km
+        elapsed: null
+        velocity: null
+  - - Len Paton
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:31:52Z
+        es: null
+        distance: 92.9 km
+        elapsed: null
+        velocity: null
+  - - Lukas Bader
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:07:19Z
+        es: null
+        distance: 93.2 km
+        elapsed: null
+        velocity: null
+  - - Maximilian Respondek
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T04:05:23Z
+        es: null
+        distance: 57.1 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:16:05Z
+        es: null
+        distance: 78.6 km
+        elapsed: null
+        velocity: null
+  - - Nick Purcell
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:15:30Z
+        es: null
+        distance: 57.9 km
+        elapsed: null
+        velocity: null
+  - - Nils Vesk
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:16:25Z
+        es: null
+        distance: 88.8 km
+        elapsed: null
+        velocity: null
+  - - Paris Williams
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:00:48Z
+        es: null
+        distance: 111.2 km
+        elapsed: null
+        velocity: null
+  - - Patrick Collin
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:06:28Z
+        es: null
+        distance: 89.1 km
+        elapsed: null
+        velocity: null
+  - - Peter Ebeling
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:17:15Z
+        es: null
+        distance: 38.8 km
+        elapsed: null
+        velocity: null
+  - - Phil Seeley
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:17:42Z
+        es: null
+        distance: 54.3 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:08:07Z
+        es: null
+        distance: 89.8 km
+        elapsed: null
+        velocity: null
+  - - Ryosuke Hattori
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:16:08Z
+        es: null
+        distance: 84.4 km
+        elapsed: null
+        velocity: null
+  - - Tony Masters
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:26:22Z
+        es: null
+        distance: 32.3 km
+        elapsed: null
+        velocity: null
+  - - Trent Brown
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:08:21Z
+        es: null
+        distance: 80.0 km
+        elapsed: null
+        velocity: null
+  - - Victor Hare
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:28:57Z
+        es: null
+        distance: 56.5 km
+        elapsed: null
+        velocity: null
+  - - Yasuhiro Noma
+    - total: 0
+      breakdown:
+        reach: 0
+        effort: 0
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-01T03:04:27Z
+        es: null
+        distance: 85.7 km
+        elapsed: null
+        velocity: null
+- - - Tony Masters
+    - total: 11.0
+      breakdown:
+        reach: 11.4
+        effort: 0
+        distance: 11.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: null
+        es: null
+        distance: 9.5 km
+        elapsed: null
+        velocity: null
+  - - Phil Seeley
+    - total: 14.0
+      breakdown:
+        reach: 14.6
+        effort: 0
+        distance: 14.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T04:09:47Z
+        es: null
+        distance: 12.2 km
+        elapsed: null
+        velocity: null
+  - - Enda Murphy
+    - total: 17.0
+      breakdown:
+        reach: 17.5
+        effort: 0
+        distance: 17.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:32:44Z
+        es: null
+        distance: 14.7 km
+        elapsed: null
+        velocity: null
+  - - Maximilian Respondek
+    - total: 24.0
+      breakdown:
+        reach: 24.3
+        effort: 0
+        distance: 24.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:25:46Z
+        es: null
+        distance: 20.3 km
+        elapsed: null
+        velocity: null
+  - - Hadewych van Kempen
+    - total: 38.0
+      breakdown:
+        reach: 38.5
+        effort: 0
+        distance: 38.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:42:24Z
+        es: null
+        distance: 32.2 km
+        elapsed: null
+        velocity: null
+  - - Jamie Shelden
+    - total: 43.0
+      breakdown:
+        reach: 43.9
+        effort: 0
+        distance: 43.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:42:30Z
+        es: null
+        distance: 36.7 km
+        elapsed: null
+        velocity: null
+  - - Akiko Suzuki
+    - total: 55.0
+      breakdown:
+        reach: 55.8
+        effort: 0
+        distance: 55.8
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:30:10Z
+        es: null
+        distance: 46.6 km
+        elapsed: null
+        velocity: null
+  - - Jon snr Durand
+    - total: 68.0
+      breakdown:
+        reach: 68.3
+        effort: 0
+        distance: 68.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:31:42Z
+        es: null
+        distance: 57.1 km
+        elapsed: null
+        velocity: null
+  - - Peter Ebeling
+    - total: 80.0
+      breakdown:
+        reach: 54.7
+        effort: 25.3
+        distance: 80.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:53:57Z
+        es: null
+        distance: 45.7 km
+        elapsed: null
+        velocity: null
+  - - Steve Blenkinsop
+    - total: 88.0
+      breakdown:
+        reach: 88.4
+        effort: 0
+        distance: 88.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:30:26Z
+        es: null
+        distance: 73.8 km
+        elapsed: null
+        velocity: null
+  - - Peter Lamont
+    - total: 101.0
+      breakdown:
+        reach: 101.4
+        effort: 0
+        distance: 101.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:52:18Z
+        es: null
+        distance: 84.7 km
+        elapsed: null
+        velocity: null
+  - - Ryosuke Hattori
+    - total: 117.0
+      breakdown:
+        reach: 117.4
+        effort: 0
+        distance: 117.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:33:49Z
+        es: null
+        distance: 98.1 km
+        elapsed: null
+        velocity: null
+  - - Mikhail Karmazin
+    - total: 118.0
+      breakdown:
+        reach: 118.0
+        effort: 0
+        distance: 118.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:21:03Z
+        es: null
+        distance: 98.6 km
+        elapsed: null
+        velocity: null
+  - - Andrew Luton
+    - total: 119.0
+      breakdown:
+        reach: 119.2
+        effort: 0
+        distance: 119.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:34:29Z
+        es: null
+        distance: 99.6 km
+        elapsed: null
+        velocity: null
+  - - Andrew Barnes
+    - total: 123.0
+      breakdown:
+        reach: 123.1
+        effort: 0
+        distance: 123.1
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:44:51Z
+        es: null
+        distance: 102.9 km
+        elapsed: null
+        velocity: null
+  - - Patrick Collin
+    - total: 125.0
+      breakdown:
+        reach: 125.3
+        effort: 0
+        distance: 125.3
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:34:08Z
+        es: null
+        distance: 104.7 km
+        elapsed: null
+        velocity: null
+  - - Cameron Tunbridge
+    - total: 130.0
+      breakdown:
+        reach: 92.7
+        effort: 37.9
+        distance: 130.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:41:59Z
+        es: null
+        distance: 77.4 km
+        elapsed: null
+        velocity: null
+  - - Kathryn O'Riordan
+    - total: 165.0
+      breakdown:
+        reach: 165.7
+        effort: 0
+        distance: 165.7
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:30:34Z
+        es: null
+        distance: 138.5 km
+        elapsed: null
+        velocity: null
+  - - Gavin Myers
+    - total: 169.0
+      breakdown:
+        reach: 169.6
+        effort: 0
+        distance: 169.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:31:24Z
+        es: null
+        distance: 141.7 km
+        elapsed: null
+        velocity: null
+  - - Tony Giammichele
+    - total: 172.0
+      breakdown:
+        reach: 172.9
+        effort: 0
+        distance: 172.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:33:54Z
+        es: null
+        distance: 144.5 km
+        elapsed: null
+        velocity: null
+  - - Anton Struganov
+    - total: 190.0
+      breakdown:
+        reach: 190.0
+        effort: 0
+        distance: 190.0
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:30:32Z
+        es: null
+        distance: 158.8 km
+        elapsed: null
+        velocity: null
+  - - Victor Hare
+    - total: 190.0
+      breakdown:
+        reach: 190.5
+        effort: 0
+        distance: 190.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:30:13Z
+        es: null
+        distance: 159.2 km
+        elapsed: null
+        velocity: null
+  - - Attila Bertok
+    - total: 196.0
+      breakdown:
+        reach: 196.2
+        effort: 0
+        distance: 196.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:31:27Z
+        es: null
+        distance: 164.0 km
+        elapsed: null
+        velocity: null
+  - - Dean Hervatin
+    - total: 198.0
+      breakdown:
+        reach: 122.0
+        effort: 76.1
+        distance: 198.2
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:25:56Z
+        es: null
+        distance: 102.0 km
+        elapsed: null
+        velocity: null
+  - - Rohan Taylor
+    - total: 206.0
+      breakdown:
+        reach: 206.5
+        effort: 0
+        distance: 206.5
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:26:51Z
+        es: null
+        distance: 172.6 km
+        elapsed: null
+        velocity: null
+  - - Phil Schroder
+    - total: 216.0
+      breakdown:
+        reach: 216.4
+        effort: 0
+        distance: 216.4
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:33:47Z
+        es: null
+        distance: 180.9 km
+        elapsed: null
+        velocity: null
+  - - Nick Purcell
+    - total: 239.0
+      breakdown:
+        reach: 160.5
+        effort: 79.4
+        distance: 239.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:08:33Z
+        es: null
+        distance: 134.1 km
+        elapsed: null
+        velocity: null
+  - - Mark Russell
+    - total: 289.0
+      breakdown:
+        reach: 188.1
+        effort: 101.5
+        distance: 289.6
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:33:25Z
+        es: null
+        distance: 157.2 km
+        elapsed: null
+        velocity: null
+  - - Len Paton
+    - total: 315.0
+      breakdown:
+        reach: 202.6
+        effort: 113.2
+        distance: 315.9
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2014-01-03T03:33:02Z
+        es: null
+        distance: 169.3 km
+        elapsed: null
+        velocity: null
+  - - Federico Martini
+    - total: 701.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.0
+        arrival: 13.5
+        time: 129.1
+      velocity:
+        ss: 2014-01-03T03:31:51Z
+        es: 2014-01-03T07:34:52Z
+        distance: 194.6 km
+        elapsed: 4.050277 h
+        velocity: 48.0 km / h
+  - - Nils Vesk
+    - total: 750.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.2
+        arrival: 13.7
+        time: 177.4
+      velocity:
+        ss: 2014-01-03T03:30:38Z
+        es: 2014-01-03T07:17:53Z
+        distance: 194.6 km
+        elapsed: 3.7875 h
+        velocity: 51.3 km / h
+  - - Adam Stevens
+    - total: 769.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.2
+        arrival: 14.0
+        time: 196.7
+      velocity:
+        ss: 2014-01-03T03:30:25Z
+        es: 2014-01-03T07:11:52Z
+        distance: 194.6 km
+        elapsed: 3.690833 h
+        velocity: 52.7 km / h
+  - - Lukas Bader
+    - total: 776.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.0
+        arrival: 14.5
+        time: 202.7
+      velocity:
+        ss: 2014-01-03T03:31:12Z
+        es: 2014-01-03T07:10:55Z
+        distance: 194.6 km
+        elapsed: 3.661944 h
+        velocity: 53.1 km / h
+  - - Davis Straub
+    - total: 802.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.2
+        arrival: 15.1
+        time: 227.7
+      velocity:
+        ss: 2014-01-03T03:30:07Z
+        es: 2014-01-03T07:02:54Z
+        distance: 194.6 km
+        elapsed: 3.546387 h
+        velocity: 54.8 km / h
+  - - Rod Flockhart
+    - total: 821.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.4
+        arrival: 16.0
+        time: 246.0
+      velocity:
+        ss: 2014-01-03T03:33:02Z
+        es: 2014-01-03T07:01:07Z
+        distance: 194.6 km
+        elapsed: 3.468055 h
+        velocity: 56.1 km / h
+  - - Neil Petersen
+    - total: 828.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.2
+        arrival: 17.0
+        time: 252.6
+      velocity:
+        ss: 2014-01-03T03:33:34Z
+        es: 2014-01-03T07:00:02Z
+        distance: 194.6 km
+        elapsed: 3.44111 h
+        velocity: 56.5 km / h
+  - - Conrad Loten
+    - total: 847.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.2
+        arrival: 18.4
+        time: 269.6
+      velocity:
+        ss: 2014-01-03T03:32:23Z
+        es: 2014-01-03T06:54:53Z
+        distance: 194.6 km
+        elapsed: 3.375 h
+        velocity: 57.6 km / h
+  - - Michael Bilyk
+    - total: 853.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.3
+        arrival: 20.0
+        time: 274.6
+      velocity:
+        ss: 2014-01-03T03:33:27Z
+        es: 2014-01-03T06:54:51Z
+        distance: 194.6 km
+        elapsed: 3.356666 h
+        velocity: 57.9 km / h
+  - - Paris Williams
+    - total: 886.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.3
+        arrival: 22.0
+        time: 305.5
+      velocity:
+        ss: 2014-01-03T03:33:27Z
+        es: 2014-01-03T06:48:38Z
+        distance: 194.6 km
+        elapsed: 3.253054 h
+        velocity: 59.8 km / h
+  - - Yasuhiro Noma
+    - total: 889.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.4
+        arrival: 24.3
+        time: 305.9
+      velocity:
+        ss: 2014-01-03T03:30:19Z
+        es: 2014-01-03T06:45:26Z
+        distance: 194.6 km
+        elapsed: 3.251943 h
+        velocity: 59.8 km / h
+  - - Jonny Durand
+    - total: 892.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.3
+        arrival: 27.0
+        time: 306.1
+      velocity:
+        ss: 2014-01-03T03:30:06Z
+        es: 2014-01-03T06:45:11Z
+        distance: 194.6 km
+        elapsed: 3.251387 h
+        velocity: 59.8 km / h
+  - - Filippo Oppici
+    - total: 920.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.2
+        arrival: 30.2
+        time: 330.7
+      velocity:
+        ss: 2014-01-03T03:31:13Z
+        es: 2014-01-03T06:42:17Z
+        distance: 194.6 km
+        elapsed: 3.184444 h
+        velocity: 61.1 km / h
+  - - Geoff Robertson
+    - total: 923.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.3
+        arrival: 33.8
+        time: 330.8
+      velocity:
+        ss: 2014-01-03T03:30:16Z
+        es: 2014-01-03T06:41:19Z
+        distance: 194.6 km
+        elapsed: 3.184165 h
+        velocity: 61.1 km / h
+  - - Guy Hubbard
+    - total: 932.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.4
+        arrival: 37.9
+        time: 335.0
+      velocity:
+        ss: 2014-01-03T03:30:17Z
+        es: 2014-01-03T06:40:45Z
+        distance: 194.6 km
+        elapsed: 3.174443 h
+        velocity: 61.3 km / h
+  - - Jonas Lobitz
+    - total: 941.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.4
+        arrival: 42.5
+        time: 339.2
+      velocity:
+        ss: 2014-01-03T03:30:38Z
+        es: 2014-01-03T06:40:32Z
+        distance: 194.6 km
+        elapsed: 3.165 h
+        velocity: 61.5 km / h
+  - - Christian Voiblet
+    - total: 945.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.3
+        arrival: 47.6
+        time: 338.3
+      velocity:
+        ss: 2014-01-03T03:30:29Z
+        es: 2014-01-03T06:40:30Z
+        distance: 194.6 km
+        elapsed: 3.166943 h
+        velocity: 61.4 km / h
+  - - Carl Wallbank
+    - total: 959.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.3
+        arrival: 59.7
+        time: 340.8
+      velocity:
+        ss: 2014-01-03T03:30:37Z
+        es: 2014-01-03T06:40:19Z
+        distance: 194.6 km
+        elapsed: 3.161665 h
+        velocity: 61.5 km / h
+  - - Trent Brown
+    - total: 970.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.3
+        arrival: 66.7
+        time: 344.0
+      velocity:
+        ss: 2014-01-03T03:30:53Z
+        es: 2014-01-03T06:40:11Z
+        distance: 194.6 km
+        elapsed: 3.154999 h
+        velocity: 61.7 km / h
+  - - Glen Mcfarlane
+    - total: 986.0
+      breakdown:
+        reach: 232.9
+        effort: 232.9
+        distance: 465.8
+        leading: 93.4
+        arrival: 53.4
+        time: 373.8
+      velocity:
+        ss: 2014-01-03T03:33:27Z
+        es: 2014-01-03T06:40:22Z
+        distance: 194.6 km
+        elapsed: 3.115276 h
+        velocity: 62.4 km / h
+- []
