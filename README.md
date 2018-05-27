@@ -1,4 +1,4 @@
-# FAI Hang Gliding Pre-World Forbes 2012
+# Australian National Hang Gliding Championships 2014
 
 The official scores made by FS and the tracklogs for each task are available
 online at;
