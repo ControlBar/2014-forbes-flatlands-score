@@ -1,5 +1,6 @@
 comp:
   compName: Australian National Hang Gliding Championships 2014
+  discipline: hg
   location: Forbes, Australia
   from: '2013-12-28'
   to: '2014-01-04'
