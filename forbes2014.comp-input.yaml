@@ -7,6 +7,7 @@ comp:
   civilId: '9182'
   utcOffset:
     timeZoneMinutes: 660
+  scoreBack: null
 nominal:
   launch: 0.96
   goal: 0.2
@@ -51,6 +52,7 @@ tasks:
   - 2013-12-28T03:20:00Z
   - 2013-12-28T03:40:00Z
   absent: []
+  stopped: null
 - taskName: Task 2 - Blown Away
   zones:
   - zoneName: FORBE
@@ -78,6 +80,7 @@ tasks:
   - 2013-12-29T03:45:00Z
   absent:
   - Adam Jones
+  stopped: null
 - taskName: Task 3 - TCDSay
   zones:
   - zoneName: FORBE
@@ -107,6 +110,7 @@ tasks:
   - 2013-12-30T03:50:00Z
   - 2013-12-30T04:10:00Z
   absent: []
+  stopped: null
 - taskName: Task 4 - Greased Lightning
   zones:
   - zoneName: FORBE
@@ -140,6 +144,7 @@ tasks:
   - 2013-12-31T03:35:00Z
   - 2013-12-31T03:55:00Z
   absent: []
+  stopped: null
 - taskName: Task 5 - Find Your Own Fxx Pad
   zones:
   - zoneName: FORBE
@@ -170,6 +175,7 @@ tasks:
   absent:
   - Adam Jones
   - Ai Fukutomi
+  stopped: null
 - taskName: Task 6 - Attila Killer
   zones:
   - zoneName: FORBE
@@ -201,6 +207,7 @@ tasks:
   - Adam Jones
   - Ai Fukutomi
   - Michael Tomlinson
+  stopped: null
 - taskName: Task 7 - 126.7
   zones:
   - zoneName: FORBE
@@ -230,6 +237,7 @@ tasks:
   - Peter Ebeling
   - Tony Masters
   - Victor Hare
+  stopped: null
 taskFolders:
 - - day 1
 - - day 2
