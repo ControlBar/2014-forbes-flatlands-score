@@ -17,63 +17,32 @@ nominal:
 tasks:
 - taskName: Task 1 - Child of god
   zones:
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 400.0 m
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 5000.0 m
-  - zoneName: GRENF
-    lat: -33.8596
-    lng: 148.1121
-    radius: 400.0 m
-  - zoneName: GOOLOO
-    lat: -33.61957
-    lng: 148.41023
-    radius: 400.0 m
-  - zoneName: CANOWI
-    lat: -33.55378
-    lng: 148.67147
-    radius: 400.0 m
-  - zoneName: WOODST
-    lat: -33.73932
-    lng: 148.84062
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    raw:
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 5000.0 m
-  - cylinder:
-      center:
-      - -33.8596 deg
-      - 148.1121 deg
+    - zoneName: GRENF
+      lat: -33.8596
+      lng: 148.1121
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.61957 deg
-      - 148.41023 deg
+    - zoneName: GOOLOO
+      lat: -33.61957
+      lng: 148.41023
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.55378 deg
-      - 148.67147 deg
+    - zoneName: CANOWI
+      lat: -33.55378
+      lng: 148.67147
       radius: 400.0 m
-  - circle:
-      center:
-      - -33.73932 deg
-      - 148.84062 deg
+    - zoneName: WOODST
+      lat: -33.73932
+      lng: 148.84062
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3608 deg
@@ -99,13 +68,44 @@ tasks:
         - -33.55378 deg
         - 148.67147 deg
         radius: 400.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -33.73932 deg
         - 148.84062 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - -33.8596 deg
+          - 148.1121 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.61957 deg
+          - 148.41023 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.55378 deg
+          - 148.67147 deg
+          radius: 400.0 m
+      goal:
+        circle:
+          center:
+          - -33.73932 deg
+          - 148.84062 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 6
@@ -117,38 +117,23 @@ tasks:
   - 2013-12-28T03:20:00Z
   - 2013-12-28T03:40:00Z
   absent: []
+  stopped: null
 - taskName: Task 2 - Blown Away
   zones:
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 400.0 m
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 15000.0 m
-  - zoneName: TRANG
-    lat: -31.9798
-    lng: 148.0035
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    raw:
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 15000.0 m
-  - circle:
-      center:
-      - -31.9798 deg
-      - 148.0035 deg
+    - zoneName: TRANG
+      lat: -31.9798
+      lng: 148.0035
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3608 deg
@@ -159,13 +144,29 @@ tasks:
         - -33.3608 deg
         - 147.932 deg
         radius: 15000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -31.9798 deg
         - 148.0035 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 15000.0 m
+      goal:
+        circle:
+          center:
+          - -31.9798 deg
+          - 148.0035 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 3
@@ -180,47 +181,27 @@ tasks:
   absent:
   - - '22'
     - Adam Jones
+  stopped: null
 - taskName: Task 3 - TCDSay
   zones:
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 400.0 m
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 10000.0 m
-  - zoneName: TOMING
-    lat: -32.56608
-    lng: 148.22657
-    radius: 11000.0 m
-  - zoneName: WELLIN
-    lat: -32.4636
-    lng: 148.9885
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    raw:
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 10000.0 m
-  - cylinder:
-      center:
-      - -32.56608 deg
-      - 148.22657 deg
+    - zoneName: TOMING
+      lat: -32.56608
+      lng: 148.22657
       radius: 11000.0 m
-  - circle:
-      center:
-      - -32.4636 deg
-      - 148.9885 deg
+    - zoneName: WELLIN
+      lat: -32.4636
+      lng: 148.9885
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3608 deg
@@ -236,13 +217,34 @@ tasks:
         - -32.56608 deg
         - 148.22657 deg
         radius: 11000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -32.4636 deg
         - 148.9885 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - -32.56608 deg
+          - 148.22657 deg
+          radius: 11000.0 m
+      goal:
+        circle:
+          center:
+          - -32.4636 deg
+          - 148.9885 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 4
@@ -254,56 +256,31 @@ tasks:
   - 2013-12-30T03:50:00Z
   - 2013-12-30T04:10:00Z
   absent: []
+  stopped: null
 - taskName: Task 4 - Greased Lightning
   zones:
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 400.0 m
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 10000.0 m
-  - zoneName: YEOVAL
-    lat: -32.76052
-    lng: 148.64958
-    radius: 5000.0 m
-  - zoneName: CUMNOC
-    lat: -32.93492
-    lng: 148.75057
-    radius: 5000.0 m
-  - zoneName: WELLIN
-    lat: -32.4636
-    lng: 148.9885
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    raw:
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 10000.0 m
-  - cylinder:
-      center:
-      - -32.76052 deg
-      - 148.64958 deg
+    - zoneName: YEOVAL
+      lat: -32.76052
+      lng: 148.64958
       radius: 5000.0 m
-  - cylinder:
-      center:
-      - -32.93492 deg
-      - 148.75057 deg
+    - zoneName: CUMNOC
+      lat: -32.93492
+      lng: 148.75057
       radius: 5000.0 m
-  - circle:
-      center:
-      - -32.4636 deg
-      - 148.9885 deg
+    - zoneName: WELLIN
+      lat: -32.4636
+      lng: 148.9885
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3608 deg
@@ -324,13 +301,39 @@ tasks:
         - -32.93492 deg
         - 148.75057 deg
         radius: 5000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -32.4636 deg
         - 148.9885 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - -32.76052 deg
+          - 148.64958 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - -32.93492 deg
+          - 148.75057 deg
+          radius: 5000.0 m
+      goal:
+        circle:
+          center:
+          - -32.4636 deg
+          - 148.9885 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 5
@@ -342,47 +345,27 @@ tasks:
   - 2013-12-31T03:35:00Z
   - 2013-12-31T03:55:00Z
   absent: []
+  stopped: null
 - taskName: Task 5 - Find Your Own Fxx Pad
   zones:
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 400.0 m
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 10000.0 m
-  - zoneName: CROW
-    lat: -34.11795
-    lng: 148.5013
-    radius: 13000.0 m
-  - zoneName: STOCKI
-    lat: -34.49978
-    lng: 147.89785
-    radius: 1000.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    raw:
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 10000.0 m
-  - cylinder:
-      center:
-      - -34.11795 deg
-      - 148.5013 deg
+    - zoneName: CROW
+      lat: -34.11795
+      lng: 148.5013
       radius: 13000.0 m
-  - circle:
-      center:
-      - -34.49978 deg
-      - 147.89785 deg
+    - zoneName: STOCKI
+      lat: -34.49978
+      lng: 147.89785
       radius: 1000.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3608 deg
@@ -398,13 +381,34 @@ tasks:
         - -34.11795 deg
         - 148.5013 deg
         radius: 13000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -34.49978 deg
         - 147.89785 deg
         radius: 1000.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - -34.11795 deg
+          - 148.5013 deg
+          radius: 13000.0 m
+      goal:
+        circle:
+          center:
+          - -34.49978 deg
+          - 147.89785 deg
+          radius: 1000.0 m
   speedSection:
   - 2
   - 4
@@ -419,47 +423,27 @@ tasks:
     - Adam Jones
   - - '25'
     - Ai Fukutomi
+  stopped: null
 - taskName: Task 6 - Attila Killer
   zones:
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 400.0 m
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 10000.0 m
-  - zoneName: BOOROW
-    lat: -34.4631
-    lng: 148.7032
-    radius: 400.0 m
-  - zoneName: DALTON
-    lat: -34.7157
-    lng: 149.19338
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    raw:
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 10000.0 m
-  - cylinder:
-      center:
-      - -34.4631 deg
-      - 148.7032 deg
+    - zoneName: BOOROW
+      lat: -34.4631
+      lng: 148.7032
       radius: 400.0 m
-  - circle:
-      center:
-      - -34.7157 deg
-      - 149.19338 deg
+    - zoneName: DALTON
+      lat: -34.7157
+      lng: 149.19338
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3608 deg
@@ -475,13 +459,34 @@ tasks:
         - -34.4631 deg
         - 148.7032 deg
         radius: 400.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -34.7157 deg
         - 149.19338 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - -34.4631 deg
+          - 148.7032 deg
+          radius: 400.0 m
+      goal:
+        circle:
+          center:
+          - -34.7157 deg
+          - 149.19338 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 4
@@ -498,38 +503,23 @@ tasks:
     - Ai Fukutomi
   - - '16'
     - Michael Tomlinson
+  stopped: null
 - taskName: Task 7 - 126.7
   zones:
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 400.0 m
-  - zoneName: FORBE
-    lat: -33.3608
-    lng: 147.932
-    radius: 10000.0 m
-  - zoneName: DUNED2
-    lat: -32.01208
-    lng: 149.41763
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    raw:
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 400.0 m
-  - cylinder:
-      center:
-      - -33.3608 deg
-      - 147.932 deg
+    - zoneName: FORBE
+      lat: -33.3608
+      lng: 147.932
       radius: 10000.0 m
-  - circle:
-      center:
-      - -32.01208 deg
-      - 149.41763 deg
+    - zoneName: DUNED2
+      lat: -32.01208
+      lng: 149.41763
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - -33.3608 deg
@@ -540,13 +530,29 @@ tasks:
         - -33.3608 deg
         - 147.932 deg
         radius: 10000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - -32.01208 deg
         - 149.41763 deg
         radius: 400.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - -33.3608 deg
+          - 147.932 deg
+          radius: 10000.0 m
+      goal:
+        circle:
+          center:
+          - -32.01208 deg
+          - 149.41763 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 3
@@ -567,6 +573,7 @@ tasks:
     - Tony Masters
   - - '48'
     - Victor Hare
+  stopped: null
 taskFolders:
 - - day 1
 - - day 2
