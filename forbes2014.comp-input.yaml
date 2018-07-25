@@ -42,37 +42,6 @@ tasks:
       lat: -33.73932
       lng: 148.84062
       radius: 400.0 m
-    strict:
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 400.0 m
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 5000.0 m
-    - cylinder:
-        center:
-        - -33.8596 deg
-        - 148.1121 deg
-        radius: 400.0 m
-    - cylinder:
-        center:
-        - -33.61957 deg
-        - 148.41023 deg
-        radius: 400.0 m
-    - cylinder:
-        center:
-        - -33.55378 deg
-        - 148.67147 deg
-        radius: 400.0 m
-    - circle:
-        center:
-        - -33.73932 deg
-        - 148.84062 deg
-        radius: 400.0 m
     kind:
       turnpoints:
       - cylinder:
@@ -133,22 +102,6 @@ tasks:
       lat: -31.9798
       lng: 148.0035
       radius: 400.0 m
-    strict:
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 400.0 m
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 15000.0 m
-    - circle:
-        center:
-        - -31.9798 deg
-        - 148.0035 deg
-        radius: 400.0 m
     kind:
       turnpoints:
       - cylinder:
@@ -201,27 +154,6 @@ tasks:
       lat: -32.4636
       lng: 148.9885
       radius: 400.0 m
-    strict:
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 400.0 m
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 10000.0 m
-    - cylinder:
-        center:
-        - -32.56608 deg
-        - 148.22657 deg
-        radius: 11000.0 m
-    - circle:
-        center:
-        - -32.4636 deg
-        - 148.9885 deg
-        radius: 400.0 m
     kind:
       turnpoints:
       - cylinder:
@@ -280,32 +212,6 @@ tasks:
       lat: -32.4636
       lng: 148.9885
       radius: 400.0 m
-    strict:
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 400.0 m
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 10000.0 m
-    - cylinder:
-        center:
-        - -32.76052 deg
-        - 148.64958 deg
-        radius: 5000.0 m
-    - cylinder:
-        center:
-        - -32.93492 deg
-        - 148.75057 deg
-        radius: 5000.0 m
-    - circle:
-        center:
-        - -32.4636 deg
-        - 148.9885 deg
-        radius: 400.0 m
     kind:
       turnpoints:
       - cylinder:
@@ -365,27 +271,6 @@ tasks:
       lat: -34.49978
       lng: 147.89785
       radius: 1000.0 m
-    strict:
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 400.0 m
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 10000.0 m
-    - cylinder:
-        center:
-        - -34.11795 deg
-        - 148.5013 deg
-        radius: 13000.0 m
-    - circle:
-        center:
-        - -34.49978 deg
-        - 147.89785 deg
-        radius: 1000.0 m
     kind:
       turnpoints:
       - cylinder:
@@ -443,27 +328,6 @@ tasks:
       lat: -34.7157
       lng: 149.19338
       radius: 400.0 m
-    strict:
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 400.0 m
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 10000.0 m
-    - cylinder:
-        center:
-        - -34.4631 deg
-        - 148.7032 deg
-        radius: 400.0 m
-    - circle:
-        center:
-        - -34.7157 deg
-        - 149.19338 deg
-        radius: 400.0 m
     kind:
       turnpoints:
       - cylinder:
@@ -519,22 +383,6 @@ tasks:
       lat: -32.01208
       lng: 149.41763
       radius: 400.0 m
-    strict:
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 400.0 m
-    - cylinder:
-        center:
-        - -33.3608 deg
-        - 147.932 deg
-        radius: 10000.0 m
-    - circle:
-        center:
-        - -32.01208 deg
-        - 149.41763 deg
-        radius: 400.0 m
     kind:
       turnpoints:
       - cylinder:
