@@ -42,7 +42,7 @@ tasks:
       lat: -33.73932
       lng: 148.84062
       radius: 400.0 m
-    kind:
+    raceKind:
       prolog:
       - cylinder:
           center:
@@ -76,6 +76,7 @@ tasks:
           - -33.73932 deg
           - 148.84062 deg
           radius: 400.0 m
+    openKind: null
   speedSection:
   - 2
   - 6
@@ -103,7 +104,7 @@ tasks:
       lat: -31.9798
       lng: 148.0035
       radius: 400.0 m
-    kind:
+    raceKind:
       prolog:
       - cylinder:
           center:
@@ -122,6 +123,7 @@ tasks:
           - -31.9798 deg
           - 148.0035 deg
           radius: 400.0 m
+    openKind: null
   speedSection:
   - 2
   - 3
@@ -156,7 +158,7 @@ tasks:
       lat: -32.4636
       lng: 148.9885
       radius: 400.0 m
-    kind:
+    raceKind:
       prolog:
       - cylinder:
           center:
@@ -180,6 +182,7 @@ tasks:
           - -32.4636 deg
           - 148.9885 deg
           radius: 400.0 m
+    openKind: null
   speedSection:
   - 2
   - 4
@@ -215,7 +218,7 @@ tasks:
       lat: -32.4636
       lng: 148.9885
       radius: 400.0 m
-    kind:
+    raceKind:
       prolog:
       - cylinder:
           center:
@@ -244,6 +247,7 @@ tasks:
           - -32.4636 deg
           - 148.9885 deg
           radius: 400.0 m
+    openKind: null
   speedSection:
   - 2
   - 5
@@ -275,7 +279,7 @@ tasks:
       lat: -34.49978
       lng: 147.89785
       radius: 1000.0 m
-    kind:
+    raceKind:
       prolog:
       - cylinder:
           center:
@@ -299,6 +303,7 @@ tasks:
           - -34.49978 deg
           - 147.89785 deg
           radius: 1000.0 m
+    openKind: null
   speedSection:
   - 2
   - 4
@@ -333,7 +338,7 @@ tasks:
       lat: -34.7157
       lng: 149.19338
       radius: 400.0 m
-    kind:
+    raceKind:
       prolog:
       - cylinder:
           center:
@@ -357,6 +362,7 @@ tasks:
           - -34.7157 deg
           - 149.19338 deg
           radius: 400.0 m
+    openKind: null
   speedSection:
   - 2
   - 4
@@ -389,7 +395,7 @@ tasks:
       lat: -32.01208
       lng: 149.41763
       radius: 400.0 m
-    kind:
+    raceKind:
       prolog:
       - cylinder:
           center:
@@ -408,6 +414,7 @@ tasks:
           - -32.01208 deg
           - 149.41763 deg
           radius: 400.0 m
+    openKind: null
   speedSection:
   - 2
   - 3
