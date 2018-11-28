@@ -2,10 +2,10 @@ minDistance: 5.0 km
 bestDistance:
 - 146.7 km
 - 153.6 km
-- 154.6 km
+- 154.7 km
 - 157.0 km
-- 112.7 km
-- 194.6 km
+- 112.8 km
+- 194.7 km
 - null
 landout:
 - 22
@@ -33,92 +33,92 @@ sumOfDifficulty:
 - null
 difficulty:
 - - chunk: 37
-    startChunk: 8.5 km
-    endChunk: 8.6 km
+    startChunk: 8.6 km
+    endChunk: 8.7 km
     endAhead: 28.7 km
     down: 1
     downward: 2
-    rel: 1.0e-2
-    frac: 1.0e-2
+    rel: 1.111111e-2
+    frac: 1.111111e-2
   - chunk: 135
-    startChunk: 18.3 km
+    startChunk: 18.4 km
     endChunk: 18.5 km
     endAhead: 38.5 km
     down: 1
     downward: 2
-    rel: 1.0e-2
-    frac: 2.0e-2
+    rel: 1.111111e-2
+    frac: 2.222222e-2
   - chunk: 329
     startChunk: 37.8 km
-    endChunk: 37.8 km
+    endChunk: 37.9 km
     endAhead: 57.9 km
     down: 1
     downward: 3
-    rel: 1.6e-2
-    frac: 3.8e-2
+    rel: 1.666667e-2
+    frac: 3.888889e-2
   - chunk: 486
     startChunk: 53.5 km
     endChunk: 53.6 km
     endAhead: 73.6 km
     down: 1
     downward: 4
-    rel: 2.0e-2
-    frac: 6.1e-2
+    rel: 2.222222e-2
+    frac: 6.111111e-2
   - chunk: 527
     startChunk: 57.6 km
     endChunk: 57.7 km
     endAhead: 77.7 km
     down: 1
     downward: 3
-    rel: 1.6e-2
-    frac: 7.0e-2
+    rel: 1.666667e-2
+    frac: 7.777778e-2
   - chunk: 551
     startChunk: 60.0 km
     endChunk: 60.1 km
     endAhead: 80.1 km
     down: 1
     downward: 2
-    rel: 1.0e-2
-    frac: 8.0e-2
+    rel: 1.111111e-2
+    frac: 8.888889e-2
   - chunk: 670
     startChunk: 71.9 km
     endChunk: 72.0 km
     endAhead: 92.0 km
     down: 1
     downward: 1
-    rel: 5.0e-3
-    frac: 9.4e-2
+    rel: 5.55556e-3
+    frac: 9.444444e-2
   - chunk: 895
     startChunk: 94.4 km
     endChunk: 94.5 km
     endAhead: 114.5 km
     down: 1
     downward: 3
-    rel: 1.6e-2
-    frac: 0.1
+    rel: 1.666667e-2
+    frac: 0.11111111
   - chunk: 900
     startChunk: 94.9 km
     endChunk: 95.0 km
     endAhead: 115.0 km
     down: 1
     downward: 2
-    rel: 1.0e-2
-    frac: 0.12
+    rel: 1.111111e-2
+    frac: 0.12222222
   - chunk: 973
     startChunk: 102.2 km
     endChunk: 102.3 km
     endAhead: 122.3 km
     down: 1
     downward: 4
-    rel: 2.0e-2
-    frac: 0.14
+    rel: 2.222222e-2
+    frac: 0.14444444
   - chunk: 1124
     startChunk: 117.3 km
     endChunk: 117.4 km
     endAhead: 137.4 km
     down: 1
     downward: 10
-    rel: 5.0e-2
+    rel: 5.555556e-2
     frac: 0.2
   - chunk: 1132
     startChunk: 118.1 km
@@ -142,72 +142,72 @@ difficulty:
     endAhead: 142.7 km
     down: 1
     downward: 8
-    rel: 4.0e-2
-    frac: 0.34
+    rel: 4.444444e-2
+    frac: 0.34444444
   - chunk: 1180
     startChunk: 122.9 km
     endChunk: 123.0 km
     endAhead: 143.0 km
     down: 1
     downward: 7
-    rel: 3.8e-2
-    frac: 0.383
+    rel: 3.888889e-2
+    frac: 0.38333333
   - chunk: 1200
     startChunk: 124.9 km
     endChunk: 125.0 km
     endAhead: 145.0 km
     down: 1
     downward: 6
-    rel: 3.0e-2
-    frac: 0.416
+    rel: 3.333333e-2
+    frac: 0.41666667
   - chunk: 1224
     startChunk: 127.3 km
     endChunk: 127.4 km
     endAhead: 147.4 km
     down: 1
     downward: 5
-    rel: 2.7e-2
-    frac: 0.4
+    rel: 2.777778e-2
+    frac: 0.44444444
   - chunk: 1255
     startChunk: 130.4 km
     endChunk: 130.5 km
     endAhead: 150.5 km
     down: 1
     downward: 4
-    rel: 2.0e-2
-    frac: 0.46
+    rel: 2.222222e-2
+    frac: 0.46666667
   - chunk: 1285
     startChunk: 133.4 km
     endChunk: 133.5 km
     endAhead: 153.5 km
     down: 1
     downward: 3
-    rel: 1.6e-2
-    frac: 0.483
+    rel: 1.666667e-2
+    frac: 0.48333333
   - chunk: 1304
     startChunk: 135.3 km
     endChunk: 135.4 km
     endAhead: 155.4 km
     down: 1
     downward: 2
-    rel: 1.0e-2
-    frac: 0.494
+    rel: 1.111111e-2
+    frac: 0.49444444
   - chunk: 1344
     startChunk: 139.3 km
     endChunk: 139.4 km
     endAhead: 159.4 km
     down: 1
     downward: 1
-    rel: 5.0e-3
+    rel: 5.55556e-3
     frac: 0.5
 - - chunk: 32
-    startChunk: 8.0 km
-    endChunk: 8.1 km
+    startChunk: 8.1 km
+    endChunk: 8.2 km
     endAhead: 22.6 km
     down: 1
     downward: 5
-    rel: 1.445086e-2
-    frac: 1.445086e-2
+    rel: 1.445087e-2
+    frac: 1.445087e-2
   - chunk: 99
     startChunk: 14.8 km
     endChunk: 14.9 km
@@ -231,46 +231,46 @@ difficulty:
     down: 1
     downward: 13
     rel: 3.757225e-2
-    frac: 8.959537e-2
+    frac: 8.959538e-2
   - chunk: 174
     startChunk: 22.3 km
     endChunk: 22.4 km
-    endAhead: 36.7 km
+    endAhead: 36.8 km
     down: 1
     downward: 14
-    rel: 4.046242e-2
+    rel: 4.046243e-2
     frac: 0.1300578
   - chunk: 180
     startChunk: 22.9 km
     endChunk: 23.0 km
-    endAhead: 37.3 km
+    endAhead: 37.4 km
     down: 1
     downward: 13
     rel: 3.757225e-2
-    frac: 0.16763005
+    frac: 0.16763006
   - chunk: 188
-    startChunk: 23.6 km
+    startChunk: 23.7 km
     endChunk: 23.8 km
     endAhead: 38.2 km
     down: 1
     downward: 12
     rel: 3.468208e-2
-    frac: 0.20231213
+    frac: 0.20231214
   - chunk: 204
     startChunk: 25.3 km
     endChunk: 25.4 km
     endAhead: 39.8 km
     down: 1
     downward: 11
-    rel: 3.17919e-2
-    frac: 0.23410404
+    rel: 3.179191e-2
+    frac: 0.23410405
   - chunk: 253
     startChunk: 30.2 km
     endChunk: 30.3 km
     endAhead: 44.7 km
     down: 1
     downward: 11
-    rel: 3.17919e-2
+    rel: 3.179191e-2
     frac: 0.26589595
   - chunk: 254
     startChunk: 30.3 km
@@ -279,7 +279,7 @@ difficulty:
     down: 1
     downward: 10
     rel: 2.890173e-2
-    frac: 0.29479768
+    frac: 0.29479769
   - chunk: 256
     startChunk: 30.5 km
     endChunk: 30.6 km
@@ -287,15 +287,15 @@ difficulty:
     down: 1
     downward: 9
     rel: 2.601156e-2
-    frac: 0.32080924
+    frac: 0.32080925
   - chunk: 257
     startChunk: 30.6 km
     endChunk: 30.7 km
     endAhead: 45.1 km
     down: 1
     downward: 8
-    rel: 2.312138e-2
-    frac: 0.34393063
+    rel: 2.312139e-2
+    frac: 0.34393064
   - chunk: 258
     startChunk: 30.7 km
     endChunk: 30.8 km
@@ -303,7 +303,7 @@ difficulty:
     down: 1
     downward: 7
     rel: 2.023121e-2
-    frac: 0.36416184
+    frac: 0.36416185
   - chunk: 269
     startChunk: 31.8 km
     endChunk: 31.9 km
@@ -313,13 +313,13 @@ difficulty:
     rel: 1.734104e-2
     frac: 0.38150289
   - chunk: 274
-    startChunk: 32.2 km
+    startChunk: 32.3 km
     endChunk: 32.4 km
     endAhead: 46.8 km
     down: 1
     downward: 5
-    rel: 1.445086e-2
-    frac: 0.39595375
+    rel: 1.445087e-2
+    frac: 0.39595376
   - chunk: 276
     startChunk: 32.5 km
     endChunk: 32.6 km
@@ -342,8 +342,8 @@ difficulty:
     endAhead: 50.6 km
     down: 1
     downward: 2
-    rel: 5.78034e-3
-    frac: 0.42196531
+    rel: 5.78035e-3
+    frac: 0.42196532
   - chunk: 352
     startChunk: 40.1 km
     endChunk: 40.2 km
@@ -358,19 +358,19 @@ difficulty:
     endAhead: 71.0 km
     down: 1
     downward: 2
-    rel: 5.78034e-3
-    frac: 0.43063583
+    rel: 5.78035e-3
+    frac: 0.43063584
   - chunk: 549
     startChunk: 59.8 km
     endChunk: 59.9 km
-    endAhead: 74.2 km
+    endAhead: 74.3 km
     down: 1
     downward: 1
     rel: 2.89017e-3
     frac: 0.43352601
   - chunk: 718
     startChunk: 76.7 km
-    endChunk: 76.7 km
+    endChunk: 76.8 km
     endAhead: 91.2 km
     down: 1
     downward: 1
@@ -383,14 +383,14 @@ difficulty:
     down: 1
     downward: 3
     rel: 8.67052e-3
-    frac: 0.4450867
+    frac: 0.44508671
   - chunk: 981
     startChunk: 103.0 km
     endChunk: 103.1 km
     endAhead: 117.5 km
     down: 1
     downward: 2
-    rel: 5.78034e-3
+    rel: 5.78035e-3
     frac: 0.45086705
   - chunk: 986
     startChunk: 103.5 km
@@ -399,22 +399,22 @@ difficulty:
     down: 1
     downward: 1
     rel: 2.89017e-3
-    frac: 0.45375722
+    frac: 0.45375723
   - chunk: 1142
     startChunk: 119.1 km
     endChunk: 119.2 km
-    endAhead: 133.5 km
+    endAhead: 133.6 km
     down: 1
     downward: 3
     rel: 8.67052e-3
-    frac: 0.46242774
+    frac: 0.46242775
   - chunk: 1188
     startChunk: 123.7 km
     endChunk: 123.8 km
     endAhead: 138.2 km
     down: 1
     downward: 2
-    rel: 5.78034e-3
+    rel: 5.78035e-3
     frac: 0.46820809
   - chunk: 1191
     startChunk: 124.0 km
@@ -423,7 +423,7 @@ difficulty:
     down: 1
     downward: 1
     rel: 2.89017e-3
-    frac: 0.47109826
+    frac: 0.47109827
   - chunk: 1394
     startChunk: 144.3 km
     endChunk: 144.4 km
@@ -431,7 +431,7 @@ difficulty:
     down: 1
     downward: 4
     rel: 1.156069e-2
-    frac: 0.48265895
+    frac: 0.48265896
   - chunk: 1395
     startChunk: 144.4 km
     endChunk: 144.5 km
@@ -439,18 +439,18 @@ difficulty:
     down: 1
     downward: 3
     rel: 8.67052e-3
-    frac: 0.49132947
+    frac: 0.49132948
   - chunk: 1410
     startChunk: 145.9 km
     endChunk: 146.0 km
     endAhead: 160.4 km
     down: 1
     downward: 2
-    rel: 5.78034e-3
-    frac: 0.49710982
+    rel: 5.78035e-3
+    frac: 0.49710983
   - chunk: 1411
     startChunk: 146.0 km
-    endChunk: 146.0 km
+    endChunk: 146.1 km
     endAhead: 160.5 km
     down: 1
     downward: 1
@@ -462,63 +462,63 @@ difficulty:
     endAhead: 51.9 km
     down: 1
     downward: 5
-    rel: 5.681e-2
-    frac: 5.681e-2
+    rel: 5.681818e-2
+    frac: 5.681818e-2
   - chunk: 198
     startChunk: 24.7 km
     endChunk: 24.8 km
     endAhead: 60.5 km
     down: 1
     downward: 4
-    rel: 4.5e-2
-    frac: 0.10227
+    rel: 4.545455e-2
+    frac: 0.10227273
   - chunk: 342
     startChunk: 39.1 km
     endChunk: 39.2 km
     endAhead: 74.9 km
     down: 1
     downward: 5
-    rel: 5.681e-2
-    frac: 0.159
+    rel: 5.681818e-2
+    frac: 0.15909091
   - chunk: 385
     startChunk: 43.4 km
     endChunk: 43.5 km
     endAhead: 79.2 km
     down: 1
     downward: 4
-    rel: 4.5e-2
-    frac: 0.2045
+    rel: 4.545455e-2
+    frac: 0.20454545
   - chunk: 396
     startChunk: 44.5 km
     endChunk: 44.6 km
-    endAhead: 80.2 km
+    endAhead: 80.3 km
     down: 1
     downward: 3
-    rel: 3.409e-2
-    frac: 0.23863
+    rel: 3.409091e-2
+    frac: 0.23863636
   - chunk: 639
     startChunk: 68.8 km
     endChunk: 68.9 km
     endAhead: 104.6 km
     down: 1
     downward: 5
-    rel: 5.681e-2
-    frac: 0.2954
+    rel: 5.681818e-2
+    frac: 0.29545455
   - chunk: 678
     startChunk: 72.7 km
-    endChunk: 72.7 km
+    endChunk: 72.8 km
     endAhead: 108.5 km
     down: 1
     downward: 4
-    rel: 4.5e-2
-    frac: 0.3409
+    rel: 4.545455e-2
+    frac: 0.34090909
   - chunk: 848
     startChunk: 89.7 km
     endChunk: 89.8 km
     endAhead: 125.5 km
     down: 1
     downward: 3
-    rel: 3.409e-2
+    rel: 3.409091e-2
     frac: 0.375
   - chunk: 850
     startChunk: 89.9 km
@@ -526,42 +526,42 @@ difficulty:
     endAhead: 125.7 km
     down: 1
     downward: 2
-    rel: 2.27e-2
-    frac: 0.39772
+    rel: 2.272727e-2
+    frac: 0.39772727
   - chunk: 927
     startChunk: 97.6 km
     endChunk: 97.7 km
     endAhead: 133.4 km
     down: 1
     downward: 3
-    rel: 3.409e-2
-    frac: 0.4318
+    rel: 3.409091e-2
+    frac: 0.43181818
   - chunk: 1242
     startChunk: 129.1 km
-    endChunk: 129.1 km
+    endChunk: 129.2 km
     endAhead: 164.9 km
     down: 1
     downward: 3
-    rel: 3.409e-2
-    frac: 0.4659
+    rel: 3.409091e-2
+    frac: 0.46590909
   - chunk: 1267
     startChunk: 131.6 km
-    endChunk: 131.6 km
+    endChunk: 131.7 km
     endAhead: 167.4 km
     down: 1
     downward: 2
-    rel: 2.27e-2
-    frac: 0.48863
+    rel: 2.272727e-2
+    frac: 0.48863636
   - chunk: 1370
     startChunk: 141.9 km
     endChunk: 142.0 km
     endAhead: 177.7 km
     down: 1
     downward: 1
-    rel: 1.136e-2
+    rel: 1.136364e-2
     frac: 0.5
 - - chunk: 33
-    startChunk: 8.1 km
+    startChunk: 8.2 km
     endChunk: 8.3 km
     endAhead: 29.7 km
     down: 1
@@ -582,7 +582,7 @@ difficulty:
     endAhead: 39.5 km
     down: 1
     downward: 4
-    rel: 2.150537e-2
+    rel: 2.150538e-2
     frac: 8.064516e-2
   - chunk: 136
     startChunk: 18.5 km
@@ -594,19 +594,19 @@ difficulty:
     frac: 9.677419e-2
   - chunk: 159
     startChunk: 20.8 km
-    endChunk: 20.8 km
+    endChunk: 20.9 km
     endAhead: 42.3 km
     down: 1
     downward: 3
     rel: 1.612903e-2
-    frac: 0.11290322
+    frac: 0.11290323
   - chunk: 246
     startChunk: 29.5 km
     endChunk: 29.6 km
     endAhead: 51.0 km
     down: 1
     downward: 2
-    rel: 1.075268e-2
+    rel: 1.075269e-2
     frac: 0.12365591
   - chunk: 358
     startChunk: 40.7 km
@@ -615,25 +615,25 @@ difficulty:
     down: 1
     downward: 3
     rel: 1.612903e-2
-    frac: 0.13978494
+    frac: 0.13978495
   - chunk: 474
     startChunk: 52.3 km
     endChunk: 52.4 km
-    endAhead: 73.7 km
+    endAhead: 73.8 km
     down: 1
     downward: 2
-    rel: 1.075268e-2
+    rel: 1.075269e-2
     frac: 0.15053763
   - chunk: 509
     startChunk: 55.8 km
     endChunk: 55.9 km
-    endAhead: 77.2 km
+    endAhead: 77.3 km
     down: 2
     downward: 1
     rel: 5.37634e-3
-    frac: 0.15591397
+    frac: 0.15591398
   - chunk: 759
-    startChunk: 80.7 km
+    startChunk: 80.8 km
     endChunk: 80.9 km
     endAhead: 102.3 km
     down: 1
@@ -646,8 +646,8 @@ difficulty:
     endAhead: 107.2 km
     down: 1
     downward: 9
-    rel: 4.838709e-2
-    frac: 0.23655913
+    rel: 4.83871e-2
+    frac: 0.23655914
   - chunk: 873
     startChunk: 92.2 km
     endChunk: 92.3 km
@@ -662,7 +662,7 @@ difficulty:
     endAhead: 118.5 km
     down: 1
     downward: 7
-    rel: 3.76344e-2
+    rel: 3.763441e-2
     frac: 0.3172043
   - chunk: 939
     startChunk: 98.8 km
@@ -670,8 +670,8 @@ difficulty:
     endAhead: 120.3 km
     down: 1
     downward: 7
-    rel: 3.76344e-2
-    frac: 0.3548387
+    rel: 3.763441e-2
+    frac: 0.35483871
   - chunk: 958
     startChunk: 100.7 km
     endChunk: 100.8 km
@@ -687,7 +687,7 @@ difficulty:
     down: 1
     downward: 6
     rel: 3.225806e-2
-    frac: 0.41935483
+    frac: 0.41935484
   - chunk: 992
     startChunk: 104.1 km
     endChunk: 104.2 km
@@ -695,31 +695,31 @@ difficulty:
     down: 1
     downward: 5
     rel: 2.688172e-2
-    frac: 0.44623655
+    frac: 0.44623656
   - chunk: 996
     startChunk: 104.5 km
     endChunk: 104.6 km
     endAhead: 126.0 km
     down: 1
     downward: 4
-    rel: 2.150537e-2
-    frac: 0.46774193
+    rel: 2.150538e-2
+    frac: 0.46774194
   - chunk: 1018
     startChunk: 106.7 km
     endChunk: 106.8 km
-    endAhead: 128.1 km
+    endAhead: 128.2 km
     down: 1
     downward: 3
     rel: 1.612903e-2
-    frac: 0.48387096
+    frac: 0.48387097
   - chunk: 1145
     startChunk: 119.4 km
     endChunk: 119.5 km
     endAhead: 140.9 km
     down: 1
     downward: 2
-    rel: 1.075268e-2
-    frac: 0.49462365
+    rel: 1.075269e-2
+    frac: 0.49462366
   - chunk: 1183
     startChunk: 123.2 km
     endChunk: 123.3 km
@@ -734,63 +734,63 @@ difficulty:
     endAhead: 36.7 km
     down: 1
     downward: 2
-    rel: 6.4935e-3
-    frac: 6.4935e-3
+    rel: 6.49351e-3
+    frac: 6.49351e-3
   - chunk: 271
     startChunk: 32.0 km
     endChunk: 32.1 km
     endAhead: 41.8 km
     down: 1
     downward: 2
-    rel: 6.4935e-3
-    frac: 1.2987e-2
+    rel: 6.49351e-3
+    frac: 1.298701e-2
   - chunk: 332
     startChunk: 38.1 km
     endChunk: 38.2 km
     endAhead: 47.9 km
     down: 1
     downward: 3
-    rel: 9.74025e-3
-    frac: 2.27e-2
+    rel: 9.74026e-3
+    frac: 2.272727e-2
   - chunk: 374
     startChunk: 42.3 km
-    endChunk: 42.3 km
+    endChunk: 42.4 km
     endAhead: 52.1 km
     down: 1
     downward: 5
-    rel: 1.623376e-2
-    frac: 3.8961e-2
+    rel: 1.623377e-2
+    frac: 3.896104e-2
   - chunk: 403
     startChunk: 45.2 km
     endChunk: 45.3 km
     endAhead: 55.0 km
     down: 1
     downward: 4
-    rel: 1.2987e-2
-    frac: 5.1948e-2
+    rel: 1.298701e-2
+    frac: 5.194805e-2
   - chunk: 437
     startChunk: 48.6 km
     endChunk: 48.7 km
     endAhead: 58.4 km
     down: 1
     downward: 6
-    rel: 1.94805e-2
-    frac: 7.14285e-2
+    rel: 1.948052e-2
+    frac: 7.142857e-2
   - chunk: 468
     startChunk: 51.7 km
     endChunk: 51.8 km
     endAhead: 61.5 km
     down: 1
     downward: 5
-    rel: 1.623376e-2
-    frac: 8.766233e-2
+    rel: 1.623377e-2
+    frac: 8.766234e-2
   - chunk: 470
     startChunk: 51.9 km
     endChunk: 52.0 km
     endAhead: 61.7 km
     down: 1
     downward: 4
-    rel: 1.2987e-2
+    rel: 1.298701e-2
     frac: 0.10064935
   - chunk: 505
     startChunk: 55.4 km
@@ -798,20 +798,20 @@ difficulty:
     endAhead: 65.2 km
     down: 1
     downward: 3
-    rel: 9.74025e-3
-    frac: 0.1103896
+    rel: 9.74026e-3
+    frac: 0.11038961
   - chunk: 519
     startChunk: 56.8 km
     endChunk: 56.9 km
-    endAhead: 66.5 km
+    endAhead: 66.6 km
     down: 1
     downward: 2
-    rel: 6.4935e-3
-    frac: 0.116883
+    rel: 6.49351e-3
+    frac: 0.11688312
   - chunk: 529
     startChunk: 57.8 km
     endChunk: 57.9 km
-    endAhead: 67.5 km
+    endAhead: 67.6 km
     down: 1
     downward: 1
     rel: 3.24675e-3
@@ -822,7 +822,7 @@ difficulty:
     endAhead: 81.2 km
     down: 1
     downward: 4
-    rel: 1.2987e-2
+    rel: 1.298701e-2
     frac: 0.13311688
   - chunk: 692
     startChunk: 74.1 km
@@ -830,39 +830,39 @@ difficulty:
     endAhead: 83.9 km
     down: 1
     downward: 3
-    rel: 9.74025e-3
-    frac: 0.142857
+    rel: 9.74026e-3
+    frac: 0.14285714
   - chunk: 732
     startChunk: 78.1 km
     endChunk: 78.2 km
     endAhead: 87.9 km
     down: 1
     downward: 5
-    rel: 1.623376e-2
-    frac: 0.159
+    rel: 1.623377e-2
+    frac: 0.15909091
   - chunk: 746
     startChunk: 79.5 km
     endChunk: 79.6 km
     endAhead: 89.3 km
     down: 1
     downward: 7
-    rel: 2.27e-2
-    frac: 0.18
+    rel: 2.272727e-2
+    frac: 0.18181818
   - chunk: 790
     startChunk: 83.9 km
     endChunk: 84.0 km
     endAhead: 93.7 km
     down: 1
     downward: 7
-    rel: 2.27e-2
-    frac: 0.2045
+    rel: 2.272727e-2
+    frac: 0.20454545
   - chunk: 806
     startChunk: 85.5 km
     endChunk: 85.6 km
     endAhead: 95.3 km
     down: 1
     downward: 6
-    rel: 1.94805e-2
+    rel: 1.948052e-2
     frac: 0.22402597
   - chunk: 821
     startChunk: 87.0 km
@@ -870,7 +870,7 @@ difficulty:
     endAhead: 96.8 km
     down: 1
     downward: 6
-    rel: 1.94805e-2
+    rel: 1.948052e-2
     frac: 0.24350649
   - chunk: 834
     startChunk: 88.3 km
@@ -878,47 +878,47 @@ difficulty:
     endAhead: 98.1 km
     down: 1
     downward: 5
-    rel: 1.623376e-2
-    frac: 0.25974
+    rel: 1.623377e-2
+    frac: 0.25974026
   - chunk: 841
     startChunk: 89.0 km
     endChunk: 89.1 km
     endAhead: 98.8 km
     down: 1
     downward: 5
-    rel: 1.623376e-2
-    frac: 0.27597402
+    rel: 1.623377e-2
+    frac: 0.27597403
   - chunk: 842
     startChunk: 89.1 km
     endChunk: 89.2 km
     endAhead: 98.9 km
     down: 2
     downward: 4
-    rel: 1.2987e-2
-    frac: 0.28896103
+    rel: 1.298701e-2
+    frac: 0.28896104
   - chunk: 880
     startChunk: 92.9 km
     endChunk: 93.0 km
     endAhead: 102.7 km
     down: 1
     downward: 3
-    rel: 9.74025e-3
-    frac: 0.298701
+    rel: 9.74026e-3
+    frac: 0.2987013
   - chunk: 913
     startChunk: 96.2 km
     endChunk: 96.3 km
     endAhead: 106.0 km
     down: 1
     downward: 4
-    rel: 1.2987e-2
-    frac: 0.311688
+    rel: 1.298701e-2
+    frac: 0.31168831
   - chunk: 932
     startChunk: 98.1 km
     endChunk: 98.2 km
     endAhead: 107.9 km
     down: 1
     downward: 3
-    rel: 9.74025e-3
+    rel: 9.74026e-3
     frac: 0.32142857
   - chunk: 988
     startChunk: 103.7 km
@@ -926,7 +926,7 @@ difficulty:
     endAhead: 113.5 km
     down: 1
     downward: 10
-    rel: 3.24675e-2
+    rel: 3.246753e-2
     frac: 0.3538961
   - chunk: 1006
     startChunk: 105.5 km
@@ -934,31 +934,31 @@ difficulty:
     endAhead: 115.3 km
     down: 1
     downward: 9
-    rel: 2.922077e-2
-    frac: 0.3831168
+    rel: 2.922078e-2
+    frac: 0.38311688
   - chunk: 1030
     startChunk: 107.9 km
     endChunk: 108.0 km
     endAhead: 117.7 km
     down: 1
     downward: 8
-    rel: 2.5974e-2
-    frac: 0.409
+    rel: 2.597403e-2
+    frac: 0.40909091
   - chunk: 1034
     startChunk: 108.3 km
     endChunk: 108.4 km
     endAhead: 118.1 km
     down: 1
     downward: 7
-    rel: 2.27e-2
-    frac: 0.4318
+    rel: 2.272727e-2
+    frac: 0.43181818
   - chunk: 1037
     startChunk: 108.6 km
     endChunk: 108.7 km
     endAhead: 118.4 km
     down: 1
     downward: 6
-    rel: 1.94805e-2
+    rel: 1.948052e-2
     frac: 0.4512987
   - chunk: 1041
     startChunk: 109.0 km
@@ -966,23 +966,23 @@ difficulty:
     endAhead: 118.8 km
     down: 1
     downward: 5
-    rel: 1.623376e-2
-    frac: 0.467532
+    rel: 1.623377e-2
+    frac: 0.46753247
   - chunk: 1045
     startChunk: 109.4 km
     endChunk: 109.5 km
     endAhead: 119.2 km
     down: 1
     downward: 4
-    rel: 1.2987e-2
-    frac: 0.480519
+    rel: 1.298701e-2
+    frac: 0.48051948
   - chunk: 1048
     startChunk: 109.7 km
     endChunk: 109.8 km
     endAhead: 119.5 km
     down: 1
     downward: 3
-    rel: 9.74025e-3
+    rel: 9.74026e-3
     frac: 0.49025974
   - chunk: 1060
     startChunk: 110.9 km
@@ -990,8 +990,8 @@ difficulty:
     endAhead: 120.7 km
     down: 1
     downward: 2
-    rel: 6.4935e-3
-    frac: 0.49675324
+    rel: 6.49351e-3
+    frac: 0.49675325
   - chunk: 1078
     startChunk: 112.7 km
     endChunk: 112.8 km
@@ -1002,99 +1002,99 @@ difficulty:
     frac: 0.5
 - - chunk: 42
     startChunk: 9.1 km
-    endChunk: 9.1 km
+    endChunk: 9.2 km
     endAhead: 29.3 km
     down: 1
     downward: 4
-    rel: 1.8e-2
-    frac: 1.8e-2
+    rel: 1.818182e-2
+    frac: 1.818182e-2
   - chunk: 66
     startChunk: 11.5 km
     endChunk: 11.6 km
     endAhead: 31.7 km
     down: 1
     downward: 3
-    rel: 1.36e-2
-    frac: 3.18e-2
+    rel: 1.363636e-2
+    frac: 3.181818e-2
   - chunk: 92
-    startChunk: 14.0 km
+    startChunk: 14.1 km
     endChunk: 14.2 km
-    endAhead: 34.2 km
+    endAhead: 34.3 km
     down: 1
     downward: 3
-    rel: 1.36e-2
-    frac: 4.5e-2
+    rel: 1.363636e-2
+    frac: 4.545455e-2
   - chunk: 149
     startChunk: 19.8 km
-    endChunk: 19.8 km
+    endChunk: 19.9 km
     endAhead: 40.0 km
     down: 1
     downward: 3
-    rel: 1.36e-2
-    frac: 5.9e-2
+    rel: 1.363636e-2
+    frac: 5.909091e-2
   - chunk: 272
     startChunk: 32.1 km
     endChunk: 32.2 km
     endAhead: 52.3 km
     down: 1
     downward: 4
-    rel: 1.8e-2
-    frac: 7.72e-2
+    rel: 1.818182e-2
+    frac: 7.727273e-2
   - chunk: 315
     startChunk: 36.4 km
     endChunk: 36.5 km
     endAhead: 56.6 km
     down: 1
     downward: 4
-    rel: 1.8e-2
-    frac: 9.54e-2
+    rel: 1.818182e-2
+    frac: 9.545455e-2
   - chunk: 408
     startChunk: 45.7 km
     endChunk: 45.8 km
     endAhead: 65.9 km
     down: 1
     downward: 3
-    rel: 1.36e-2
-    frac: 0.109
+    rel: 1.363636e-2
+    frac: 0.10909091
   - chunk: 415
     startChunk: 46.4 km
     endChunk: 46.5 km
-    endAhead: 66.5 km
+    endAhead: 66.6 km
     down: 1
     downward: 2
-    rel: 9.0e-3
-    frac: 0.118
+    rel: 9.09091e-3
+    frac: 0.11818182
   - chunk: 511
     startChunk: 56.0 km
     endChunk: 56.1 km
     endAhead: 76.2 km
     down: 1
     downward: 2
-    rel: 9.0e-3
-    frac: 0.127
+    rel: 9.09091e-3
+    frac: 0.12727273
   - chunk: 682
     startChunk: 73.1 km
     endChunk: 73.2 km
     endAhead: 93.3 km
     down: 1
     downward: 4
-    rel: 1.8e-2
-    frac: 0.145
+    rel: 1.818182e-2
+    frac: 0.14545455
   - chunk: 725
     startChunk: 77.4 km
     endChunk: 77.5 km
     endAhead: 97.6 km
     down: 1
     downward: 4
-    rel: 1.8e-2
-    frac: 0.163
+    rel: 1.818182e-2
+    frac: 0.16363636
   - chunk: 796
     startChunk: 84.5 km
     endChunk: 84.6 km
     endAhead: 104.7 km
     down: 1
     downward: 8
-    rel: 3.6e-2
+    rel: 3.636364e-2
     frac: 0.2
   - chunk: 848
     startChunk: 89.7 km
@@ -1102,31 +1102,31 @@ difficulty:
     endAhead: 109.9 km
     down: 1
     downward: 7
-    rel: 3.18e-2
-    frac: 0.2318
+    rel: 3.181818e-2
+    frac: 0.23181818
   - chunk: 916
     startChunk: 96.5 km
     endChunk: 96.6 km
     endAhead: 116.7 km
     down: 1
     downward: 6
-    rel: 2.7e-2
-    frac: 0.259
+    rel: 2.727273e-2
+    frac: 0.25909091
   - chunk: 927
     startChunk: 97.6 km
     endChunk: 97.7 km
     endAhead: 117.8 km
     down: 1
     downward: 5
-    rel: 2.27e-2
-    frac: 0.281
+    rel: 2.272727e-2
+    frac: 0.28181818
   - chunk: 934
     startChunk: 98.3 km
     endChunk: 98.4 km
     endAhead: 118.5 km
     down: 1
     downward: 4
-    rel: 1.8e-2
+    rel: 1.818182e-2
     frac: 0.3
   - chunk: 965
     startChunk: 101.4 km
@@ -1134,102 +1134,102 @@ difficulty:
     endAhead: 121.6 km
     down: 1
     downward: 3
-    rel: 1.36e-2
-    frac: 0.3136
+    rel: 1.363636e-2
+    frac: 0.31363636
   - chunk: 970
     startChunk: 101.9 km
     endChunk: 102.0 km
     endAhead: 122.1 km
     down: 1
     downward: 2
-    rel: 9.0e-3
-    frac: 0.3227
+    rel: 9.09091e-3
+    frac: 0.32272727
   - chunk: 971
     startChunk: 102.0 km
     endChunk: 102.1 km
     endAhead: 122.2 km
     down: 1
     downward: 1
-    rel: 4.5e-3
-    frac: 0.327
+    rel: 4.54545e-3
+    frac: 0.32727273
   - chunk: 1292
-    startChunk: 134.0 km
+    startChunk: 134.1 km
     endChunk: 134.2 km
     endAhead: 154.3 km
     down: 1
     downward: 3
-    rel: 1.36e-2
-    frac: 0.3409
+    rel: 1.363636e-2
+    frac: 0.34090909
   - chunk: 1333
     startChunk: 138.2 km
     endChunk: 138.3 km
     endAhead: 158.4 km
     down: 1
     downward: 5
-    rel: 2.27e-2
-    frac: 0.36
+    rel: 2.272727e-2
+    frac: 0.36363636
   - chunk: 1393
     startChunk: 144.2 km
     endChunk: 144.3 km
     endAhead: 164.4 km
     down: 1
     downward: 5
-    rel: 2.27e-2
-    frac: 0.3863
+    rel: 2.272727e-2
+    frac: 0.38636364
   - chunk: 1521
     startChunk: 157.0 km
-    endChunk: 157.0 km
+    endChunk: 157.1 km
     endAhead: 177.2 km
     down: 1
     downward: 6
-    rel: 2.7e-2
-    frac: 0.4136
+    rel: 2.727273e-2
+    frac: 0.41363636
   - chunk: 1523
     startChunk: 157.2 km
     endChunk: 157.3 km
     endAhead: 177.4 km
     down: 1
     downward: 5
-    rel: 2.27e-2
-    frac: 0.436
+    rel: 2.272727e-2
+    frac: 0.43636364
   - chunk: 1532
-    startChunk: 158.0 km
+    startChunk: 158.1 km
     endChunk: 158.2 km
     endAhead: 178.3 km
     down: 1
     downward: 4
-    rel: 1.8e-2
-    frac: 0.45
+    rel: 1.818182e-2
+    frac: 0.45454545
   - chunk: 1589
     startChunk: 163.8 km
     endChunk: 163.9 km
     endAhead: 184.0 km
     down: 1
     downward: 4
-    rel: 1.8e-2
-    frac: 0.472
+    rel: 1.818182e-2
+    frac: 0.47272727
   - chunk: 1644
     startChunk: 169.3 km
     endChunk: 169.4 km
     endAhead: 189.5 km
     down: 1
     downward: 3
-    rel: 1.36e-2
-    frac: 0.4863
+    rel: 1.363636e-2
+    frac: 0.48636364
   - chunk: 1675
     startChunk: 172.4 km
     endChunk: 172.5 km
     endAhead: 192.6 km
     down: 1
     downward: 2
-    rel: 9.0e-3
-    frac: 0.4954
+    rel: 9.09091e-3
+    frac: 0.49545455
   - chunk: 1750
     startChunk: 179.9 km
     endChunk: 180.0 km
     endAhead: 200.1 km
     down: 1
     downward: 1
-    rel: 4.5e-3
+    rel: 4.54545e-3
     frac: 0.5
 - null

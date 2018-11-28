@@ -70,33 +70,41 @@ raceTime:
   leadClose: null
   openClose: 28800
   tickClose: null
-bestTime:
+ssBestTime:
 - 2.861944 h
-- 2.475277 h
-- 2.658055 h
-- 2.420277 h
+- 2.475278 h
+- 2.658056 h
+- 2.420278 h
 - null
-- 3.115277 h
+- 3.115278 h
+- null
+gsBestTime:
+- 2.5375 h
+- 2.239167 h
+- 2.336111 h
+- 2.128056 h
+- null
+- 3.169722 h
 - null
 taskDistance:
-- 146.725362
-- 153.60551
+- 146.725361
+- 153.605511
 - 154.655492
 - 157.028575
 - 152.5715
 - 194.668307
-- 204.497955
+- 204.497954
 bestDistance:
-- 146.725362
-- 153.60551
+- 146.725361
+- 153.605511
 - 154.655492
 - 157.028575
 - 112.7655
 - 194.668307
 - null
 sumDistance:
-- 5753.821376
-- 3891.2734600000003
+- 5753.821328
+- 3891.2735060000005
 - 6170.384615999999
 - 5444.1736
 - null
@@ -111,1567 +119,2569 @@ minLead:
 - 2.91e-6
 - null
 lead:
-- - - Paris Williams
+- - - - '3'
+      - Paris Williams
     - coef: 2.07e-6
       frac: 1
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - coef: 2.07e-6
-      frac: 0.99994642
-  - - Michael Bilyk
+      frac: 0.99994643
+  - - - '1'
+      - Michael Bilyk
     - coef: 2.08e-6
-      frac: 0.99964025
-  - - Jonas Lobitz
-    - coef: 2.09e-6
-      frac: 0.99936024
-  - - Adam Stevens
-    - coef: 2.09e-6
-      frac: 0.99927823
-  - - Geoff Robertson
+      frac: 0.99964026
+  - - - '49'
+      - Jonas Lobitz
     - coef: 2.1e-6
-      frac: 0.99921317
-  - - Guy Hubbard
-    - coef: 2.13e-6
-      frac: 0.99874892
-  - - Conrad Loten
-    - coef: 2.13e-6
-      frac: 0.99871459
-  - - Neil Petersen
-    - coef: 2.15e-6
-      frac: 0.99848273
-  - - Anton Struganov
+      frac: 0.99936024
+  - - - '29'
+      - Adam Stevens
+    - coef: 2.1e-6
+      frac: 0.99927823
+  - - - '45'
+      - Geoff Robertson
+    - coef: 2.1e-6
+      frac: 0.99921318
+  - - - '28'
+      - Guy Hubbard
+    - coef: 2.14e-6
+      frac: 0.99874893
+  - - - '50'
+      - Conrad Loten
+    - coef: 2.14e-6
+      frac: 0.9987146
+  - - - '21'
+      - Neil Petersen
+    - coef: 2.16e-6
+      frac: 0.99848274
+  - - - '23'
+      - Anton Struganov
     - coef: 2.31e-6
-      frac: 0.99694604
-  - - Andrew Luton
+      frac: 0.99694605
+  - - - '19'
+      - Andrew Luton
     - coef: 2.38e-6
-      frac: 0.9963963
-  - - Ryosuke Hattori
-    - coef: 2.41e-6
+      frac: 0.99639631
+  - - - '5'
+      - Ryosuke Hattori
+    - coef: 2.42e-6
       frac: 0.9961412
-  - - Cameron Tunbridge
-    - coef: 2.62e-6
+  - - - '4'
+      - Cameron Tunbridge
+    - coef: 2.63e-6
       frac: 0.99470343
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - coef: 2.71e-6
-      frac: 0.99417674
-  - - Rohan Taylor
+      frac: 0.99417675
+  - - - '18'
+      - Rohan Taylor
     - coef: 2.72e-6
-      frac: 0.99412185
-  - - Christian Voiblet
-    - coef: 2.74e-6
+      frac: 0.99412186
+  - - - '62'
+      - Christian Voiblet
+    - coef: 2.75e-6
       frac: 0.99396576
-  - - Filippo Oppici
-    - coef: 2.74e-6
-      frac: 0.99394793
-  - - Davis Straub
-    - coef: 2.76e-6
+  - - - '33'
+      - Filippo Oppici
+    - coef: 2.75e-6
+      frac: 0.99394794
+  - - - '60'
+      - Davis Straub
+    - coef: 2.77e-6
       frac: 0.99383095
-  - - Rod Flockhart
+  - - - '43'
+      - Rod Flockhart
     - coef: 2.8e-6
       frac: 0.99363761
-  - - Mark Russell
-    - coef: 2.81e-6
-      frac: 0.99354369
-  - - Lukas Bader
+  - - - '58'
+      - Mark Russell
+    - coef: 2.82e-6
+      frac: 0.9935437
+  - - - '40'
+      - Lukas Bader
     - coef: 2.84e-6
       frac: 0.9933962
-  - - Yasuhiro Noma
-    - coef: 2.86e-6
-      frac: 0.99326652
-  - - Tony Giammichele
-    - coef: 2.86e-6
-      frac: 0.99326346
-  - - Attila Bertok
-    - coef: 3.2e-6
+  - - - '46'
+      - Yasuhiro Noma
+    - coef: 2.87e-6
+      frac: 0.99326653
+  - - - '7'
+      - Tony Giammichele
+    - coef: 2.87e-6
+      frac: 0.99326347
+  - - - '41'
+      - Attila Bertok
+    - coef: 3.21e-6
       frac: 0.99146383
-  - - Trent Brown
-    - coef: 3.22e-6
-      frac: 0.99135049
-  - - Glen Mcfarlane
+  - - - '42'
+      - Trent Brown
+    - coef: 3.23e-6
+      frac: 0.9913505
+  - - - '34'
+      - Glen Mcfarlane
     - coef: 3.41e-6
-      frac: 0.9904732
-  - - Victor Hare
+      frac: 0.99047321
+  - - - '48'
+      - Victor Hare
     - coef: 2418852.07125255
       frac: 0
-  - - Peter Lamont
-    - coef: 3722270.73638723
+  - - - '17'
+      - Peter Lamont
+    - coef: 3722270.73638724
       frac: 0
-  - - Jon snr Durand
-    - coef: 8198290.89462935
+  - - - '37'
+      - Jon snr Durand
+    - coef: 8198290.89462936
       frac: 0
-  - - Peter Ebeling
-    - coef: 9572329.06331674
+  - - - '13'
+      - Peter Ebeling
+    - coef: 9572329.06331675
       frac: 0
-  - - Maximilian Respondek
+  - - - '56'
+      - Maximilian Respondek
     - coef: 9616685.8373799
       frac: 0
-  - - Phil Schroder
+  - - - '30'
+      - Phil Schroder
     - coef: 9633207.00621822
       frac: 0
-  - - Len Paton
-    - coef: 9692575.5446317
+  - - - '55'
+      - Len Paton
+    - coef: 9692575.54463171
       frac: 0
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - coef: 9704097.39686656
       frac: 0
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - coef: 9732072.34125283
       frac: 0
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - coef: 9800287.59285264
       frac: 0
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - coef: 1.11635114250264e7
       frac: 0
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - coef: 1.323563533730372e7
       frac: 0
-  - - Andrew Barnes
-    - coef: 2.83260581360666e7
+  - - - '2'
+      - Andrew Barnes
+    - coef: 2.832605813606661e7
       frac: 0
-  - - Adam Jones
+  - - - '22'
+      - Adam Jones
     - coef: 3.791504120025832e7
       frac: 0
-  - - Federico Martini
-    - coef: 3.991351649675568e7
+  - - - '8'
+      - Federico Martini
+    - coef: 3.991351649675569e7
       frac: 0
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - coef: 8.189171584907501e7
       frac: 0
-  - - Michael Tomlinson
+  - - - '16'
+      - Michael Tomlinson
     - coef: 1.0431969008025728e8
       frac: 0
-  - - Patrick Collin
+  - - - '44'
+      - Patrick Collin
     - coef: 1.1241530756526767e8
       frac: 0
-  - - Tony Masters
+  - - - '26'
+      - Tony Masters
     - coef: 1.1560574202971553e8
       frac: 0
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - coef: 1.1693952269987502e8
       frac: 0
-  - - Jamie Shelden
-    - coef: 1.2446076061929731e8
+  - - - '35'
+      - Jamie Shelden
+    - coef: 1.2446076061929732e8
       frac: 0
-  - - Phil Seeley
-    - coef: 1.4318582600685683e8
+  - - - '69'
+      - Phil Seeley
+    - coef: 1.4318582600685684e8
       frac: 0
-- - - Guy Hubbard
+- - - - '28'
+      - Guy Hubbard
     - coef: 1.75e-6
       frac: 1
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - coef: 1.76e-6
       frac: 0.99969517
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - coef: 1.77e-6
-      frac: 0.99942575
-  - - Trent Brown
-    - coef: 1.78e-6
+      frac: 0.99942576
+  - - - '42'
+      - Trent Brown
+    - coef: 1.79e-6
       frac: 0.99911694
-  - - Conrad Loten
+  - - - '50'
+      - Conrad Loten
     - coef: 1.81e-6
       frac: 0.99873152
-  - - Jonas Lobitz
-    - coef: 1.81e-6
+  - - - '49'
+      - Jonas Lobitz
+    - coef: 1.82e-6
       frac: 0.99871482
-  - - Glen Mcfarlane
-    - coef: 1.81e-6
-      frac: 0.998668
-  - - Michael Bilyk
+  - - - '34'
+      - Glen Mcfarlane
     - coef: 1.82e-6
-      frac: 0.9986233
-  - - Lukas Bader
+      frac: 0.99866801
+  - - - '1'
+      - Michael Bilyk
     - coef: 1.82e-6
-      frac: 0.99856804
-  - - Gavin Myers
+      frac: 0.99862331
+  - - - '40'
+      - Lukas Bader
     - coef: 1.83e-6
-      frac: 0.99848903
-  - - Anton Struganov
+      frac: 0.99856805
+  - - - '51'
+      - Gavin Myers
     - coef: 1.83e-6
-      frac: 0.99848562
-  - - Yasuhiro Noma
+      frac: 0.99848904
+  - - - '23'
+      - Anton Struganov
+    - coef: 1.83e-6
+      frac: 0.99848563
+  - - - '46'
+      - Yasuhiro Noma
     - coef: 1.89e-6
       frac: 0.99777485
-  - - Ryosuke Hattori
-    - coef: 1.89e-6
-      frac: 0.9977447
-  - - Paris Williams
-    - coef: 2.15e-6
+  - - - '5'
+      - Ryosuke Hattori
+    - coef: 1.9e-6
+      frac: 0.99774471
+  - - - '3'
+      - Paris Williams
+    - coef: 2.16e-6
       frac: 0.9954596
-  - - Phil Schroder
-    - coef: 537586.46773397
+  - - - '30'
+      - Phil Schroder
+    - coef: 537586.46773398
       frac: 0
-  - - Tony Giammichele
+  - - - '7'
+      - Tony Giammichele
     - coef: 587254.11480176
       frac: 0
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - coef: 830133.27000181
       frac: 0
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - coef: 878219.58217682
       frac: 0
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - coef: 9081010.69920232
       frac: 0
-  - - Victor Hare
-    - coef: 9298601.82517668
+  - - - '48'
+      - Victor Hare
+    - coef: 9298601.82517669
       frac: 0
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - coef: 1.228517901720239e7
       frac: 0
-  - - Patrick Collin
-    - coef: 2.680040189430188e7
+  - - - '44'
+      - Patrick Collin
+    - coef: 2.680040189430189e7
       frac: 0
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - coef: 2.729671490070168e7
       frac: 0
-  - - Nils Vesk
-    - coef: 2.806624262115298e7
+  - - - '20'
+      - Nils Vesk
+    - coef: 2.806624262115299e7
       frac: 0
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - coef: 6.245838123480122e7
       frac: 0
-  - - Len Paton
+  - - - '55'
+      - Len Paton
     - coef: 9.253632532320059e7
       frac: 0
-  - - Andrew Luton
+  - - - '19'
+      - Andrew Luton
     - coef: 9.823839443617572e7
       frac: 0
-  - - Federico Martini
-    - coef: 1.3538851232557534e8
+  - - - '8'
+      - Federico Martini
+    - coef: 1.3538851232557535e8
       frac: 0
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - coef: 1.4509543197937515e8
       frac: 0
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - coef: 1.5116532732000013e8
       frac: 0
-  - - Filippo Oppici
-    - coef: 1.5424052991750012e8
+  - - - '33'
+      - Filippo Oppici
+    - coef: 1.5424052991750013e8
       frac: 0
-  - - Davis Straub
-    - coef: 1.5504617915437511e8
+  - - - '60'
+      - Davis Straub
+    - coef: 1.5504617915437512e8
       frac: 0
-  - - Christian Voiblet
-    - coef: 1.5538184478720011e8
+  - - - '62'
+      - Christian Voiblet
+    - coef: 1.5538184478720012e8
       frac: 0
-  - - Kathryn O'Riordan
-    - coef: 1.5820955685270007e8
+  - - - '53'
+      - Kathryn O'Riordan
+    - coef: 1.5820955685270008e8
       frac: 0
-  - - Peter Ebeling
+  - - - '13'
+      - Peter Ebeling
     - coef: 1.5965636266080009e8
       frac: 0
-  - - Attila Bertok
+  - - - '41'
+      - Attila Bertok
     - coef: 1.598565285555751e8
       frac: 0
-  - - Rod Flockhart
-    - coef: 1.5987733220317509e8
+  - - - '43'
+      - Rod Flockhart
+    - coef: 1.598773322031751e8
       frac: 0
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - coef: 1.5997616801437512e8
       frac: 0
-  - - Neil Petersen
+  - - - '21'
+      - Neil Petersen
     - coef: 1.7284414199670004e8
       frac: 0
-  - - Maximilian Respondek
+  - - - '56'
+      - Maximilian Respondek
     - coef: 1.7742483146857504e8
       frac: 0
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - coef: 1.7834651022937512e8
       frac: 0
-  - - Michael Tomlinson
+  - - - '16'
+      - Michael Tomlinson
     - coef: 1.8159118942657504e8
       frac: 0
-  - - Mark Russell
-    - coef: 1.9211883579270002e8
+  - - - '58'
+      - Mark Russell
+    - coef: 1.9211883579270003e8
       frac: 0
-  - - Cameron Tunbridge
+  - - - '4'
+      - Cameron Tunbridge
     - coef: 2.0035840541669997e8
       frac: 0
-  - - Enda Murphy
-    - coef: 2.0317171036657502e8
+  - - - '36'
+      - Enda Murphy
+    - coef: 2.0317171036657503e8
       frac: 0
-- - - Jonny Durand
+- - - - '39'
+      - Jonny Durand
     - coef: 1.75e-6
       frac: 1
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - coef: 1.78e-6
       frac: 0.99921897
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - coef: 1.84e-6
-      frac: 0.99832367
-  - - Guy Hubbard
-    - coef: 1.84e-6
-      frac: 0.99827354
-  - - Gavin Myers
+      frac: 0.99832368
+  - - - '28'
+      - Guy Hubbard
+    - coef: 1.85e-6
+      frac: 0.99827355
+  - - - '51'
+      - Gavin Myers
     - coef: 1.86e-6
       frac: 0.99810769
-  - - Geoff Robertson
-    - coef: 1.93e-6
+  - - - '45'
+      - Geoff Robertson
+    - coef: 1.94e-6
       frac: 0.99731954
-  - - Yasuhiro Noma
+  - - - '46'
+      - Yasuhiro Noma
     - coef: 1.94e-6
       frac: 0.99728969
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - coef: 1.94e-6
       frac: 0.99728039
-  - - Phil Schroder
-    - coef: 2.05e-6
+  - - - '30'
+      - Phil Schroder
+    - coef: 2.06e-6
       frac: 0.99626301
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - coef: 2.06e-6
-      frac: 0.9962209
-  - - Attila Bertok
-    - coef: 2.06e-6
+      frac: 0.99622091
+  - - - '41'
+      - Attila Bertok
+    - coef: 2.07e-6
       frac: 0.99615212
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - coef: 2.09e-6
-      frac: 0.99597063
-  - - Adam Stevens
-    - coef: 2.12e-6
-      frac: 0.99567719
-  - - Trent Brown
-    - coef: 2.22e-6
-      frac: 0.99497324
-  - - Steve Blenkinsop
+      frac: 0.99597064
+  - - - '29'
+      - Adam Stevens
+    - coef: 2.13e-6
+      frac: 0.9956772
+  - - - '42'
+      - Trent Brown
     - coef: 2.23e-6
-      frac: 0.99487295
-  - - Glen Mcfarlane
+      frac: 0.99497324
+  - - - '24'
+      - Steve Blenkinsop
     - coef: 2.24e-6
+      frac: 0.99487295
+  - - - '34'
+      - Glen Mcfarlane
+    - coef: 2.25e-6
       frac: 0.99483208
-  - - Jonas Lobitz
+  - - - '49'
+      - Jonas Lobitz
     - coef: 2.25e-6
       frac: 0.99477719
-  - - Paris Williams
-    - coef: 2.26e-6
-      frac: 0.9946941
-  - - Conrad Loten
+  - - - '3'
+      - Paris Williams
     - coef: 2.27e-6
-      frac: 0.99465222
-  - - Lukas Bader
+      frac: 0.99469411
+  - - - '50'
+      - Conrad Loten
     - coef: 2.27e-6
-      frac: 0.99464909
-  - - Christian Voiblet
+      frac: 0.99465223
+  - - - '40'
+      - Lukas Bader
+    - coef: 2.27e-6
+      frac: 0.9946491
+  - - - '62'
+      - Christian Voiblet
     - coef: 2.28e-6
-      frac: 0.99456734
-  - - Filippo Oppici
-    - coef: 2.28e-6
-      frac: 0.99453653
-  - - Anton Struganov
-    - coef: 2.28e-6
+      frac: 0.99456735
+  - - - '33'
+      - Filippo Oppici
+    - coef: 2.29e-6
+      frac: 0.99453654
+  - - - '23'
+      - Anton Struganov
+    - coef: 2.29e-6
       frac: 0.99452601
-  - - Enda Murphy
-    - coef: 2.29e-6
-      frac: 0.99448165
-  - - Michael Bilyk
-    - coef: 2.29e-6
-      frac: 0.99447208
-  - - Andrew Barnes
+  - - - '36'
+      - Enda Murphy
+    - coef: 2.3e-6
+      frac: 0.99448166
+  - - - '1'
+      - Michael Bilyk
+    - coef: 2.3e-6
+      frac: 0.99447209
+  - - - '2'
+      - Andrew Barnes
     - coef: 2.32e-6
-      frac: 0.99432143
-  - - Nils Vesk
+      frac: 0.99432144
+  - - - '20'
+      - Nils Vesk
     - coef: 2.35e-6
-      frac: 0.99412257
-  - - Mark Russell
+      frac: 0.99412258
+  - - - '58'
+      - Mark Russell
     - coef: 2.43e-6
-      frac: 0.99358616
-  - - Andrew Luton
-    - coef: 2.53e-6
+      frac: 0.99358617
+  - - - '19'
+      - Andrew Luton
+    - coef: 2.54e-6
       frac: 0.99294203
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - coef: 2.6e-6
-      frac: 0.99256136
-  - - Kathryn O'Riordan
-    - coef: 2.6e-6
-      frac: 0.99254138
-  - - Neil Petersen
+      frac: 0.99256137
+  - - - '53'
+      - Kathryn O'Riordan
+    - coef: 2.61e-6
+      frac: 0.99254139
+  - - - '21'
+      - Neil Petersen
     - coef: 2.64e-6
       frac: 0.9923393
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - coef: 2.7e-6
-      frac: 0.99198229
-  - - Tony Giammichele
+      frac: 0.9919823
+  - - - '7'
+      - Tony Giammichele
     - coef: 2.71e-6
-      frac: 0.99192882
-  - - Cameron Tunbridge
+      frac: 0.99192883
+  - - - '4'
+      - Cameron Tunbridge
     - coef: 2.75e-6
       frac: 0.99170953
-  - - Len Paton
+  - - - '55'
+      - Len Paton
     - coef: 2080858.8165422
       frac: 0
-  - - Patrick Collin
+  - - - '44'
+      - Patrick Collin
     - coef: 7840357.0712672
       frac: 0
-  - - Rod Flockhart
+  - - - '43'
+      - Rod Flockhart
     - coef: 9144843.66054171
       frac: 0
-  - - Mikhail Karmazin
-    - coef: 4.558530745174199e7
+  - - - '14'
+      - Mikhail Karmazin
+    - coef: 4.5585307451742e7
       frac: 0
-  - - Phil Seeley
-    - coef: 5.551222103686262e7
+  - - - '69'
+      - Phil Seeley
+    - coef: 5.551222103686263e7
       frac: 0
-  - - Peter Lamont
-    - coef: 5.708247821766227e7
+  - - - '17'
+      - Peter Lamont
+    - coef: 5.708247821766228e7
       frac: 0
-  - - Jamie Shelden
-    - coef: 9.412896333400132e7
+  - - - '35'
+      - Jamie Shelden
+    - coef: 9.412896333400133e7
       frac: 0
-  - - Adam Jones
-    - coef: 1.0353868001974142e8
+  - - - '22'
+      - Adam Jones
+    - coef: 1.0353868001974143e8
       frac: 0
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - coef: 1.7084833504774042e8
       frac: 0
-  - - Peter Ebeling
-    - coef: 1.7283110252086057e8
+  - - - '13'
+      - Peter Ebeling
+    - coef: 1.7283110252086058e8
       frac: 0
-  - - Ryosuke Hattori
-    - coef: 1.8637110537304042e8
+  - - - '5'
+      - Ryosuke Hattori
+    - coef: 1.8637110537304043e8
       frac: 0
-  - - Tony Masters
+  - - - '26'
+      - Tony Masters
     - coef: 2.3615817432984024e8
       frac: 0
-  - - Michael Tomlinson
+  - - - '16'
+      - Michael Tomlinson
     - coef: 2.6986396728214015e8
       frac: 0
-- - - Attila Bertok
+- - - - '41'
+      - Attila Bertok
     - coef: 1.67e-6
       frac: 1
-  - - Yasuhiro Noma
-    - coef: 1.72e-6
-      frac: 0.99880793
-  - - Steve Blenkinsop
-    - coef: 1.74e-6
+  - - - '46'
+      - Yasuhiro Noma
+    - coef: 1.73e-6
+      frac: 0.99880794
+  - - - '24'
+      - Steve Blenkinsop
+    - coef: 1.75e-6
       frac: 0.99851829
-  - - Andrew Luton
+  - - - '19'
+      - Andrew Luton
     - coef: 1.78e-6
       frac: 0.99804507
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - coef: 1.79e-6
-      frac: 0.99792813
-  - - Cameron Tunbridge
-    - coef: 1.82e-6
+      frac: 0.99792814
+  - - - '4'
+      - Cameron Tunbridge
+    - coef: 1.83e-6
       frac: 0.9975936
-  - - Michael Bilyk
+  - - - '1'
+      - Michael Bilyk
     - coef: 1.85e-6
       frac: 0.99731136
-  - - Glen Mcfarlane
-    - coef: 1.85e-6
+  - - - '34'
+      - Glen Mcfarlane
+    - coef: 1.86e-6
       frac: 0.99726649
-  - - Geoff Robertson
-    - coef: 1.91e-6
+  - - - '45'
+      - Geoff Robertson
+    - coef: 1.92e-6
       frac: 0.99670531
-  - - Neil Petersen
+  - - - '21'
+      - Neil Petersen
     - coef: 1.93e-6
       frac: 0.9965513
-  - - Carl Wallbank
+  - - - '70'
+      - Carl Wallbank
     - coef: 1.95e-6
-      frac: 0.99640615
-  - - Federico Martini
+      frac: 0.99640616
+  - - - '8'
+      - Federico Martini
     - coef: 1.99e-6
-      frac: 0.99605372
-  - - Phil Schroder
-    - coef: 1.99e-6
-      frac: 0.99600831
-  - - Andrew Barnes
+      frac: 0.99605373
+  - - - '30'
+      - Phil Schroder
+    - coef: 2.0e-6
+      frac: 0.99600832
+  - - - '2'
+      - Andrew Barnes
     - coef: 2.06e-6
       frac: 0.99551488
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - coef: 2.18e-6
       frac: 0.99462276
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - coef: 2.2e-6
-      frac: 0.99448908
-  - - Gavin Myers
-    - coef: 2.2e-6
+      frac: 0.99448909
+  - - - '51'
+      - Gavin Myers
+    - coef: 2.21e-6
       frac: 0.99446515
-  - - Paris Williams
+  - - - '3'
+      - Paris Williams
     - coef: 2.22e-6
       frac: 0.99436199
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - coef: 2.23e-6
       frac: 0.99428797
-  - - Tony Giammichele
-    - coef: 2.23e-6
-      frac: 0.99425476
-  - - Lukas Bader
-    - coef: 2.23e-6
+  - - - '7'
+      - Tony Giammichele
+    - coef: 2.24e-6
+      frac: 0.99425477
+  - - - '40'
+      - Lukas Bader
+    - coef: 2.24e-6
       frac: 0.99424707
-  - - Jonny Durand
-    - coef: 2.23e-6
-      frac: 0.99424358
-  - - Trent Brown
-    - coef: 2.23e-6
-      frac: 0.99424077
-  - - Jonas Lobitz
+  - - - '39'
+      - Jonny Durand
+    - coef: 2.24e-6
+      frac: 0.99424359
+  - - - '42'
+      - Trent Brown
+    - coef: 2.24e-6
+      frac: 0.99424078
+  - - - '49'
+      - Jonas Lobitz
     - coef: 2.24e-6
       frac: 0.99421252
-  - - Rod Flockhart
+  - - - '43'
+      - Rod Flockhart
     - coef: 2.25e-6
       frac: 0.99415111
-  - - Dean Hervatin
-    - coef: 3.24e-6
+  - - - '31'
+      - Dean Hervatin
+    - coef: 3.25e-6
       frac: 0.98859204
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - coef: 1.749585943094596e7
       frac: 0
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - coef: 2.171303998509826e7
       frac: 0
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - coef: 3.980262226342576e7
       frac: 0
-  - - Conrad Loten
-    - coef: 4.31457458976017e7
+  - - - '50'
+      - Conrad Loten
+    - coef: 4.314574589760171e7
       frac: 0
-  - - Anton Struganov
-    - coef: 4.319220518297801e7
+  - - - '23'
+      - Anton Struganov
+    - coef: 4.319220518297802e7
       frac: 0
-  - - Christian Voiblet
-    - coef: 4.456219952141726e7
+  - - - '62'
+      - Christian Voiblet
+    - coef: 4.456219952141727e7
       frac: 0
-  - - Filippo Oppici
-    - coef: 4.572617721069737e7
+  - - - '33'
+      - Filippo Oppici
+    - coef: 4.572617721069738e7
       frac: 0
-  - - Akiko Suzuki
+  - - - '6'
+      - Akiko Suzuki
     - coef: 4.935249152422583e7
       frac: 0
-  - - Enda Murphy
-    - coef: 5.313188969837714e7
+  - - - '36'
+      - Enda Murphy
+    - coef: 5.313188969837715e7
       frac: 0
-  - - Jon snr Durand
-    - coef: 5.595162742522562e7
+  - - - '37'
+      - Jon snr Durand
+    - coef: 5.595162742522563e7
       frac: 0
-  - - Patrick Collin
-    - coef: 6.002408102285757e7
+  - - - '44'
+      - Patrick Collin
+    - coef: 6.002408102285758e7
       frac: 0
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - coef: 8.017911379382548e7
       frac: 0
-  - - Tony Masters
-    - coef: 9.12149187809376e7
+  - - - '26'
+      - Tony Masters
+    - coef: 9.121491878093761e7
       frac: 0
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - coef: 1.5308242878902506e8
       frac: 0
-  - - Peter Lamont
-    - coef: 1.5960267027034499e8
+  - - - '17'
+      - Peter Lamont
+    - coef: 1.59602670270345e8
       frac: 0
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - coef: 2.1501990135610427e8
       frac: 0
-  - - Kathryn O'Riordan
-    - coef: 2.5131011258829608e8
+  - - - '53'
+      - Kathryn O'Riordan
+    - coef: 2.5131011258829609e8
       frac: 0
-  - - Peter Ebeling
-    - coef: 2.9415910289050407e8
+  - - - '13'
+      - Peter Ebeling
+    - coef: 2.9415910289050408e8
       frac: 0
-  - - Adam Jones
-    - coef: 3.0251643403860013e8
+  - - - '22'
+      - Adam Jones
+    - coef: 3.0251643403860014e8
       frac: 0
-  - - Michael Tomlinson
+  - - - '16'
+      - Michael Tomlinson
     - coef: 3.0598313794265615e8
       frac: 0
-  - - Maximilian Respondek
-    - coef: 3.2597501934902397e8
+  - - - '56'
+      - Maximilian Respondek
+    - coef: 3.2597501934902398e8
       frac: 0
-- - - Dean Hervatin
+- - - - '31'
+      - Dean Hervatin
     - coef: 3.4e-7
       frac: 1
-  - - Tony Masters
-    - coef: 4.6e-7
-      frac: 0.99649379
-  - - Jon snr Durand
-    - coef: 4.6e-7
-      frac: 0.99643401
-  - - Peter Ebeling
-    - coef: 4.6e-7
+  - - - '26'
+      - Tony Masters
+    - coef: 4.7e-7
+      frac: 0.9964938
+  - - - '37'
+      - Jon snr Durand
+    - coef: 4.7e-7
+      frac: 0.99643402
+  - - - '13'
+      - Peter Ebeling
+    - coef: 4.7e-7
       frac: 0.99643181
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - coef: 4.8e-7
-      frac: 0.99620535
-  - - Nick Purcell
+      frac: 0.99620536
+  - - - '15'
+      - Nick Purcell
     - coef: 8.8e-7
       frac: 0.99055987
-  - - Andrew Luton
+  - - - '19'
+      - Andrew Luton
     - coef: 9.6e-7
       frac: 0.98962013
-  - - Phil Seeley
-    - coef: 9.6e-7
+  - - - '69'
+      - Phil Seeley
+    - coef: 9.7e-7
       frac: 0.98957405
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - coef: 1.05e-6
       frac: 0.98866031
-  - - Trent Brown
-    - coef: 1.28e-6
-      frac: 0.98628281
-  - - Cameron Tunbridge
-    - coef: 1.31e-6
+  - - - '42'
+      - Trent Brown
+    - coef: 1.29e-6
+      frac: 0.98628282
+  - - - '4'
+      - Cameron Tunbridge
+    - coef: 1.32e-6
       frac: 0.98596054
-  - - Yasuhiro Noma
+  - - - '46'
+      - Yasuhiro Noma
     - coef: 1.47e-6
       frac: 0.9845018
-  - - Victor Hare
-    - coef: 1.5e-6
-      frac: 0.98419125
-  - - Ryosuke Hattori
+  - - - '48'
+      - Victor Hare
+    - coef: 1.51e-6
+      frac: 0.98419126
+  - - - '5'
+      - Ryosuke Hattori
     - coef: 1.56e-6
       frac: 0.98372046
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - coef: 1.57e-6
-      frac: 0.98360688
-  - - Federico Martini
+      frac: 0.98360689
+  - - - '8'
+      - Federico Martini
     - coef: 1.62e-6
       frac: 0.98319741
-  - - Kathryn O'Riordan
-    - coef: 1.63e-6
+  - - - '53'
+      - Kathryn O'Riordan
+    - coef: 1.64e-6
       frac: 0.98306771
-  - - Anton Struganov
-    - coef: 1.65e-6
-      frac: 0.982865
-  - - Davis Straub
+  - - - '23'
+      - Anton Struganov
     - coef: 1.66e-6
-      frac: 0.98282813
-  - - Lukas Bader
+      frac: 0.98286501
+  - - - '60'
+      - Davis Straub
+    - coef: 1.66e-6
+      frac: 0.98282814
+  - - - '40'
+      - Lukas Bader
     - coef: 1.67e-6
       frac: 0.98273612
-  - - Patrick Collin
+  - - - '44'
+      - Patrick Collin
     - coef: 1.71e-6
-      frac: 0.98241323
-  - - Mikhail Karmazin
+      frac: 0.98241324
+  - - - '14'
+      - Mikhail Karmazin
     - coef: 1.75e-6
-      frac: 0.98206029
-  - - Maximilian Respondek
-    - coef: 1.76e-6
-      frac: 0.9819265
-  - - Filippo Oppici
+      frac: 0.9820603
+  - - - '56'
+      - Maximilian Respondek
+    - coef: 1.77e-6
+      frac: 0.98192651
+  - - - '33'
+      - Filippo Oppici
     - coef: 1.79e-6
       frac: 0.98172942
-  - - Guy Hubbard
-    - coef: 1.79e-6
+  - - - '28'
+      - Guy Hubbard
+    - coef: 1.8e-6
       frac: 0.98169159
-  - - Jonas Lobitz
+  - - - '49'
+      - Jonas Lobitz
     - coef: 1.81e-6
-      frac: 0.98154608
-  - - Geoff Robertson
+      frac: 0.98154609
+  - - - '45'
+      - Geoff Robertson
     - coef: 1.83e-6
       frac: 0.98138252
-  - - Rohan Taylor
-    - coef: 2.15e-6
+  - - - '18'
+      - Rohan Taylor
+    - coef: 2.16e-6
       frac: 0.97876352
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - coef: 2.16e-6
       frac: 0.9787267
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - coef: 2.17e-6
-      frac: 0.97865192
-  - - Paris Williams
-    - coef: 2.18e-6
-      frac: 0.97852358
-  - - Adam Stevens
+      frac: 0.97865193
+  - - - '3'
+      - Paris Williams
     - coef: 2.19e-6
-      frac: 0.97845019
-  - - Carl Wallbank
+      frac: 0.97852359
+  - - - '29'
+      - Adam Stevens
+    - coef: 2.2e-6
+      frac: 0.9784502
+  - - - '70'
+      - Carl Wallbank
     - coef: 2.21e-6
       frac: 0.97833252
-  - - Attila Bertok
-    - coef: 2.23e-6
+  - - - '41'
+      - Attila Bertok
+    - coef: 2.24e-6
       frac: 0.97814842
-  - - Len Paton
-    - coef: 2.54e-6
+  - - - '55'
+      - Len Paton
+    - coef: 2.55e-6
       frac: 0.97581318
-- - - Rod Flockhart
+- - - - '43'
+      - Rod Flockhart
     - coef: 2.91e-6
       frac: 1
-  - - Yasuhiro Noma
+  - - - '46'
+      - Yasuhiro Noma
     - coef: 2.92e-6
-      frac: 0.99968195
-  - - Jonas Lobitz
+      frac: 0.99968196
+  - - - '49'
+      - Jonas Lobitz
     - coef: 2.93e-6
       frac: 0.99948507
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - coef: 2.94e-6
-      frac: 0.99933817
-  - - Glen Mcfarlane
+      frac: 0.99933818
+  - - - '34'
+      - Glen Mcfarlane
     - coef: 2.94e-6
       frac: 0.99933524
-  - - Trent Brown
-    - coef: 2.95e-6
+  - - - '42'
+      - Trent Brown
+    - coef: 2.96e-6
       frac: 0.99914985
-  - - Christian Voiblet
-    - coef: 2.95e-6
-      frac: 0.99911668
-  - - Carl Wallbank
+  - - - '62'
+      - Christian Voiblet
     - coef: 2.96e-6
-      frac: 0.99904468
-  - - Geoff Robertson
+      frac: 0.99911669
+  - - - '70'
+      - Carl Wallbank
     - coef: 2.96e-6
-      frac: 0.99903861
-  - - Paris Williams
-    - coef: 2.98e-6
-      frac: 0.99877113
-  - - Jonny Durand
-    - coef: 3.01e-6
-      frac: 0.99844016
-  - - Michael Bilyk
+      frac: 0.99904469
+  - - - '45'
+      - Geoff Robertson
+    - coef: 2.97e-6
+      frac: 0.99903862
+  - - - '3'
+      - Paris Williams
+    - coef: 2.99e-6
+      frac: 0.99877114
+  - - - '39'
+      - Jonny Durand
     - coef: 3.02e-6
+      frac: 0.99844016
+  - - - '1'
+      - Michael Bilyk
+    - coef: 3.03e-6
       frac: 0.99835941
-  - - Davis Straub
-    - coef: 3.04e-6
+  - - - '60'
+      - Davis Straub
+    - coef: 3.05e-6
       frac: 0.99815492
-  - - Neil Petersen
+  - - - '21'
+      - Neil Petersen
     - coef: 3.06e-6
       frac: 0.99804681
-  - - Conrad Loten
+  - - - '50'
+      - Conrad Loten
     - coef: 3.07e-6
       frac: 0.99796888
-  - - Adam Stevens
-    - coef: 3.09e-6
-      frac: 0.99775928
-  - - Nils Vesk
+  - - - '29'
+      - Adam Stevens
+    - coef: 3.1e-6
+      frac: 0.99775929
+  - - - '20'
+      - Nils Vesk
     - coef: 3.1e-6
       frac: 0.99771083
-  - - Filippo Oppici
-    - coef: 3.11e-6
-      frac: 0.99759747
-  - - Lukas Bader
-    - coef: 3.35e-6
-      frac: 0.99593473
-  - - Federico Martini
+  - - - '33'
+      - Filippo Oppici
+    - coef: 3.12e-6
+      frac: 0.99759748
+  - - - '40'
+      - Lukas Bader
+    - coef: 3.36e-6
+      frac: 0.99593474
+  - - - '8'
+      - Federico Martini
     - coef: 3.44e-6
       frac: 0.99542203
-  - - Phil Schroder
-    - coef: 3015758.91847908
+  - - - '30'
+      - Phil Schroder
+    - coef: 3015758.91847909
       frac: 0
-  - - Rohan Taylor
-    - coef: 7746496.54519899
+  - - - '18'
+      - Rohan Taylor
+    - coef: 7746496.545199
       frac: 0
-  - - Len Paton
+  - - - '55'
+      - Len Paton
     - coef: 1.020456396374201e7
       frac: 0
-  - - Attila Bertok
+  - - - '41'
+      - Attila Bertok
     - coef: 1.499732208158689e7
       frac: 0
-  - - Victor Hare
-    - coef: 2.008424812461414e7
+  - - - '48'
+      - Victor Hare
+    - coef: 2.008424812461415e7
       frac: 0
-  - - Anton Struganov
-    - coef: 2.053313338841408e7
+  - - - '23'
+      - Anton Struganov
+    - coef: 2.053313338841409e7
       frac: 0
-  - - Mark Russell
-    - coef: 2.242136018570235e7
+  - - - '58'
+      - Mark Russell
+    - coef: 2.242136018570236e7
       frac: 0
-  - - Tony Giammichele
+  - - - '7'
+      - Tony Giammichele
     - coef: 4.015069102529387e7
       frac: 0
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - coef: 4.472255595846665e7
       frac: 0
-  - - Kathryn O'Riordan
+  - - - '53'
+      - Kathryn O'Riordan
     - coef: 5.036459621655894e7
       frac: 0
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - coef: 5.849293527081299e7
       frac: 0
-  - - Patrick Collin
-    - coef: 1.2908211132854112e8
+  - - - '44'
+      - Patrick Collin
+    - coef: 1.2908211132854113e8
       frac: 0
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - coef: 1.3448876453815845e8
       frac: 0
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - coef: 1.370989632699384e8
       frac: 0
-  - - Andrew Luton
-    - coef: 1.44201367113813e8
+  - - - '19'
+      - Andrew Luton
+    - coef: 1.4420136711381301e8
       frac: 0
-  - - Mikhail Karmazin
-    - coef: 1.4738520828640254e8
+  - - - '14'
+      - Mikhail Karmazin
+    - coef: 1.4738520828640255e8
       frac: 0
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - coef: 1.4880352671298084e8
       frac: 0
-  - - Peter Lamont
-    - coef: 1.9289970446529307e8
+  - - - '17'
+      - Peter Lamont
+    - coef: 1.9289970446529308e8
       frac: 0
-  - - Cameron Tunbridge
+  - - - '4'
+      - Cameron Tunbridge
     - coef: 2.1938387111349239e8
       frac: 0
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - coef: 2.3306771234833706e8
       frac: 0
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - coef: 3.0237547212327682e8
       frac: 0
-  - - Akiko Suzuki
-    - coef: 3.4991415587241955e8
+  - - - '6'
+      - Akiko Suzuki
+    - coef: 3.4991415587241956e8
       frac: 0
-  - - Peter Ebeling
-    - coef: 3.5445937219585976e8
+  - - - '13'
+      - Peter Ebeling
+    - coef: 3.5445937219585977e8
       frac: 0
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - coef: 3.9848076886733149e8
       frac: 0
-  - - Hadewych van Kempen
+  - - - '64'
+      - Hadewych van Kempen
     - coef: 4.2152492641321951e8
       frac: 0
-  - - Maximilian Respondek
-    - coef: 4.8540528849745608e8
+  - - - '56'
+      - Maximilian Respondek
+    - coef: 4.8540528849745609e8
       frac: 0
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - coef: 5.1751253286878404e8
       frac: 0
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - coef: 5.3167578802990006e8
       frac: 0
 - []
 arrival:
-- - - Paris Williams
+- - - - '3'
+      - Paris Williams
     - rank: 1
       frac: 1
-  - - Michael Bilyk
+  - - - '1'
+      - Michael Bilyk
     - rank: 2
-      frac: 0.91850392
-  - - Steve Blenkinsop
+      frac: 0.91850393
+  - - - '24'
+      - Steve Blenkinsop
     - rank: 3
       frac: 0.84279472
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - rank: 4
       frac: 0.77265629
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - rank: 5
       frac: 0.70787255
-  - - Conrad Loten
+  - - - '50'
+      - Conrad Loten
     - rank: 6
       frac: 0.64822741
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - rank: 7
-      frac: 0.59350477
-  - - Jonas Lobitz
+      frac: 0.59350478
+  - - - '49'
+      - Jonas Lobitz
     - rank: 8
       frac: 0.54348856
-  - - Cameron Tunbridge
+  - - - '4'
+      - Cameron Tunbridge
     - rank: 9
-      frac: 0.49796267
-  - - Rohan Taylor
+      frac: 0.49796268
+  - - - '18'
+      - Rohan Taylor
     - rank: 10
-      frac: 0.45671102
-  - - Filippo Oppici
+      frac: 0.45671103
+  - - - '33'
+      - Filippo Oppici
     - rank: 11
       frac: 0.41951752
-  - - Anton Struganov
+  - - - '23'
+      - Anton Struganov
     - rank: 12
-      frac: 0.38616607
-  - - Neil Petersen
+      frac: 0.38616608
+  - - - '21'
+      - Neil Petersen
     - rank: 13
       frac: 0.3564406
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - rank: 14
       frac: 0.330125
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - rank: 15
-      frac: 0.30700318
-  - - Guy Hubbard
+      frac: 0.30700319
+  - - - '28'
+      - Guy Hubbard
     - rank: 16
-      frac: 0.28685906
-  - - Rod Flockhart
+      frac: 0.28685907
+  - - - '43'
+      - Rod Flockhart
     - rank: 17
-      frac: 0.26947655
-  - - Andrew Luton
+      frac: 0.26947656
+  - - - '19'
+      - Andrew Luton
     - rank: 18
-      frac: 0.25463956
-  - - Ryosuke Hattori
+      frac: 0.25463957
+  - - - '5'
+      - Ryosuke Hattori
     - rank: 19
-      frac: 0.24213199
-  - - Trent Brown
+      frac: 0.242132
+  - - - '42'
+      - Trent Brown
     - rank: 20
-      frac: 0.23173776
-  - - Yasuhiro Noma
+      frac: 0.23173777
+  - - - '46'
+      - Yasuhiro Noma
     - rank: 21
       frac: 0.22324078
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - rank: 22
       frac: 0.21642495
-  - - Attila Bertok
+  - - - '41'
+      - Attila Bertok
     - rank: 23
       frac: 0.21107419
-  - - Tony Giammichele
+  - - - '7'
+      - Tony Giammichele
     - rank: 24
-      frac: 0.2069724
-  - - Glen Mcfarlane
+      frac: 0.20697241
+  - - - '34'
+      - Glen Mcfarlane
     - rank: 25
       frac: 0.2039035
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - rank: 26
-      frac: 0.20165139
-- - - Michael Bilyk
+      frac: 0.2016514
+- - - - '1'
+      - Michael Bilyk
     - rank: 1
       frac: 1
-  - - Glen Mcfarlane
+  - - - '34'
+      - Glen Mcfarlane
     - rank: 2
       frac: 0.85326421
-  - - Paris Williams
+  - - - '3'
+      - Paris Williams
     - rank: 3
-      frac: 0.72584839
-  - - Steve Blenkinsop
+      frac: 0.7258484
+  - - - '24'
+      - Steve Blenkinsop
     - rank: 4
       frac: 0.61636844
-  - - Jonas Lobitz
+  - - - '49'
+      - Jonas Lobitz
     - rank: 5
       frac: 0.52344023
-  - - Conrad Loten
+  - - - '50'
+      - Conrad Loten
     - rank: 6
       frac: 0.44567966
-  - - Anton Struganov
+  - - - '23'
+      - Anton Struganov
     - rank: 7
       frac: 0.38170262
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - rank: 8
       frac: 0.330125
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - rank: 9
       frac: 0.28956268
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - rank: 10
-      frac: 0.25863155
-  - - Guy Hubbard
+      frac: 0.25863156
+  - - - '28'
+      - Guy Hubbard
     - rank: 11
       frac: 0.23594752
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - rank: 12
-      frac: 0.22012645
-  - - Yasuhiro Noma
+      frac: 0.22012646
+  - - - '46'
+      - Yasuhiro Noma
     - rank: 13
-      frac: 0.20978425
-  - - Ryosuke Hattori
+      frac: 0.20978426
+  - - - '5'
+      - Ryosuke Hattori
     - rank: 14
-      frac: 0.2035368
-- - - Attila Bertok
+      frac: 0.20353681
+- - - - '41'
+      - Attila Bertok
     - rank: 1
       frac: 1
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - rank: 2
-      frac: 0.9388987
-  - - Yasuhiro Noma
+      frac: 0.93889871
+  - - - '46'
+      - Yasuhiro Noma
     - rank: 3
       frac: 0.88102148
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - rank: 4
       frac: 0.82627974
-  - - Anton Struganov
+  - - - '23'
+      - Anton Struganov
     - rank: 5
-      frac: 0.7745849
-  - - Lukas Bader
+      frac: 0.77458491
+  - - - '40'
+      - Lukas Bader
     - rank: 6
-      frac: 0.72584839
-  - - Michael Bilyk
+      frac: 0.7258484
+  - - - '1'
+      - Michael Bilyk
     - rank: 7
       frac: 0.67998162
-  - - Jonas Lobitz
+  - - - '49'
+      - Jonas Lobitz
     - rank: 8
       frac: 0.636896
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - rank: 9
       frac: 0.59650295
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - rank: 10
-      frac: 0.55871388
-  - - Filippo Oppici
+      frac: 0.55871389
+  - - - '33'
+      - Filippo Oppici
     - rank: 11
       frac: 0.52344023
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - rank: 12
-      frac: 0.49059339
-  - - Conrad Loten
+      frac: 0.4905934
+  - - - '50'
+      - Conrad Loten
     - rank: 13
       frac: 0.4600848
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - rank: 14
-      frac: 0.43182586
-  - - Adam Stevens
+      frac: 0.43182587
+  - - - '29'
+      - Adam Stevens
     - rank: 15
       frac: 0.405728
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - rank: 16
       frac: 0.38170262
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - rank: 17
       frac: 0.35966115
-  - - Paris Williams
+  - - - '3'
+      - Paris Williams
     - rank: 18
-      frac: 0.339515
-  - - Glen Mcfarlane
+      frac: 0.33951501
+  - - - '34'
+      - Glen Mcfarlane
     - rank: 19
       frac: 0.3211756
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - rank: 20
-      frac: 0.30455435
-  - - Steve Blenkinsop
+      frac: 0.30455436
+  - - - '24'
+      - Steve Blenkinsop
     - rank: 21
       frac: 0.28956268
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - rank: 22
       frac: 0.276112
-  - - Phil Schroder
+  - - - '30'
+      - Phil Schroder
     - rank: 23
-      frac: 0.26411372
-  - - Enda Murphy
+      frac: 0.26411373
+  - - - '36'
+      - Enda Murphy
     - rank: 24
-      frac: 0.25347927
-  - - Victor Hare
+      frac: 0.25347928
+  - - - '48'
+      - Victor Hare
     - rank: 25
-      frac: 0.24412006
-  - - Mark Russell
+      frac: 0.24412007
+  - - - '58'
+      - Mark Russell
     - rank: 26
       frac: 0.23594752
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - rank: 27
-      frac: 0.22887304
-  - - Geoff Robertson
+      frac: 0.22887305
+  - - - '45'
+      - Geoff Robertson
     - rank: 28
-      frac: 0.22280806
-  - - Federico Martini
+      frac: 0.22280807
+  - - - '8'
+      - Federico Martini
     - rank: 29
       frac: 0.217664
-  - - Tony Giammichele
+  - - - '7'
+      - Tony Giammichele
     - rank: 30
-      frac: 0.21335225
-  - - Andrew Luton
+      frac: 0.21335226
+  - - - '19'
+      - Andrew Luton
     - rank: 31
-      frac: 0.20978425
-  - - Kathryn O'Riordan
+      frac: 0.20978426
+  - - - '53'
+      - Kathryn O'Riordan
     - rank: 32
-      frac: 0.20687141
-  - - Neil Petersen
+      frac: 0.20687142
+  - - - '21'
+      - Neil Petersen
     - rank: 33
       frac: 0.20452515
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - rank: 34
-      frac: 0.20265688
-  - - Cameron Tunbridge
+      frac: 0.20265689
+  - - - '4'
+      - Cameron Tunbridge
     - rank: 35
-      frac: 0.20117802
-- - - Attila Bertok
+      frac: 0.20117803
+- - - - '41'
+      - Attila Bertok
     - rank: 1
       frac: 1
-  - - Yasuhiro Noma
+  - - - '46'
+      - Yasuhiro Noma
     - rank: 2
-      frac: 0.91850392
-  - - Glen Mcfarlane
+      frac: 0.91850393
+  - - - '34'
+      - Glen Mcfarlane
     - rank: 3
       frac: 0.84279472
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - rank: 4
       frac: 0.77265629
-  - - Michael Bilyk
+  - - - '1'
+      - Michael Bilyk
     - rank: 5
       frac: 0.70787255
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - rank: 6
       frac: 0.64822741
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - rank: 7
-      frac: 0.59350477
-  - - Andrew Luton
+      frac: 0.59350478
+  - - - '19'
+      - Andrew Luton
     - rank: 8
       frac: 0.54348856
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - rank: 9
-      frac: 0.49796267
-  - - Gavin Myers
+      frac: 0.49796268
+  - - - '51'
+      - Gavin Myers
     - rank: 10
-      frac: 0.45671102
-  - - Neil Petersen
+      frac: 0.45671103
+  - - - '21'
+      - Neil Petersen
     - rank: 11
       frac: 0.41951752
-  - - Carl Wallbank
+  - - - '70'
+      - Carl Wallbank
     - rank: 12
-      frac: 0.38616607
-  - - Geoff Robertson
+      frac: 0.38616608
+  - - - '45'
+      - Geoff Robertson
     - rank: 13
       frac: 0.3564406
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - rank: 14
       frac: 0.330125
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - rank: 15
-      frac: 0.30700318
-  - - Rod Flockhart
+      frac: 0.30700319
+  - - - '43'
+      - Rod Flockhart
     - rank: 16
-      frac: 0.28685906
-  - - Paris Williams
+      frac: 0.28685907
+  - - - '3'
+      - Paris Williams
     - rank: 17
-      frac: 0.26947655
-  - - Adam Stevens
+      frac: 0.26947656
+  - - - '29'
+      - Adam Stevens
     - rank: 18
-      frac: 0.25463956
-  - - Cameron Tunbridge
+      frac: 0.25463957
+  - - - '4'
+      - Cameron Tunbridge
     - rank: 19
-      frac: 0.24213199
-  - - Phil Schroder
+      frac: 0.242132
+  - - - '30'
+      - Phil Schroder
     - rank: 20
-      frac: 0.23173776
-  - - Tony Giammichele
+      frac: 0.23173777
+  - - - '7'
+      - Tony Giammichele
     - rank: 21
       frac: 0.22324078
-  - - Jonas Lobitz
+  - - - '49'
+      - Jonas Lobitz
     - rank: 22
       frac: 0.21642495
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - rank: 23
       frac: 0.21107419
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - rank: 24
-      frac: 0.2069724
-  - - Andrew Barnes
+      frac: 0.20697241
+  - - - '2'
+      - Andrew Barnes
     - rank: 25
       frac: 0.2039035
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - rank: 26
-      frac: 0.20165139
+      frac: 0.2016514
 - []
-- - - Trent Brown
+- - - - '42'
+      - Trent Brown
     - rank: 1
       frac: 1
-  - - Carl Wallbank
+  - - - '70'
+      - Carl Wallbank
     - rank: 2
-      frac: 0.89519337
-  - - Glen Mcfarlane
+      frac: 0.89519338
+  - - - '34'
+      - Glen Mcfarlane
     - rank: 3
       frac: 0.800057
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - rank: 4
       frac: 0.71411612
-  - - Jonas Lobitz
+  - - - '49'
+      - Jonas Lobitz
     - rank: 5
       frac: 0.636896
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - rank: 6
-      frac: 0.56792187
-  - - Geoff Robertson
+      frac: 0.56792188
+  - - - '45'
+      - Geoff Robertson
     - rank: 7
       frac: 0.506719
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - rank: 8
       frac: 0.45281262
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - rank: 9
       frac: 0.405728
-  - - Yasuhiro Noma
+  - - - '46'
+      - Yasuhiro Noma
     - rank: 10
-      frac: 0.36499037
-  - - Paris Williams
+      frac: 0.36499038
+  - - - '3'
+      - Paris Williams
     - rank: 11
       frac: 0.330125
-  - - Michael Bilyk
+  - - - '1'
+      - Michael Bilyk
     - rank: 12
       frac: 0.30065712
-  - - Conrad Loten
+  - - - '50'
+      - Conrad Loten
     - rank: 13
       frac: 0.276112
-  - - Neil Petersen
+  - - - '21'
+      - Neil Petersen
     - rank: 14
-      frac: 0.25601487
-  - - Rod Flockhart
+      frac: 0.25601488
+  - - - '43'
+      - Rod Flockhart
     - rank: 15
       frac: 0.239891
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - rank: 16
       frac: 0.22726562
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - rank: 17
       frac: 0.217664
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - rank: 18
-      frac: 0.21061137
-  - - Nils Vesk
+      frac: 0.21061138
+  - - - '20'
+      - Nils Vesk
     - rank: 19
       frac: 0.205633
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - rank: 20
       frac: 0.20225412
 - []
-speed:
-- - - Jonny Durand
+ssSpeed:
+- - - - '39'
+      - Jonny Durand
     - time: 2.861944 h
       frac: 1
-  - - Filippo Oppici
-    - time: 2.969166 h
-      frac: 0.84103452
-  - - Christian Voiblet
-    - time: 3.002777 h
+  - - - '33'
+      - Filippo Oppici
+    - time: 2.969167 h
+      frac: 0.84103453
+  - - - '62'
+      - Christian Voiblet
+    - time: 3.002778 h
       frac: 0.80934425
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - time: 3.009444 h
-      frac: 0.80337399
-  - - Glen Mcfarlane
+      frac: 0.803374
+  - - - '34'
+      - Glen Mcfarlane
     - time: 3.026944 h
-      frac: 0.78811401
-  - - Michael Bilyk
-    - time: 3.050277 h
+      frac: 0.78811402
+  - - - '1'
+      - Michael Bilyk
+    - time: 3.050278 h
       frac: 0.76858168
-  - - Steve Blenkinsop
-    - time: 3.053888 h
-      frac: 0.7656329
-  - - Paris Williams
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 3.053889 h
+      frac: 0.76563291
+  - - - '3'
+      - Paris Williams
     - time: 3.054444 h
-      frac: 0.76518089
-  - - Rod Flockhart
-    - time: 3.084999 h
-      frac: 0.74094719
-  - - Adam Stevens
+      frac: 0.7651809
+  - - - '43'
+      - Rod Flockhart
+    - time: 3.085 h
+      frac: 0.7409472
+  - - - '29'
+      - Adam Stevens
     - time: 3.116111 h
       frac: 0.71738709
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - time: 3.136944 h
-      frac: 0.70214739
-  - - Conrad Loten
+      frac: 0.7021474
+  - - - '50'
+      - Conrad Loten
     - time: 3.165833 h
       frac: 0.68163683
-  - - Jonas Lobitz
+  - - - '49'
+      - Jonas Lobitz
     - time: 3.227222 h
-      frac: 0.64008901
-  - - Yasuhiro Noma
-    - time: 3.233055 h
+      frac: 0.64008902
+  - - - '46'
+      - Yasuhiro Noma
+    - time: 3.233056 h
       frac: 0.63626739
-  - - Trent Brown
-    - time: 3.235555 h
-      frac: 0.63463568
-  - - Lukas Bader
-    - time: 3.256388 h
+  - - - '42'
+      - Trent Brown
+    - time: 3.235556 h
+      frac: 0.63463569
+  - - - '40'
+      - Lukas Bader
+    - time: 3.256389 h
       frac: 0.62117657
-  - - Cameron Tunbridge
+  - - - '4'
+      - Cameron Tunbridge
     - time: 3.256944 h
       frac: 0.62082095
-  - - Rohan Taylor
-    - time: 3.268888 h
-      frac: 0.61321494
-  - - Attila Bertok
-    - time: 3.292499 h
+  - - - '18'
+      - Rohan Taylor
+    - time: 3.268889 h
+      frac: 0.61321495
+  - - - '41'
+      - Attila Bertok
+    - time: 3.2925 h
       frac: 0.59839504
-  - - Anton Struganov
+  - - - '23'
+      - Anton Struganov
     - time: 3.318611 h
       frac: 0.58231795
-  - - Tony Giammichele
-    - time: 3.325555 h
+  - - - '7'
+      - Tony Giammichele
+    - time: 3.325556 h
       frac: 0.5780942
-  - - Neil Petersen
+  - - - '21'
+      - Neil Petersen
     - time: 3.342222 h
-      frac: 0.56804225
-  - - Guy Hubbard
-    - time: 3.399999 h
-      frac: 0.5340589
-  - - Andrew Luton
+      frac: 0.56804226
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.4 h
+      frac: 0.53405891
+  - - - '19'
+      - Andrew Luton
     - time: 3.45 h
-      frac: 0.50562271
-  - - Ryosuke Hattori
+      frac: 0.50562272
+  - - - '5'
+      - Ryosuke Hattori
     - time: 3.488333 h
-      frac: 0.4843651
-  - - Mark Russell
+      frac: 0.48436511
+  - - - '58'
+      - Mark Russell
     - time: 4.065833 h
       frac: 0.2029164
-- - - Michael Bilyk
-    - time: 2.475277 h
+- - - - '1'
+      - Michael Bilyk
+    - time: 2.475278 h
       frac: 1
-  - - Glen Mcfarlane
-    - time: 2.475555 h
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 2.475556 h
       frac: 0.9968528
-  - - Paris Williams
+  - - - '3'
+      - Paris Williams
     - time: 2.4775 h
-      frac: 0.98741121
-  - - Jonas Lobitz
+      frac: 0.98741122
+  - - - '49'
+      - Jonas Lobitz
     - time: 2.484722 h
-      frac: 0.96696991
-  - - Conrad Loten
-    - time: 2.486388 h
+      frac: 0.96696992
+  - - - '50'
+      - Conrad Loten
+    - time: 2.486389 h
       frac: 0.96319018
-  - - Anton Struganov
-    - time: 2.486666 h
+  - - - '23'
+      - Anton Struganov
+    - time: 2.486667 h
       frac: 0.96257921
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - time: 2.5125 h
       frac: 0.91758741
-  - - Lukas Bader
-    - time: 2.525555 h
+  - - - '40'
+      - Lukas Bader
+    - time: 2.525556 h
       frac: 0.89929692
-  - - Steve Blenkinsop
-    - time: 2.631388 h
-      frac: 0.78567085
-  - - Adam Stevens
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.631389 h
+      frac: 0.78567086
+  - - - '29'
+      - Adam Stevens
     - time: 2.663611 h
       frac: 0.75710971
-  - - Gavin Myers
-    - time: 2.663888 h
+  - - - '51'
+      - Gavin Myers
+    - time: 2.663889 h
       frac: 0.75687094
-  - - Yasuhiro Noma
+  - - - '46'
+      - Yasuhiro Noma
     - time: 2.673611 h
       frac: 0.74858617
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - time: 2.714444 h
       frac: 0.71516559
-  - - Ryosuke Hattori
-    - time: 2.812777 h
-      frac: 0.64164961
-- - - Lukas Bader
-    - time: 2.658055 h
+  - - - '5'
+      - Ryosuke Hattori
+    - time: 2.812778 h
+      frac: 0.64164962
+- - - - '40'
+      - Lukas Bader
+    - time: 2.658056 h
       frac: 1
-  - - Anton Struganov
+  - - - '23'
+      - Anton Struganov
     - time: 2.663333 h
       frac: 0.9781167
-  - - Michael Bilyk
+  - - - '1'
+      - Michael Bilyk
     - time: 2.676944 h
       frac: 0.94879847
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - time: 2.677222 h
-      frac: 0.94829771
-  - - Jonas Lobitz
-    - time: 2.680277 h
-      frac: 0.94293931
-  - - Filippo Oppici
+      frac: 0.94829772
+  - - - '49'
+      - Jonas Lobitz
+    - time: 2.680278 h
+      frac: 0.94293932
+  - - - '33'
+      - Filippo Oppici
     - time: 2.682222 h
       frac: 0.93965752
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - time: 2.688333 h
       frac: 0.92987148
-  - - Conrad Loten
-    - time: 2.692777 h
+  - - - '50'
+      - Conrad Loten
+    - time: 2.692778 h
       frac: 0.92316655
-  - - Paris Williams
-    - time: 2.745555 h
+  - - - '3'
+      - Paris Williams
+    - time: 2.745556 h
       frac: 0.85771776
-  - - Glen Mcfarlane
+  - - - '34'
+      - Glen Mcfarlane
     - time: 2.755833 h
       frac: 0.84678354
-  - - Attila Bertok
-    - time: 2.760277 h
-      frac: 0.84217509
-  - - Steve Blenkinsop
+  - - - '41'
+      - Attila Bertok
+    - time: 2.760278 h
+      frac: 0.8421751
+  - - - '24'
+      - Steve Blenkinsop
     - time: 2.764722 h
-      frac: 0.83763298
-  - - Davis Straub
+      frac: 0.83763299
+  - - - '60'
+      - Davis Straub
     - time: 2.818333 h
-      frac: 0.78699284
-  - - Jonny Durand
+      frac: 0.78699285
+  - - - '39'
+      - Jonny Durand
     - time: 2.821944 h
-      frac: 0.78380532
-  - - Enda Murphy
+      frac: 0.78380533
+  - - - '36'
+      - Enda Murphy
     - time: 2.847222 h
-      frac: 0.76211061
-  - - Andrew Barnes
-    - time: 2.902777 h
-      frac: 0.71755909
-  - - Yasuhiro Noma
+      frac: 0.76211062
+  - - - '2'
+      - Andrew Barnes
+    - time: 2.902778 h
+      frac: 0.7175591
+  - - - '46'
+      - Yasuhiro Noma
     - time: 2.955 h
-      frac: 0.67868663
-  - - Guy Hubbard
-    - time: 2.977777 h
+      frac: 0.67868664
+  - - - '28'
+      - Guy Hubbard
+    - time: 2.977778 h
       frac: 0.66245848
-  - - Jon snr Durand
-    - time: 3.009999 h
+  - - - '37'
+      - Jon snr Durand
+    - time: 3.01 h
       frac: 0.64014457
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - time: 3.021944 h
       frac: 0.63204799
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - time: 3.022222 h
       frac: 0.63186076
-  - - Rohan Taylor
-    - time: 3.027777 h
+  - - - '18'
+      - Rohan Taylor
+    - time: 3.027778 h
       frac: 0.62812611
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - time: 3.048333 h
-      frac: 0.61446731
-  - - Olav Olsen
+      frac: 0.61446732
+  - - - '52'
+      - Olav Olsen
     - time: 3.048333 h
-      frac: 0.61446731
-  - - Federico Martini
-    - time: 3.070277 h
-      frac: 0.60014771
-  - - Tony Giammichele
+      frac: 0.61446732
+  - - - '8'
+      - Federico Martini
+    - time: 3.070278 h
+      frac: 0.60014772
+  - - - '7'
+      - Tony Giammichele
     - time: 3.073333 h
-      frac: 0.59817423
-  - - Phil Schroder
+      frac: 0.59817424
+  - - - '30'
+      - Phil Schroder
     - time: 3.108333 h
       frac: 0.57590255
-  - - Andrew Luton
-    - time: 3.115277 h
+  - - - '19'
+      - Andrew Luton
+    - time: 3.115278 h
       frac: 0.57155323
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - time: 3.167222 h
-      frac: 0.53968835
-  - - Victor Hare
-    - time: 3.186666 h
-      frac: 0.52804255
-  - - Geoff Robertson
-    - time: 3.298055 h
-      frac: 0.46387593
-  - - Neil Petersen
+      frac: 0.53968836
+  - - - '48'
+      - Victor Hare
+    - time: 3.186667 h
+      frac: 0.52804256
+  - - - '45'
+      - Geoff Robertson
+    - time: 3.298056 h
+      frac: 0.46387594
+  - - - '21'
+      - Neil Petersen
     - time: 3.369722 h
       frac: 0.42456483
-  - - Kathryn O'Riordan
-    - time: 3.511666 h
-      frac: 0.35039101
-  - - Cameron Tunbridge
-    - time: 3.672777 h
+  - - - '53'
+      - Kathryn O'Riordan
+    - time: 3.511667 h
+      frac: 0.35039102
+  - - - '4'
+      - Cameron Tunbridge
+    - time: 3.672778 h
       frac: 0.27102926
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - time: 3.681944 h
-      frac: 0.26664565
-- - - Nick Purcell
-    - time: 2.420277 h
+      frac: 0.26664566
+- - - - '15'
+      - Nick Purcell
+    - time: 2.420278 h
       frac: 1
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - time: 2.434444 h
-      frac: 0.95639294
-  - - Lukas Bader
-    - time: 2.446666 h
+      frac: 0.95639295
+  - - - '40'
+      - Lukas Bader
+    - time: 2.446667 h
       frac: 0.93398251
-  - - Gavin Myers
-    - time: 2.491388 h
+  - - - '51'
+      - Gavin Myers
+    - time: 2.491389 h
       frac: 0.87215907
-  - - Rod Flockhart
+  - - - '43'
+      - Rod Flockhart
     - time: 2.6 h
-      frac: 0.76280103
-  - - Trent Brown
+      frac: 0.76280104
+  - - - '42'
+      - Trent Brown
     - time: 2.606944 h
       frac: 0.7567295
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - time: 2.608333 h
       frac: 0.75552429
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - time: 2.619444 h
-      frac: 0.74598694
-  - - Paris Williams
+      frac: 0.74598695
+  - - - '3'
+      - Paris Williams
     - time: 2.621944 h
-      frac: 0.74386573
-  - - Attila Bertok
-    - time: 2.683888 h
-      frac: 0.69378903
-  - - Yasuhiro Noma
+      frac: 0.74386574
+  - - - '41'
+      - Attila Bertok
+    - time: 2.683889 h
+      frac: 0.69378904
+  - - - '46'
+      - Yasuhiro Noma
     - time: 2.705 h
       frac: 0.67765136
-  - - Tony Giammichele
-    - time: 2.718055 h
+  - - - '7'
+      - Tony Giammichele
+    - time: 2.718056 h
       frac: 0.66787126
-  - - Jonas Lobitz
-    - time: 2.726666 h
-      frac: 0.66149875
-  - - Davis Straub
-    - time: 2.746666 h
-      frac: 0.64692374
-  - - Glen Mcfarlane
+  - - - '49'
+      - Jonas Lobitz
+    - time: 2.726667 h
+      frac: 0.66149876
+  - - - '60'
+      - Davis Straub
+    - time: 2.746667 h
+      frac: 0.64692375
+  - - - '34'
+      - Glen Mcfarlane
     - time: 2.759444 h
       frac: 0.63776781
-  - - Michael Bilyk
+  - - - '1'
+      - Michael Bilyk
     - time: 2.784444 h
       frac: 0.62017951
-  - - Steve Blenkinsop
-    - time: 2.793055 h
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.793056 h
       frac: 0.61421535
-  - - Andrew Luton
+  - - - '19'
+      - Andrew Luton
     - time: 2.809722 h
       frac: 0.60280058
-  - - Neil Petersen
+  - - - '21'
+      - Neil Petersen
     - time: 2.8875 h
       frac: 0.55153634
-  - - Geoff Robertson
-    - time: 2.910277 h
+  - - - '45'
+      - Geoff Robertson
+    - time: 2.910278 h
       frac: 0.53707676
-  - - Carl Wallbank
+  - - - '70'
+      - Carl Wallbank
     - time: 2.9325 h
-      frac: 0.5231843
-  - - Cameron Tunbridge
-    - time: 2.950555 h
-      frac: 0.51204412
-  - - Phil Schroder
+      frac: 0.52318431
+  - - - '4'
+      - Cameron Tunbridge
+    - time: 2.950556 h
+      frac: 0.51204413
+  - - - '30'
+      - Phil Schroder
     - time: 2.973333 h
-      frac: 0.49816905
-  - - Federico Martini
+      frac: 0.49816906
+  - - - '8'
+      - Federico Martini
     - time: 3.136111 h
       frac: 0.40399092
-  - - Andrew Barnes
-    - time: 3.158055 h
-      frac: 0.39187156
-  - - Dean Hervatin
-    - time: 3.980555 h
+  - - - '2'
+      - Andrew Barnes
+    - time: 3.158056 h
+      frac: 0.39187157
+  - - - '31'
+      - Dean Hervatin
+    - time: 3.980556 h
       frac: 0
 - []
-- - - Glen Mcfarlane
-    - time: 3.115277 h
+- - - - '34'
+      - Glen Mcfarlane
+    - time: 3.115278 h
       frac: 1
-  - - Trent Brown
-    - time: 3.154999 h
+  - - - '42'
+      - Trent Brown
+    - time: 3.155 h
       frac: 0.92028805
-  - - Carl Wallbank
-    - time: 3.161666 h
-      frac: 0.91160173
-  - - Jonas Lobitz
+  - - - '70'
+      - Carl Wallbank
+    - time: 3.161667 h
+      frac: 0.91160174
+  - - - '49'
+      - Jonas Lobitz
     - time: 3.165 h
       frac: 0.90741625
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - time: 3.166944 h
-      frac: 0.90501798
-  - - Guy Hubbard
+      frac: 0.90501799
+  - - - '28'
+      - Guy Hubbard
     - time: 3.174444 h
       frac: 0.89603532
-  - - Geoff Robertson
-    - time: 3.184166 h
-      frac: 0.88493748
-  - - Filippo Oppici
+  - - - '45'
+      - Geoff Robertson
+    - time: 3.184167 h
+      frac: 0.88493749
+  - - - '33'
+      - Filippo Oppici
     - time: 3.184444 h
-      frac: 0.88462838
-  - - Jonny Durand
-    - time: 3.251388 h
-      frac: 0.81882561
-  - - Yasuhiro Noma
+      frac: 0.88462839
+  - - - '39'
+      - Jonny Durand
+    - time: 3.251389 h
+      frac: 0.81882562
+  - - - '46'
+      - Yasuhiro Noma
     - time: 3.251944 h
-      frac: 0.81833295
-  - - Paris Williams
-    - time: 3.253055 h
+      frac: 0.81833296
+  - - - '3'
+      - Paris Williams
+    - time: 3.253056 h
       frac: 0.81734964
-  - - Michael Bilyk
-    - time: 3.356666 h
+  - - - '1'
+      - Michael Bilyk
+    - time: 3.356667 h
       frac: 0.73455212
-  - - Conrad Loten
+  - - - '50'
+      - Conrad Loten
     - time: 3.375 h
       frac: 0.72127635
-  - - Neil Petersen
+  - - - '21'
+      - Neil Petersen
     - time: 3.441111 h
       frac: 0.67578626
-  - - Rod Flockhart
-    - time: 3.468055 h
-      frac: 0.65815028
-  - - Davis Straub
-    - time: 3.546388 h
+  - - - '43'
+      - Rod Flockhart
+    - time: 3.468056 h
+      frac: 0.65815029
+  - - - '60'
+      - Davis Straub
+    - time: 3.546389 h
       frac: 0.60925459
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - time: 3.661944 h
       frac: 0.54222774
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - time: 3.690833 h
       frac: 0.52623907
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - time: 3.7875 h
-      frac: 0.4745763
-  - - Federico Martini
-    - time: 4.050277 h
+      frac: 0.47457631
+  - - - '8'
+      - Federico Martini
+    - time: 4.050278 h
       frac: 0.34530029
 - []
+gsSpeed:
+- - - - '39'
+      - Jonny Durand
+    - time: 2.5375 h
+      frac: 1
+  - - - '33'
+      - Filippo Oppici
+    - time: 2.653056 h
+      frac: 0.82606304
+  - - - '62'
+      - Christian Voiblet
+    - time: 2.693611 h
+      frac: 0.78743723
+  - - - '60'
+      - Davis Straub
+    - time: 2.698889 h
+      frac: 0.78267297
+  - - - '3'
+      - Paris Williams
+    - time: 2.73 h
+      frac: 0.75557152
+  - - - '1'
+      - Michael Bilyk
+    - time: 2.733056 h
+      frac: 0.75299177
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.733056 h
+      frac: 0.75299177
+  - - - '43'
+      - Rod Flockhart
+    - time: 2.776667 h
+      frac: 0.71751303
+  - - - '29'
+      - Adam Stevens
+    - time: 2.790556 h
+      frac: 0.70667985
+  - - - '45'
+      - Geoff Robertson
+    - time: 2.815278 h
+      frac: 0.68787421
+  - - - '50'
+      - Conrad Loten
+    - time: 2.841389 h
+      frac: 0.66860863
+  - - - '42'
+      - Trent Brown
+    - time: 2.904444 h
+      frac: 0.62422185
+  - - - '49'
+      - Jonas Lobitz
+    - time: 2.906111 h
+      frac: 0.62308485
+  - - - '46'
+      - Yasuhiro Noma
+    - time: 2.913333 h
+      frac: 0.6181775
+  - - - '4'
+      - Cameron Tunbridge
+    - time: 2.9375 h
+      frac: 0.60198023
+  - - - '18'
+      - Rohan Taylor
+    - time: 2.938889 h
+      frac: 0.60105942
+  - - - '40'
+      - Lukas Bader
+    - time: 2.957222 h
+      frac: 0.58900239
+  - - - '41'
+      - Attila Bertok
+    - time: 2.978889 h
+      frac: 0.57497718
+  - - - '23'
+      - Anton Struganov
+    - time: 2.9925 h
+      frac: 0.56628386
+  - - - '7'
+      - Tony Giammichele
+    - time: 3.008889 h
+      frac: 0.55593057
+  - - - '21'
+      - Neil Petersen
+    - time: 3.025 h
+      frac: 0.54586909
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 3.033889 h
+      frac: 0.54036543
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.074722 h
+      frac: 0.51549236
+  - - - '19'
+      - Andrew Luton
+    - time: 3.143333 h
+      frac: 0.47507157
+  - - - '5'
+      - Ryosuke Hattori
+    - time: 3.165556 h
+      frac: 0.4623124
+  - - - '58'
+      - Mark Russell
+    - time: 3.755 h
+      frac: 0.16405579
+- - - - '1'
+      - Michael Bilyk
+    - time: 2.239167 h
+      frac: 1
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 2.240278 h
+      frac: 0.99180008
+  - - - '3'
+      - Paris Williams
+    - time: 2.240278 h
+      frac: 0.99180008
+  - - - '49'
+      - Jonas Lobitz
+    - time: 2.246944 h
+      frac: 0.96999399
+  - - - '50'
+      - Conrad Loten
+    - time: 2.248889 h
+      frac: 0.96518111
+  - - - '23'
+      - Anton Struganov
+    - time: 2.25 h
+      frac: 0.96257637
+  - - - '42'
+      - Trent Brown
+    - time: 2.278333 h
+      frac: 0.9118446
+  - - - '40'
+      - Lukas Bader
+    - time: 2.291944 h
+      frac: 0.89245128
+  - - - '46'
+      - Yasuhiro Noma
+    - time: 2.464722 h
+      frac: 0.71676937
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.491111 h
+      frac: 0.69508809
+  - - - '29'
+      - Adam Stevens
+    - time: 2.523056 h
+      frac: 0.66983062
+  - - - '28'
+      - Guy Hubbard
+    - time: 2.571389 h
+      frac: 0.63334553
+  - - - '51'
+      - Gavin Myers
+    - time: 2.645278 h
+      frac: 0.58081946
+  - - - '5'
+      - Ryosuke Hattori
+    - time: 2.794444 h
+      frac: 0.48360972
+- - - - '23'
+      - Anton Struganov
+    - time: 2.336111 h
+      frac: 1
+  - - - '40'
+      - Lukas Bader
+    - time: 2.336944 h
+      frac: 0.99332607
+  - - - '1'
+      - Michael Bilyk
+    - time: 2.349722 h
+      frac: 0.95703667
+  - - - '49'
+      - Jonas Lobitz
+    - time: 2.350278 h
+      frac: 0.95587542
+  - - - '42'
+      - Trent Brown
+    - time: 2.352778 h
+      frac: 0.9508261
+  - - - '33'
+      - Filippo Oppici
+    - time: 2.359167 h
+      frac: 0.93894997
+  - - - '62'
+      - Christian Voiblet
+    - time: 2.364167 h
+      frac: 0.93041514
+  - - - '50'
+      - Conrad Loten
+    - time: 2.3675 h
+      frac: 0.92500722
+  - - - '3'
+      - Paris Williams
+    - time: 2.420556 h
+      frac: 0.85493937
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 2.428056 h
+      frac: 0.84647262
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.439444 h
+      frac: 0.83404292
+  - - - '60'
+      - Davis Straub
+    - time: 2.488333 h
+      frac: 0.78514068
+  - - - '41'
+      - Attila Bertok
+    - time: 2.496111 h
+      frac: 0.77788282
+  - - - '39'
+      - Jonny Durand
+    - time: 2.498611 h
+      frac: 0.77557508
+  - - - '36'
+      - Enda Murphy
+    - time: 2.518889 h
+      frac: 0.75727318
+  - - - '2'
+      - Andrew Barnes
+    - time: 2.584722 h
+      frac: 0.70202315
+  - - - '46'
+      - Yasuhiro Noma
+    - time: 2.634444 h
+      frac: 0.66351166
+  - - - '28'
+      - Guy Hubbard
+    - time: 2.6575 h
+      frac: 0.64639146
+  - - - '37'
+      - Jon snr Durand
+    - time: 2.685556 h
+      frac: 0.62610104
+  - - - '15'
+      - Nick Purcell
+    - time: 2.708333 h
+      frac: 0.61002476
+  - - - '29'
+      - Adam Stevens
+    - time: 2.724167 h
+      frac: 0.59904272
+  - - - '51'
+      - Gavin Myers
+    - time: 2.724167 h
+      frac: 0.59904272
+  - - - '8'
+      - Federico Martini
+    - time: 2.745 h
+      frac: 0.5848175
+  - - - '52'
+      - Olav Olsen
+    - time: 2.748333 h
+      frac: 0.58256413
+  - - - '7'
+      - Tony Giammichele
+    - time: 2.751667 h
+      frac: 0.58031682
+  - - - '18'
+      - Rohan Taylor
+    - time: 2.766389 h
+      frac: 0.57046214
+  - - - '19'
+      - Andrew Luton
+    - time: 2.795 h
+      frac: 0.55162589
+  - - - '30'
+      - Phil Schroder
+    - time: 2.828611 h
+      frac: 0.52999084
+  - - - '48'
+      - Victor Hare
+    - time: 2.878889 h
+      frac: 0.49852394
+  - - - '58'
+      - Mark Russell
+    - time: 2.898889 h
+      frac: 0.48627962
+  - - - '45'
+      - Geoff Robertson
+    - time: 2.981944 h
+      frac: 0.43690396
+  - - - '21'
+      - Neil Petersen
+    - time: 3.046667 h
+      frac: 0.3998854
+  - - - '53'
+      - Kathryn O'Riordan
+    - time: 3.251389 h
+      frac: 0.28954357
+  - - - '20'
+      - Nils Vesk
+    - time: 3.3825 h
+      frac: 0.22322081
+  - - - '4'
+      - Cameron Tunbridge
+    - time: 3.6025 h
+      frac: 0.11784095
+- - - - '40'
+      - Lukas Bader
+    - time: 2.128056 h
+      frac: 1
+  - - - '15'
+      - Nick Purcell
+    - time: 2.145556 h
+      frac: 0.94759601
+  - - - '28'
+      - Guy Hubbard
+    - time: 2.158889 h
+      frac: 0.92355437
+  - - - '51'
+      - Gavin Myers
+    - time: 2.201111 h
+      frac: 0.86413492
+  - - - '42'
+      - Trent Brown
+    - time: 2.278889 h
+      frac: 0.77970538
+  - - - '39'
+      - Jonny Durand
+    - time: 2.279167 h
+      frac: 0.77943499
+  - - - '43'
+      - Rod Flockhart
+    - time: 2.279722 h
+      frac: 0.77889472
+  - - - '3'
+      - Paris Williams
+    - time: 2.293333 h
+      frac: 0.76585656
+  - - - '29'
+      - Adam Stevens
+    - time: 2.295556 h
+      frac: 0.76376247
+  - - - '41'
+      - Attila Bertok
+    - time: 2.368056 h
+      frac: 0.6997522
+  - - - '46'
+      - Yasuhiro Noma
+    - time: 2.396389 h
+      frac: 0.6765637
+  - - - '7'
+      - Tony Giammichele
+    - time: 2.398889 h
+      frac: 0.67455788
+  - - - '49'
+      - Jonas Lobitz
+    - time: 2.400833 h
+      frac: 0.67300207
+  - - - '60'
+      - Davis Straub
+    - time: 2.423611 h
+      frac: 0.65504289
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 2.451944 h
+      frac: 0.63333478
+  - - - '1'
+      - Michael Bilyk
+    - time: 2.478333 h
+      frac: 0.61367981
+  - - - '24'
+      - Steve Blenkinsop
+    - time: 2.481111 h
+      frac: 0.6116401
+  - - - '19'
+      - Andrew Luton
+    - time: 2.492222 h
+      frac: 0.60353413
+  - - - '21'
+      - Neil Petersen
+    - time: 2.563333 h
+      frac: 0.55347065
+  - - - '70'
+      - Carl Wallbank
+    - time: 2.609722 h
+      frac: 0.52228368
+  - - - '45'
+      - Geoff Robertson
+    - time: 2.611944 h
+      frac: 0.52081548
+  - - - '4'
+      - Cameron Tunbridge
+    - time: 2.636111 h
+      frac: 0.50499094
+  - - - '30'
+      - Phil Schroder
+    - time: 2.671389 h
+      frac: 0.48233368
+  - - - '8'
+      - Federico Martini
+    - time: 2.833889 h
+      frac: 0.38367878
+  - - - '2'
+      - Andrew Barnes
+    - time: 2.8575 h
+      frac: 0.37000975
+  - - - '31'
+      - Dean Hervatin
+    - time: 3.762778 h
+      frac: 0
+- []
+- - - - '42'
+      - Trent Brown
+    - time: 3.169722 h
+      frac: 1
+  - - - '70'
+      - Carl Wallbank
+    - time: 3.171944 h
+      frac: 0.9884073
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 3.172778 h
+      frac: 0.98566537
+  - - - '62'
+      - Christian Voiblet
+    - time: 3.175 h
+      frac: 0.97936393
+  - - - '49'
+      - Jonas Lobitz
+    - time: 3.175556 h
+      frac: 0.97794007
+  - - - '28'
+      - Guy Hubbard
+    - time: 3.179167 h
+      frac: 0.96958341
+  - - - '45'
+      - Geoff Robertson
+    - time: 3.188611 h
+      frac: 0.95171667
+  - - - '33'
+      - Filippo Oppici
+    - time: 3.204722 h
+      frac: 0.92715972
+  - - - '39'
+      - Jonny Durand
+    - time: 3.253056 h
+      frac: 0.87012105
+  - - - '46'
+      - Yasuhiro Noma
+    - time: 3.257222 h
+      frac: 0.86582705
+  - - - '3'
+      - Paris Williams
+    - time: 3.310556 h
+      frac: 0.81572635
+  - - - '1'
+      - Michael Bilyk
+    - time: 3.414167 h
+      frac: 0.73385823
+  - - - '50'
+      - Conrad Loten
+    - time: 3.414722 h
+      frac: 0.73345513
+  - - - '21'
+      - Neil Petersen
+    - time: 3.500556 h
+      frac: 0.67436398
+  - - - '43'
+      - Rod Flockhart
+    - time: 3.518611 h
+      frac: 0.66262128
+  - - - '60'
+      - Davis Straub
+    - time: 3.548333 h
+      frac: 0.64372241
+  - - - '40'
+      - Lukas Bader
+    - time: 3.681944 h
+      frac: 0.56418864
+  - - - '29'
+      - Adam Stevens
+    - time: 3.697778 h
+      frac: 0.55525336
+  - - - '20'
+      - Nils Vesk
+    - time: 3.798056 h
+      frac: 0.50059487
+  - - - '8'
+      - Federico Martini
+    - time: 4.081111 h
+      frac: 0.36007548
+- []
 nigh:
-- - - Olav Olsen
+- - - - '52'
+      - Olav Olsen
     - togo:
-        distance: 25.734503
+        distance: 25.734502
         legs:
-        - 25.734503
+        - 25.734502
         legsSum:
-        - 25.734503
+        - 25.734502
         waypoints:
-        - lat: -33.55221698
-          lng: 148.67626698
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 120.910362
-  - - Phil Schroder
+        - lat: -33.552217
+          lng: 148.676267
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 120.910361
+  - - - '30'
+      - Phil Schroder
     - togo:
         distance: 25.493569
         legs:
@@ -1679,25 +2689,27 @@ nigh:
         legsSum:
         - 25.493569
         waypoints:
-        - lat: -33.55763998
-          lng: 148.67211299
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 121.131362
-  - - Victor Hare
+        - lat: -33.55764
+          lng: 148.672113
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 121.131361
+  - - - '48'
+      - Victor Hare
     - togo:
-        distance: 12.824936
+        distance: 12.824937
         legs:
-        - 12.824936
+        - 12.824937
         legsSum:
-        - 12.824936
+        - 12.824937
         waypoints:
         - lat: -33.6433
           lng: 148.762817
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 133.900362
-  - - Peter Lamont
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 133.900361
+  - - - '17'
+      - Peter Lamont
     - togo:
         distance: 15.616206
         legs:
@@ -1706,11 +2718,12 @@ nigh:
         - 15.616206
         waypoints:
         - lat: -33.620483
-          lng: 148.74941698
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 131.109362
-  - - Len Paton
+          lng: 148.749417
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 131.109361
+  - - - '55'
+      - Len Paton
     - togo:
         distance: 25.594006
         legs:
@@ -1719,11 +2732,12 @@ nigh:
         - 25.594006
         waypoints:
         - lat: -33.554096
-          lng: 148.67580398
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 121.054362
-  - - Maximilian Respondek
+          lng: 148.675804
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 121.054361
+  - - - '56'
+      - Maximilian Respondek
     - togo:
         distance: 25.508705
         legs:
@@ -1731,12 +2745,13 @@ nigh:
         legsSum:
         - 25.508705
         waypoints:
-        - lat: -33.55514998
+        - lat: -33.55515
           lng: 148.675667
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 121.179362
-  - - Peter Ebeling
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 121.179361
+  - - - '13'
+      - Peter Ebeling
     - togo:
         distance: 25.453732
         legs:
@@ -1745,11 +2760,12 @@ nigh:
         - 25.453732
         waypoints:
         - lat: -33.55655
-          lng: 148.67446699
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 121.212362
-  - - Jon snr Durand
+          lng: 148.674467
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 121.212361
+  - - - '37'
+      - Jon snr Durand
     - togo:
         distance: 23.611478
         legs:
@@ -1758,24 +2774,26 @@ nigh:
         - 23.611478
         waypoints:
         - lat: -33.578833
-          lng: 148.67346699
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 123.114362
-  - - Enda Murphy
+          lng: 148.673467
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 123.114361
+  - - - '36'
+      - Enda Murphy
     - togo:
-        distance: 25.725093
+        distance: 25.725092
         legs:
-        - 25.725093
+        - 25.725092
         legsSum:
-        - 25.725093
+        - 25.725092
         waypoints:
-        - lat: -33.55414998
-          lng: 148.67339999
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 121.000362
-  - - Gavin Myers
+        - lat: -33.55415
+          lng: 148.6734
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 121.000361
+  - - - '51'
+      - Gavin Myers
     - togo:
         distance: 25.68801
         legs:
@@ -1784,223 +2802,234 @@ nigh:
         - 25.68801
         waypoints:
         - lat: -33.5525
-          lng: 148.67664998
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 121.037362
-  - - Dean Hervatin
+          lng: 148.67665
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 121.037361
+  - - - '31'
+      - Dean Hervatin
     - togo:
-        distance: 28.295198
+        distance: 28.295199
         legs:
-        - 2.730308
+        - 2.730309
         - 25.56489
         legsSum:
-        - 2.730308
-        - 28.295198
+        - 2.730309
+        - 28.295199
         waypoints:
-        - lat: -33.56224999
+        - lat: -33.56225
           lng: 148.6424
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 118.430362
-  - - Nils Vesk
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 118.430361
+  - - - '20'
+      - Nils Vesk
     - togo:
-        distance: 27.552364
+        distance: 27.552365
         legs:
         - 1.792114
-        - 25.76025
+        - 25.760251
         legsSum:
         - 1.792114
-        - 27.552364
+        - 27.552365
         waypoints:
         - lat: -33.5512
-          lng: 148.65074999
-        - lat: -33.55669023
-          lng: 148.66893277
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 119.173362
-  - - Andrew Barnes
+          lng: 148.65075
+        - lat: -33.55669024
+          lng: 148.66893279
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 119.173361
+  - - - '2'
+      - Andrew Barnes
     - togo:
-        distance: 43.887511
+        distance: 43.887512
         legs:
-        - 18.322621
+        - 18.322622
         - 25.56489
         legsSum:
-        - 18.322621
-        - 43.887511
+        - 18.322622
+        - 43.887512
         waypoints:
         - lat: -33.5955
           lng: 148.478867
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 102.837362
-  - - Adam Jones
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 102.837361
+  - - - '22'
+      - Adam Jones
     - togo:
-        distance: 50.775765
+        distance: 50.775766
         legs:
         - 0.401314
-        - 24.80956
+        - 24.809561
         - 25.56489
         legsSum:
         - 0.401314
-        - 25.210875
-        - 50.775765
+        - 25.210876
+        - 50.775766
         waypoints:
         - lat: -33.6218
           lng: 148.41845
         - lat: -33.62052914
           lng: 148.41439345
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 95.949362
-  - - Federico Martini
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 95.949361
+  - - - '8'
+      - Federico Martini
     - togo:
-        distance: 52.097444
+        distance: 52.097446
         legs:
-        - 1.516992
-        - 25.015562
+        - 1.516993
+        - 25.015563
         - 25.56489
         legsSum:
-        - 1.516992
-        - 26.532554
-        - 52.097444
+        - 1.516993
+        - 26.532556
+        - 52.097446
         waypoints:
-        - lat: -33.63199998
+        - lat: -33.632
           lng: 148.401033
-        - lat: -33.62248023
+        - lat: -33.62248024
           lng: 148.41276915
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 94.628362
-  - - Nick Purcell
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 94.628361
+  - - - '15'
+      - Nick Purcell
     - togo:
-        distance: 74.622875
+        distance: 74.622876
         legs:
         - 24.042423
-        - 25.015562
+        - 25.015563
         - 25.56489
         legsSum:
         - 24.042423
-        - 49.057985
-        - 74.622875
+        - 49.057986
+        - 74.622876
         waypoints:
-        - lat: -33.72639398
-          lng: 148.18492599
-        - lat: -33.62248023
+        - lat: -33.726394
+          lng: 148.184926
+        - lat: -33.62248024
           lng: 148.41276915
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 72.102362
-  - - Michael Tomlinson
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 72.102361
+  - - - '16'
+      - Michael Tomlinson
     - togo:
-        distance: 84.224347
+        distance: 84.224348
         legs:
         - 33.643894
-        - 25.015562
+        - 25.015563
         - 25.56489
         legsSum:
         - 33.643894
         - 58.659457
-        - 84.224347
+        - 84.224348
         waypoints:
-        - lat: -33.80447698
-          lng: 148.12218999
-        - lat: -33.62248023
+        - lat: -33.804477
+          lng: 148.12219
+        - lat: -33.62248024
           lng: 148.41276915
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 62.501362
-  - - Patrick Collin
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 62.501361
+  - - - '44'
+      - Patrick Collin
     - togo:
-        distance: 87.431213
+        distance: 87.431215
         legs:
-        - 36.850761
-        - 25.015562
+        - 36.850762
+        - 25.015563
         - 25.56489
         legsSum:
-        - 36.850761
-        - 61.866323
-        - 87.431213
+        - 36.850762
+        - 61.866324
+        - 87.431215
         waypoints:
-        - lat: -33.84586698
+        - lat: -33.845867
           lng: 148.1184
-        - lat: -33.62248023
+        - lat: -33.62248024
           lng: 148.41276915
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 59.294362
-  - - Jamie Shelden
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 59.294361
+  - - - '35'
+      - Jamie Shelden
     - togo:
-        distance: 91.996271
+        distance: 91.99627
         legs:
-        - 3.489398
-        - 37.92642
-        - 25.015562
+        - 3.489397
+        - 37.926419
+        - 25.015563
         - 25.56489
         legsSum:
-        - 3.489398
-        - 41.415818
+        - 3.489397
+        - 41.415817
         - 66.43138
-        - 91.996271
+        - 91.99627
         waypoints:
-        - lat: -33.82614998
-          lng: 148.10534999
+        - lat: -33.82615
+          lng: 148.10535
         - lat: -33.85659907
-          lng: 148.11448872
-        - lat: -33.62248023
+          lng: 148.11448873
+        - lat: -33.62248024
           lng: 148.41276915
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 54.729362
-  - - Tony Masters
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 54.729361
+  - - - '26'
+      - Tony Masters
     - togo:
-        distance: 88.662812
+        distance: 88.662813
         legs:
-        - 0.127463
-        - 37.954898
-        - 25.015562
+        - 0.127462
+        - 37.954897
+        - 25.015563
         - 25.56489
         legsSum:
-        - 0.127463
-        - 38.08236
+        - 0.127462
+        - 38.082359
         - 63.097922
-        - 88.662812
+        - 88.662813
         waypoints:
-        - lat: -33.85908298
+        - lat: -33.859083
           lng: 148.1174
         - lat: -33.85848832
-          lng: 148.11621988
-        - lat: -33.62248023
+          lng: 148.11621989
+        - lat: -33.62248024
           lng: 148.41276915
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 58.062362
-  - - Phil Seeley
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 58.062361
+  - - - '69'
+      - Phil Seeley
     - togo:
         distance: 98.67419
         legs:
         - 10.167317
-        - 37.92642
-        - 25.015562
+        - 37.926419
+        - 25.015563
         - 25.56489
         legsSum:
         - 10.167317
@@ -2011,40 +3040,42 @@ nigh:
         - lat: -33.765467
           lng: 148.123467
         - lat: -33.85659907
-          lng: 148.11448872
-        - lat: -33.62248023
+          lng: 148.11448873
+        - lat: -33.62248024
           lng: 148.41276915
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 48.051362
-  - - Mikhail Karmazin
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 48.051361
+  - - - '14'
+      - Mikhail Karmazin
     - togo:
         distance: 89.172527
         legs:
         - 0.676077
-        - 37.915998
-        - 25.015562
+        - 37.915997
+        - 25.015563
         - 25.56489
         legsSum:
         - 0.676077
-        - 38.592075
+        - 38.592074
         - 63.607637
         - 89.172527
         waypoints:
         - lat: -33.851917
           lng: 148.11895
-        - lat: -33.85720084
-          lng: 148.11532775
-        - lat: -33.62248023
+        - lat: -33.85720085
+          lng: 148.11532777
+        - lat: -33.62248024
           lng: 148.41276915
-        - lat: -33.55737376
-          lng: 148.67127906
-        - lat: -33.73689718
-          lng: 148.84381755
-      made: 57.552362
-- - - Tony Giammichele
+        - lat: -33.55737377
+          lng: 148.67127908
+        - lat: -33.7368972
+          lng: 148.84381756
+      made: 57.552361
+- - - - '7'
+      - Tony Giammichele
     - togo:
         distance: 7.45235
         legs:
@@ -2053,63 +3084,68 @@ nigh:
         - 7.45235
         waypoints:
         - lat: -32.045383
-          lng: 147.98721699
+          lng: 147.987217
         - lat: -31.9798
           lng: 148.0035
-      made: 146.15351
-  - - Phil Schroder
+      made: 146.153511
+  - - - '30'
+      - Phil Schroder
     - togo:
-        distance: 7.038061
+        distance: 7.038062
         legs:
-        - 7.038061
+        - 7.038062
         legsSum:
-        - 7.038061
+        - 7.038062
         waypoints:
-        - lat: -32.04010398
+        - lat: -32.040104
           lng: 147.980826
         - lat: -31.9798
           lng: 148.0035
-      made: 146.56751
-  - - Andrew Barnes
+      made: 146.567511
+  - - - '2'
+      - Andrew Barnes
     - togo:
-        distance: 8.860427
+        distance: 8.860428
         legs:
-        - 8.860427
+        - 8.860428
         legsSum:
-        - 8.860427
+        - 8.860428
         waypoints:
-        - lat: -32.05731698
-          lng: 147.98173299
+        - lat: -32.057317
+          lng: 147.981733
         - lat: -31.9798
           lng: 148.0035
-      made: 144.74551
-  - - Jon snr Durand
+      made: 144.745511
+  - - - '37'
+      - Jon snr Durand
     - togo:
-        distance: 9.113323
+        distance: 9.113324
         legs:
-        - 9.113323
+        - 9.113324
         legsSum:
-        - 9.113323
+        - 9.113324
         waypoints:
-        - lat: -32.05964998
+        - lat: -32.05965
           lng: 147.981717
         - lat: -31.9798
           lng: 148.0035
-      made: 144.49251
-  - - Jamie Shelden
+      made: 144.492511
+  - - - '35'
+      - Jamie Shelden
     - togo:
-        distance: 29.304324
+        distance: 29.304326
         legs:
-        - 29.304324
+        - 29.304326
         legsSum:
-        - 29.304324
+        - 29.304326
         waypoints:
-        - lat: -32.24303299
+        - lat: -32.243033
           lng: 148.018517
         - lat: -31.9798
           lng: 148.0035
-      made: 124.30151
-  - - Victor Hare
+      made: 124.301511
+  - - - '48'
+      - Victor Hare
     - togo:
         distance: 29.653176
         legs:
@@ -2121,8 +3157,9 @@ nigh:
           lng: 148.0165
         - lat: -31.9798
           lng: 148.0035
-      made: 123.95251
-  - - Rohan Taylor
+      made: 123.952511
+  - - - '18'
+      - Rohan Taylor
     - togo:
         distance: 34.083922
         legs:
@@ -2134,8 +3171,9 @@ nigh:
           lng: 147.969017
         - lat: -31.9798
           lng: 148.0035
-      made: 119.52151
-  - - Nils Vesk
+      made: 119.521511
+  - - - '20'
+      - Nils Vesk
     - togo:
         distance: 49.605279
         legs:
@@ -2144,11 +3182,12 @@ nigh:
         - 49.605279
         waypoints:
         - lat: -32.422283
-          lng: 147.93639999
+          lng: 147.9364
         - lat: -31.9798
           lng: 148.0035
-      made: 104.00051
-  - - Patrick Collin
+      made: 104.000511
+  - - - '44'
+      - Patrick Collin
     - togo:
         distance: 50.341803
         legs:
@@ -2160,8 +3199,9 @@ nigh:
           lng: 148.086283
         - lat: -31.9798
           lng: 148.0035
-      made: 103.26351
-  - - Geoff Robertson
+      made: 103.263511
+  - - - '45'
+      - Geoff Robertson
     - togo:
         distance: 50.806433
         legs:
@@ -2170,11 +3210,12 @@ nigh:
         - 50.806433
         waypoints:
         - lat: -32.436692
-          lng: 147.99829399
+          lng: 147.998294
         - lat: -31.9798
           lng: 148.0035
-      made: 102.79951
-  - - Dean Hervatin
+      made: 102.799511
+  - - - '31'
+      - Dean Hervatin
     - togo:
         distance: 76.851664
         legs:
@@ -2186,8 +3227,9 @@ nigh:
           lng: 148.018133
         - lat: -31.9798
           lng: 148.0035
-      made: 76.75351
-  - - Len Paton
+      made: 76.753511
+  - - - '55'
+      - Len Paton
     - togo:
         distance: 93.544268
         legs:
@@ -2199,21 +3241,23 @@ nigh:
           lng: 147.980828
         - lat: -31.9798
           lng: 148.0035
-      made: 60.06151
-  - - Andrew Luton
+      made: 60.061511
+  - - - '19'
+      - Andrew Luton
     - togo:
-        distance: 96.382755
+        distance: 96.382756
         legs:
-        - 96.382755
+        - 96.382756
         legsSum:
-        - 96.382755
+        - 96.382756
         waypoints:
-        - lat: -32.84654198
+        - lat: -32.846542
           lng: 147.992588
         - lat: -31.9798
           lng: 148.0035
-      made: 57.22251
-  - - Federico Martini
+      made: 57.222511
+  - - - '8'
+      - Federico Martini
     - togo:
         distance: 113.149279
         legs:
@@ -2225,21 +3269,23 @@ nigh:
           lng: 148.04165
         - lat: -31.9798
           lng: 148.0035
-      made: 40.45651
-  - - Olav Olsen
+      made: 40.456511
+  - - - '52'
+      - Olav Olsen
     - togo:
-        distance: 117.134914
+        distance: 117.134915
         legs:
-        - 117.134914
+        - 117.134915
         legsSum:
-        - 117.134914
+        - 117.134915
         waypoints:
-        - lat: -33.03316698
-          lng: 147.99101698
+        - lat: -33.033167
+          lng: 147.991017
         - lat: -31.9798
           lng: 148.0035
-      made: 36.47051
-  - - Nick Purcell
+      made: 36.470511
+  - - - '15'
+      - Nick Purcell
     - togo:
         distance: 119.55951
         legs:
@@ -2251,21 +3297,23 @@ nigh:
           lng: 147.993739
         - lat: -31.9798
           lng: 148.0035
-      made: 34.04551
-  - - Filippo Oppici
+      made: 34.045511
+  - - - '33'
+      - Filippo Oppici
     - togo:
-        distance: 120.7697
+        distance: 120.769701
         legs:
-        - 120.7697
+        - 120.769701
         legsSum:
-        - 120.7697
+        - 120.769701
         waypoints:
-        - lat: -33.06589998
+        - lat: -33.0659
           lng: 148.00845
         - lat: -31.9798
           lng: 148.0035
-      made: 32.83551
-  - - Davis Straub
+      made: 32.835511
+  - - - '60'
+      - Davis Straub
     - togo:
         distance: 121.084838
         legs:
@@ -2274,37 +3322,40 @@ nigh:
         - 121.084838
         waypoints:
         - lat: -33.068733
-          lng: 148.00878298
+          lng: 148.008783
         - lat: -31.9798
           lng: 148.0035
-      made: 32.52051
-  - - Christian Voiblet
+      made: 32.520511
+  - - - '62'
+      - Christian Voiblet
     - togo:
-        distance: 121.215975
+        distance: 121.215976
         legs:
-        - 121.215975
+        - 121.215976
         legsSum:
-        - 121.215975
+        - 121.215976
         waypoints:
-        - lat: -33.06991699
+        - lat: -33.069917
           lng: 148.0072
         - lat: -31.9798
           lng: 148.0035
-      made: 32.38951
-  - - Kathryn O'Riordan
+      made: 32.389511
+  - - - '53'
+      - Kathryn O'Riordan
     - togo:
-        distance: 122.31409
+        distance: 122.314091
         legs:
-        - 122.31409
+        - 122.314091
         legsSum:
-        - 122.31409
+        - 122.314091
         waypoints:
-        - lat: -33.07974999
+        - lat: -33.07975
           lng: 147.991433
         - lat: -31.9798
           lng: 148.0035
-      made: 31.29151
-  - - Rod Flockhart
+      made: 31.291511
+  - - - '43'
+      - Rod Flockhart
     - togo:
         distance: 122.956617
         legs:
@@ -2313,11 +3364,12 @@ nigh:
         - 122.956617
         waypoints:
         - lat: -33.085517
-          lng: 147.99001699
+          lng: 147.990017
         - lat: -31.9798
           lng: 148.0035
-      made: 30.64851
-  - - Attila Bertok
+      made: 30.648511
+  - - - '41'
+      - Attila Bertok
     - togo:
         distance: 122.948879
         legs:
@@ -2326,11 +3378,12 @@ nigh:
         - 122.948879
         waypoints:
         - lat: -33.085438
-          lng: 147.98897199
+          lng: 147.988972
         - lat: -31.9798
           lng: 148.0035
-      made: 30.65651
-  - - Jonny Durand
+      made: 30.656511
+  - - - '39'
+      - Jonny Durand
     - togo:
         distance: 122.99479
         legs:
@@ -2342,21 +3395,23 @@ nigh:
           lng: 147.995867
         - lat: -31.9798
           lng: 148.0035
-      made: 30.61051
-  - - Peter Ebeling
+      made: 30.610511
+  - - - '13'
+      - Peter Ebeling
     - togo:
-        distance: 122.872415
+        distance: 122.872416
         legs:
-        - 122.872415
+        - 122.872416
         legsSum:
-        - 122.872415
+        - 122.872416
         waypoints:
-        - lat: -33.08480398
+        - lat: -33.084804
           lng: 147.996859
         - lat: -31.9798
           lng: 148.0035
-      made: 30.73351
-  - - Neil Petersen
+      made: 30.733511
+  - - - '21'
+      - Neil Petersen
     - togo:
         distance: 127.845922
         legs:
@@ -2365,11 +3420,12 @@ nigh:
         - 127.845922
         waypoints:
         - lat: -33.1293
-          lng: 147.97528299
+          lng: 147.975283
         - lat: -31.9798
           lng: 148.0035
-      made: 25.75951
-  - - Maximilian Respondek
+      made: 25.759511
+  - - - '56'
+      - Maximilian Respondek
     - togo:
         distance: 129.528504
         legs:
@@ -2381,47 +3437,51 @@ nigh:
           lng: 147.980533
         - lat: -31.9798
           lng: 148.0035
-      made: 24.07651
-  - - Mikhail Karmazin
+      made: 24.076511
+  - - - '14'
+      - Mikhail Karmazin
     - togo:
-        distance: 129.864877
+        distance: 129.864878
         legs:
-        - 129.864877
+        - 129.864878
         legsSum:
-        - 129.864877
+        - 129.864878
         waypoints:
-        - lat: -33.14766698
+        - lat: -33.147667
           lng: 147.992633
         - lat: -31.9798
           lng: 148.0035
-      made: 23.74051
-  - - Michael Tomlinson
+      made: 23.740511
+  - - - '16'
+      - Michael Tomlinson
     - togo:
-        distance: 131.04069
+        distance: 131.040691
         legs:
-        - 131.04069
+        - 131.040691
         legsSum:
-        - 131.04069
+        - 131.040691
         waypoints:
-        - lat: -33.15739399
-          lng: 147.94936799
+        - lat: -33.157394
+          lng: 147.949368
         - lat: -31.9798
           lng: 148.0035
-      made: 22.56451
-  - - Mark Russell
+      made: 22.564511
+  - - - '58'
+      - Mark Russell
     - togo:
-        distance: 134.78563
+        distance: 134.785632
         legs:
-        - 134.78563
+        - 134.785632
         legsSum:
-        - 134.78563
+        - 134.785632
         waypoints:
-        - lat: -33.19148298
+        - lat: -33.191483
           lng: 147.9633
         - lat: -31.9798
           lng: 148.0035
-      made: 18.81951
-  - - Cameron Tunbridge
+      made: 18.819511
+  - - - '4'
+      - Cameron Tunbridge
     - togo:
         distance: 137.64628
         legs:
@@ -2433,8 +3493,9 @@ nigh:
           lng: 147.957537
         - lat: -31.9798
           lng: 148.0035
-      made: 15.95951
-  - - Enda Murphy
+      made: 15.959511
+  - - - '36'
+      - Enda Murphy
     - togo:
         distance: 138.608507
         legs:
@@ -2443,24 +3504,26 @@ nigh:
         - 138.608507
         waypoints:
         - lat: -33.225667
-          lng: 147.95501698
+          lng: 147.955017
         - lat: -31.9798
           lng: 148.0035
-      made: 14.99651
-  - - Phil Seeley
+      made: 14.996511
+  - - - '69'
+      - Phil Seeley
     - togo:
-        distance: 145.220114
+        distance: 145.220115
         legs:
-        - 145.220114
+        - 145.220115
         legsSum:
-        - 145.220114
+        - 145.220115
         waypoints:
-        - lat: -33.28529998
+        - lat: -33.2853
           lng: 147.960767
         - lat: -31.9798
           lng: 148.0035
-      made: 8.38551
-- - - Len Paton
+      made: 8.385511
+- - - - '55'
+      - Len Paton
     - togo:
         distance: 12.130851
         legs:
@@ -2468,25 +3531,27 @@ nigh:
         legsSum:
         - 12.130851
         waypoints:
-        - lat: -32.50578098
-          lng: 148.86922698
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.505781
+          lng: 148.869227
+        - lat: -32.4636
+          lng: 148.9885
       made: 142.524492
-  - - Patrick Collin
+  - - - '44'
+      - Patrick Collin
     - togo:
-        distance: 22.715954
+        distance: 22.715955
         legs:
-        - 22.715954
+        - 22.715955
         legsSum:
-        - 22.715954
+        - 22.715955
         waypoints:
         - lat: -32.430933
           lng: 148.749533
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.4636
+          lng: 148.9885
       made: 131.939492
-  - - Rod Flockhart
+  - - - '43'
+      - Rod Flockhart
     - togo:
         distance: 25.430858
         legs:
@@ -2494,12 +3559,13 @@ nigh:
         legsSum:
         - 25.430858
         waypoints:
-        - lat: -32.54703299
-          lng: 148.73599999
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.547033
+          lng: 148.736
+        - lat: -32.4636
+          lng: 148.9885
       made: 129.224492
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - togo:
         distance: 56.779259
         legs:
@@ -2507,25 +3573,27 @@ nigh:
         legsSum:
         - 56.779259
         waypoints:
-        - lat: -32.64654999
-          lng: 148.42289998
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.64655
+          lng: 148.4229
+        - lat: -32.4636
+          lng: 148.9885
       made: 97.876492
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - togo:
-        distance: 62.657363
+        distance: 62.657364
         legs:
-        - 62.657363
+        - 62.657364
         legsSum:
-        - 62.657363
+        - 62.657364
         waypoints:
-        - lat: -32.55286698
+        - lat: -32.552867
           lng: 148.32875
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.4636
+          lng: 148.9885
       made: 91.998492
-  - - Peter Lamont
+  - - - '17'
+      - Peter Lamont
     - togo:
         distance: 63.536848
         legs:
@@ -2535,129 +3603,137 @@ nigh:
         waypoints:
         - lat: -32.565983
           lng: 148.32185
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.4636
+          lng: 148.9885
       made: 91.118492
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - togo:
         distance: 81.589668
         legs:
-        - 13.186791
-        - 68.402877
+        - 13.18679
+        - 68.402878
         legsSum:
-        - 13.186791
+        - 13.18679
         - 81.589668
         waypoints:
-        - lat: -32.74609998
-          lng: 148.21979999
-        - lat: -32.646118
+        - lat: -32.7461
+          lng: 148.2198
+        - lat: -32.64611801
           lng: 148.29558613
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 73.065492
-  - - Adam Jones
+  - - - '22'
+      - Adam Jones
     - togo:
-        distance: 85.571422
+        distance: 85.571421
         legs:
-        - 17.168545
-        - 68.402877
+        - 17.168544
+        - 68.402878
         legsSum:
-        - 17.168545
-        - 85.571422
+        - 17.168544
+        - 85.571421
         waypoints:
         - lat: -32.775767
-          lng: 148.19593298
-        - lat: -32.646118
+          lng: 148.195933
+        - lat: -32.64611801
           lng: 148.29558613
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 69.084492
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - togo:
-        distance: 109.920942
+        distance: 109.920941
         legs:
-        - 41.518065
-        - 68.402877
+        - 41.518064
+        - 68.402878
         legsSum:
-        - 41.518065
-        - 109.920942
+        - 41.518064
+        - 109.920941
         waypoints:
         - lat: -32.955283
-          lng: 148.04651699
-        - lat: -32.646118
+          lng: 148.046517
+        - lat: -32.64611801
           lng: 148.29558613
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 44.734492
-  - - Peter Ebeling
+  - - - '13'
+      - Peter Ebeling
     - togo:
-        distance: 110.557193
+        distance: 110.557192
         legs:
-        - 42.154316
-        - 68.402877
+        - 42.154314
+        - 68.402878
         legsSum:
-        - 42.154316
-        - 110.557193
+        - 42.154314
+        - 110.557192
         waypoints:
         - lat: -32.983341
-          lng: 148.08949498
-        - lat: -32.646118
+          lng: 148.089495
+        - lat: -32.64611801
           lng: 148.29558613
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 44.098492
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - togo:
         distance: 114.805785
         legs:
-        - 46.402908
-        - 68.402877
+        - 46.402907
+        - 68.402878
         legsSum:
-        - 46.402908
+        - 46.402907
         - 114.805785
         waypoints:
-        - lat: -33.01984998
-          lng: 148.07461699
-        - lat: -32.646118
+        - lat: -33.01985
+          lng: 148.074617
+        - lat: -32.64611801
           lng: 148.29558613
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 39.849492
-  - - Tony Masters
+  - - - '26'
+      - Tony Masters
     - togo:
-        distance: 129.233899
+        distance: 129.2339
         legs:
         - 60.831023
-        - 68.402877
+        - 68.402878
         legsSum:
         - 60.831023
-        - 129.233899
+        - 129.2339
         waypoints:
-        - lat: -33.13628298
+        - lat: -33.136283
           lng: 148.006267
-        - lat: -32.646118
+        - lat: -32.64611801
           lng: 148.29558613
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 25.421492
-  - - Michael Tomlinson
+  - - - '16'
+      - Michael Tomlinson
     - togo:
-        distance: 138.14949
+        distance: 138.149489
         legs:
-        - 69.746613
-        - 68.402877
+        - 69.746612
+        - 68.402878
         legsSum:
-        - 69.746613
-        - 138.14949
+        - 69.746612
+        - 138.149489
         waypoints:
         - lat: -33.229474
-          lng: 148.02092798
-        - lat: -32.646118
+          lng: 148.020928
+        - lat: -32.64611801
           lng: 148.29558613
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 16.506492
-- - - Olav Olsen
+- - - - '52'
+      - Olav Olsen
     - togo:
         distance: 33.125587
         legs:
@@ -2665,25 +3741,27 @@ nigh:
         legsSum:
         - 33.125587
         waypoints:
-        - lat: -32.72209998
-          lng: 148.81274998
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.7221
+          lng: 148.81275
+        - lat: -32.4636
+          lng: 148.9885
       made: 123.902575
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - togo:
-        distance: 36.903473
+        distance: 36.903472
         legs:
-        - 36.903473
+        - 36.903472
         legsSum:
-        - 36.903473
+        - 36.903472
         waypoints:
         - lat: -32.778517
           lng: 148.864133
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.4636
+          lng: 148.9885
       made: 120.125575
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - togo:
         distance: 49.963981
         legs:
@@ -2691,12 +3769,13 @@ nigh:
         legsSum:
         - 49.963981
         waypoints:
-        - lat: -32.86712098
+        - lat: -32.867121
           lng: 148.753688
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.4636
+          lng: 148.9885
       made: 107.064575
-  - - Conrad Loten
+  - - - '50'
+      - Conrad Loten
     - togo:
         distance: 52.019594
         legs:
@@ -2704,29 +3783,31 @@ nigh:
         legsSum:
         - 52.019594
         waypoints:
-        - lat: -32.89139998
-          lng: 148.76356698
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.8914
+          lng: 148.763567
+        - lat: -32.4636
+          lng: 148.9885
       made: 105.008575
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - togo:
-        distance: 52.867477
+        distance: 52.867476
         legs:
         - 0.119707
         - 52.747769
         legsSum:
         - 0.119707
-        - 52.867477
+        - 52.867476
         waypoints:
-        - lat: -32.88924999
-          lng: 148.74959999
-        - lat: -32.8899539
+        - lat: -32.88925
+          lng: 148.7496
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 104.161575
-  - - Anton Struganov
+  - - - '23'
+      - Anton Struganov
     - togo:
         distance: 52.047727
         legs:
@@ -2734,29 +3815,31 @@ nigh:
         legsSum:
         - 52.047727
         waypoints:
-        - lat: -32.88923298
-          lng: 148.75711698
-        - lat: -32.46359998
-          lng: 148.98849999
+        - lat: -32.889233
+          lng: 148.757117
+        - lat: -32.4636
+          lng: 148.9885
       made: 104.980575
-  - - Akiko Suzuki
+  - - - '6'
+      - Akiko Suzuki
     - togo:
-        distance: 55.636383
+        distance: 55.636382
         legs:
-        - 2.888614
+        - 2.888613
         - 52.747769
         legsSum:
-        - 2.888614
-        - 55.636383
+        - 2.888613
+        - 55.636382
         waypoints:
-        - lat: -32.87836699
-          lng: 148.72288298
-        - lat: -32.8899539
+        - lat: -32.878367
+          lng: 148.722883
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 101.392575
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - togo:
         distance: 57.726869
         legs:
@@ -2766,71 +3849,75 @@ nigh:
         - 4.9791
         - 57.726869
         waypoints:
-        - lat: -32.85463298
+        - lat: -32.854633
           lng: 148.7178
-        - lat: -32.8899539
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 99.301575
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - togo:
-        distance: 59.23919
+        distance: 59.239191
         legs:
-        - 6.491421
+        - 6.491422
         - 52.747769
         legsSum:
-        - 6.491421
-        - 59.23919
+        - 6.491422
+        - 59.239191
         waypoints:
         - lat: -32.839333
-          lng: 148.71594999
-        - lat: -32.8899539
+          lng: 148.71595
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 97.789575
-  - - Patrick Collin
+  - - - '44'
+      - Patrick Collin
     - togo:
-        distance: 61.357468
+        distance: 61.357469
         legs:
-        - 8.609699
+        - 8.6097
         - 52.747769
         legsSum:
-        - 8.609699
-        - 61.357468
+        - 8.6097
+        - 61.357469
         waypoints:
         - lat: -32.815133
           lng: 148.72685
-        - lat: -32.8899539
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 95.671575
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - togo:
-        distance: 70.914264
+        distance: 70.914265
         legs:
-        - 2.038556
-        - 16.12794
+        - 2.038557
+        - 16.127939
         - 52.747769
         legsSum:
-        - 2.038556
-        - 18.166495
-        - 70.914264
+        - 2.038557
+        - 18.166496
+        - 70.914265
         waypoints:
         - lat: -32.79625
           lng: 148.59635
-        - lat: -32.7968995
-          lng: 148.61814595
-        - lat: -32.8899539
+        - lat: -32.79689951
+          lng: 148.61814597
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 86.114575
-  - - Tony Masters
+  - - - '26'
+      - Tony Masters
     - togo:
-        distance: 75.63656
+        distance: 75.636559
         legs:
         - 9.415501
         - 13.473289
@@ -2838,237 +3925,249 @@ nigh:
         legsSum:
         - 9.415501
         - 22.88879
-        - 75.63656
+        - 75.636559
         waypoints:
-        - lat: -32.82608299
-          lng: 148.54949998
-        - lat: -32.80544204
-          lng: 148.64721492
-        - lat: -32.8899539
+        - lat: -32.826083
+          lng: 148.5495
+        - lat: -32.80544205
+          lng: 148.64721493
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 81.391575
-  - - Peter Lamont
+  - - - '17'
+      - Peter Lamont
     - togo:
-        distance: 100.050507
+        distance: 100.050506
         legs:
         - 33.829448
         - 13.473289
         - 52.747769
         legsSum:
         - 33.829448
-        - 47.302738
-        - 100.050507
+        - 47.302737
+        - 100.050506
         waypoints:
-        - lat: -32.93318298
-          lng: 148.31846698
-        - lat: -32.80544204
-          lng: 148.64721492
-        - lat: -32.8899539
+        - lat: -32.933183
+          lng: 148.318467
+        - lat: -32.80544205
+          lng: 148.64721493
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 56.977575
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - togo:
         distance: 97.986298
         legs:
-        - 31.765239
+        - 31.76524
         - 13.473289
         - 52.747769
         legsSum:
-        - 31.765239
-        - 45.238529
+        - 31.76524
+        - 45.238528
         - 97.986298
         waypoints:
         - lat: -32.926583
           lng: 148.3392
-        - lat: -32.80544204
-          lng: 148.64721492
-        - lat: -32.8899539
+        - lat: -32.80544205
+          lng: 148.64721493
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 59.042575
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - togo:
-        distance: 53.5528
+        distance: 53.552801
         legs:
-        - 0.805031
+        - 0.805032
         - 52.747769
         legsSum:
-        - 0.805031
-        - 53.5528
+        - 0.805032
+        - 53.552801
         waypoints:
         - lat: -32.884717
           lng: 148.744617
-        - lat: -32.8899539
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 103.475575
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - togo:
-        distance: 116.12933
+        distance: 116.129329
         legs:
         - 49.228107
-        - 14.153454
+        - 14.153453
         - 52.747769
         legsSum:
         - 49.228107
-        - 63.381561
-        - 116.12933
+        - 63.38156
+        - 116.129329
         waypoints:
         - lat: -33.084217
           lng: 148.229417
-        - lat: -32.80447606
-          lng: 148.63830808
-        - lat: -32.8899539
+        - lat: -32.80447607
+          lng: 148.6383081
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 40.899575
-  - - Kathryn O'Riordan
+  - - - '53'
+      - Kathryn O'Riordan
     - togo:
         distance: 125.547112
         legs:
         - 58.645889
-        - 14.153454
+        - 14.153453
         - 52.747769
         legsSum:
         - 58.645889
         - 72.799343
         - 125.547112
         waypoints:
-        - lat: -33.14268298
+        - lat: -33.142683
           lng: 148.1559
-        - lat: -32.80447606
-          lng: 148.63830808
-        - lat: -32.8899539
+        - lat: -32.80447607
+          lng: 148.6383081
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 31.481575
-  - - Peter Ebeling
+  - - - '13'
+      - Peter Ebeling
     - togo:
         distance: 135.829239
         legs:
         - 68.928016
-        - 14.153454
+        - 14.153453
         - 52.747769
         legsSum:
         - 68.928016
         - 83.08147
         - 135.829239
         waypoints:
-        - lat: -33.20482498
-          lng: 148.07397399
-        - lat: -32.80447606
-          lng: 148.63830808
-        - lat: -32.8899539
+        - lat: -33.204825
+          lng: 148.073974
+        - lat: -32.80447607
+          lng: 148.6383081
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 21.199575
-  - - Adam Jones
+  - - - '22'
+      - Adam Jones
     - togo:
         distance: 137.744559
         legs:
         - 70.843336
-        - 14.153454
+        - 14.153453
         - 52.747769
         legsSum:
         - 70.843336
-        - 84.99679
+        - 84.996789
         - 137.744559
         waypoints:
-        - lat: -33.21203298
-          lng: 148.05434999
-        - lat: -32.80447606
-          lng: 148.63830808
-        - lat: -32.8899539
+        - lat: -33.212033
+          lng: 148.05435
+        - lat: -32.80447607
+          lng: 148.6383081
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 19.283575
-  - - Michael Tomlinson
+  - - - '16'
+      - Michael Tomlinson
     - togo:
         distance: 138.531539
         legs:
         - 71.630316
-        - 14.153454
+        - 14.153453
         - 52.747769
         legsSum:
         - 71.630316
         - 85.78377
         - 138.531539
         waypoints:
-        - lat: -33.21623799
-          lng: 148.04752898
-        - lat: -32.80447606
-          lng: 148.63830808
-        - lat: -32.8899539
+        - lat: -33.216238
+          lng: 148.047529
+        - lat: -32.80447607
+          lng: 148.6383081
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 18.496575
-  - - Maximilian Respondek
+  - - - '56'
+      - Maximilian Respondek
     - togo:
         distance: 142.986482
         legs:
         - 76.085259
-        - 14.153454
+        - 14.153453
         - 52.747769
         legsSum:
         - 76.085259
-        - 90.238713
+        - 90.238712
         - 142.986482
         waypoints:
-        - lat: -33.21328299
-          lng: 147.98398298
-        - lat: -32.80447606
-          lng: 148.63830808
-        - lat: -32.8899539
+        - lat: -33.213283
+          lng: 147.983983
+        - lat: -32.80447607
+          lng: 148.6383081
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 14.042575
-  - - Len Paton
+  - - - '55'
+      - Len Paton
     - togo:
-        distance: 147.402432
+        distance: 147.402431
         legs:
         - 80.501209
-        - 14.153454
+        - 14.153453
         - 52.747769
         legsSum:
         - 80.501209
-        - 94.654663
-        - 147.402432
+        - 94.654662
+        - 147.402431
         waypoints:
         - lat: -33.278426
-          lng: 147.98545999
-        - lat: -32.80447606
-          lng: 148.63830808
-        - lat: -32.8899539
+          lng: 147.98546
+        - lat: -32.80447607
+          lng: 148.6383081
+        - lat: -32.88995392
           lng: 148.75057
-        - lat: -32.46117718
-          lng: 148.99165146
+        - lat: -32.4611772
+          lng: 148.99165148
       made: 9.626575
-- - - Carl Wallbank
+- - - - '70'
+      - Carl Wallbank
     - togo:
-        distance: 39.80607
+        distance: 39.806069
         legs:
-        - 39.80607
+        - 39.806069
         legsSum:
-        - 39.80607
+        - 39.806069
         waypoints:
-        - lat: -34.26059999
+        - lat: -34.2606
           lng: 148.235083
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 112.7655
-  - - Paris Williams
+  - - - '3'
+      - Paris Williams
     - togo:
         distance: 41.355172
         legs:
@@ -3077,24 +4176,26 @@ nigh:
         - 41.355172
         waypoints:
         - lat: -34.232587
-          lng: 148.22672499
+          lng: 148.226725
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 111.2165
-  - - Anton Struganov
+  - - - '23'
+      - Anton Struganov
     - togo:
-        distance: 58.113996
+        distance: 58.113995
         legs:
-        - 58.113996
+        - 58.113995
         legsSum:
-        - 58.113996
+        - 58.113995
         waypoints:
-        - lat: -34.11464998
-          lng: 148.34146698
+        - lat: -34.11465
+          lng: 148.341467
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 91.9585
-  - - Attila Bertok
+  - - - '41'
+      - Attila Bertok
     - togo:
         distance: 43.099395
         legs:
@@ -3105,74 +4206,80 @@ nigh:
         - lat: -34.217241
           lng: 148.234968
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 109.4725
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - togo:
-        distance: 43.50333
+        distance: 43.503329
         legs:
-        - 43.50333
+        - 43.503329
         legsSum:
-        - 43.50333
+        - 43.503329
         waypoints:
-        - lat: -34.21574998
-          lng: 148.23939999
+        - lat: -34.21575
+          lng: 148.2394
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 109.0685
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - togo:
-        distance: 55.313167
+        distance: 55.313166
         legs:
-        - 55.313167
+        - 55.313166
         legsSum:
-        - 55.313167
+        - 55.313166
         waypoints:
-        - lat: -34.16029998
+        - lat: -34.1603
           lng: 148.352933
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 94.5665
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - togo:
-        distance: 58.084237
+        distance: 58.084236
         legs:
-        - 58.084237
+        - 58.084236
         legsSum:
-        - 58.084237
+        - 58.084236
         waypoints:
-        - lat: -34.12298298
-          lng: 148.35141698
+        - lat: -34.122983
+          lng: 148.351417
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 93.2595
-  - - Jonas Lobitz
+  - - - '49'
+      - Jonas Lobitz
     - togo:
-        distance: 55.333224
+        distance: 55.333225
         legs:
-        - 55.333224
+        - 55.333225
         legsSum:
-        - 55.333224
+        - 55.333225
         waypoints:
         - lat: -34.160017
-          lng: 148.35291699
+          lng: 148.352917
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 94.5675
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - togo:
-        distance: 54.938578
+        distance: 54.938579
         legs:
-        - 54.938578
+        - 54.938579
         legsSum:
-        - 54.938578
+        - 54.938579
         waypoints:
         - lat: -34.160567
-          lng: 148.34771699
+          lng: 148.347717
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 94.0855
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - togo:
         distance: 58.439942
         legs:
@@ -3180,12 +4287,13 @@ nigh:
         legsSum:
         - 58.439942
         waypoints:
-        - lat: -34.10969999
+        - lat: -34.1097
           lng: 148.340267
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 91.4825
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - togo:
         distance: 57.674488
         legs:
@@ -3193,38 +4301,41 @@ nigh:
         legsSum:
         - 57.674488
         waypoints:
-        - lat: -34.10733299
-          lng: 148.32478298
+        - lat: -34.107333
+          lng: 148.324783
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 90.2565
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - togo:
-        distance: 57.454836
+        distance: 57.454837
         legs:
-        - 57.454836
+        - 57.454837
         legsSum:
-        - 57.454836
+        - 57.454837
         waypoints:
         - lat: -34.106464
-          lng: 148.31999999
+          lng: 148.32
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 89.8435
-  - - Len Paton
+  - - - '55'
+      - Len Paton
     - togo:
-        distance: 59.606823
+        distance: 59.606822
         legs:
-        - 59.606823
+        - 59.606822
         legsSum:
-        - 59.606823
+        - 59.606822
         waypoints:
-        - lat: -34.09364999
+        - lat: -34.09365
           lng: 148.337783
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 92.9645
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - togo:
         distance: 63.427877
         legs:
@@ -3235,362 +4346,384 @@ nigh:
         - lat: -34.069616
           lng: 148.367581
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 88.8255
-  - - Patrick Collin
+  - - - '44'
+      - Patrick Collin
     - togo:
-        distance: 63.377062
+        distance: 63.377061
         legs:
-        - 63.377062
+        - 63.377061
         legsSum:
-        - 63.377062
+        - 63.377061
         waypoints:
-        - lat: -34.07314998
+        - lat: -34.07315
           lng: 148.371483
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 89.1945
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - togo:
-        distance: 63.14046
+        distance: 63.140461
         legs:
-        - 4.973473
-        - 58.166986
+        - 4.973474
+        - 58.166987
         legsSum:
-        - 4.973473
-        - 63.14046
+        - 4.973474
+        - 63.140461
         waypoints:
         - lat: -34.10905
           lng: 148.3129
         - lat: -34.12974888
-          lng: 148.36079373
+          lng: 148.36079375
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 89.4315
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - togo:
         distance: 63.689174
         legs:
-        - 1.294464
-        - 62.39471
+        - 1.294463
+        - 62.394711
         legsSum:
-        - 1.294464
+        - 1.294463
         - 63.689174
         waypoints:
-        - lat: -34.07013298
+        - lat: -34.070133
           lng: 148.366433
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 88.8825
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - togo:
-        distance: 65.470332
+        distance: 65.470331
         legs:
-        - 3.075621
-        - 62.39471
+        - 3.07562
+        - 62.394711
         legsSum:
-        - 3.075621
-        - 65.470332
+        - 3.07562
+        - 65.470331
         waypoints:
-        - lat: -34.05488299
+        - lat: -34.054883
           lng: 148.374917
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 87.1015
-  - - Yasuhiro Noma
+  - - - '46'
+      - Yasuhiro Noma
     - togo:
         distance: 66.833553
         legs:
         - 4.438842
-        - 62.39471
+        - 62.394711
         legsSum:
         - 4.438842
         - 66.833553
         waypoints:
         - lat: -34.065466
-          lng: 148.32305199
-        - lat: -34.08176329
-          lng: 148.36704619
+          lng: 148.323052
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 85.7375
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - togo:
-        distance: 68.167524
+        distance: 68.167525
         legs:
         - 5.772814
-        - 62.39471
+        - 62.394711
         legsSum:
         - 5.772814
-        - 68.167524
+        - 68.167525
         waypoints:
         - lat: -34.030583
           lng: 148.356533
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 84.4035
-  - - Trent Brown
+  - - - '42'
+      - Trent Brown
     - togo:
         distance: 72.552949
         legs:
         - 10.158238
-        - 62.39471
+        - 62.394711
         legsSum:
         - 10.158238
         - 72.552949
         waypoints:
-        - lat: -33.99953298
+        - lat: -33.999533
           lng: 148.319017
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 80.0185
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - togo:
         distance: 73.968414
         legs:
         - 11.573703
-        - 62.39471
+        - 62.394711
         legsSum:
         - 11.573703
         - 73.968414
         waypoints:
         - lat: -33.980583
-          lng: 148.33758298
-        - lat: -34.08176329
-          lng: 148.36704619
+          lng: 148.337583
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 78.6035
-  - - Cameron Tunbridge
+  - - - '4'
+      - Cameron Tunbridge
     - togo:
         distance: 78.230236
         legs:
-        - 15.835525
-        - 62.39471
+        - 15.835524
+        - 62.394711
         legsSum:
-        - 15.835525
+        - 15.835524
         - 78.230236
         waypoints:
-        - lat: -33.96571398
-          lng: 148.26744998
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -33.965714
+          lng: 148.26745
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 74.3415
-  - - Kathryn O'Riordan
+  - - - '53'
+      - Kathryn O'Riordan
     - togo:
         distance: 80.78266
         legs:
-        - 18.38795
-        - 62.39471
+        - 18.387949
+        - 62.394711
         legsSum:
-        - 18.38795
+        - 18.387949
         - 80.78266
         waypoints:
-        - lat: -33.93271699
-          lng: 148.28063298
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -33.932717
+          lng: 148.280633
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 71.7885
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - togo:
         distance: 94.61242
         legs:
         - 32.217709
-        - 62.39471
+        - 62.394711
         legsSum:
         - 32.217709
         - 94.61242
         waypoints:
         - lat: -33.822248
-          lng: 148.21171598
-        - lat: -34.08176329
-          lng: 148.36704619
+          lng: 148.211716
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 57.9595
-  - - Maximilian Respondek
+  - - - '56'
+      - Maximilian Respondek
     - togo:
         distance: 95.44576
         legs:
-        - 33.05105
-        - 62.39471
+        - 33.051049
+        - 62.394711
         legsSum:
-        - 33.05105
+        - 33.051049
         - 95.44576
         waypoints:
-        - lat: -33.80753298
+        - lat: -33.807533
           lng: 148.228833
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 57.1255
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - togo:
-        distance: 96.043318
+        distance: 96.043319
         legs:
         - 33.648608
-        - 62.39471
+        - 62.394711
         legsSum:
         - 33.648608
-        - 96.043318
+        - 96.043319
         waypoints:
         - lat: -33.866567
           lng: 148.1105
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 56.5285
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - togo:
         distance: 98.237189
         legs:
-        - 35.842479
-        - 62.39471
+        - 35.842478
+        - 62.394711
         legsSum:
-        - 35.842479
+        - 35.842478
         - 98.237189
         waypoints:
-        - lat: -33.77864998
-          lng: 148.23488298
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -33.77865
+          lng: 148.234883
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 54.3345
-  - - Andrew Luton
+  - - - '19'
+      - Andrew Luton
     - togo:
-        distance: 97.434844
+        distance: 97.434845
         legs:
         - 35.040134
-        - 62.39471
+        - 62.394711
         legsSum:
         - 35.040134
-        - 97.434844
+        - 97.434845
         waypoints:
         - lat: -33.783965
-          lng: 148.24284499
-        - lat: -34.08176329
-          lng: 148.36704619
+          lng: 148.242845
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 55.1365
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - togo:
-        distance: 101.361026
+        distance: 101.361027
         legs:
         - 38.966316
-        - 62.39471
+        - 62.394711
         legsSum:
         - 38.966316
-        - 101.361026
+        - 101.361027
         waypoints:
         - lat: -33.80805
-          lng: 148.10326699
-        - lat: -34.08176329
-          lng: 148.36704619
+          lng: 148.103267
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 51.2105
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - togo:
         distance: 107.103205
         legs:
-        - 44.708495
-        - 62.39471
+        - 44.708494
+        - 62.394711
         legsSum:
-        - 44.708495
+        - 44.708494
         - 107.103205
         waypoints:
-        - lat: -33.75696298
-          lng: 148.08144598
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -33.756963
+          lng: 148.081446
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 45.4685
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - togo:
         distance: 109.185315
         legs:
-        - 46.790605
-        - 62.39471
+        - 46.790604
+        - 62.394711
         legsSum:
-        - 46.790605
+        - 46.790604
         - 109.185315
         waypoints:
-        - lat: -33.73174998
-          lng: 148.08559998
-        - lat: -34.08176329
-          lng: 148.36704619
+        - lat: -33.73175
+          lng: 148.0856
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 43.3865
-  - - Peter Ebeling
+  - - - '13'
+      - Peter Ebeling
     - togo:
-        distance: 113.771286
+        distance: 113.771287
         legs:
         - 51.376575
-        - 62.39471
+        - 62.394711
         legsSum:
         - 51.376575
-        - 113.771286
+        - 113.771287
         waypoints:
         - lat: -33.683619
-          lng: 148.08464699
-        - lat: -34.08176329
-          lng: 148.36704619
+          lng: 148.084647
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 38.8005
-  - - Tony Masters
+  - - - '26'
+      - Tony Masters
     - togo:
         distance: 120.229983
         legs:
         - 57.835272
-        - 62.39471
+        - 62.394711
         legsSum:
         - 57.835272
         - 120.229983
         waypoints:
         - lat: -33.611583
-          lng: 148.09926698
-        - lat: -34.08176329
-          lng: 148.36704619
+          lng: 148.099267
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 32.3415
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - togo:
-        distance: 125.408272
+        distance: 125.408273
         legs:
         - 63.013562
-        - 62.39471
+        - 62.394711
         legsSum:
         - 63.013562
-        - 125.408272
+        - 125.408273
         waypoints:
         - lat: -33.547133
-          lng: 148.14086699
-        - lat: -34.08176329
-          lng: 148.36704619
+          lng: 148.140867
+        - lat: -34.0817633
+          lng: 148.36704621
         - lat: -34.49372299
-          lng: 147.90591589
+          lng: 147.9059159
       made: 27.1635
-- - - Phil Schroder
+- - - - '30'
+      - Phil Schroder
     - togo:
         distance: 13.737716
         legs:
@@ -3598,25 +4731,27 @@ nigh:
         legsSum:
         - 13.737716
         waypoints:
-        - lat: -34.63233998
+        - lat: -34.63234
           lng: 149.082503
-        - lat: -34.71569998
-          lng: 149.19337999
+        - lat: -34.7157
+          lng: 149.19338
       made: 180.930307
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - togo:
-        distance: 22.017909
+        distance: 22.01791
         legs:
-        - 22.017909
+        - 22.01791
         legsSum:
-        - 22.017909
+        - 22.01791
         waypoints:
-        - lat: -34.57581299
+        - lat: -34.575813
           lng: 149.02303
-        - lat: -34.71569998
-          lng: 149.19337999
+        - lat: -34.7157
+          lng: 149.19338
       made: 172.650307
-  - - Len Paton
+  - - - '55'
+      - Len Paton
     - togo:
         distance: 25.271392
         legs:
@@ -3624,25 +4759,27 @@ nigh:
         legsSum:
         - 25.271392
         waypoints:
-        - lat: -34.62598298
-          lng: 148.93948298
-        - lat: -34.71569998
-          lng: 149.19337999
+        - lat: -34.625983
+          lng: 148.939483
+        - lat: -34.7157
+          lng: 149.19338
       made: 169.397307
-  - - Attila Bertok
+  - - - '41'
+      - Attila Bertok
     - togo:
-        distance: 30.635823
+        distance: 30.635824
         legs:
-        - 30.635823
+        - 30.635824
         legsSum:
-        - 30.635823
+        - 30.635824
         waypoints:
-        - lat: -34.54084498
+        - lat: -34.540845
           lng: 148.934625
-        - lat: -34.71569998
-          lng: 149.19337999
+        - lat: -34.7157
+          lng: 149.19338
       made: 164.032307
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - togo:
         distance: 35.453332
         legs:
@@ -3650,12 +4787,13 @@ nigh:
         legsSum:
         - 35.453332
         waypoints:
-        - lat: -34.50933298
-          lng: 148.89806698
-        - lat: -34.71569998
-          lng: 149.19337999
+        - lat: -34.509333
+          lng: 148.898067
+        - lat: -34.7157
+          lng: 149.19338
       made: 159.215307
-  - - Anton Struganov
+  - - - '23'
+      - Anton Struganov
     - togo:
         distance: 35.846718
         legs:
@@ -3663,25 +4801,27 @@ nigh:
         legsSum:
         - 35.846718
         waypoints:
-        - lat: -34.59023298
-          lng: 148.83238299
-        - lat: -34.71569998
-          lng: 149.19337999
+        - lat: -34.590233
+          lng: 148.832383
+        - lat: -34.7157
+          lng: 149.19338
       made: 158.821307
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - togo:
-        distance: 37.458599
+        distance: 37.4586
         legs:
-        - 37.458599
+        - 37.4586
         legsSum:
-        - 37.458599
+        - 37.4586
         waypoints:
-        - lat: -34.59448299
+        - lat: -34.594483
           lng: 148.811283
-        - lat: -34.71569998
-          lng: 149.19337999
+        - lat: -34.7157
+          lng: 149.19338
       made: 157.209307
-  - - Tony Giammichele
+  - - - '7'
+      - Tony Giammichele
     - togo:
         distance: 50.127121
         legs:
@@ -3690,826 +4830,1000 @@ nigh:
         - 50.127121
         waypoints:
         - lat: -34.49515
-          lng: 148.71569998
-        - lat: -34.71569998
-          lng: 149.19337999
+          lng: 148.7157
+        - lat: -34.7157
+          lng: 149.19338
       made: 144.541307
-  - - Kathryn O'Riordan
+  - - - '53'
+      - Kathryn O'Riordan
     - togo:
-        distance: 56.142444
+        distance: 56.142445
         legs:
         - 3.352763
-        - 52.789681
+        - 52.789682
         legsSum:
         - 3.352763
-        - 56.142444
+        - 56.142445
         waypoints:
-        - lat: -34.43871699
+        - lat: -34.438717
           lng: 148.7306
-        - lat: -34.46198831
-          lng: 148.70734944
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46198832
+          lng: 148.70734945
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 138.526307
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - togo:
-        distance: 60.502826
+        distance: 60.502827
         legs:
         - 7.501324
-        - 53.001502
+        - 53.001503
         legsSum:
         - 7.501324
-        - 60.502826
+        - 60.502827
         waypoints:
         - lat: -34.405092
-          lng: 148.65888899
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+          lng: 148.658889
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 134.165307
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - togo:
-        distance: 92.627818
+        distance: 92.627819
         legs:
         - 39.626316
-        - 53.001502
+        - 53.001503
         legsSum:
         - 39.626316
-        - 92.627818
+        - 92.627819
         waypoints:
-        - lat: -34.15314999
+        - lat: -34.15315
           lng: 148.487117
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 102.040307
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - togo:
-        distance: 91.742204
+        distance: 91.742205
         legs:
         - 38.740702
-        - 53.001502
+        - 53.001503
         legsSum:
         - 38.740702
-        - 91.742204
+        - 91.742205
         waypoints:
         - lat: -34.156263
-          lng: 148.49991499
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+          lng: 148.499915
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 102.926307
-  - - Patrick Collin
+  - - - '44'
+      - Patrick Collin
     - togo:
-        distance: 89.878591
+        distance: 89.878592
         legs:
         - 36.877089
-        - 53.001502
+        - 53.001503
         legsSum:
         - 36.877089
-        - 89.878591
+        - 89.878592
         waypoints:
-        - lat: -34.17974999
-          lng: 148.49174998
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.17975
+          lng: 148.49175
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 104.789307
-  - - Andrew Luton
+  - - - '19'
+      - Andrew Luton
     - togo:
-        distance: 94.996991
+        distance: 94.996992
         legs:
         - 41.995489
-        - 53.001502
+        - 53.001503
         legsSum:
         - 41.995489
-        - 94.996991
+        - 94.996992
         waypoints:
-        - lat: -34.11260098
+        - lat: -34.112601
           lng: 148.527409
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 99.671307
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - togo:
-        distance: 96.500778
+        distance: 96.500779
         legs:
         - 43.563645
-        - 52.937133
+        - 52.937134
         legsSum:
         - 43.563645
-        - 96.500778
+        - 96.500779
         waypoints:
-        - lat: -34.17631698
+        - lat: -34.176317
           lng: 148.380017
-        - lat: -34.46309999
+        - lat: -34.4631
           lng: 148.7032
-        - lat: -34.71569998
-          lng: 149.19337999
+        - lat: -34.7157
+          lng: 149.19338
       made: 98.167307
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - togo:
-        distance: 96.039981
+        distance: 96.039983
         legs:
-        - 43.038479
-        - 53.001502
+        - 43.03848
+        - 53.001503
         legsSum:
-        - 43.038479
-        - 96.039981
+        - 43.03848
+        - 96.039983
         waypoints:
         - lat: -34.116267
-          lng: 148.49123298
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+          lng: 148.491233
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 98.628307
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - togo:
-        distance: 52.904453
+        distance: 52.904455
         legs:
-        - 0.114772
-        - 52.789681
+        - 0.114773
+        - 52.789682
         legsSum:
-        - 0.114772
-        - 52.904453
+        - 0.114773
+        - 52.904455
         waypoints:
         - lat: -34.461171
-          lng: 148.70811398
-        - lat: -34.46198831
-          lng: 148.70734944
-        - lat: -34.71327718
-          lng: 149.19661483
+          lng: 148.708114
+        - lat: -34.46198832
+          lng: 148.70734945
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 141.764307
-  - - Peter Lamont
+  - - - '17'
+      - Peter Lamont
     - togo:
-        distance: 109.873309
+        distance: 109.873311
         legs:
-        - 56.871808
-        - 53.001502
+        - 56.871809
+        - 53.001503
         legsSum:
-        - 56.871808
-        - 109.873309
+        - 56.871809
+        - 109.873311
         waypoints:
         - lat: -34.02725
           lng: 148.376683
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 84.795307
-  - - Cameron Tunbridge
+  - - - '4'
+      - Cameron Tunbridge
     - togo:
-        distance: 117.172714
+        distance: 117.172716
         legs:
-        - 64.171213
-        - 53.001502
+        - 64.171214
+        - 53.001503
         legsSum:
-        - 64.171213
-        - 117.172714
+        - 64.171214
+        - 117.172716
         waypoints:
         - lat: -33.946466
           lng: 148.388214
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 77.495307
-  - - Steve Blenkinsop
+  - - - '24'
+      - Steve Blenkinsop
     - togo:
-        distance: 120.772127
+        distance: 120.772128
         legs:
-        - 67.770625
-        - 53.001502
+        - 67.770626
+        - 53.001503
         legsSum:
-        - 67.770625
-        - 120.772127
+        - 67.770626
+        - 120.772128
         waypoints:
         - lat: -33.962733
           lng: 148.280267
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 73.896307
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - togo:
-        distance: 137.562466
+        distance: 137.562467
         legs:
         - 84.626872
-        - 52.935594
+        - 52.935595
         legsSum:
         - 84.626872
-        - 137.562466
+        - 137.562467
         waypoints:
-        - lat: -33.84951698
+        - lat: -33.849517
           lng: 148.1584
-        - lat: -34.46070083
+        - lat: -34.46070085
           lng: 148.70645092
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 57.106307
-  - - Akiko Suzuki
+  - - - '6'
+      - Akiko Suzuki
     - togo:
-        distance: 147.981365
+        distance: 147.981366
         legs:
-        - 94.979863
-        - 53.001502
+        - 94.979864
+        - 53.001503
         legsSum:
-        - 94.979863
-        - 147.981365
+        - 94.979864
+        - 147.981366
         waypoints:
         - lat: -33.7545
-          lng: 148.12483298
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+          lng: 148.124833
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 46.687307
-  - - Peter Ebeling
+  - - - '13'
+      - Peter Ebeling
     - togo:
         distance: 148.93877
         legs:
         - 95.937268
-        - 53.001502
+        - 53.001503
         legsSum:
         - 95.937268
         - 148.93877
         waypoints:
-        - lat: -33.74414998
+        - lat: -33.74415
           lng: 148.124785
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 45.729307
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - togo:
-        distance: 157.916938
+        distance: 157.91694
         legs:
-        - 104.915436
-        - 53.001502
+        - 104.915437
+        - 53.001503
         legsSum:
-        - 104.915436
-        - 157.916938
+        - 104.915437
+        - 157.91694
         waypoints:
         - lat: -33.661517
           lng: 148.0997
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 36.751307
-  - - Hadewych van Kempen
+  - - - '64'
+      - Hadewych van Kempen
     - togo:
-        distance: 162.419348
+        distance: 162.419349
         legs:
         - 109.417846
-        - 53.001502
+        - 53.001503
         legsSum:
         - 109.417846
-        - 162.419348
+        - 162.419349
         waypoints:
-        - lat: -33.62494998
+        - lat: -33.62495
           lng: 148.078233
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 32.249307
-  - - Maximilian Respondek
+  - - - '56'
+      - Maximilian Respondek
     - togo:
-        distance: 174.291737
+        distance: 174.291739
         legs:
-        - 121.290235
-        - 53.001502
+        - 121.290236
+        - 53.001503
         legsSum:
-        - 121.290235
-        - 174.291737
+        - 121.290236
+        - 174.291739
         waypoints:
         - lat: -33.510933
-          lng: 148.05806698
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+          lng: 148.058067
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 20.376307
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - togo:
         distance: 179.964157
         legs:
         - 126.962655
-        - 53.001502
+        - 53.001503
         legsSum:
         - 126.962655
         - 179.964157
         waypoints:
-        - lat: -33.51091698
+        - lat: -33.510917
           lng: 147.94085
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 14.704307
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - togo:
         distance: 182.410384
         legs:
-        - 129.408882
-        - 53.001502
+        - 129.408881
+        - 53.001503
         legsSum:
-        - 129.408882
+        - 129.408881
         - 182.410384
         waypoints:
-        - lat: -33.43489998
-          lng: 148.04231698
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -33.4349
+          lng: 148.042317
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 12.258307
-  - - Tony Masters
+  - - - '26'
+      - Tony Masters
     - togo:
-        distance: 185.101821
+        distance: 185.101823
         legs:
-        - 132.100319
-        - 53.001502
+        - 132.10032
+        - 53.001503
         legsSum:
-        - 132.100319
-        - 185.101821
+        - 132.10032
+        - 185.101823
         waypoints:
         - lat: -33.432617
           lng: 147.9874
-        - lat: -34.4602861
-          lng: 148.7059181
-        - lat: -34.71327718
-          lng: 149.19661483
+        - lat: -34.46028611
+          lng: 148.70591811
+        - lat: -34.7132772
+          lng: 149.19661484
       made: 9.566307
 - []
 land:
-- - - Olav Olsen
-    - togo: 7.370575
+- - - - '52'
+      - Olav Olsen
+    - togo: 7.370576
       made: 139.355
-  - - Phil Schroder
-    - togo: 11.352487
+  - - - '30'
+      - Phil Schroder
+    - togo: 11.352488
       made: 135.373
-  - - Victor Hare
-    - togo: 13.306883
+  - - - '48'
+      - Victor Hare
+    - togo: 13.306884
       made: 133.418
-  - - Peter Lamont
-    - togo: 16.305841
+  - - - '17'
+      - Peter Lamont
+    - togo: 16.305842
       made: 130.42
-  - - Len Paton
-    - togo: 19.382368
+  - - - '55'
+      - Len Paton
+    - togo: 19.382369
       made: 127.343
-  - - Maximilian Respondek
-    - togo: 21.783133
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 21.783134
       made: 124.942
-  - - Peter Ebeling
-    - togo: 23.81613
+  - - - '13'
+      - Peter Ebeling
+    - togo: 23.816131
       made: 122.909
-  - - Jon snr Durand
-    - togo: 24.046599
+  - - - '37'
+      - Jon snr Durand
+    - togo: 24.0466
       made: 122.679
-  - - Enda Murphy
-    - togo: 25.895167
+  - - - '36'
+      - Enda Murphy
+    - togo: 25.895168
       made: 120.83
-  - - Gavin Myers
-    - togo: 25.896606
+  - - - '51'
+      - Gavin Myers
+    - togo: 25.896607
       made: 120.829
-  - - Dean Hervatin
-    - togo: 28.60019
+  - - - '31'
+      - Dean Hervatin
+    - togo: 28.600191
       made: 118.125
-  - - Nils Vesk
-    - togo: 29.407375
+  - - - '20'
+      - Nils Vesk
+    - togo: 29.407376
       made: 117.318
-  - - Andrew Barnes
-    - togo: 44.429052
+  - - - '2'
+      - Andrew Barnes
+    - togo: 44.429053
       made: 102.296
-  - - Adam Jones
-    - togo: 51.759704
+  - - - '22'
+      - Adam Jones
+    - togo: 51.759705
       made: 94.966
-  - - Federico Martini
-    - togo: 52.296979
+  - - - '8'
+      - Federico Martini
+    - togo: 52.296981
       made: 94.428
-  - - Nick Purcell
-    - togo: 74.775411
+  - - - '15'
+      - Nick Purcell
+    - togo: 74.775412
       made: 71.95
-  - - Michael Tomlinson
-    - togo: 86.656983
+  - - - '16'
+      - Michael Tomlinson
+    - togo: 86.656984
       made: 60.068
-  - - Patrick Collin
-    - togo: 89.050211
+  - - - '44'
+      - Patrick Collin
+    - togo: 89.050212
       made: 57.675
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - togo: 93.176902
       made: 53.548
-  - - Tony Masters
-    - togo: 108.920203
+  - - - '26'
+      - Tony Masters
+    - togo: 108.920202
       made: 37.805
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - togo: 128.233017
       made: 18.492
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - togo: 138.046604
       made: 8.679
-- - - Tony Giammichele
+- - - - '7'
+      - Tony Giammichele
     - togo: 7.564298
       made: 146.041
-  - - Phil Schroder
+  - - - '30'
+      - Phil Schroder
     - togo: 7.66114
       made: 145.944
-  - - Andrew Barnes
+  - - - '2'
+      - Andrew Barnes
     - togo: 9.200388
       made: 144.405
-  - - Jon snr Durand
+  - - - '37'
+      - Jon snr Durand
     - togo: 9.20857
       made: 144.397
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - togo: 29.598545
       made: 124.007
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - togo: 29.827592
       made: 123.778
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - togo: 34.456908
       made: 119.149
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - togo: 50.050293
       made: 103.555
-  - - Patrick Collin
+  - - - '44'
+      - Patrick Collin
     - togo: 50.562903
       made: 103.043
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - togo: 50.910999
       made: 102.695
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - togo: 76.851664
       made: 76.754
-  - - Len Paton
+  - - - '55'
+      - Len Paton
     - togo: 93.739104
       made: 59.866
-  - - Andrew Luton
+  - - - '19'
+      - Andrew Luton
     - togo: 97.025292
       made: 56.58
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - togo: 113.41345
       made: 40.192
-  - - Olav Olsen
+  - - - '52'
+      - Olav Olsen
     - togo: 117.416454
       made: 36.189
-  - - Nick Purcell
+  - - - '15'
+      - Nick Purcell
     - togo: 119.589616
       made: 34.016
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - togo: 121.10015
       made: 32.505
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - togo: 121.216479
       made: 32.389
-  - - Christian Voiblet
+  - - - '62'
+      - Christian Voiblet
     - togo: 121.721295
       made: 31.884
-  - - Kathryn O'Riordan
+  - - - '53'
+      - Kathryn O'Riordan
     - togo: 122.855787
       made: 30.75
-  - - Rod Flockhart
+  - - - '43'
+      - Rod Flockhart
     - togo: 123.000902
       made: 30.605
-  - - Attila Bertok
+  - - - '41'
+      - Attila Bertok
     - togo: 123.00569
       made: 30.6
-  - - Jonny Durand
+  - - - '39'
+      - Jonny Durand
     - togo: 123.221146
       made: 30.384
-  - - Peter Ebeling
+  - - - '13'
+      - Peter Ebeling
     - togo: 123.375233
       made: 30.23
-  - - Neil Petersen
+  - - - '21'
+      - Neil Petersen
     - togo: 128.271334
       made: 25.334
-  - - Maximilian Respondek
+  - - - '56'
+      - Maximilian Respondek
     - togo: 129.826439
       made: 23.779
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - togo: 130.610434
       made: 22.995
-  - - Michael Tomlinson
+  - - - '16'
+      - Michael Tomlinson
     - togo: 131.264733
       made: 22.341
-  - - Mark Russell
+  - - - '58'
+      - Mark Russell
     - togo: 135.076735
       made: 18.529
-  - - Cameron Tunbridge
+  - - - '4'
+      - Cameron Tunbridge
     - togo: 137.995803
       made: 15.61
-  - - Enda Murphy
+  - - - '36'
+      - Enda Murphy
     - togo: 138.73855
       made: 14.867
-  - - Phil Seeley
+  - - - '69'
+      - Phil Seeley
     - togo: 145.469613
       made: 8.136
-- - - Len Paton
+- - - - '55'
+      - Len Paton
     - togo: 12.662004
       made: 141.993
-  - - Patrick Collin
-    - togo: 22.970961
+  - - - '44'
+      - Patrick Collin
+    - togo: 22.970962
       made: 131.685
-  - - Rod Flockhart
+  - - - '43'
+      - Rod Flockhart
     - togo: 25.509408
       made: 129.146
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - togo: 57.04005
       made: 97.615
-  - - Phil Seeley
-    - togo: 64.740741
+  - - - '69'
+      - Phil Seeley
+    - togo: 64.740742
       made: 89.915
-  - - Peter Lamont
-    - togo: 64.885831
+  - - - '17'
+      - Peter Lamont
+    - togo: 64.885832
       made: 89.77
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - togo: 81.932072
       made: 72.723
-  - - Adam Jones
+  - - - '22'
+      - Adam Jones
     - togo: 85.785633
       made: 68.87
-  - - Dean Hervatin
+  - - - '31'
+      - Dean Hervatin
     - togo: 110.115832
       made: 44.54
-  - - Peter Ebeling
+  - - - '13'
+      - Peter Ebeling
     - togo: 111.200829
       made: 43.455
-  - - Ryosuke Hattori
+  - - - '5'
+      - Ryosuke Hattori
     - togo: 115.546563
       made: 39.109
-  - - Tony Masters
+  - - - '26'
+      - Tony Masters
     - togo: 129.90273
       made: 24.753
-  - - Michael Tomlinson
-    - togo: 138.527675
+  - - - '16'
+      - Michael Tomlinson
+    - togo: 138.527674
       made: 16.128
-- - - Olav Olsen
+- - - - '52'
+      - Olav Olsen
     - togo: 33.775201
       made: 123.253
-  - - Nils Vesk
-    - togo: 37.621142
+  - - - '20'
+      - Nils Vesk
+    - togo: 37.621141
       made: 119.407
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - togo: 50.301191
       made: 106.727
-  - - Conrad Loten
+  - - - '50'
+      - Conrad Loten
     - togo: 52.519622
       made: 104.509
-  - - Christian Voiblet
-    - togo: 52.868858
+  - - - '62'
+      - Christian Voiblet
+    - togo: 52.868859
       made: 104.16
-  - - Anton Struganov
-    - togo: 53.118238
+  - - - '23'
+      - Anton Struganov
+    - togo: 53.118237
       made: 103.91
-  - - Akiko Suzuki
-    - togo: 56.264022
+  - - - '6'
+      - Akiko Suzuki
+    - togo: 56.264023
       made: 100.765
-  - - Enda Murphy
-    - togo: 58.222944
+  - - - '36'
+      - Enda Murphy
+    - togo: 58.222945
       made: 98.806
-  - - Jon snr Durand
-    - togo: 59.936019
+  - - - '37'
+      - Jon snr Durand
+    - togo: 59.93602
       made: 97.093
-  - - Patrick Collin
-    - togo: 64.775443
+  - - - '44'
+      - Patrick Collin
+    - togo: 64.775444
       made: 92.253
-  - - Mikhail Karmazin
+  - - - '14'
+      - Mikhail Karmazin
     - togo: 71.303264
       made: 85.725
-  - - Tony Masters
+  - - - '26'
+      - Tony Masters
     - togo: 76.222445
       made: 80.806
-  - - Peter Lamont
+  - - - '17'
+      - Peter Lamont
     - togo: 101.180442
       made: 55.848
-  - - Phil Seeley
-    - togo: 101.224577
+  - - - '69'
+      - Phil Seeley
+    - togo: 101.224578
       made: 55.804
-  - - Filippo Oppici
-    - togo: 104.668375
+  - - - '33'
+      - Filippo Oppici
+    - togo: 104.668376
       made: 52.36
-  - - Victor Hare
+  - - - '48'
+      - Victor Hare
     - togo: 116.248165
       made: 40.78
-  - - Kathryn O'Riordan
+  - - - '53'
+      - Kathryn O'Riordan
     - togo: 127.486964
       made: 29.542
-  - - Peter Ebeling
+  - - - '13'
+      - Peter Ebeling
     - togo: 136.175613
       made: 20.853
-  - - Adam Jones
+  - - - '22'
+      - Adam Jones
     - togo: 138.498318
       made: 18.53
-  - - Michael Tomlinson
+  - - - '16'
+      - Michael Tomlinson
     - togo: 138.980384
       made: 18.048
-  - - Maximilian Respondek
-    - togo: 143.287607
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 143.287606
       made: 13.741
-  - - Len Paton
-    - togo: 148.785433
+  - - - '55'
+      - Len Paton
+    - togo: 148.785432
       made: 8.243
-- - - Carl Wallbank
+- - - - '70'
+      - Carl Wallbank
     - togo: 39.81995
       made: 112.752
-  - - Paris Williams
+  - - - '3'
+      - Paris Williams
     - togo: 41.577555
       made: 110.994
-  - - Anton Struganov
+  - - - '23'
+      - Anton Struganov
     - togo: 42.869364
       made: 109.702
-  - - Attila Bertok
+  - - - '41'
+      - Attila Bertok
     - togo: 43.107035
       made: 109.464
-  - - Adam Stevens
+  - - - '29'
+      - Adam Stevens
     - togo: 43.503329
       made: 109.068
-  - - Filippo Oppici
+  - - - '33'
+      - Filippo Oppici
     - togo: 43.939147
       made: 108.632
-  - - Lukas Bader
+  - - - '40'
+      - Lukas Bader
     - togo: 44.219387
       made: 108.352
-  - - Jonas Lobitz
+  - - - '49'
+      - Jonas Lobitz
     - togo: 44.578041
       made: 107.993
-  - - Geoff Robertson
+  - - - '45'
+      - Geoff Robertson
     - togo: 47.027011
       made: 105.544
-  - - Davis Straub
+  - - - '60'
+      - Davis Straub
     - togo: 48.796548
       made: 103.775
-  - - Jamie Shelden
+  - - - '35'
+      - Jamie Shelden
     - togo: 54.414209
       made: 98.157
-  - - Rohan Taylor
+  - - - '18'
+      - Rohan Taylor
     - togo: 56.334958
       made: 96.237
-  - - Len Paton
+  - - - '55'
+      - Len Paton
     - togo: 59.606822
       made: 92.965
-  - - Guy Hubbard
+  - - - '28'
+      - Guy Hubbard
     - togo: 63.390921
       made: 89.181
-  - - Patrick Collin
+  - - - '44'
+      - Patrick Collin
     - togo: 63.456796
       made: 89.115
-  - - Christian Voiblet
-    - togo: 63.552185
+  - - - '62'
+      - Christian Voiblet
+    - togo: 63.552187
       made: 89.019
-  - - Nils Vesk
+  - - - '20'
+      - Nils Vesk
     - togo: 64.233616
       made: 88.338
-  - - Federico Martini
+  - - - '8'
+      - Federico Martini
     - togo: 65.472816
       made: 87.099
-  - - Yasuhiro Noma
-    - togo: 67.034264
+  - - - '46'
+      - Yasuhiro Noma
+    - togo: 67.034265
       made: 85.537
-  - - Ryosuke Hattori
-    - togo: 68.619099
+  - - - '5'
+      - Ryosuke Hattori
+    - togo: 68.6191
       made: 83.952
-  - - Trent Brown
-    - togo: 72.97305
+  - - - '42'
+      - Trent Brown
+    - togo: 72.973051
       made: 79.598
-  - - Mikhail Karmazin
-    - togo: 74.401671
+  - - - '14'
+      - Mikhail Karmazin
+    - togo: 74.401672
       made: 78.17
-  - - Cameron Tunbridge
-    - togo: 78.467569
+  - - - '4'
+      - Cameron Tunbridge
+    - togo: 78.46757
       made: 74.104
-  - - Kathryn O'Riordan
-    - togo: 81.100574
+  - - - '53'
+      - Kathryn O'Riordan
+    - togo: 81.100575
       made: 71.471
-  - - Nick Purcell
-    - togo: 94.69911
+  - - - '15'
+      - Nick Purcell
+    - togo: 94.699111
       made: 57.872
-  - - Maximilian Respondek
-    - togo: 95.733196
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 95.733197
       made: 56.838
-  - - Victor Hare
-    - togo: 97.153142
+  - - - '48'
+      - Victor Hare
+    - togo: 97.153143
       made: 55.418
-  - - Phil Seeley
-    - togo: 100.626792
+  - - - '69'
+      - Phil Seeley
+    - togo: 100.626793
       made: 51.945
-  - - Andrew Luton
-    - togo: 100.8009
+  - - - '19'
+      - Andrew Luton
+    - togo: 100.800901
       made: 51.771
-  - - Andrew Barnes
-    - togo: 103.921239
+  - - - '2'
+      - Andrew Barnes
+    - togo: 103.92124
       made: 48.65
-  - - Gavin Myers
-    - togo: 107.350227
+  - - - '51'
+      - Gavin Myers
+    - togo: 107.350229
       made: 45.221
-  - - Jon snr Durand
-    - togo: 110.179126
+  - - - '37'
+      - Jon snr Durand
+    - togo: 110.179127
       made: 42.392
-  - - Peter Ebeling
-    - togo: 114.407032
+  - - - '13'
+      - Peter Ebeling
+    - togo: 114.407033
       made: 38.164
-  - - Tony Masters
-    - togo: 120.497429
+  - - - '26'
+      - Tony Masters
+    - togo: 120.49743
       made: 32.074
-  - - Dean Hervatin
-    - togo: 125.649032
+  - - - '31'
+      - Dean Hervatin
+    - togo: 125.649033
       made: 26.922
-- - - Phil Schroder
-    - togo: 14.676919
+- - - - '30'
+      - Phil Schroder
+    - togo: 14.67692
       made: 179.991
-  - - Rohan Taylor
-    - togo: 22.226078
+  - - - '18'
+      - Rohan Taylor
+    - togo: 22.22608
       made: 172.442
-  - - Len Paton
-    - togo: 25.328726
+  - - - '55'
+      - Len Paton
+    - togo: 25.328727
       made: 169.34
-  - - Attila Bertok
-    - togo: 30.853539
+  - - - '41'
+      - Attila Bertok
+    - togo: 30.85354
       made: 163.815
-  - - Victor Hare
-    - togo: 36.477861
+  - - - '48'
+      - Victor Hare
+    - togo: 36.477862
       made: 158.19
-  - - Anton Struganov
-    - togo: 37.419224
+  - - - '23'
+      - Anton Struganov
+    - togo: 37.419225
       made: 157.249
-  - - Mark Russell
-    - togo: 37.60824
+  - - - '58'
+      - Mark Russell
+    - togo: 37.608242
       made: 157.06
-  - - Tony Giammichele
-    - togo: 50.374583
+  - - - '7'
+      - Tony Giammichele
+    - togo: 50.374584
       made: 144.294
-  - - Kathryn O'Riordan
-    - togo: 56.433438
+  - - - '53'
+      - Kathryn O'Riordan
+    - togo: 56.43344
       made: 138.235
-  - - Nick Purcell
-    - togo: 60.524321
+  - - - '15'
+      - Nick Purcell
+    - togo: 60.524323
       made: 134.144
-  - - Dean Hervatin
-    - togo: 92.627817
+  - - - '31'
+      - Dean Hervatin
+    - togo: 92.627819
       made: 102.04
-  - - Andrew Barnes
-    - togo: 92.690141
+  - - - '2'
+      - Andrew Barnes
+    - togo: 92.690143
       made: 101.978
-  - - Patrick Collin
-    - togo: 93.21328
+  - - - '44'
+      - Patrick Collin
+    - togo: 93.213282
       made: 101.455
-  - - Andrew Luton
-    - togo: 96.285645
+  - - - '19'
+      - Andrew Luton
+    - togo: 96.285646
       made: 98.383
-  - - Ryosuke Hattori
-    - togo: 96.974716
+  - - - '5'
+      - Ryosuke Hattori
+    - togo: 96.974718
       made: 97.694
-  - - Mikhail Karmazin
-    - togo: 98.134425
+  - - - '14'
+      - Mikhail Karmazin
+    - togo: 98.134426
       made: 96.534
-  - - Gavin Myers
+  - - - '51'
+      - Gavin Myers
     - togo: 104.881936
       made: 89.786
-  - - Peter Lamont
-    - togo: 110.108367
+  - - - '17'
+      - Peter Lamont
+    - togo: 110.108369
       made: 84.56
-  - - Cameron Tunbridge
-    - togo: 117.180238
+  - - - '4'
+      - Cameron Tunbridge
+    - togo: 117.180239
       made: 77.488
-  - - Steve Blenkinsop
-    - togo: 121.476417
+  - - - '24'
+      - Steve Blenkinsop
+    - togo: 121.476419
       made: 73.192
-  - - Jon snr Durand
-    - togo: 138.609984
+  - - - '37'
+      - Jon snr Durand
+    - togo: 138.609985
       made: 56.058
-  - - Akiko Suzuki
-    - togo: 148.235645
+  - - - '6'
+      - Akiko Suzuki
+    - togo: 148.235647
       made: 46.433
-  - - Peter Ebeling
-    - togo: 148.938769
+  - - - '13'
+      - Peter Ebeling
+    - togo: 148.93877
       made: 45.73
-  - - Jamie Shelden
-    - togo: 158.212285
+  - - - '35'
+      - Jamie Shelden
+    - togo: 158.212286
       made: 36.456
-  - - Hadewych van Kempen
-    - togo: 162.518815
+  - - - '64'
+      - Hadewych van Kempen
+    - togo: 162.518817
       made: 32.149
-  - - Maximilian Respondek
-    - togo: 174.781839
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 174.78184
       made: 19.886
-  - - Enda Murphy
-    - togo: 180.563599
+  - - - '36'
+      - Enda Murphy
+    - togo: 180.563601
       made: 14.105
-  - - Phil Seeley
-    - togo: 183.125576
+  - - - '69'
+      - Phil Seeley
+    - togo: 183.125578
       made: 11.543
-  - - Tony Masters
-    - togo: 185.501613
+  - - - '26'
+      - Tony Masters
+    - togo: 185.501615
       made: 9.167
 - []
