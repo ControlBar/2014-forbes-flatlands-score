@@ -82,7 +82,7 @@ validityWorking:
     flying: 35
     present: 52
   distance:
-    sum: 0.0 km
+    sum: 2538.3 km
     flying: 35
     area: 48.27655
     nominalGoal: 0.2
@@ -127,8 +127,8 @@ validity:
   task: 0.98264746
 - time: 1
   launch: 0.78284227
-  distance: 0
-  task: 0
+  distance: 1
+  task: 0.78284227
 - time: 1
   launch: 1
   distance: 1
@@ -198,13 +198,13 @@ allocation:
     arrival: 1.25e-2
     time: 7.0e-2
   points:
-    reach: 0
-    effort: 0
-    distance: 0
-    leading: 0
-    arrival: 0
-    time: 0
-  taskPoints: 0
+    reach: 352.3
+    effort: 352.3
+    distance: 704.6
+    leading: 13.7
+    arrival: 9.8
+    time: 54.8
+  taskPoints: 783
 - goalRatio: 0.40816327
   weight:
     distance: 0.46587391
@@ -4021,137 +4021,17 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-- - - - '29'
-      - Adam Stevens
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:15:43Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 109.1 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '2'
-      - Andrew Barnes
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:21:25Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 51.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '19'
-      - Andrew Luton
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:15:39Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 55.1 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '23'
-      - Anton Struganov
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:07:40Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 92.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '41'
-      - Attila Bertok
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:07:45Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 109.5 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '4'
-      - Cameron Tunbridge
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:15:48Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 74.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '70'
+- - - - '70'
       - Carl Wallbank
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 352.3
+        effort: 176.1
+        distance: 528.4
+        leading: 13.4
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '1'
+      total: 542
       velocity:
         ss: 2014-01-01T03:06:21Z
         gs: 2014-01-01T03:30:00Z
@@ -4161,242 +4041,42 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '62'
-      - Christian Voiblet
+  - - - '41'
+      - Attila Bertok
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 342
+        effort: 169.3
+        distance: 511.3
+        leading: 13.4
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '2'
+      total: 525
       velocity:
-        ss: 2014-01-01T03:06:45Z
+        ss: 2014-01-01T03:07:45Z
         gs: 2014-01-01T03:30:00Z
         es: null
-        distance: 89.4 km
+        distance: 109.5 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '60'
-      - Davis Straub
+  - - - '29'
+      - Adam Stevens
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 340.7
+        effort: 164.7
+        distance: 505.4
+        leading: 13.4
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '3'
+      total: 519
       velocity:
-        ss: 2014-01-01T03:08:28Z
+        ss: 2014-01-01T03:15:43Z
         gs: 2014-01-01T03:30:00Z
         es: null
-        distance: 91.5 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '31'
-      - Dean Hervatin
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:26:45Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 27.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '8'
-      - Federico Martini
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:16:07Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 87.1 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '33'
-      - Filippo Oppici
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:06:44Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 94.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '51'
-      - Gavin Myers
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:08:02Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 45.5 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '45'
-      - Geoff Robertson
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:07:23Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 94.1 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '28'
-      - Guy Hubbard
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:15:39Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 88.8 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '35'
-      - Jamie Shelden
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:05:42Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 90.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '37'
-      - Jon snr Durand
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:07:53Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 43.4 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '49'
-      - Jonas Lobitz
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:05:33Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 94.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '53'
-      - Kathryn O'Riordan
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:17:20Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 71.8 km
+        distance: 109.1 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
@@ -4404,14 +4084,14 @@ score:
   - - - '55'
       - Len Paton
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 290.4
+        effort: 105.2
+        distance: 395.6
+        leading: 13.4
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '4'
+      total: 409
       velocity:
         ss: 2014-01-01T03:31:52Z
         gs: 2014-01-01T03:30:00Z
@@ -4421,137 +4101,17 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '40'
-      - Lukas Bader
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:07:19Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 93.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '56'
-      - Maximilian Respondek
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T04:05:23Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 57.1 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '14'
-      - Mikhail Karmazin
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:16:05Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 78.6 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '15'
-      - Nick Purcell
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:15:30Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 58.0 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '20'
-      - Nils Vesk
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:16:25Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 88.9 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-  - - - '3'
-      - Paris Williams
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:00:48Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 111.2 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
   - - - '44'
       - Patrick Collin
     - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
+        reach: 278.6
+        effort: 101.8
+        distance: 380.4
+        leading: 13.5
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '5'
+      total: 394
       velocity:
         ss: 2014-01-01T03:06:28Z
         gs: 2014-01-01T03:30:00Z
@@ -4561,42 +4121,162 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '13'
-      - Peter Ebeling
+  - - - '3'
+      - Paris Williams
     - breakdown:
-        reach: 0
+        reach: 347.4
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 347.4
+        leading: 13.4
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '6'
+      total: 361
       velocity:
-        ss: 2014-01-01T03:17:15Z
+        ss: 2014-01-01T03:00:48Z
         gs: 2014-01-01T03:30:00Z
         es: null
-        distance: 38.8 km
+        distance: 111.2 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '69'
-      - Phil Seeley
+  - - - '49'
+      - Jonas Lobitz
     - breakdown:
-        reach: 0
+        reach: 295.4
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 295.4
+        leading: 13.4
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: 7=
+      total: 309
       velocity:
-        ss: 2014-01-01T03:17:42Z
+        ss: 2014-01-01T03:05:33Z
         gs: 2014-01-01T03:30:00Z
         es: null
-        distance: 54.3 km
+        distance: 94.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '33'
+      - Filippo Oppici
+    - breakdown:
+        reach: 295.4
+        effort: 0
+        distance: 295.4
+        leading: 13.4
+        arrival: 0
+        time: 0
+      place: 7=
+      total: 309
+      velocity:
+        ss: 2014-01-01T03:06:44Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 94.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '45'
+      - Geoff Robertson
+    - breakdown:
+        reach: 293.9
+        effort: 0
+        distance: 293.9
+        leading: 13.4
+        arrival: 0
+        time: 0
+      place: '8'
+      total: 307
+      velocity:
+        ss: 2014-01-01T03:07:23Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 94.1 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '40'
+      - Lukas Bader
+    - breakdown:
+        reach: 291.3
+        effort: 0
+        distance: 291.3
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '9'
+      total: 305
+      velocity:
+        ss: 2014-01-01T03:07:19Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 93.3 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '23'
+      - Anton Struganov
+    - breakdown:
+        reach: 287.3
+        effort: 0
+        distance: 287.3
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '10'
+      total: 301
+      velocity:
+        ss: 2014-01-01T03:07:40Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 92.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '60'
+      - Davis Straub
+    - breakdown:
+        reach: 285.8
+        effort: 0
+        distance: 285.8
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '11'
+      total: 299
+      velocity:
+        ss: 2014-01-01T03:08:28Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 91.5 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '35'
+      - Jamie Shelden
+    - breakdown:
+        reach: 282
+        effort: 0
+        distance: 282
+        leading: 13.4
+        arrival: 0
+        time: 0
+      place: '12'
+      total: 295
+      velocity:
+        ss: 2014-01-01T03:05:42Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 90.3 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
@@ -4604,14 +4284,14 @@ score:
   - - - '18'
       - Rohan Taylor
     - breakdown:
-        reach: 0
+        reach: 280.7
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 280.7
+        leading: 13.4
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '13'
+      total: 294
       velocity:
         ss: 2014-01-01T03:08:07Z
         gs: 2014-01-01T03:30:00Z
@@ -4621,17 +4301,117 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+  - - - '62'
+      - Christian Voiblet
+    - breakdown:
+        reach: 279.4
+        effort: 0
+        distance: 279.4
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '14'
+      total: 293
+      velocity:
+        ss: 2014-01-01T03:06:45Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 89.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '20'
+      - Nils Vesk
+    - breakdown:
+        reach: 277.7
+        effort: 0
+        distance: 277.7
+        leading: 13.4
+        arrival: 0
+        time: 0
+      place: 15=
+      total: 291
+      velocity:
+        ss: 2014-01-01T03:16:25Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 88.9 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '28'
+      - Guy Hubbard
+    - breakdown:
+        reach: 277.5
+        effort: 0
+        distance: 277.5
+        leading: 13.4
+        arrival: 0
+        time: 0
+      place: 15=
+      total: 291
+      velocity:
+        ss: 2014-01-01T03:15:39Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 88.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '8'
+      - Federico Martini
+    - breakdown:
+        reach: 272.1
+        effort: 0
+        distance: 272.1
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '16'
+      total: 286
+      velocity:
+        ss: 2014-01-01T03:16:07Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 87.1 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '46'
+      - Yasuhiro Noma
+    - breakdown:
+        reach: 267.8
+        effort: 0
+        distance: 267.8
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '17'
+      total: 281
+      velocity:
+        ss: 2014-01-01T03:04:27Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 85.7 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
   - - - '5'
       - Ryosuke Hattori
     - breakdown:
-        reach: 0
+        reach: 263.7
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 263.7
+        leading: 13.5
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '18'
+      total: 277
       velocity:
         ss: 2014-01-01T03:16:08Z
         gs: 2014-01-01T03:30:00Z
@@ -4641,37 +4421,17 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '26'
-      - Tony Masters
-    - breakdown:
-        reach: 0
-        effort: 0
-        distance: 0
-        leading: 0
-        arrival: 0
-        time: 0
-      place: 1=
-      total: 0
-      velocity:
-        ss: 2014-01-01T03:26:22Z
-        gs: 2014-01-01T03:30:00Z
-        es: null
-        distance: 32.3 km
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
   - - - '42'
       - Trent Brown
     - breakdown:
-        reach: 0
+        reach: 250
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 250
+        leading: 13.5
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '19'
+      total: 263
       velocity:
         ss: 2014-01-01T03:08:21Z
         gs: 2014-01-01T03:30:00Z
@@ -4681,17 +4441,117 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+  - - - '14'
+      - Mikhail Karmazin
+    - breakdown:
+        reach: 245.6
+        effort: 0
+        distance: 245.6
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '20'
+      total: 259
+      velocity:
+        ss: 2014-01-01T03:16:05Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 78.6 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '4'
+      - Cameron Tunbridge
+    - breakdown:
+        reach: 232.2
+        effort: 0
+        distance: 232.2
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '21'
+      total: 246
+      velocity:
+        ss: 2014-01-01T03:15:48Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 74.3 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '53'
+      - Kathryn O'Riordan
+    - breakdown:
+        reach: 224.3
+        effort: 0
+        distance: 224.3
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '22'
+      total: 238
+      velocity:
+        ss: 2014-01-01T03:17:20Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 71.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '15'
+      - Nick Purcell
+    - breakdown:
+        reach: 181.1
+        effort: 0
+        distance: 181.1
+        leading: 13.6
+        arrival: 0
+        time: 0
+      place: '23'
+      total: 195
+      velocity:
+        ss: 2014-01-01T03:15:30Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 58.0 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '56'
+      - Maximilian Respondek
+    - breakdown:
+        reach: 178.5
+        effort: 0
+        distance: 178.5
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '24'
+      total: 192
+      velocity:
+        ss: 2014-01-01T04:05:23Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 57.1 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
   - - - '48'
       - Victor Hare
     - breakdown:
-        reach: 0
+        reach: 176.6
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 176.6
+        leading: 13.5
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '25'
+      total: 190
       velocity:
         ss: 2014-01-01T03:28:57Z
         gs: 2014-01-01T03:30:00Z
@@ -4701,22 +4561,162 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-  - - - '46'
-      - Yasuhiro Noma
+  - - - '19'
+      - Andrew Luton
     - breakdown:
-        reach: 0
+        reach: 172.2
         effort: 0
-        distance: 0
-        leading: 0
+        distance: 172.2
+        leading: 13.6
         arrival: 0
         time: 0
-      place: 1=
-      total: 0
+      place: '26'
+      total: 186
       velocity:
-        ss: 2014-01-01T03:04:27Z
+        ss: 2014-01-01T03:15:39Z
         gs: 2014-01-01T03:30:00Z
         es: null
-        distance: 85.7 km
+        distance: 55.1 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '69'
+      - Phil Seeley
+    - breakdown:
+        reach: 169.7
+        effort: 0
+        distance: 169.7
+        leading: 13.6
+        arrival: 0
+        time: 0
+      place: '27'
+      total: 183
+      velocity:
+        ss: 2014-01-01T03:17:42Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 54.3 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '2'
+      - Andrew Barnes
+    - breakdown:
+        reach: 160
+        effort: 0
+        distance: 160
+        leading: 13.5
+        arrival: 0
+        time: 0
+      place: '28'
+      total: 174
+      velocity:
+        ss: 2014-01-01T03:21:25Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 51.2 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '51'
+      - Gavin Myers
+    - breakdown:
+        reach: 142
+        effort: 0
+        distance: 142
+        leading: 13.6
+        arrival: 0
+        time: 0
+      place: '29'
+      total: 156
+      velocity:
+        ss: 2014-01-01T03:08:02Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 45.5 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '37'
+      - Jon snr Durand
+    - breakdown:
+        reach: 135.5
+        effort: 0
+        distance: 135.5
+        leading: 13.7
+        arrival: 0
+        time: 0
+      place: '30'
+      total: 149
+      velocity:
+        ss: 2014-01-01T03:07:53Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 43.4 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '13'
+      - Peter Ebeling
+    - breakdown:
+        reach: 121.2
+        effort: 0
+        distance: 121.2
+        leading: 13.7
+        arrival: 0
+        time: 0
+      place: '31'
+      total: 135
+      velocity:
+        ss: 2014-01-01T03:17:15Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 38.8 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '26'
+      - Tony Masters
+    - breakdown:
+        reach: 101
+        effort: 0
+        distance: 101
+        leading: 13.7
+        arrival: 0
+        time: 0
+      place: '32'
+      total: 115
+      velocity:
+        ss: 2014-01-01T03:26:22Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 32.3 km
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+  - - - '31'
+      - Dean Hervatin
+    - breakdown:
+        reach: 84.9
+        effort: 0
+        distance: 84.9
+        leading: 13.7
+        arrival: 0
+        time: 0
+      place: '33'
+      total: 99
+      velocity:
+        ss: 2014-01-01T03:26:45Z
+        gs: 2014-01-01T03:30:00Z
+        es: null
+        distance: 27.2 km
         ssElapsed: null
         gsElapsed: null
         ssVelocity: null
