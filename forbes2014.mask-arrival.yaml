@@ -1,0 +1,499 @@
+pilotsAtEss:
+- 27
+- 14
+- 35
+- 26
+- 0
+- 20
+- 0
+arrivalRank:
+- - - - '3'
+      - Paris Williams
+    - rank: '1'
+      frac: 1
+  - - - '24'
+      - Steve Blenkinsop
+    - rank: '2'
+      frac: 0.92141777
+  - - - '1'
+      - Michael Bilyk
+    - rank: '3'
+      frac: 0.84820911
+  - - - '29'
+      - Adam Stevens
+    - rank: '4'
+      frac: 0.78018107
+  - - - '45'
+      - Geoff Robertson
+    - rank: '5'
+      frac: 0.71714068
+  - - - '50'
+      - Conrad Loten
+    - rank: '6'
+      frac: 0.65889499
+  - - - '39'
+      - Jonny Durand
+    - rank: '7'
+      frac: 0.60525103
+  - - - '49'
+      - Jonas Lobitz
+    - rank: '8'
+      frac: 0.55601585
+  - - - '4'
+      - Cameron Tunbridge
+    - rank: '9'
+      frac: 0.51099649
+  - - - '18'
+      - Rohan Taylor
+    - rank: '10'
+      frac: 0.47
+  - - - '33'
+      - Filippo Oppici
+    - rank: '11'
+      frac: 0.43283341
+  - - - '23'
+      - Anton Struganov
+    - rank: '12'
+      frac: 0.39930376
+  - - - '21'
+      - Neil Petersen
+    - rank: '13'
+      frac: 0.36921811
+  - - - '62'
+      - Christian Voiblet
+    - rank: '14'
+      frac: 0.34238348
+  - - - '60'
+      - Davis Straub
+    - rank: '15'
+      frac: 0.31860692
+  - - - '28'
+      - Guy Hubbard
+    - rank: '16'
+      frac: 0.29769547
+  - - - '43'
+      - Rod Flockhart
+    - rank: '17'
+      frac: 0.27945618
+  - - - '19'
+      - Andrew Luton
+    - rank: '18'
+      frac: 0.26369608
+  - - - '5'
+      - Ryosuke Hattori
+    - rank: '19'
+      frac: 0.25022222
+  - - - '42'
+      - Trent Brown
+    - rank: '20'
+      frac: 0.23884164
+  - - - '46'
+      - Yasuhiro Noma
+    - rank: '21'
+      frac: 0.22936138
+  - - - '40'
+      - Lukas Bader
+    - rank: '22'
+      frac: 0.22158848
+  - - - '41'
+      - Attila Bertok
+    - rank: '23'
+      frac: 0.21532998
+  - - - '7'
+      - Tony Giammichele
+    - rank: '24'
+      frac: 0.21039293
+  - - - '34'
+      - Glen Mcfarlane
+    - rank: '25'
+      frac: 0.20658436
+  - - - '58'
+      - Mark Russell
+    - rank: '26'
+      frac: 0.20371132
+  - - - '53'
+      - Kathryn O'Riordan
+    - rank: '27'
+      frac: 0.20158086
+- - - - '1'
+      - Michael Bilyk
+    - rank: '1'
+      frac: 1
+  - - - '3'
+      - Paris Williams
+    - rank: '2'
+      frac: 0.85326421
+  - - - '34'
+      - Glen Mcfarlane
+    - rank: '3'
+      frac: 0.7258484
+  - - - '24'
+      - Steve Blenkinsop
+    - rank: '4'
+      frac: 0.61636844
+  - - - '49'
+      - Jonas Lobitz
+    - rank: '5'
+      frac: 0.52344023
+  - - - '50'
+      - Conrad Loten
+    - rank: '6'
+      frac: 0.44567966
+  - - - '23'
+      - Anton Struganov
+    - rank: '7'
+      frac: 0.38170262
+  - - - '29'
+      - Adam Stevens
+    - rank: '8'
+      frac: 0.330125
+  - - - '42'
+      - Trent Brown
+    - rank: '9'
+      frac: 0.28956268
+  - - - '40'
+      - Lukas Bader
+    - rank: '10'
+      frac: 0.25863156
+  - - - '28'
+      - Guy Hubbard
+    - rank: '11'
+      frac: 0.23594752
+  - - - '51'
+      - Gavin Myers
+    - rank: '12'
+      frac: 0.22012646
+  - - - '46'
+      - Yasuhiro Noma
+    - rank: '13'
+      frac: 0.20978426
+  - - - '5'
+      - Ryosuke Hattori
+    - rank: '14'
+      frac: 0.20353681
+- - - - '41'
+      - Attila Bertok
+    - rank: '1'
+      frac: 1
+  - - - '39'
+      - Jonny Durand
+    - rank: '2'
+      frac: 0.93889871
+  - - - '46'
+      - Yasuhiro Noma
+    - rank: '3'
+      frac: 0.88102148
+  - - - '28'
+      - Guy Hubbard
+    - rank: '4'
+      frac: 0.82627974
+  - - - '23'
+      - Anton Struganov
+    - rank: '5'
+      frac: 0.77458491
+  - - - '40'
+      - Lukas Bader
+    - rank: '6'
+      frac: 0.7258484
+  - - - '1'
+      - Michael Bilyk
+    - rank: '7'
+      frac: 0.67998162
+  - - - '49'
+      - Jonas Lobitz
+    - rank: '8'
+      frac: 0.636896
+  - - - '37'
+      - Jon snr Durand
+    - rank: '9'
+      frac: 0.59650295
+  - - - '42'
+      - Trent Brown
+    - rank: '10'
+      frac: 0.55871389
+  - - - '33'
+      - Filippo Oppici
+    - rank: '11'
+      frac: 0.52344023
+  - - - '62'
+      - Christian Voiblet
+    - rank: '12'
+      frac: 0.4905934
+  - - - '50'
+      - Conrad Loten
+    - rank: '13'
+      frac: 0.4600848
+  - - - '15'
+      - Nick Purcell
+    - rank: '14'
+      frac: 0.43182587
+  - - - '51'
+      - Gavin Myers
+    - rank: '15'
+      frac: 0.405728
+  - - - '29'
+      - Adam Stevens
+    - rank: '16'
+      frac: 0.38170262
+  - - - '52'
+      - Olav Olsen
+    - rank: '17'
+      frac: 0.35966115
+  - - - '3'
+      - Paris Williams
+    - rank: '18'
+      frac: 0.33951501
+  - - - '34'
+      - Glen Mcfarlane
+    - rank: '19'
+      frac: 0.3211756
+  - - - '18'
+      - Rohan Taylor
+    - rank: '20'
+      frac: 0.30455436
+  - - - '24'
+      - Steve Blenkinsop
+    - rank: '21'
+      frac: 0.28956268
+  - - - '60'
+      - Davis Straub
+    - rank: '22'
+      frac: 0.276112
+  - - - '30'
+      - Phil Schroder
+    - rank: '23'
+      frac: 0.26411373
+  - - - '36'
+      - Enda Murphy
+    - rank: '24'
+      frac: 0.25347928
+  - - - '48'
+      - Victor Hare
+    - rank: '25'
+      frac: 0.24412007
+  - - - '58'
+      - Mark Russell
+    - rank: '26'
+      frac: 0.23594752
+  - - - '2'
+      - Andrew Barnes
+    - rank: '27'
+      frac: 0.22887305
+  - - - '45'
+      - Geoff Robertson
+    - rank: '28'
+      frac: 0.22280807
+  - - - '8'
+      - Federico Martini
+    - rank: '29'
+      frac: 0.217664
+  - - - '7'
+      - Tony Giammichele
+    - rank: '30'
+      frac: 0.21335226
+  - - - '19'
+      - Andrew Luton
+    - rank: '31'
+      frac: 0.20978426
+  - - - '53'
+      - Kathryn O'Riordan
+    - rank: '32'
+      frac: 0.20687142
+  - - - '21'
+      - Neil Petersen
+    - rank: '33'
+      frac: 0.20452515
+  - - - '20'
+      - Nils Vesk
+    - rank: '34'
+      frac: 0.20265689
+  - - - '4'
+      - Cameron Tunbridge
+    - rank: '35'
+      frac: 0.20117803
+- - - - '41'
+      - Attila Bertok
+    - rank: '1'
+      frac: 1
+  - - - '46'
+      - Yasuhiro Noma
+    - rank: '2'
+      frac: 0.91850393
+  - - - '34'
+      - Glen Mcfarlane
+    - rank: '3'
+      frac: 0.84279472
+  - - - '40'
+      - Lukas Bader
+    - rank: '4'
+      frac: 0.77265629
+  - - - '1'
+      - Michael Bilyk
+    - rank: '5'
+      frac: 0.70787255
+  - - - '15'
+      - Nick Purcell
+    - rank: '6'
+      frac: 0.64822741
+  - - - '24'
+      - Steve Blenkinsop
+    - rank: '7'
+      frac: 0.59350478
+  - - - '19'
+      - Andrew Luton
+    - rank: '8'
+      frac: 0.54348856
+  - - - '28'
+      - Guy Hubbard
+    - rank: '9'
+      frac: 0.49796268
+  - - - '51'
+      - Gavin Myers
+    - rank: '10'
+      frac: 0.45671103
+  - - - '21'
+      - Neil Petersen
+    - rank: '11'
+      frac: 0.41951752
+  - - - '70'
+      - Carl Wallbank
+    - rank: '12'
+      frac: 0.38616608
+  - - - '45'
+      - Geoff Robertson
+    - rank: '13'
+      frac: 0.3564406
+  - - - '39'
+      - Jonny Durand
+    - rank: '14'
+      frac: 0.330125
+  - - - '42'
+      - Trent Brown
+    - rank: '15'
+      frac: 0.30700319
+  - - - '43'
+      - Rod Flockhart
+    - rank: '16'
+      frac: 0.28685907
+  - - - '3'
+      - Paris Williams
+    - rank: '17'
+      frac: 0.26947656
+  - - - '29'
+      - Adam Stevens
+    - rank: '18'
+      frac: 0.25463957
+  - - - '4'
+      - Cameron Tunbridge
+    - rank: '19'
+      frac: 0.242132
+  - - - '30'
+      - Phil Schroder
+    - rank: '20'
+      frac: 0.23173777
+  - - - '7'
+      - Tony Giammichele
+    - rank: '21'
+      frac: 0.22324078
+  - - - '49'
+      - Jonas Lobitz
+    - rank: '22'
+      frac: 0.21642495
+  - - - '60'
+      - Davis Straub
+    - rank: '23'
+      frac: 0.21107419
+  - - - '8'
+      - Federico Martini
+    - rank: '24'
+      frac: 0.20697241
+  - - - '2'
+      - Andrew Barnes
+    - rank: '25'
+      frac: 0.2039035
+  - - - '31'
+      - Dean Hervatin
+    - rank: '26'
+      frac: 0.2016514
+- []
+- - - - '42'
+      - Trent Brown
+    - rank: '1'
+      frac: 1
+  - - - '70'
+      - Carl Wallbank
+    - rank: '2'
+      frac: 0.89519338
+  - - - '34'
+      - Glen Mcfarlane
+    - rank: '3'
+      frac: 0.800057
+  - - - '62'
+      - Christian Voiblet
+    - rank: '4'
+      frac: 0.71411612
+  - - - '49'
+      - Jonas Lobitz
+    - rank: '5'
+      frac: 0.636896
+  - - - '28'
+      - Guy Hubbard
+    - rank: '6'
+      frac: 0.56792188
+  - - - '45'
+      - Geoff Robertson
+    - rank: '7'
+      frac: 0.506719
+  - - - '33'
+      - Filippo Oppici
+    - rank: '8'
+      frac: 0.45281262
+  - - - '39'
+      - Jonny Durand
+    - rank: '9'
+      frac: 0.405728
+  - - - '46'
+      - Yasuhiro Noma
+    - rank: '10'
+      frac: 0.36499038
+  - - - '3'
+      - Paris Williams
+    - rank: '11'
+      frac: 0.330125
+  - - - '1'
+      - Michael Bilyk
+    - rank: '12'
+      frac: 0.30065712
+  - - - '50'
+      - Conrad Loten
+    - rank: '13'
+      frac: 0.276112
+  - - - '21'
+      - Neil Petersen
+    - rank: '14'
+      frac: 0.25601488
+  - - - '43'
+      - Rod Flockhart
+    - rank: '15'
+      frac: 0.239891
+  - - - '60'
+      - Davis Straub
+    - rank: '16'
+      frac: 0.22726562
+  - - - '40'
+      - Lukas Bader
+    - rank: '17'
+      frac: 0.217664
+  - - - '29'
+      - Adam Stevens
+    - rank: '18'
+      frac: 0.21061138
+  - - - '20'
+      - Nils Vesk
+    - rank: '19'
+      frac: 0.205633
+  - - - '8'
+      - Federico Martini
+    - rank: '20'
+      frac: 0.20225412
+- []

@@ -1,19 +1,29 @@
 comp:
   compName: Australian National Hang Gliding Championships 2014
   discipline: hg
+  earthMath: Haversines
   location: Forbes, Australia
-  from: '2013-12-28'
-  to: '2014-01-04'
+  from: 2013-12-28
+  to: 2014-01-04
   civilId: '9182'
   utcOffset:
     timeZoneMinutes: 660
   scoreBack: null
+  give:
+    giveFraction: 5.0e-3
+    giveDistance: null
+  earth:
+    sphere:
+      radius: 6371000.0 m
 nominal:
   launch: 0.96
   goal: 0.2
   distance: 80.0 km
-  free: 5.0 km
-  time: 2.0 h
+  free: 5.000 km
+  time: 2.000000 h
+compTweak:
+  arrivalWeightScaling: 0
+  leadingWeightScaling: 0
 tasks:
 - taskName: Task 1 - Child of god
   zones:
@@ -22,59 +32,77 @@ tasks:
       lat: -33.3608
       lng: 147.932
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: FORBE
       lat: -33.3608
       lng: 147.932
       radius: 5000.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
+      alt: null
     - zoneName: GRENF
       lat: -33.8596
       lng: 148.1121
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: GOOLOO
       lat: -33.61957
       lng: 148.41023
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: CANOWI
       lat: -33.55378
       lng: 148.67147
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: WOODST
       lat: -33.73932
       lng: 148.84062
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 5000.0 m
       - cylinder:
           center:
-          - -33.8596 deg
-          - 148.1121 deg
+          - -33.85960000 deg
+          - 148.11210000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - -33.61957 deg
-          - 148.41023 deg
+          - -33.61957000 deg
+          - 148.41023000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - -33.55378 deg
-          - 148.67147 deg
+          - -33.55378000 deg
+          - 148.67147000 deg
           radius: 400.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -33.73932 deg
-          - 148.84062 deg
+          - -33.73932000 deg
+          - 148.84062000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -87,8 +115,14 @@ tasks:
   - 2013-12-28T03:00:00Z
   - 2013-12-28T03:20:00Z
   - 2013-12-28T03:40:00Z
-  absent: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 0 s
+  penals: []
 - taskName: Task 2 - Blown Away
   zones:
     raw:
@@ -96,32 +130,41 @@ tasks:
       lat: -33.3608
       lng: 147.932
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: FORBE
       lat: -33.3608
       lng: 147.932
       radius: 15000.0 m
+      giveIn: 14925.0 m
+      giveOut: 15075.0 m
+      alt: null
     - zoneName: TRANG
       lat: -31.9798
       lng: 148.0035
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 15000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -31.9798 deg
-          - 148.0035 deg
+          - -31.97980000 deg
+          - 148.00350000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -135,10 +178,14 @@ tasks:
   - 2013-12-29T03:15:00Z
   - 2013-12-29T03:30:00Z
   - 2013-12-29T03:45:00Z
-  absent:
-  - - '22'
-    - Adam Jones
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 0 s
+  penals: []
 - taskName: Task 3 - TCDSay
   zones:
     raw:
@@ -146,41 +193,53 @@ tasks:
       lat: -33.3608
       lng: 147.932
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: FORBE
       lat: -33.3608
       lng: 147.932
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: null
     - zoneName: TOMING
       lat: -32.56608
       lng: 148.22657
       radius: 11000.0 m
+      giveIn: 10945.0 m
+      giveOut: 11055.0 m
+      alt: null
     - zoneName: WELLIN
       lat: -32.4636
       lng: 148.9885
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -32.56608 deg
-          - 148.22657 deg
+          - -32.56608000 deg
+          - 148.22657000 deg
           radius: 11000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -32.4636 deg
-          - 148.9885 deg
+          - -32.46360000 deg
+          - 148.98850000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -193,8 +252,14 @@ tasks:
   - 2013-12-30T03:30:00Z
   - 2013-12-30T03:50:00Z
   - 2013-12-30T04:10:00Z
-  absent: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 0 s
+  penals: []
 - taskName: Task 4 - Greased Lightning
   zones:
     raw:
@@ -202,50 +267,65 @@ tasks:
       lat: -33.3608
       lng: 147.932
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: FORBE
       lat: -33.3608
       lng: 147.932
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: null
     - zoneName: YEOVAL
       lat: -32.76052
       lng: 148.64958
       radius: 5000.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
+      alt: null
     - zoneName: CUMNOC
       lat: -32.93492
       lng: 148.75057
       radius: 5000.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
+      alt: null
     - zoneName: WELLIN
       lat: -32.4636
       lng: 148.9885
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -32.76052 deg
-          - 148.64958 deg
+          - -32.76052000 deg
+          - 148.64958000 deg
           radius: 5000.0 m
       - cylinder:
           center:
-          - -32.93492 deg
-          - 148.75057 deg
+          - -32.93492000 deg
+          - 148.75057000 deg
           radius: 5000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -32.4636 deg
-          - 148.9885 deg
+          - -32.46360000 deg
+          - 148.98850000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -258,8 +338,14 @@ tasks:
   - 2013-12-31T03:15:00Z
   - 2013-12-31T03:35:00Z
   - 2013-12-31T03:55:00Z
-  absent: []
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 0 s
+  penals: []
 - taskName: Task 5 - Find Your Own Fxx Pad
   zones:
     raw:
@@ -267,41 +353,53 @@ tasks:
       lat: -33.3608
       lng: 147.932
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: FORBE
       lat: -33.3608
       lng: 147.932
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: null
     - zoneName: CROW
       lat: -34.11795
       lng: 148.5013
       radius: 13000.0 m
+      giveIn: 12935.0 m
+      giveOut: 13065.0 m
+      alt: null
     - zoneName: STOCKI
       lat: -34.49978
       lng: 147.89785
       radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: null
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -34.11795 deg
-          - 148.5013 deg
+          - -34.11795000 deg
+          - 148.50130000 deg
           radius: 13000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -34.49978 deg
-          - 147.89785 deg
+          - -34.49978000 deg
+          - 147.89785000 deg
           radius: 1000.0 m
     openKind: null
   speedSection:
@@ -313,12 +411,14 @@ tasks:
   startGates:
   - 2014-01-01T03:00:00Z
   - 2014-01-01T03:30:00Z
-  absent:
-  - - '22'
-    - Adam Jones
-  - - '25'
-    - Ai Fukutomi
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 0 s
+  penals: []
 - taskName: Task 6 - Attila Killer
   zones:
     raw:
@@ -326,41 +426,53 @@ tasks:
       lat: -33.3608
       lng: 147.932
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: FORBE
       lat: -33.3608
       lng: 147.932
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: null
     - zoneName: BOOROW
       lat: -34.4631
       lng: 148.7032
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: DALTON
       lat: -34.7157
       lng: 149.19338
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 10000.0 m
       - cylinder:
           center:
-          - -34.4631 deg
-          - 148.7032 deg
+          - -34.46310000 deg
+          - 148.70320000 deg
           radius: 400.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -34.7157 deg
-          - 149.19338 deg
+          - -34.71570000 deg
+          - 149.19338000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -372,14 +484,14 @@ tasks:
   startGates:
   - 2014-01-03T03:00:00Z
   - 2014-01-03T03:30:00Z
-  absent:
-  - - '22'
-    - Adam Jones
-  - - '25'
-    - Ai Fukutomi
-  - - '16'
-    - Michael Tomlinson
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 0 s
+  penals: []
 - taskName: Task 7 - 126.7
   zones:
     raw:
@@ -387,32 +499,41 @@ tasks:
       lat: -33.3608
       lng: 147.932
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     - zoneName: FORBE
       lat: -33.3608
       lng: 147.932
       radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: null
     - zoneName: DUNED2
       lat: -32.01208
       lng: 149.41763
       radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: null
     raceKind:
       prolog:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - -33.3608 deg
-          - 147.932 deg
+          - -33.36080000 deg
+          - 147.93200000 deg
           radius: 10000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - -32.01208 deg
-          - 149.41763 deg
+          - -32.01208000 deg
+          - 149.41763000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -424,18 +545,14 @@ tasks:
   startGates:
   - 2014-01-04T03:00:00Z
   - 2014-01-04T03:30:00Z
-  absent:
-  - - '25'
-    - Ai Fukutomi
-  - - '15'
-    - Nick Purcell
-  - - '13'
-    - Peter Ebeling
-  - - '26'
-    - Tony Masters
-  - - '48'
-    - Victor Hare
   stopped: null
+  taskTweak:
+    arrivalWeightScaling: 0
+    leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 0 s
+  penals: []
 taskFolders:
 - - day 1
 - - day 2
@@ -509,7 +626,7 @@ pilots:
       - Hadewych van Kempen
     - null
   - - - '59'
-      - Hanspeter Schütz
+      - Hanspeter SchÔö£ÔòØtz
     - null
   - - - '35'
       - Jamie Shelden
@@ -665,7 +782,7 @@ pilots:
       - Hadewych van Kempen
     - null
   - - - '59'
-      - Hanspeter Schütz
+      - Hanspeter SchÔö£ÔòØtz
     - null
   - - - '35'
       - Jamie Shelden
@@ -818,8 +935,8 @@ pilots:
       - Hadewych van Kempen
     - null
   - - - '59'
-      - Hanspeter Schütz
-    - Hanspeter Schütz.20131230-111706.15361.59.kml
+      - Hanspeter SchÔö£ÔòØtz
+    - Hanspeter SchÔö£ÔòØtz.20131230-111706.15361.59.kml
   - - - '35'
       - Jamie Shelden
     - Jamie Shelden.20131230-115626.10960.35.kml
@@ -980,8 +1097,8 @@ pilots:
       - Hadewych van Kempen
     - null
   - - - '59'
-      - Hanspeter Schütz
-    - Hanspeter Schütz.20131231-064508.15361.59.kml
+      - Hanspeter SchÔö£ÔòØtz
+    - Hanspeter SchÔö£ÔòØtz.20131231-064508.15361.59.kml
   - - - '35'
       - Jamie Shelden
     - null
@@ -1136,8 +1253,8 @@ pilots:
       - Hadewych van Kempen
     - null
   - - - '59'
-      - Hanspeter Schütz
-    - Hanspeter Schütz.20140101-082548.15361.59.kml
+      - Hanspeter SchÔö£ÔòØtz
+    - Hanspeter SchÔö£ÔòØtz.20140101-082548.15361.59.kml
   - - - '35'
       - Jamie Shelden
     - Jamie Shelden.20140101-105925.10960.35.kml
@@ -1292,8 +1409,8 @@ pilots:
       - Hadewych van Kempen
     - Hadewych van Kempen.20140103-123815.6468.64.kml
   - - - '59'
-      - Hanspeter Schütz
-    - Hanspeter Schütz.20140103-120123.15361.59.kml
+      - Hanspeter SchÔö£ÔòØtz
+    - Hanspeter SchÔö£ÔòØtz.20140103-120123.15361.59.kml
   - - - '35'
       - Jamie Shelden
     - Jamie Shelden.20140103-103038.10960.35.kml
@@ -1448,8 +1565,8 @@ pilots:
       - Hadewych van Kempen
     - null
   - - - '59'
-      - Hanspeter Schütz
-    - Hanspeter Schütz.20140104-052104.15361.59.kml
+      - Hanspeter SchÔö£ÔòØtz
+    - Hanspeter SchÔö£ÔòØtz.20140104-052104.15361.59.kml
   - - - '35'
       - Jamie Shelden
     - null
@@ -1531,3 +1648,797 @@ pilots:
   - - - '46'
       - Yasuhiro Noma
     - Yasuhiro Noma.20140104-125028.7971.46.kml
+pilotGroups:
+- absent: []
+  didFlyNoTracklog:
+  - pilot:
+    - '25'
+    - Ai Fukutomi
+    awardedReach:
+      extra:
+        awardedMade: 42.465000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 0.2921749540735236
+      flown:
+        awardedMade: 42.465000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 0.2921749540735236
+    awardedVelocity:
+      ss: 2013-12-28T03:01:00Z
+      es: null
+  - pilot:
+    - '6'
+    - Akiko Suzuki
+    awardedReach:
+      extra:
+        awardedMade: 83.005000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 0.5711051939920601
+      flown:
+        awardedMade: 83.005000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 0.5711051939920601
+    awardedVelocity:
+      ss: 2013-12-28T03:01:00Z
+      es: null
+  - pilot:
+    - '64'
+    - Hadewych van Kempen
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '59'
+    - Hanspeter SchÔö£ÔòØtz
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '53'
+    - Kathryn O'Riordan
+    awardedReach:
+      extra:
+        awardedMade: 145.342000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 1.0000068803709896
+      flown:
+        awardedMade: 145.342000 km
+        awardedTask: 145.341000 km
+        awardedFrac: 1.0000068803709896
+    awardedVelocity:
+      ss: 2013-12-28T03:14:55Z
+      es: 2013-12-28T07:06:27Z
+  dnf: []
+- absent:
+  - - '22'
+    - Adam Jones
+  didFlyNoTracklog:
+  - pilot:
+    - '25'
+    - Ai Fukutomi
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 152.903000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 152.903000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '6'
+    - Akiko Suzuki
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 152.903000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 152.903000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '64'
+    - Hadewych van Kempen
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 152.903000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 152.903000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '59'
+    - Hanspeter SchÔö£ÔòØtz
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 152.903000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 152.903000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf: []
+- absent: []
+  didFlyNoTracklog:
+  - pilot:
+    - '25'
+    - Ai Fukutomi
+    awardedReach:
+      extra:
+        awardedMade: 55.900000 km
+        awardedTask: 153.647000 km
+        awardedFrac: 0.36382096624079874
+      flown:
+        awardedMade: 55.900000 km
+        awardedTask: 153.647000 km
+        awardedFrac: 0.36382096624079874
+    awardedVelocity:
+      ss: 2013-12-30T03:33:00Z
+      es: null
+  - pilot:
+    - '6'
+    - Akiko Suzuki
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 153.647000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 153.647000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '64'
+    - Hadewych van Kempen
+    awardedReach:
+      extra:
+        awardedMade: 66.060000 km
+        awardedTask: 153.647000 km
+        awardedFrac: 0.4299465658294662
+      flown:
+        awardedMade: 66.060000 km
+        awardedTask: 153.647000 km
+        awardedFrac: 0.4299465658294662
+    awardedVelocity:
+      ss: 2013-12-30T03:31:00Z
+      es: null
+  - pilot:
+    - '56'
+    - Maximilian Respondek
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 153.647000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 153.647000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf: []
+- absent: []
+  didFlyNoTracklog:
+  - pilot:
+    - '25'
+    - Ai Fukutomi
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '64'
+    - Hadewych van Kempen
+    awardedReach:
+      extra:
+        awardedMade: 29.376000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0.1885784716516023
+      flown:
+        awardedMade: 29.376000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0.1885784716516023
+    awardedVelocity:
+      ss: 2013-12-31T03:16:00Z
+      es: null
+  - pilot:
+    - '35'
+    - Jamie Shelden
+    awardedReach:
+      extra:
+        awardedMade: 40.000000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0.25677896466721445
+      flown:
+        awardedMade: 40.000000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0.25677896466721445
+    awardedVelocity:
+      ss: 2013-12-31T03:16:00Z
+      es: null
+  - pilot:
+    - '58'
+    - Mark Russell
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '5'
+    - Ryosuke Hattori
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 155.776000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf: []
+- absent:
+  - - '22'
+    - Adam Jones
+  - - '25'
+    - Ai Fukutomi
+  didFlyNoTracklog:
+  - pilot:
+    - '6'
+    - Akiko Suzuki
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '50'
+    - Conrad Loten
+    awardedReach:
+      extra:
+        awardedMade: 107.332000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.7081348551824239
+      flown:
+        awardedMade: 107.332000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.7081348551824239
+    awardedVelocity:
+      ss: 2014-01-01T03:01:00Z
+      es: null
+  - pilot:
+    - '36'
+    - Enda Murphy
+    awardedReach:
+      extra:
+        awardedMade: 77.712000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5127135976776407
+      flown:
+        awardedMade: 77.712000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5127135976776407
+    awardedVelocity:
+      ss: 2014-01-01T03:01:00Z
+      es: null
+  - pilot:
+    - '34'
+    - Glen Mcfarlane
+    awardedReach:
+      extra:
+        awardedMade: 80.311000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5298607903938775
+      flown:
+        awardedMade: 80.311000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5298607903938775
+    awardedVelocity:
+      ss: 2014-01-01T03:01:00Z
+      es: null
+  - pilot:
+    - '64'
+    - Hadewych van Kempen
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '39'
+    - Jonny Durand
+    awardedReach:
+      extra:
+        awardedMade: 109.958000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.7254601834136043
+      flown:
+        awardedMade: 109.958000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.7254601834136043
+    awardedVelocity:
+      ss: 2014-01-01T03:01:00Z
+      es: null
+  - pilot:
+    - '21'
+    - Neil Petersen
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '52'
+    - Olav Olsen
+    awardedReach:
+      extra:
+        awardedMade: 81.750000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5393547535792044
+      flown:
+        awardedMade: 81.750000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5393547535792044
+    awardedVelocity:
+      ss: 2014-01-01T03:01:00Z
+      es: null
+  - pilot:
+    - '30'
+    - Phil Schroder
+    awardedReach:
+      extra:
+        awardedMade: 77.133000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5088935805238504
+      flown:
+        awardedMade: 77.133000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5088935805238504
+    awardedVelocity:
+      ss: 2014-01-01T03:01:00Z
+      es: null
+  - pilot:
+    - '43'
+    - Rod Flockhart
+    awardedReach:
+      extra:
+        awardedMade: 91.984000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.6068747113544897
+      flown:
+        awardedMade: 91.984000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.6068747113544897
+    awardedVelocity:
+      ss: 2014-01-01T03:01:00Z
+      es: null
+  - pilot:
+    - '24'
+    - Steve Blenkinsop
+    awardedReach:
+      extra:
+        awardedMade: 90.384000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5963185326911657
+      flown:
+        awardedMade: 90.384000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.5963185326911657
+    awardedVelocity:
+      ss: 2014-01-01T03:01:00Z
+      es: null
+  - pilot:
+    - '7'
+    - Tony Giammichele
+    awardedReach:
+      extra:
+        awardedMade: 34.615000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.2283763277693475
+      flown:
+        awardedMade: 34.615000 km
+        awardedTask: 151.570000 km
+        awardedFrac: 0.2283763277693475
+    awardedVelocity:
+      ss: 2014-01-01T03:01:00Z
+      es: null
+  dnf: []
+- absent:
+  - - '22'
+    - Adam Jones
+  - - '25'
+    - Ai Fukutomi
+  - - '16'
+    - Michael Tomlinson
+  didFlyNoTracklog:
+  - pilot:
+    - '52'
+    - Olav Olsen
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 193.680000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 193.680000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf: []
+- absent:
+  - - '25'
+    - Ai Fukutomi
+  - - '15'
+    - Nick Purcell
+  - - '13'
+    - Peter Ebeling
+  - - '26'
+    - Tony Masters
+  - - '48'
+    - Victor Hare
+  didFlyNoTracklog:
+  - pilot:
+    - '22'
+    - Adam Jones
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '6'
+    - Akiko Suzuki
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '2'
+    - Andrew Barnes
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '19'
+    - Andrew Luton
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '4'
+    - Cameron Tunbridge
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '36'
+    - Enda Murphy
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '8'
+    - Federico Martini
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '64'
+    - Hadewych van Kempen
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '35'
+    - Jamie Shelden
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '37'
+    - Jon snr Durand
+    awardedReach:
+      extra:
+        awardedMade: 55.327000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0.27161421130404473
+      flown:
+        awardedMade: 55.327000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0.27161421130404473
+    awardedVelocity:
+      ss: 2014-01-04T03:01:00Z
+      es: null
+  - pilot:
+    - '53'
+    - Kathryn O'Riordan
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '58'
+    - Mark Russell
+    awardedReach:
+      extra:
+        awardedMade: 199.397000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0.9788902143870553
+      flown:
+        awardedMade: 199.397000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0.9788902143870553
+    awardedVelocity:
+      ss: 2014-01-04T03:01:00Z
+      es: null
+  - pilot:
+    - '56'
+    - Maximilian Respondek
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '16'
+    - Michael Tomlinson
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '14'
+    - Mikhail Karmazin
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '17'
+    - Peter Lamont
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '69'
+    - Phil Seeley
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '18'
+    - Rohan Taylor
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '5'
+    - Ryosuke Hattori
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 203.697000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf: []

@@ -1,0 +1,821 @@
+bestEffort:
+- 145.345933 km
+- 152.906523 km
+- 153.590022 km
+- 155.789542 km
+- 111.674084 km
+- 193.680697 km
+- null
+land:
+- - - - '53'
+      - Kathryn O'Riordan
+    - togo: 0.000000 km
+      made: 145.345933 km
+  - - - '52'
+      - Olav Olsen
+    - togo: 7.003143 km
+      made: 138.342790 km
+  - - - '30'
+      - Phil Schroder
+    - togo: 11.098787 km
+      made: 134.247146 km
+  - - - '48'
+      - Victor Hare
+    - togo: 12.953058 km
+      made: 132.392875 km
+  - - - '17'
+      - Peter Lamont
+    - togo: 15.962305 km
+      made: 129.383628 km
+  - - - '55'
+      - Len Paton
+    - togo: 19.021867 km
+      made: 126.324066 km
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 21.438313 km
+      made: 123.907620 km
+  - - - '13'
+      - Peter Ebeling
+    - togo: 23.452062 km
+      made: 121.893871 km
+  - - - '37'
+      - Jon snr Durand
+    - togo: 23.651329 km
+      made: 121.694604 km
+  - - - '36'
+      - Enda Murphy
+    - togo: 25.527353 km
+      made: 119.818580 km
+  - - - '51'
+      - Gavin Myers
+    - togo: 25.528115 km
+      made: 119.817818 km
+  - - - '31'
+      - Dean Hervatin
+    - togo: 28.212624 km
+      made: 117.133309 km
+  - - - '20'
+      - Nils Vesk
+    - togo: 29.021552 km
+      made: 116.324381 km
+  - - - '2'
+      - Andrew Barnes
+    - togo: 44.039005 km
+      made: 101.306928 km
+  - - - '22'
+      - Adam Jones
+    - togo: 51.369551 km
+      made: 93.976382 km
+  - - - '8'
+      - Federico Martini
+    - togo: 51.908835 km
+      made: 93.437098 km
+  - - - '6'
+      - Akiko Suzuki
+    - togo: 62.338116 km
+      made: 83.007817 km
+  - - - '15'
+      - Nick Purcell
+    - togo: 74.386018 km
+      made: 70.959915 km
+  - - - '16'
+      - Michael Tomlinson
+    - togo: 86.267995 km
+      made: 59.077938 km
+  - - - '44'
+      - Patrick Collin
+    - togo: 88.661783 km
+      made: 56.684150 km
+  - - - '35'
+      - Jamie Shelden
+    - togo: 92.760751 km
+      made: 52.585182 km
+  - - - '25'
+      - Ai Fukutomi
+    - togo: 102.879492 km
+      made: 42.466441 km
+  - - - '26'
+      - Tony Masters
+    - togo: 108.529356 km
+      made: 36.816577 km
+  - - - '69'
+      - Phil Seeley
+    - togo: 127.836288 km
+      made: 17.509645 km
+  - - - '14'
+      - Mikhail Karmazin
+    - togo: 137.646452 km
+      made: 7.699481 km
+  - - - '64'
+      - Hadewych van Kempen
+    - togo: 140.345933 km
+      made: 5.000000 km
+  - - - '59'
+      - Hanspeter SchÔö£ÔòØtz
+    - togo: 140.345933 km
+      made: 5.000000 km
+- - - - '7'
+      - Tony Giammichele
+    - togo: 7.164305 km
+      made: 145.742218 km
+  - - - '30'
+      - Phil Schroder
+    - togo: 7.261141 km
+      made: 145.645382 km
+  - - - '2'
+      - Andrew Barnes
+    - togo: 8.800395 km
+      made: 144.106128 km
+  - - - '37'
+      - Jon snr Durand
+    - togo: 8.808573 km
+      made: 144.097950 km
+  - - - '35'
+      - Jamie Shelden
+    - togo: 29.198555 km
+      made: 123.707968 km
+  - - - '48'
+      - Victor Hare
+    - togo: 29.427598 km
+      made: 123.478925 km
+  - - - '18'
+      - Rohan Taylor
+    - togo: 34.056915 km
+      made: 118.849608 km
+  - - - '20'
+      - Nils Vesk
+    - togo: 49.650293 km
+      made: 103.256230 km
+  - - - '44'
+      - Patrick Collin
+    - togo: 50.162905 km
+      made: 102.743618 km
+  - - - '45'
+      - Geoff Robertson
+    - togo: 50.511009 km
+      made: 102.395514 km
+  - - - '31'
+      - Dean Hervatin
+    - togo: 76.451664 km
+      made: 76.454859 km
+  - - - '55'
+      - Len Paton
+    - togo: 93.339111 km
+      made: 59.567412 km
+  - - - '19'
+      - Andrew Luton
+    - togo: 96.625297 km
+      made: 56.281226 km
+  - - - '8'
+      - Federico Martini
+    - togo: 113.013458 km
+      made: 39.893065 km
+  - - - '52'
+      - Olav Olsen
+    - togo: 117.016463 km
+      made: 35.890060 km
+  - - - '15'
+      - Nick Purcell
+    - togo: 119.189629 km
+      made: 33.716894 km
+  - - - '33'
+      - Filippo Oppici
+    - togo: 120.700155 km
+      made: 32.206368 km
+  - - - '60'
+      - Davis Straub
+    - togo: 120.816482 km
+      made: 32.090041 km
+  - - - '62'
+      - Christian Voiblet
+    - togo: 121.321301 km
+      made: 31.585222 km
+  - - - '53'
+      - Kathryn O'Riordan
+    - togo: 122.455793 km
+      made: 30.450730 km
+  - - - '43'
+      - Rod Flockhart
+    - togo: 122.600914 km
+      made: 30.305609 km
+  - - - '41'
+      - Attila Bertok
+    - togo: 122.605695 km
+      made: 30.300828 km
+  - - - '39'
+      - Jonny Durand
+    - togo: 122.821154 km
+      made: 30.085369 km
+  - - - '13'
+      - Peter Ebeling
+    - togo: 122.975234 km
+      made: 29.931289 km
+  - - - '21'
+      - Neil Petersen
+    - togo: 127.871336 km
+      made: 25.035187 km
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 129.426439 km
+      made: 23.480084 km
+  - - - '14'
+      - Mikhail Karmazin
+    - togo: 130.210446 km
+      made: 22.696077 km
+  - - - '16'
+      - Michael Tomlinson
+    - togo: 130.864735 km
+      made: 22.041788 km
+  - - - '58'
+      - Mark Russell
+    - togo: 134.676746 km
+      made: 18.229777 km
+  - - - '4'
+      - Cameron Tunbridge
+    - togo: 137.595808 km
+      made: 15.310715 km
+  - - - '36'
+      - Enda Murphy
+    - togo: 138.338552 km
+      made: 14.567971 km
+  - - - '69'
+      - Phil Seeley
+    - togo: 145.069626 km
+      made: 7.836897 km
+  - - - '25'
+      - Ai Fukutomi
+    - togo: 147.906523 km
+      made: 5.000000 km
+  - - - '6'
+      - Akiko Suzuki
+    - togo: 147.906523 km
+      made: 5.000000 km
+  - - - '64'
+      - Hadewych van Kempen
+    - togo: 147.906523 km
+      made: 5.000000 km
+  - - - '59'
+      - Hanspeter SchÔö£ÔòØtz
+    - togo: 147.906523 km
+      made: 5.000000 km
+- - - - '55'
+      - Len Paton
+    - togo: 12.262004 km
+      made: 141.328018 km
+  - - - '44'
+      - Patrick Collin
+    - togo: 22.570975 km
+      made: 131.019047 km
+  - - - '43'
+      - Rod Flockhart
+    - togo: 25.109412 km
+      made: 128.480610 km
+  - - - '14'
+      - Mikhail Karmazin
+    - togo: 56.640056 km
+      made: 96.949966 km
+  - - - '69'
+      - Phil Seeley
+    - togo: 64.340742 km
+      made: 89.249280 km
+  - - - '17'
+      - Peter Lamont
+    - togo: 64.485832 km
+      made: 89.104190 km
+  - - - '35'
+      - Jamie Shelden
+    - togo: 81.167316 km
+      made: 72.422706 km
+  - - - '22'
+      - Adam Jones
+    - togo: 85.021860 km
+      made: 68.568162 km
+  - - - '64'
+      - Hadewych van Kempen
+    - togo: 87.554519 km
+      made: 66.035503 km
+  - - - '25'
+      - Ai Fukutomi
+    - togo: 97.710752 km
+      made: 55.879270 km
+  - - - '31'
+      - Dean Hervatin
+    - togo: 109.352245 km
+      made: 44.237777 km
+  - - - '13'
+      - Peter Ebeling
+    - togo: 110.418072 km
+      made: 43.171950 km
+  - - - '5'
+      - Ryosuke Hattori
+    - togo: 114.761683 km
+      made: 38.828339 km
+  - - - '26'
+      - Tony Masters
+    - togo: 129.113177 km
+      made: 24.476845 km
+  - - - '16'
+      - Michael Tomlinson
+    - togo: 137.702518 km
+      made: 15.887504 km
+  - - - '6'
+      - Akiko Suzuki
+    - togo: 148.590022 km
+      made: 5.000000 km
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 148.590022 km
+      made: 5.000000 km
+- - - - '52'
+      - Olav Olsen
+    - togo: 33.375202 km
+      made: 122.414340 km
+  - - - '20'
+      - Nils Vesk
+    - togo: 37.221141 km
+      made: 118.568401 km
+  - - - '18'
+      - Rohan Taylor
+    - togo: 49.901205 km
+      made: 105.888337 km
+  - - - '62'
+      - Christian Voiblet
+    - togo: 52.090894 km
+      made: 103.698648 km
+  - - - '50'
+      - Conrad Loten
+    - togo: 52.119622 km
+      made: 103.669920 km
+  - - - '23'
+      - Anton Struganov
+    - togo: 52.718250 km
+      made: 103.071292 km
+  - - - '6'
+      - Akiko Suzuki
+    - togo: 55.393744 km
+      made: 100.395798 km
+  - - - '36'
+      - Enda Murphy
+    - togo: 57.422573 km
+      made: 98.366969 km
+  - - - '37'
+      - Jon snr Durand
+    - togo: 59.151218 km
+      made: 96.638324 km
+  - - - '44'
+      - Patrick Collin
+    - togo: 64.003153 km
+      made: 91.786389 km
+  - - - '14'
+      - Mikhail Karmazin
+    - togo: 70.271035 km
+      made: 85.518507 km
+  - - - '26'
+      - Tony Masters
+    - togo: 75.178224 km
+      made: 80.611318 km
+  - - - '17'
+      - Peter Lamont
+    - togo: 100.232387 km
+      made: 55.557155 km
+  - - - '69'
+      - Phil Seeley
+    - togo: 100.273102 km
+      made: 55.516440 km
+  - - - '33'
+      - Filippo Oppici
+    - togo: 103.732320 km
+      made: 52.057222 km
+  - - - '48'
+      - Victor Hare
+    - togo: 115.261948 km
+      made: 40.527594 km
+  - - - '35'
+      - Jamie Shelden
+    - togo: 115.786065 km
+      made: 40.003477 km
+  - - - '64'
+      - Hadewych van Kempen
+    - togo: 126.410988 km
+      made: 29.378554 km
+  - - - '53'
+      - Kathryn O'Riordan
+    - togo: 126.498153 km
+      made: 29.291389 km
+  - - - '13'
+      - Peter Ebeling
+    - togo: 135.179922 km
+      made: 20.609620 km
+  - - - '22'
+      - Adam Jones
+    - togo: 137.508471 km
+      made: 18.281071 km
+  - - - '16'
+      - Michael Tomlinson
+    - togo: 137.987929 km
+      made: 17.801613 km
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 142.324076 km
+      made: 13.465466 km
+  - - - '55'
+      - Len Paton
+    - togo: 147.796783 km
+      made: 7.992759 km
+  - - - '25'
+      - Ai Fukutomi
+    - togo: 150.789542 km
+      made: 5.000000 km
+  - - - '58'
+      - Mark Russell
+    - togo: 150.789542 km
+      made: 5.000000 km
+  - - - '5'
+      - Ryosuke Hattori
+    - togo: 150.789542 km
+      made: 5.000000 km
+- - - - '70'
+      - Carl Wallbank
+    - togo: 39.819511 km
+      made: 111.660573 km
+  - - - '3'
+      - Paris Williams
+    - togo: 41.576696 km
+      made: 109.903388 km
+  - - - '39'
+      - Jonny Durand
+    - togo: 41.587314 km
+      made: 109.892770 km
+  - - - '23'
+      - Anton Struganov
+    - togo: 42.868535 km
+      made: 108.611549 km
+  - - - '41'
+      - Attila Bertok
+    - togo: 43.105653 km
+      made: 108.374431 km
+  - - - '29'
+      - Adam Stevens
+    - togo: 43.502128 km
+      made: 107.977956 km
+  - - - '33'
+      - Filippo Oppici
+    - togo: 43.937656 km
+      made: 107.542428 km
+  - - - '50'
+      - Conrad Loten
+    - togo: 44.211757 km
+      made: 107.268327 km
+  - - - '40'
+      - Lukas Bader
+    - togo: 44.219373 km
+      made: 107.260711 km
+  - - - '49'
+      - Jonas Lobitz
+    - togo: 44.577085 km
+      made: 106.902999 km
+  - - - '45'
+      - Geoff Robertson
+    - togo: 47.024919 km
+      made: 104.455165 km
+  - - - '60'
+      - Davis Straub
+    - togo: 48.782547 km
+      made: 102.697537 km
+  - - - '35'
+      - Jamie Shelden
+    - togo: 54.409791 km
+      made: 97.070293 km
+  - - - '18'
+      - Rohan Taylor
+    - togo: 56.321896 km
+      made: 95.158188 km
+  - - - '43'
+      - Rod Flockhart
+    - togo: 59.550652 km
+      made: 91.929432 km
+  - - - '55'
+      - Len Paton
+    - togo: 59.601767 km
+      made: 91.878317 km
+  - - - '24'
+      - Steve Blenkinsop
+    - togo: 61.149703 km
+      made: 90.330381 km
+  - - - '28'
+      - Guy Hubbard
+    - togo: 63.386189 km
+      made: 88.093895 km
+  - - - '44'
+      - Patrick Collin
+    - togo: 63.451936 km
+      made: 88.028148 km
+  - - - '62'
+      - Christian Voiblet
+    - togo: 63.549793 km
+      made: 87.930291 km
+  - - - '20'
+      - Nils Vesk
+    - togo: 64.227225 km
+      made: 87.252859 km
+  - - - '8'
+      - Federico Martini
+    - togo: 65.395995 km
+      made: 86.084089 km
+  - - - '46'
+      - Yasuhiro Noma
+    - togo: 65.833752 km
+      made: 85.646332 km
+  - - - '5'
+      - Ryosuke Hattori
+    - togo: 68.604118 km
+      made: 82.875966 km
+  - - - '52'
+      - Olav Olsen
+    - togo: 69.778581 km
+      made: 81.701503 km
+  - - - '34'
+      - Glen Mcfarlane
+    - togo: 71.216727 km
+      made: 80.263357 km
+  - - - '42'
+      - Trent Brown
+    - togo: 72.854443 km
+      made: 78.625641 km
+  - - - '36'
+      - Enda Murphy
+    - togo: 73.814185 km
+      made: 77.665899 km
+  - - - '14'
+      - Mikhail Karmazin
+    - togo: 74.361151 km
+      made: 77.118933 km
+  - - - '30'
+      - Phil Schroder
+    - togo: 74.392842 km
+      made: 77.087242 km
+  - - - '4'
+      - Cameron Tunbridge
+    - togo: 78.078769 km
+      made: 73.401315 km
+  - - - '53'
+      - Kathryn O'Riordan
+    - togo: 80.925971 km
+      made: 70.554113 km
+  - - - '15'
+      - Nick Purcell
+    - togo: 94.500740 km
+      made: 56.979344 km
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 95.615725 km
+      made: 55.864359 km
+  - - - '48'
+      - Victor Hare
+    - togo: 96.328977 km
+      made: 55.151107 km
+  - - - '69'
+      - Phil Seeley
+    - togo: 100.569631 km
+      made: 50.910453 km
+  - - - '19'
+      - Andrew Luton
+    - togo: 100.743839 km
+      made: 50.736245 km
+  - - - '2'
+      - Andrew Barnes
+    - togo: 103.287642 km
+      made: 48.192442 km
+  - - - '51'
+      - Gavin Myers
+    - togo: 106.864735 km
+      made: 44.615349 km
+  - - - '37'
+      - Jon snr Durand
+    - togo: 109.768924 km
+      made: 41.711160 km
+  - - - '13'
+      - Peter Ebeling
+    - togo: 114.117440 km
+      made: 37.362644 km
+  - - - '7'
+      - Tony Giammichele
+    - togo: 116.885619 km
+      made: 34.594465 km
+  - - - '26'
+      - Tony Masters
+    - togo: 120.315404 km
+      made: 31.164680 km
+  - - - '31'
+      - Dean Hervatin
+    - togo: 125.567456 km
+      made: 25.912628 km
+  - - - '6'
+      - Akiko Suzuki
+    - togo: 146.480084 km
+      made: 5.000000 km
+  - - - '64'
+      - Hadewych van Kempen
+    - togo: 146.480084 km
+      made: 5.000000 km
+  - - - '21'
+      - Neil Petersen
+    - togo: 146.480084 km
+      made: 5.000000 km
+- - - - '30'
+      - Phil Schroder
+    - togo: 14.276924 km
+      made: 179.403773 km
+  - - - '18'
+      - Rohan Taylor
+    - togo: 21.826084 km
+      made: 171.854613 km
+  - - - '55'
+      - Len Paton
+    - togo: 24.928738 km
+      made: 168.751959 km
+  - - - '41'
+      - Attila Bertok
+    - togo: 30.453553 km
+      made: 163.227144 km
+  - - - '48'
+      - Victor Hare
+    - togo: 36.077869 km
+      made: 157.602828 km
+  - - - '23'
+      - Anton Struganov
+    - togo: 37.019227 km
+      made: 156.661470 km
+  - - - '58'
+      - Mark Russell
+    - togo: 37.208254 km
+      made: 156.472443 km
+  - - - '7'
+      - Tony Giammichele
+    - togo: 49.974598 km
+      made: 143.706099 km
+  - - - '53'
+      - Kathryn O'Riordan
+    - togo: 55.916631 km
+      made: 137.764066 km
+  - - - '15'
+      - Nick Purcell
+    - togo: 60.016663 km
+      made: 133.664034 km
+  - - - '31'
+      - Dean Hervatin
+    - togo: 92.119114 km
+      made: 101.561583 km
+  - - - '2'
+      - Andrew Barnes
+    - togo: 92.181843 km
+      made: 101.498854 km
+  - - - '44'
+      - Patrick Collin
+    - togo: 92.704061 km
+      made: 100.976636 km
+  - - - '19'
+      - Andrew Luton
+    - togo: 95.775321 km
+      made: 97.905376 km
+  - - - '5'
+      - Ryosuke Hattori
+    - togo: 96.477891 km
+      made: 97.202806 km
+  - - - '14'
+      - Mikhail Karmazin
+    - togo: 97.625386 km
+      made: 96.055311 km
+  - - - '51'
+      - Gavin Myers
+    - togo: 104.355418 km
+      made: 89.325279 km
+  - - - '17'
+      - Peter Lamont
+    - togo: 109.600038 km
+      made: 84.080659 km
+  - - - '4'
+      - Cameron Tunbridge
+    - togo: 116.670425 km
+      made: 77.010272 km
+  - - - '24'
+      - Steve Blenkinsop
+    - togo: 120.968282 km
+      made: 72.712415 km
+  - - - '37'
+      - Jon snr Durand
+    - togo: 138.102353 km
+      made: 55.578344 km
+  - - - '6'
+      - Akiko Suzuki
+    - togo: 147.727854 km
+      made: 45.952843 km
+  - - - '13'
+      - Peter Ebeling
+    - togo: 148.430843 km
+      made: 45.249854 km
+  - - - '35'
+      - Jamie Shelden
+    - togo: 157.704015 km
+      made: 35.976682 km
+  - - - '64'
+      - Hadewych van Kempen
+    - togo: 162.010521 km
+      made: 31.670176 km
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 174.272907 km
+      made: 19.407790 km
+  - - - '36'
+      - Enda Murphy
+    - togo: 180.055594 km
+      made: 13.625103 km
+  - - - '69'
+      - Phil Seeley
+    - togo: 182.616329 km
+      made: 11.064368 km
+  - - - '26'
+      - Tony Masters
+    - togo: 184.992827 km
+      made: 8.687870 km
+  - - - '52'
+      - Olav Olsen
+    - togo: 188.680697 km
+      made: 5.000000 km
+- - - - '58'
+      - Mark Russell
+    - togo: 4.300023 km
+      made: 199.398074 km
+  - - - '37'
+      - Jon snr Durand
+    - togo: 148.370799 km
+      made: 55.327298 km
+  - - - '22'
+      - Adam Jones
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '6'
+      - Akiko Suzuki
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '2'
+      - Andrew Barnes
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '19'
+      - Andrew Luton
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '4'
+      - Cameron Tunbridge
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '36'
+      - Enda Murphy
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '8'
+      - Federico Martini
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '64'
+      - Hadewych van Kempen
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '35'
+      - Jamie Shelden
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '53'
+      - Kathryn O'Riordan
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '56'
+      - Maximilian Respondek
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '16'
+      - Michael Tomlinson
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '14'
+      - Mikhail Karmazin
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '17'
+      - Peter Lamont
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '69'
+      - Phil Seeley
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '18'
+      - Rohan Taylor
+    - togo: 198.698097 km
+      made: 5.000000 km
+  - - - '5'
+      - Ryosuke Hattori
+    - togo: 198.698097 km
+      made: 5.000000 km
