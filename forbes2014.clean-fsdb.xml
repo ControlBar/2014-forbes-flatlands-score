@@ -50,7 +50,7 @@
       <FsParticipant id="55" name="Len Paton"/>
       <FsParticipant id="56" name="Maximilian Respondek"/>
       <FsParticipant id="58" name="Mark Russell"/>
-      <FsParticipant id="59" name="Hanspeter Sch├╝tz"/>
+      <FsParticipant id="59" name="Hanspeter Schütz"/>
       <FsParticipant id="60" name="Davis Straub"/>
       <FsParticipant id="62" name="Christian Voiblet"/>
       <FsParticipant id="64" name="Hadewych van Kempen"/>
@@ -655,7 +655,7 @@
             <FsResult rank="7" points="914" distance="153.647" ss_time="02:41:50" finished_ss_rank="12" distance_points="378.5" time_points="435.1" arrival_points="100.7" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2013-12-30T14:50:00+11:00" finished_ss="2013-12-30T17:31:50+11:00" ss_time_dec_hours="2.69722222222222" real_distance="153.647" last_distance="153.647" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="59">
-            <FsFlightData distance="10.339" started_ss="2013-12-30T14:51:41+11:00" finished_ss="" finished_task="2013-12-30T14:53:11+11:00" tracklog_filename="Hanspeter Sch├╝tz.20131230-111706.15361.59.kml" lc="0" iv="0" alt="339" baro_alt="283" last_tracklog_point_distance="10.241" last_tracklog_point_time="2013-12-30T14:55:10+11:00" last_tracklog_point_alt="257" last_tracklog_point_baro_alt="266" landed_before_deadline="1"/>
+            <FsFlightData distance="10.339" started_ss="2013-12-30T14:51:41+11:00" finished_ss="" finished_task="2013-12-30T14:53:11+11:00" tracklog_filename="Hanspeter Schütz.20131230-111706.15361.59.kml" lc="0" iv="0" alt="339" baro_alt="283" last_tracklog_point_distance="10.241" last_tracklog_point_time="2013-12-30T14:55:10+11:00" last_tracklog_point_alt="257" last_tracklog_point_baro_alt="266" landed_before_deadline="1"/>
             <FsResult rank="51" points="33" distance="10.339" ss_time="00:00:00" finished_ss_rank="36" distance_points="32.6" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2013-12-30T14:50:00+11:00" ss_time_dec_hours="0" real_distance="10.339" last_distance="10.241" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="64">
@@ -766,7 +766,7 @@
         <FsTaskState task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2013-12-31T17:39:00+11:00"/>
         <FsParticipants>
           <FsParticipant id="59">
-            <FsFlightData distance="39.909" started_ss="2013-12-31T14:15:48+11:00" finished_ss="" finished_task="2013-12-31T14:56:31+11:00" tracklog_filename="Hanspeter Sch├╝tz.20131231-064508.15361.59.kml" lc="0" iv="0" alt="536" baro_alt="450" last_tracklog_point_distance="39.434" last_tracklog_point_time="2013-12-31T14:59:12+11:00" last_tracklog_point_alt="330" last_tracklog_point_baro_alt="326" landed_before_deadline="1"/>
+            <FsFlightData distance="39.909" started_ss="2013-12-31T14:15:48+11:00" finished_ss="" finished_task="2013-12-31T14:56:31+11:00" tracklog_filename="Hanspeter Schütz.20131231-064508.15361.59.kml" lc="0" iv="0" alt="536" baro_alt="450" last_tracklog_point_distance="39.434" last_tracklog_point_time="2013-12-31T14:59:12+11:00" last_tracklog_point_alt="330" last_tracklog_point_baro_alt="326" landed_before_deadline="1"/>
             <FsResult rank="44" points="145" distance="39.909" ss_time="00:00:00" finished_ss_rank="28" distance_points="145.3" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2013-12-31T14:15:00+11:00" ss_time_dec_hours="0" real_distance="39.909" last_distance="39.434" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="56">
@@ -1059,7 +1059,7 @@
             <FsResult rank="20" points="660" distance="88.188" ss_time="00:00:00" finished_ss_rank="1" distance_points="659.8" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2014-01-01T14:00:00+11:00" ss_time_dec_hours="0" real_distance="88.188" last_distance="88.184" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="59">
-            <FsFlightData distance="24.201" started_ss="2014-01-01T14:15:38+11:00" finished_ss="" finished_task="2014-01-01T14:39:27+11:00" tracklog_filename="Hanspeter Sch├╝tz.20140101-082548.15361.59.kml" lc="0" iv="0" alt="307" baro_alt="273" last_tracklog_point_distance="24.042" last_tracklog_point_time="2014-01-01T14:41:20+11:00" last_tracklog_point_alt="246" last_tracklog_point_baro_alt="257" landed_before_deadline="1"/>
+            <FsFlightData distance="24.201" started_ss="2014-01-01T14:15:38+11:00" finished_ss="" finished_task="2014-01-01T14:39:27+11:00" tracklog_filename="Hanspeter Schütz.20140101-082548.15361.59.kml" lc="0" iv="0" alt="307" baro_alt="273" last_tracklog_point_distance="24.042" last_tracklog_point_time="2014-01-01T14:41:20+11:00" last_tracklog_point_alt="246" last_tracklog_point_baro_alt="257" landed_before_deadline="1"/>
             <FsResult rank="47" points="149" distance="24.201" ss_time="00:00:00" finished_ss_rank="1" distance_points="149.1" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2014-01-01T14:00:00+11:00" ss_time_dec_hours="0" real_distance="24.201" last_distance="24.042" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="5">
@@ -1333,7 +1333,7 @@
             <FsResult rank="17" points="735" distance="193.68" ss_time="03:40:53" finished_ss_rank="17" distance_points="475.1" time_points="222.2" arrival_points="37.5" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2014-01-03T14:30:00+11:00" finished_ss="2014-01-03T18:10:53+11:00" ss_time_dec_hours="3.68138888888889" real_distance="193.68" last_distance="193.68" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="59">
-            <FsFlightData distance="95.689" started_ss="2014-01-03T14:34:02+11:00" finished_ss="" finished_task="2014-01-03T16:50:59+11:00" tracklog_filename="Hanspeter Sch├╝tz.20140103-120123.15361.59.kml" lc="0" iv="0" alt="986" baro_alt="1006" last_tracklog_point_distance="94.960" last_tracklog_point_time="2014-01-03T16:57:00+11:00" last_tracklog_point_alt="467" last_tracklog_point_baro_alt="576" landed_before_deadline="1"/>
+            <FsFlightData distance="95.689" started_ss="2014-01-03T14:34:02+11:00" finished_ss="" finished_task="2014-01-03T16:50:59+11:00" tracklog_filename="Hanspeter Schütz.20140103-120123.15361.59.kml" lc="0" iv="0" alt="986" baro_alt="1006" last_tracklog_point_distance="94.960" last_tracklog_point_time="2014-01-03T16:57:00+11:00" last_tracklog_point_alt="467" last_tracklog_point_baro_alt="576" landed_before_deadline="1"/>
             <FsResult rank="38" points="252" distance="95.689" ss_time="00:00:00" finished_ss_rank="21" distance_points="252" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2014-01-03T14:30:00+11:00" ss_time_dec_hours="0" real_distance="95.689" last_distance="94.96" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="8">
@@ -1463,7 +1463,7 @@
             <FsResult rank="31" points="81" distance="5" ss_time="00:00:00" finished_ss_rank="16" distance_points="81.1" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" real_distance="8.388" last_distance="8.188" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="59">
-            <FsFlightData distance="2.184" started_ss="" finished_ss="" finished_task="2014-01-04T13:13:14+11:00" tracklog_filename="Hanspeter Sch├╝tz.20140104-052104.15361.59.kml" lc="0" iv="0" alt="1487" baro_alt="1521" last_tracklog_point_distance="1.123" last_tracklog_point_time="2014-01-04T13:46:01+11:00" last_tracklog_point_alt="238" last_tracklog_point_baro_alt="280" landed_before_deadline="1"/>
+            <FsFlightData distance="2.184" started_ss="" finished_ss="" finished_task="2014-01-04T13:13:14+11:00" tracklog_filename="Hanspeter Schütz.20140104-052104.15361.59.kml" lc="0" iv="0" alt="1487" baro_alt="1521" last_tracklog_point_distance="1.123" last_tracklog_point_time="2014-01-04T13:46:01+11:00" last_tracklog_point_alt="238" last_tracklog_point_baro_alt="280" landed_before_deadline="1"/>
             <FsResult rank="31" points="81" distance="5" ss_time="00:00:00" finished_ss_rank="16" distance_points="81.1" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" real_distance="5" last_distance="1.123" last_altitude_above_goal="0"/>
           </FsParticipant>
           <FsParticipant id="4">

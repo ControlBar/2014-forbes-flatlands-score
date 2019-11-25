@@ -2,7 +2,7 @@ pilotsAtEss:
 - 27
 - 14
 - 35
-- 26
+- 27
 - 0
 - 20
 - 0
@@ -318,103 +318,107 @@ arrivalRank:
   - - - '46'
       - Yasuhiro Noma
     - rank: '2'
-      frac: 0.91850393
+      frac: 0.92141777
   - - - '34'
       - Glen Mcfarlane
     - rank: '3'
-      frac: 0.84279472
+      frac: 0.84820911
   - - - '40'
       - Lukas Bader
     - rank: '4'
-      frac: 0.77265629
+      frac: 0.78018107
   - - - '1'
       - Michael Bilyk
     - rank: '5'
-      frac: 0.70787255
+      frac: 0.71714068
   - - - '15'
       - Nick Purcell
     - rank: '6'
-      frac: 0.64822741
+      frac: 0.65889499
   - - - '24'
       - Steve Blenkinsop
     - rank: '7'
-      frac: 0.59350478
+      frac: 0.60525103
   - - - '19'
       - Andrew Luton
     - rank: '8'
-      frac: 0.54348856
+      frac: 0.55601585
   - - - '28'
       - Guy Hubbard
     - rank: '9'
-      frac: 0.49796268
+      frac: 0.51099649
   - - - '51'
       - Gavin Myers
     - rank: '10'
-      frac: 0.45671103
+      frac: 0.47
   - - - '21'
       - Neil Petersen
     - rank: '11'
-      frac: 0.41951752
+      frac: 0.43283341
+  - - - '33'
+      - Filippo Oppici
+    - rank: '12'
+      frac: 0.39930376
   - - - '70'
       - Carl Wallbank
-    - rank: '12'
-      frac: 0.38616608
+    - rank: '13'
+      frac: 0.36921811
   - - - '45'
       - Geoff Robertson
-    - rank: '13'
-      frac: 0.3564406
+    - rank: '14'
+      frac: 0.34238348
   - - - '39'
       - Jonny Durand
-    - rank: '14'
-      frac: 0.330125
+    - rank: '15'
+      frac: 0.31860692
   - - - '42'
       - Trent Brown
-    - rank: '15'
-      frac: 0.30700319
+    - rank: '16'
+      frac: 0.29769547
   - - - '43'
       - Rod Flockhart
-    - rank: '16'
-      frac: 0.28685907
+    - rank: '17'
+      frac: 0.27945618
   - - - '3'
       - Paris Williams
-    - rank: '17'
-      frac: 0.26947656
+    - rank: '18'
+      frac: 0.26369608
   - - - '29'
       - Adam Stevens
-    - rank: '18'
-      frac: 0.25463957
+    - rank: '19'
+      frac: 0.25022222
   - - - '4'
       - Cameron Tunbridge
-    - rank: '19'
-      frac: 0.242132
+    - rank: '20'
+      frac: 0.23884164
   - - - '30'
       - Phil Schroder
-    - rank: '20'
-      frac: 0.23173777
+    - rank: '21'
+      frac: 0.22936138
   - - - '7'
       - Tony Giammichele
-    - rank: '21'
-      frac: 0.22324078
+    - rank: '22'
+      frac: 0.22158848
   - - - '49'
       - Jonas Lobitz
-    - rank: '22'
-      frac: 0.21642495
+    - rank: '23'
+      frac: 0.21532998
   - - - '60'
       - Davis Straub
-    - rank: '23'
-      frac: 0.21107419
+    - rank: '24'
+      frac: 0.21039293
   - - - '8'
       - Federico Martini
-    - rank: '24'
-      frac: 0.20697241
+    - rank: '25'
+      frac: 0.20658436
   - - - '2'
       - Andrew Barnes
-    - rank: '25'
-      frac: 0.2039035
+    - rank: '26'
+      frac: 0.20371132
   - - - '31'
       - Dean Hervatin
-    - rank: '26'
-      frac: 0.2016514
+    - rank: '27'
+      frac: 0.20158086
 - []
 - - - - '42'
       - Trent Brown

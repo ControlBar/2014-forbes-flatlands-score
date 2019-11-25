@@ -18,4 +18,4 @@ mask-track "$COMP"
 land-out "$COMP"
 gap-point "$COMP"
 
-#comp-serve "$COMP"
+comp-serve "$COMP"
