@@ -1800,12 +1800,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 55.900000 km
-        awardedTask: 153.647000 km
-        awardedFrac: 0.36382096624079874
+        awardedTask: 153.582000 km
+        awardedFrac: 0.36397494498053157
       flown:
         awardedMade: 55.900000 km
-        awardedTask: 153.647000 km
-        awardedFrac: 0.36382096624079874
+        awardedTask: 153.582000 km
+        awardedFrac: 0.36397494498053157
     awardedVelocity:
       ss: 2013-12-30T03:33:00Z
       es: null
@@ -1815,11 +1815,11 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 0.000000 km
-        awardedTask: 153.647000 km
+        awardedTask: 153.582000 km
         awardedFrac: 0
       flown:
         awardedMade: 0.000000 km
-        awardedTask: 153.647000 km
+        awardedTask: 153.582000 km
         awardedFrac: 0
     awardedVelocity:
       ss: null
@@ -1830,12 +1830,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 66.060000 km
-        awardedTask: 153.647000 km
-        awardedFrac: 0.4299465658294662
+        awardedTask: 153.582000 km
+        awardedFrac: 0.4301285306871899
       flown:
         awardedMade: 66.060000 km
-        awardedTask: 153.647000 km
-        awardedFrac: 0.4299465658294662
+        awardedTask: 153.582000 km
+        awardedFrac: 0.4301285306871899
     awardedVelocity:
       ss: 2013-12-30T03:31:00Z
       es: null
@@ -1845,11 +1845,11 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 0.000000 km
-        awardedTask: 153.647000 km
+        awardedTask: 153.582000 km
         awardedFrac: 0
       flown:
         awardedMade: 0.000000 km
-        awardedTask: 153.647000 km
+        awardedTask: 153.582000 km
         awardedFrac: 0
     awardedVelocity:
       ss: null
@@ -1863,11 +1863,11 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 0.000000 km
-        awardedTask: 155.776000 km
+        awardedTask: 155.747000 km
         awardedFrac: 0
       flown:
         awardedMade: 0.000000 km
-        awardedTask: 155.776000 km
+        awardedTask: 155.747000 km
         awardedFrac: 0
     awardedVelocity:
       ss: null
@@ -1878,12 +1878,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 29.376000 km
-        awardedTask: 155.776000 km
-        awardedFrac: 0.1885784716516023
+        awardedTask: 155.747000 km
+        awardedFrac: 0.1886135848523567
       flown:
         awardedMade: 29.376000 km
-        awardedTask: 155.776000 km
-        awardedFrac: 0.1885784716516023
+        awardedTask: 155.747000 km
+        awardedFrac: 0.1886135848523567
     awardedVelocity:
       ss: 2013-12-31T03:16:00Z
       es: null
@@ -1893,12 +1893,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 40.000000 km
-        awardedTask: 155.776000 km
-        awardedFrac: 0.25677896466721445
+        awardedTask: 155.747000 km
+        awardedFrac: 0.25682677675974497
       flown:
         awardedMade: 40.000000 km
-        awardedTask: 155.776000 km
-        awardedFrac: 0.25677896466721445
+        awardedTask: 155.747000 km
+        awardedFrac: 0.25682677675974497
     awardedVelocity:
       ss: 2013-12-31T03:16:00Z
       es: null
@@ -1908,11 +1908,11 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 0.000000 km
-        awardedTask: 155.776000 km
+        awardedTask: 155.747000 km
         awardedFrac: 0
       flown:
         awardedMade: 0.000000 km
-        awardedTask: 155.776000 km
+        awardedTask: 155.747000 km
         awardedFrac: 0
     awardedVelocity:
       ss: null
@@ -1923,11 +1923,11 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 0.000000 km
-        awardedTask: 155.776000 km
+        awardedTask: 155.747000 km
         awardedFrac: 0
       flown:
         awardedMade: 0.000000 km
-        awardedTask: 155.776000 km
+        awardedTask: 155.747000 km
         awardedFrac: 0
     awardedVelocity:
       ss: null
@@ -1945,11 +1945,11 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 0.000000 km
-        awardedTask: 151.570000 km
+        awardedTask: 151.506000 km
         awardedFrac: 0
       flown:
         awardedMade: 0.000000 km
-        awardedTask: 151.570000 km
+        awardedTask: 151.506000 km
         awardedFrac: 0
     awardedVelocity:
       ss: null
@@ -1960,12 +1960,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 107.332000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.7081348551824239
+        awardedTask: 151.506000 km
+        awardedFrac: 0.7084339894129605
       flown:
         awardedMade: 107.332000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.7081348551824239
+        awardedTask: 151.506000 km
+        awardedFrac: 0.7084339894129605
     awardedVelocity:
       ss: 2014-01-01T03:01:00Z
       es: null
@@ -1975,12 +1975,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 77.712000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5127135976776407
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5129301809829314
       flown:
         awardedMade: 77.712000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5127135976776407
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5129301809829314
     awardedVelocity:
       ss: 2014-01-01T03:01:00Z
       es: null
@@ -1990,12 +1990,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 80.311000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5298607903938775
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5300846171108735
       flown:
         awardedMade: 80.311000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5298607903938775
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5300846171108735
     awardedVelocity:
       ss: 2014-01-01T03:01:00Z
       es: null
@@ -2005,11 +2005,11 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 0.000000 km
-        awardedTask: 151.570000 km
+        awardedTask: 151.506000 km
         awardedFrac: 0
       flown:
         awardedMade: 0.000000 km
-        awardedTask: 151.570000 km
+        awardedTask: 151.506000 km
         awardedFrac: 0
     awardedVelocity:
       ss: null
@@ -2020,12 +2020,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 109.958000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.7254601834136043
+        awardedTask: 151.506000 km
+        awardedFrac: 0.7257666363048328
       flown:
         awardedMade: 109.958000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.7254601834136043
+        awardedTask: 151.506000 km
+        awardedFrac: 0.7257666363048328
     awardedVelocity:
       ss: 2014-01-01T03:01:00Z
       es: null
@@ -2035,11 +2035,11 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 0.000000 km
-        awardedTask: 151.570000 km
+        awardedTask: 151.506000 km
         awardedFrac: 0
       flown:
         awardedMade: 0.000000 km
-        awardedTask: 151.570000 km
+        awardedTask: 151.506000 km
         awardedFrac: 0
     awardedVelocity:
       ss: null
@@ -2050,12 +2050,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 81.750000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5393547535792044
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5395825907884836
       flown:
         awardedMade: 81.750000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5393547535792044
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5395825907884836
     awardedVelocity:
       ss: 2014-01-01T03:01:00Z
       es: null
@@ -2065,12 +2065,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 77.133000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5088935805238504
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5091085501564294
       flown:
         awardedMade: 77.133000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5088935805238504
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5091085501564294
     awardedVelocity:
       ss: 2014-01-01T03:01:00Z
       es: null
@@ -2080,12 +2080,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 91.984000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.6068747113544897
+        awardedTask: 151.506000 km
+        awardedFrac: 0.6071310707166713
       flown:
         awardedMade: 91.984000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.6068747113544897
+        awardedTask: 151.506000 km
+        awardedFrac: 0.6071310707166713
     awardedVelocity:
       ss: 2014-01-01T03:01:00Z
       es: null
@@ -2095,12 +2095,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 90.384000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5963185326911657
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5965704328541444
       flown:
         awardedMade: 90.384000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.5963185326911657
+        awardedTask: 151.506000 km
+        awardedFrac: 0.5965704328541444
     awardedVelocity:
       ss: 2014-01-01T03:01:00Z
       es: null
@@ -2110,12 +2110,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 34.615000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.2283763277693475
+        awardedTask: 151.506000 km
+        awardedFrac: 0.22847279975710533
       flown:
         awardedMade: 34.615000 km
-        awardedTask: 151.570000 km
-        awardedFrac: 0.2283763277693475
+        awardedTask: 151.506000 km
+        awardedFrac: 0.22847279975710533
     awardedVelocity:
       ss: 2014-01-01T03:01:00Z
       es: null

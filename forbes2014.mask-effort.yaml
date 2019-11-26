@@ -293,12 +293,12 @@ land:
       made: 68.606761 km
   - - - '64'
       - Hadewych van Kempen
-    - togo: 87.554519 km
-      made: 66.035503 km
+    - togo: 87.526572 km
+      made: 66.063450 km
   - - - '25'
       - Ai Fukutomi
-    - togo: 97.710752 km
-      made: 55.879270 km
+    - togo: 97.687102 km
+      made: 55.902920 km
   - - - '31'
       - Dean Hervatin
     - togo: 109.313730 km
@@ -389,12 +389,12 @@ land:
       made: 40.604586 km
   - - - '35'
       - Jamie Shelden
-    - togo: 115.786065 km
-      made: 40.003477 km
+    - togo: 115.778616 km
+      made: 40.010926 km
   - - - '64'
       - Hadewych van Kempen
-    - togo: 126.410988 km
-      made: 29.378554 km
+    - togo: 126.405518 km
+      made: 29.384024 km
   - - - '53'
       - Kathryn O'Riordan
     - togo: 126.421034 km
@@ -435,14 +435,14 @@ land:
       - Carl Wallbank
     - togo: 39.814511 km
       made: 111.665573 km
+  - - - '39'
+      - Jonny Durand
+    - togo: 41.540893 km
+      made: 109.939191 km
   - - - '3'
       - Paris Williams
     - togo: 41.571696 km
       made: 109.908388 km
-  - - - '39'
-      - Jonny Durand
-    - togo: 41.587314 km
-      made: 109.892770 km
   - - - '23'
       - Anton Struganov
     - togo: 42.863535 km
@@ -461,8 +461,8 @@ land:
       made: 107.547428 km
   - - - '50'
       - Conrad Loten
-    - togo: 44.211757 km
-      made: 107.268327 km
+    - togo: 44.166444 km
+      made: 107.313640 km
   - - - '40'
       - Lukas Bader
     - togo: 44.214373 km
@@ -489,16 +489,16 @@ land:
       made: 95.163188 km
   - - - '43'
       - Rod Flockhart
-    - togo: 59.550652 km
-      made: 91.929432 km
+    - togo: 59.511818 km
+      made: 91.968266 km
   - - - '55'
       - Len Paton
     - togo: 59.596767 km
       made: 91.883317 km
   - - - '24'
       - Steve Blenkinsop
-    - togo: 61.149703 km
-      made: 90.330381 km
+    - togo: 61.111545 km
+      made: 90.368539 km
   - - - '28'
       - Guy Hubbard
     - togo: 63.381189 km
@@ -529,28 +529,28 @@ land:
       made: 82.939916 km
   - - - '52'
       - Olav Olsen
-    - togo: 69.778581 km
-      made: 81.701503 km
+    - togo: 69.744068 km
+      made: 81.736016 km
   - - - '34'
       - Glen Mcfarlane
-    - togo: 71.216727 km
-      made: 80.263357 km
+    - togo: 71.182822 km
+      made: 80.297262 km
   - - - '42'
       - Trent Brown
     - togo: 72.781625 km
       made: 78.698459 km
   - - - '36'
       - Enda Murphy
-    - togo: 73.814185 km
-      made: 77.665899 km
+    - togo: 73.781377 km
+      made: 77.698707 km
   - - - '14'
       - Mikhail Karmazin
     - togo: 74.293590 km
       made: 77.186494 km
   - - - '30'
       - Phil Schroder
-    - togo: 74.392842 km
-      made: 77.087242 km
+    - togo: 74.360278 km
+      made: 77.119806 km
   - - - '4'
       - Cameron Tunbridge
     - togo: 77.995974 km
@@ -597,8 +597,8 @@ land:
       made: 37.444247 km
   - - - '7'
       - Tony Giammichele
-    - togo: 116.885619 km
-      made: 34.594465 km
+    - togo: 116.871005 km
+      made: 34.609079 km
   - - - '26'
       - Tony Masters
     - togo: 120.237767 km

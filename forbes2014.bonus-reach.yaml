@@ -28,14 +28,14 @@ reach:
   mean: 82.039641 km
   stdDev: 59.915891 km
 - max: 153.590022 km
-  mean: 122.452730 km
-  stdDev: 52.291988 km
+  mean: 122.452731 km
+  stdDev: 52.291986 km
 - max: 155.789542 km
-  mean: 107.477158 km
-  stdDev: 58.197444 km
+  mean: 107.477159 km
+  stdDev: 58.197443 km
 - max: 111.679084 km
-  mean: 59.180036 km
-  stdDev: 40.894753 km
+  mean: 59.180042 km
+  stdDev: 40.894743 km
 - max: 193.680697 km
   mean: 133.960583 km
   stdDev: 65.168213 km
@@ -633,12 +633,12 @@ reachRank:
       reach: 68.822022 km
   - - - '64'
       - Hadewych van Kempen
-    - frac: 0.42994657
-      reach: 0.066036 km
+    - frac: 0.43012853
+      reach: 0.066063 km
   - - - '25'
       - Ai Fukutomi
-    - frac: 0.36382097
-      reach: 0.055879 km
+    - frac: 0.36397494
+      reach: 0.055903 km
   - - - '31'
       - Dean Hervatin
     - frac: 0.28953718
@@ -837,16 +837,16 @@ reachRank:
       reach: 40.717542 km
   - - - '35'
       - Jamie Shelden
-    - frac: 0.25677896
-      reach: 0.040003 km
+    - frac: 0.25682678
+      reach: 0.040011 km
   - - - '53'
       - Kathryn O'Riordan
     - frac: 0.20096049
       reach: 31.307542 km
   - - - '64'
       - Hadewych van Kempen
-    - frac: 0.18857847
-      reach: 0.029379 km
+    - frac: 0.18861358
+      reach: 0.029384 km
   - - - '13'
       - Peter Ebeling
     - frac: 0.13498045
@@ -961,16 +961,16 @@ reachRank:
       reach: 83.373084 km
   - - - '39'
       - Jonny Durand
-    - frac: 0.72546018
-      reach: 0.109893 km
+    - frac: 0.72576664
+      reach: 0.109939 km
   - - - '42'
       - Trent Brown
     - frac: 0.70867419
       reach: 79.144084 km
   - - - '50'
       - Conrad Loten
-    - frac: 0.70813486
-      reach: 0.107268 km
+    - frac: 0.70843399
+      reach: 0.107314 km
   - - - '14'
       - Mikhail Karmazin
     - frac: 0.69483095
@@ -985,32 +985,32 @@ reachRank:
       reach: 70.932084 km
   - - - '43'
       - Rod Flockhart
-    - frac: 0.60687471
-      reach: 0.091929 km
+    - frac: 0.60713107
+      reach: 0.091968 km
   - - - '24'
       - Steve Blenkinsop
-    - frac: 0.59631853
-      reach: 0.090330 km
+    - frac: 0.59657043
+      reach: 0.090369 km
   - - - '52'
       - Olav Olsen
-    - frac: 0.53935475
-      reach: 0.081702 km
+    - frac: 0.53958259
+      reach: 0.081736 km
   - - - '34'
       - Glen Mcfarlane
-    - frac: 0.52986079
-      reach: 0.080263 km
+    - frac: 0.53008462
+      reach: 0.080297 km
   - - - '36'
       - Enda Murphy
-    - frac: 0.5127136
-      reach: 0.077666 km
+    - frac: 0.51293018
+      reach: 0.077699 km
   - - - '15'
       - Nick Purcell
     - frac: 0.51152894
       reach: 57.127084 km
   - - - '30'
       - Phil Schroder
-    - frac: 0.50889358
-      reach: 0.077087 km
+    - frac: 0.50910855
+      reach: 0.077120 km
   - - - '48'
       - Victor Hare
     - frac: 0.50441929
@@ -1053,8 +1053,8 @@ reachRank:
       reach: 26.221084 km
   - - - '7'
       - Tony Giammichele
-    - frac: 0.22837633
-      reach: 0.034594 km
+    - frac: 0.2284728
+      reach: 0.034609 km
   - - - '6'
       - Akiko Suzuki
     - frac: 0

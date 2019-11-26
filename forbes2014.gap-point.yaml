@@ -4196,15 +4196,15 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 112.383
-        distance: 193.741
+        distance: 193.775
         leading: 0
         arrival: 0
         time: 0
-        reach: 81.358
-      landedMade: 66.036 km
+        reach: 81.393
+      landedMade: 66.063 km
       reach:
-        extra: 66.036 km
-        flown: 66.036 km
+        extra: 66.063 km
+        flown: 66.063 km
       velocity: null
       stoppedAlt: null
   - - - '25'
@@ -4214,16 +4214,16 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 94.309
-        distance: 163.155
+        effort: 94.45
+        distance: 163.325
         leading: 0
         arrival: 0
         time: 0
-        reach: 68.846
-      landedMade: 55.879 km
+        reach: 68.875
+      landedMade: 55.903 km
       reach:
-        extra: 55.879 km
-        flown: 55.879 km
+        extra: 55.903 km
+        flown: 55.903 km
       velocity: null
       stoppedAlt: null
   - - - '31'
@@ -4233,8 +4233,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 73.044
-        distance: 127.833
+        effort: 72.997
+        distance: 127.786
         leading: 0
         arrival: 0
         time: 0
@@ -4260,8 +4260,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 71.166
-        distance: 125.199
+        effort: 71.119
+        distance: 125.152
         leading: 0
         arrival: 0
         time: 0
@@ -4287,8 +4287,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 62.153
-        distance: 110.959
+        effort: 62.106
+        distance: 110.912
         leading: 0
         arrival: 0
         time: 0
@@ -5541,15 +5541,15 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 85.106
-        distance: 139.335
+        distance: 139.345
         leading: 0
         arrival: 0
         time: 0
-        reach: 54.229
-      landedMade: 40.003 km
+        reach: 54.239
+      landedMade: 40.011 km
       reach:
-        extra: 40.003 km
-        flown: 40.003 km
+        extra: 40.011 km
+        flown: 40.011 km
       velocity: null
       stoppedAlt: null
   - - - '53'
@@ -5587,15 +5587,15 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 71.719
-        distance: 111.545
+        distance: 111.552
         leading: 0
         arrival: 0
         time: 0
-        reach: 39.825
-      landedMade: 29.379 km
+        reach: 39.833
+      landedMade: 29.384 km
       reach:
-        extra: 29.379 km
-        flown: 29.379 km
+        extra: 29.384 km
+        flown: 29.384 km
       velocity: null
       stoppedAlt: null
   - - - '13'
@@ -5819,7 +5819,7 @@ score:
       stoppedAlt: 417.000 m
   - - - '3'
       - Paris Williams
-    - place: '2'
+    - place: 2=
       total: 891
       penalties: []
       penaltyReason: ''
@@ -5846,21 +5846,21 @@ score:
       stoppedAlt: 479.000 m
   - - - '39'
       - Jonny Durand
-    - place: '3'
-      total: 890
+    - place: 2=
+      total: 891
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 447.391
-        distance: 890.193
+        effort: 447.666
+        distance: 890.655
         leading: 0
         arrival: 0
         time: 0
-        reach: 442.802
-      landedMade: 109.893 km
+        reach: 442.989
+      landedMade: 109.939 km
       reach:
-        extra: 109.893 km
-        flown: 109.893 km
+        extra: 109.939 km
+        flown: 109.939 km
       velocity: null
       stoppedAlt: null
   - - - '23'
@@ -5870,8 +5870,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 442.447
-        distance: 880.105
+        effort: 442.31
+        distance: 879.968
         leading: 0
         arrival: 0
         time: 0
@@ -5893,12 +5893,12 @@ score:
   - - - '41'
       - Attila Bertok
     - place: '5'
-      total: 878
+      total: 877
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 440.8
-        distance: 877.535
+        effort: 440.662
+        distance: 877.397
         leading: 0
         arrival: 0
         time: 0
@@ -5924,8 +5924,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 438.053
-        distance: 873.16
+        effort: 437.916
+        distance: 873.023
         leading: 0
         arrival: 0
         time: 0
@@ -5951,8 +5951,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 434.757
-        distance: 868.108
+        effort: 434.62
+        distance: 867.971
         leading: 0
         arrival: 0
         time: 0
@@ -5973,32 +5973,32 @@ score:
       stoppedAlt: 400.000 m
   - - - '50'
       - Conrad Loten
-    - place: 8=
-      total: 864
+    - place: '8'
+      total: 865
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 431.874
-        distance: 864.101
+        effort: 432.698
+        distance: 865.107
         leading: 0
         arrival: 0
         time: 0
-        reach: 432.227
-      landedMade: 107.268 km
+        reach: 432.41
+      landedMade: 107.314 km
       reach:
-        extra: 107.268 km
-        flown: 107.268 km
+        extra: 107.314 km
+        flown: 107.314 km
       velocity: null
       stoppedAlt: null
   - - - '40'
       - Lukas Bader
-    - place: 8=
+    - place: '9'
       total: 864
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 431.874
-        distance: 864.088
+        effort: 431.599
+        distance: 863.813
         leading: 0
         arrival: 0
         time: 0
@@ -6024,8 +6024,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 428.166
-        distance: 858.946
+        effort: 427.891
+        distance: 858.671
         leading: 0
         arrival: 0
         time: 0
@@ -6051,8 +6051,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 393.973
-        distance: 814.957
+        effort: 393.699
+        distance: 814.683
         leading: 0
         arrival: 0
         time: 0
@@ -6078,8 +6078,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 370.766
-        distance: 784.795
+        effort: 370.629
+        distance: 784.658
         leading: 0
         arrival: 0
         time: 0
@@ -6160,15 +6160,15 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 321.605
-        distance: 692.026
+        distance: 692.182
         leading: 0
         arrival: 0
         time: 0
-        reach: 370.421
-      landedMade: 91.929 km
+        reach: 370.577
+      landedMade: 91.968 km
       reach:
-        extra: 91.929 km
-        flown: 91.929 km
+        extra: 91.968 km
+        flown: 91.968 km
       velocity: null
       stoppedAlt: null
   - - - '55'
@@ -6206,15 +6206,15 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 312.954
-        distance: 676.931
+        distance: 677.085
         leading: 0
         arrival: 0
         time: 0
-        reach: 363.977
-      landedMade: 90.330 km
+        reach: 364.131
+      landedMade: 90.369 km
       reach:
-        extra: 90.330 km
-        flown: 90.330 km
+        extra: 90.369 km
+        flown: 90.369 km
       velocity: null
       stoppedAlt: null
   - - - '62'
@@ -6414,15 +6414,15 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 237.428
-        distance: 566.636
+        distance: 566.775
         leading: 0
         arrival: 0
         time: 0
-        reach: 329.208
-      landedMade: 81.702 km
+        reach: 329.347
+      landedMade: 81.736 km
       reach:
-        extra: 81.702 km
-        flown: 81.702 km
+        extra: 81.736 km
+        flown: 81.736 km
       velocity: null
       stoppedAlt: null
   - - - '34'
@@ -6433,15 +6433,15 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 223.833
-        distance: 547.246
+        distance: 547.383
         leading: 0
         arrival: 0
         time: 0
-        reach: 323.413
-      landedMade: 80.263 km
+        reach: 323.55
+      landedMade: 80.297 km
       reach:
-        extra: 80.263 km
-        flown: 80.263 km
+        extra: 80.297 km
+        flown: 80.297 km
       velocity: null
       stoppedAlt: null
   - - - '42'
@@ -6479,15 +6479,15 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 207.904
-        distance: 520.851
+        distance: 520.983
         leading: 0
         arrival: 0
         time: 0
-        reach: 312.947
-      landedMade: 77.666 km
+        reach: 313.079
+      landedMade: 77.699 km
       reach:
-        extra: 77.666 km
-        flown: 77.666 km
+        extra: 77.699 km
+        flown: 77.699 km
       velocity: null
       stoppedAlt: null
   - - - '14'
@@ -6520,20 +6520,20 @@ score:
   - - - '30'
       - Phil Schroder
     - place: '30'
-      total: 514
+      total: 515
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 203.647
-        distance: 514.262
+        effort: 204.471
+        distance: 515.217
         leading: 0
         arrival: 0
         time: 0
-        reach: 310.616
-      landedMade: 77.087 km
+        reach: 310.747
+      landedMade: 77.120 km
       reach:
-        extra: 77.087 km
-        flown: 77.087 km
+        extra: 77.120 km
+        flown: 77.120 km
       velocity: null
       stoppedAlt: null
   - - - '4'
@@ -6543,8 +6543,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 173.985
-        distance: 471.005
+        effort: 173.848
+        distance: 470.868
         leading: 0
         arrival: 0
         time: 0
@@ -6570,8 +6570,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 155.584
-        distance: 441.398
+        effort: 155.447
+        distance: 441.261
         leading: 0
         arrival: 0
         time: 0
@@ -6836,20 +6836,20 @@ score:
   - - - '7'
       - Tony Giammichele
     - place: '42'
-      total: 195
+      total: 196
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 56.027
-        distance: 195.422
+        effort: 56.164
+        distance: 195.618
         leading: 0
         arrival: 0
         time: 0
-        reach: 139.395
-      landedMade: 34.594 km
+        reach: 139.454
+      landedMade: 34.609 km
       reach:
-        extra: 34.594 km
-        flown: 34.594 km
+        extra: 34.609 km
+        flown: 34.609 km
       velocity: null
       stoppedAlt: null
   - - - '26'
@@ -6859,8 +6859,8 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 46.964
-        distance: 173.882
+        effort: 46.826
+        distance: 173.745
         leading: 0
         arrival: 0
         time: 0
@@ -12373,8 +12373,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 73.044
-        distance: 127.833
+        effort: 72.997
+        distance: 127.786
         leading: 0
         arrival: 0
         time: 0
@@ -12400,8 +12400,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 71.166
-        distance: 125.199
+        effort: 71.119
+        distance: 125.152
         leading: 0
         arrival: 0
         time: 0
@@ -12427,8 +12427,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 62.153
-        distance: 110.959
+        effort: 62.106
+        distance: 110.912
         leading: 0
         arrival: 0
         time: 0
@@ -13858,8 +13858,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 442.447
-        distance: 880.105
+        effort: 442.31
+        distance: 879.968
         leading: 0
         arrival: 0
         time: 0
@@ -13881,12 +13881,12 @@ scoreDf:
   - - - '41'
       - Attila Bertok
     - place: '4'
-      total: 878
+      total: 877
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 440.8
-        distance: 877.535
+        effort: 440.662
+        distance: 877.397
         leading: 0
         arrival: 0
         time: 0
@@ -13912,8 +13912,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 438.053
-        distance: 873.16
+        effort: 437.916
+        distance: 873.023
         leading: 0
         arrival: 0
         time: 0
@@ -13939,8 +13939,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 434.757
-        distance: 868.108
+        effort: 434.62
+        distance: 867.971
         leading: 0
         arrival: 0
         time: 0
@@ -13966,8 +13966,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 431.874
-        distance: 864.088
+        effort: 431.599
+        distance: 863.813
         leading: 0
         arrival: 0
         time: 0
@@ -13993,8 +13993,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 428.166
-        distance: 858.946
+        effort: 427.891
+        distance: 858.671
         leading: 0
         arrival: 0
         time: 0
@@ -14020,8 +14020,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 393.973
-        distance: 814.957
+        effort: 393.699
+        distance: 814.683
         leading: 0
         arrival: 0
         time: 0
@@ -14047,8 +14047,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 370.766
-        distance: 784.795
+        effort: 370.629
+        distance: 784.658
         leading: 0
         arrival: 0
         time: 0
@@ -14398,8 +14398,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 173.985
-        distance: 471.005
+        effort: 173.848
+        distance: 470.868
         leading: 0
         arrival: 0
         time: 0
@@ -14425,8 +14425,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 155.584
-        distance: 441.398
+        effort: 155.447
+        distance: 441.261
         leading: 0
         arrival: 0
         time: 0
@@ -14695,8 +14695,8 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 46.964
-        distance: 173.882
+        effort: 46.826
+        distance: 173.745
         leading: 0
         arrival: 0
         time: 0
@@ -16254,15 +16254,15 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 112.383
-        distance: 193.741
+        distance: 193.775
         leading: 0
         arrival: 0
         time: 0
-        reach: 81.358
-      landedMade: 66.036 km
+        reach: 81.393
+      landedMade: 66.063 km
       reach:
-        extra: 66.036 km
-        flown: 66.036 km
+        extra: 66.063 km
+        flown: 66.063 km
       velocity: null
       stoppedAlt: null
   - - - '25'
@@ -16272,16 +16272,16 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 94.309
-        distance: 163.155
+        effort: 94.45
+        distance: 163.325
         leading: 0
         arrival: 0
         time: 0
-        reach: 68.846
-      landedMade: 55.879 km
+        reach: 68.875
+      landedMade: 55.903 km
       reach:
-        extra: 55.879 km
-        flown: 55.879 km
+        extra: 55.903 km
+        flown: 55.903 km
       velocity: null
       stoppedAlt: null
   - - - '6'
@@ -16330,15 +16330,15 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 85.106
-        distance: 139.335
+        distance: 139.345
         leading: 0
         arrival: 0
         time: 0
-        reach: 54.229
-      landedMade: 40.003 km
+        reach: 54.239
+      landedMade: 40.011 km
       reach:
-        extra: 40.003 km
-        flown: 40.003 km
+        extra: 40.011 km
+        flown: 40.011 km
       velocity: null
       stoppedAlt: null
   - - - '64'
@@ -16349,15 +16349,15 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 71.719
-        distance: 111.545
+        distance: 111.552
         leading: 0
         arrival: 0
         time: 0
-        reach: 39.825
-      landedMade: 29.379 km
+        reach: 39.833
+      landedMade: 29.384 km
       reach:
-        extra: 29.379 km
-        flown: 29.379 km
+        extra: 29.384 km
+        flown: 29.384 km
       velocity: null
       stoppedAlt: null
   - - - '25'
@@ -16420,39 +16420,39 @@ scoreDfNoTrack:
 - - - - '39'
       - Jonny Durand
     - place: '1'
-      total: 890
+      total: 891
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 447.391
-        distance: 890.193
+        effort: 447.666
+        distance: 890.655
         leading: 0
         arrival: 0
         time: 0
-        reach: 442.802
-      landedMade: 109.893 km
+        reach: 442.989
+      landedMade: 109.939 km
       reach:
-        extra: 109.893 km
-        flown: 109.893 km
+        extra: 109.939 km
+        flown: 109.939 km
       velocity: null
       stoppedAlt: null
   - - - '50'
       - Conrad Loten
     - place: '2'
-      total: 864
+      total: 865
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 431.874
-        distance: 864.101
+        effort: 432.698
+        distance: 865.107
         leading: 0
         arrival: 0
         time: 0
-        reach: 432.227
-      landedMade: 107.268 km
+        reach: 432.41
+      landedMade: 107.314 km
       reach:
-        extra: 107.268 km
-        flown: 107.268 km
+        extra: 107.314 km
+        flown: 107.314 km
       velocity: null
       stoppedAlt: null
   - - - '43'
@@ -16463,15 +16463,15 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 321.605
-        distance: 692.026
+        distance: 692.182
         leading: 0
         arrival: 0
         time: 0
-        reach: 370.421
-      landedMade: 91.929 km
+        reach: 370.577
+      landedMade: 91.968 km
       reach:
-        extra: 91.929 km
-        flown: 91.929 km
+        extra: 91.968 km
+        flown: 91.968 km
       velocity: null
       stoppedAlt: null
   - - - '24'
@@ -16482,15 +16482,15 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 312.954
-        distance: 676.931
+        distance: 677.085
         leading: 0
         arrival: 0
         time: 0
-        reach: 363.977
-      landedMade: 90.330 km
+        reach: 364.131
+      landedMade: 90.369 km
       reach:
-        extra: 90.330 km
-        flown: 90.330 km
+        extra: 90.369 km
+        flown: 90.369 km
       velocity: null
       stoppedAlt: null
   - - - '52'
@@ -16501,15 +16501,15 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 237.428
-        distance: 566.636
+        distance: 566.775
         leading: 0
         arrival: 0
         time: 0
-        reach: 329.208
-      landedMade: 81.702 km
+        reach: 329.347
+      landedMade: 81.736 km
       reach:
-        extra: 81.702 km
-        flown: 81.702 km
+        extra: 81.736 km
+        flown: 81.736 km
       velocity: null
       stoppedAlt: null
   - - - '34'
@@ -16520,15 +16520,15 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 223.833
-        distance: 547.246
+        distance: 547.383
         leading: 0
         arrival: 0
         time: 0
-        reach: 323.413
-      landedMade: 80.263 km
+        reach: 323.55
+      landedMade: 80.297 km
       reach:
-        extra: 80.263 km
-        flown: 80.263 km
+        extra: 80.297 km
+        flown: 80.297 km
       velocity: null
       stoppedAlt: null
   - - - '36'
@@ -16539,53 +16539,53 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 207.904
-        distance: 520.851
+        distance: 520.983
         leading: 0
         arrival: 0
         time: 0
-        reach: 312.947
-      landedMade: 77.666 km
+        reach: 313.079
+      landedMade: 77.699 km
       reach:
-        extra: 77.666 km
-        flown: 77.666 km
+        extra: 77.699 km
+        flown: 77.699 km
       velocity: null
       stoppedAlt: null
   - - - '30'
       - Phil Schroder
     - place: '8'
-      total: 514
+      total: 515
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 203.647
-        distance: 514.262
+        effort: 204.471
+        distance: 515.217
         leading: 0
         arrival: 0
         time: 0
-        reach: 310.616
-      landedMade: 77.087 km
+        reach: 310.747
+      landedMade: 77.120 km
       reach:
-        extra: 77.087 km
-        flown: 77.087 km
+        extra: 77.120 km
+        flown: 77.120 km
       velocity: null
       stoppedAlt: null
   - - - '7'
       - Tony Giammichele
     - place: '9'
-      total: 195
+      total: 196
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 56.027
-        distance: 195.422
+        effort: 56.164
+        distance: 195.618
         leading: 0
         arrival: 0
         time: 0
-        reach: 139.395
-      landedMade: 34.594 km
+        reach: 139.454
+      landedMade: 34.609 km
       reach:
-        extra: 34.594 km
-        flown: 34.594 km
+        extra: 34.609 km
+        flown: 34.609 km
       velocity: null
       stoppedAlt: null
   - - - '6'
