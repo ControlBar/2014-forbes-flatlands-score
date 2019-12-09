@@ -1,6 +1,6 @@
 <Fs version="3.4">
   <FsCompetition id="9182" name="Australian National Hang Gliding Championships 2014" location="Forbes, Australia" from="2013-12-28" to="2014-01-04" utc_offset="+11">
-    <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
+    <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" use_arrival_time_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
     <FsParticipants>
       <FsParticipant id="1" name="Michael Bilyk"/>
       <FsParticipant id="2" name="Andrew Barnes"/>
@@ -59,7 +59,7 @@
     </FsParticipants>
     <FsTasks>
       <FsTask id="1" name="Task 1 - Child of god" tracklog_folder="day 1">
-        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" use_arrival_time_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
         <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2013-12-28T17:05:00+11:00" ss="2" es="6" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2013-12-28T12:00:00+11:00" close="2013-12-28T20:00:00+11:00"/>
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="5000" open="2013-12-28T12:00:00+11:00" close="2013-12-28T20:00:00+11:00"/>
@@ -380,7 +380,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="2" name="Task 2 - Blown Away" tracklog_folder="day 2">
-        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" use_arrival_time_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
         <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2013-12-29T16:28:00+11:00" ss="2" es="3" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2013-12-29T12:00:00+11:00" close="2013-12-29T20:00:00+11:00"/>
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="15000" open="2013-12-29T12:00:00+11:00" close="2013-12-29T20:00:00+11:00"/>
@@ -706,7 +706,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="3" name="Task 3 - TCDSay" tracklog_folder="day 3">
-        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" use_arrival_time_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
         <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2013-12-30T16:47:00+11:00" ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2013-12-30T12:00:00+11:00" close="2013-12-30T20:00:00+11:00"/>
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="10000" open="2013-12-30T12:00:00+11:00" close="2013-12-30T20:00:00+11:00"/>
@@ -1000,7 +1000,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="4" name="Task 4 - Greased Lightning" tracklog_folder="day 4">
-        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" use_arrival_time_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
         <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2013-12-31T17:39:00+11:00" ss="2" es="5" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2013-12-31T12:00:00+11:00" close="2013-12-31T20:00:00+11:00"/>
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="10000" open="2013-12-31T12:00:00+11:00" close="2013-12-31T20:00:00+11:00"/>
@@ -1323,7 +1323,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="5" name="Task 5 - Find Your Own Fxx Pad" tracklog_folder="day 5">
-        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" use_arrival_time_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
         <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2014-01-01T18:24:00+11:00" ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2014-01-01T12:00:00+11:00" close="2014-01-01T20:00:00+11:00"/>
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="10000" open="2014-01-01T12:00:00+11:00" close="2014-01-01T20:00:00+11:00"/>
@@ -1703,7 +1703,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="6" name="Task 6 - Attila Killer" tracklog_folder="day 6">
-        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" use_arrival_time_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
         <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2014-01-03T20:35:00+11:00" ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2014-01-03T12:00:00+11:00" close="2014-01-03T20:00:00+11:00"/>
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="10000" open="2014-01-03T12:00:00+11:00" close="2014-01-03T20:00:00+11:00"/>
@@ -2031,7 +2031,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="7" name="Task 7 - 126.7" tracklog_folder="day 7">
-        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
+        <FsScoreFormula id="GAP2011" use_leading_points="0" use_arrival_position_points="0" use_arrival_time_points="1" min_dist="5" nom_dist="80" nom_time="2" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="300"/>
         <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2014-01-04T16:28:00+11:00" ss="2" es="3" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="400" open="2014-01-04T12:00:00+11:00" close="2014-01-04T20:00:00+11:00"/>
           <FsTurnpoint id="FORBE" lat="-33.3608" lon="147.932" radius="10000" open="2014-01-04T12:00:00+11:00" close="2014-01-04T20:00:00+11:00"/>
