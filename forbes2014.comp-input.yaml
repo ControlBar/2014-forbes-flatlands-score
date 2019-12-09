@@ -122,6 +122,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+  penalsAuto: []
   penals: []
 - taskName: Task 2 - Blown Away
   zones:
@@ -185,6 +186,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+  penalsAuto: []
   penals: []
 - taskName: Task 3 - TCDSay
   zones:
@@ -259,6 +261,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+  penalsAuto: []
   penals: []
 - taskName: Task 4 - Greased Lightning
   zones:
@@ -345,6 +348,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+  penalsAuto: []
   penals: []
 - taskName: Task 5 - Find Your Own Fxx Pad
   zones:
@@ -418,6 +422,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+  penalsAuto: []
   penals: []
 - taskName: Task 6 - Attila Killer
   zones:
@@ -491,6 +496,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+  penalsAuto: []
   penals: []
 - taskName: Task 7 - 126.7
   zones:
@@ -552,6 +558,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+  penalsAuto: []
   penals: []
 taskFolders:
 - - day 1
