@@ -22,7 +22,8 @@ nominal:
   free: 5.000 km
   time: 2.000000 h
 compTweak:
-  arrivalWeightScaling: 0
+  arrivalRank: false
+  arrivalTime: true
   leadingWeightScaling: 0
 tasks:
 - taskName: Task 1 - Child of god
@@ -117,7 +118,8 @@ tasks:
   - 2013-12-28T03:40:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: true
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -181,7 +183,8 @@ tasks:
   - 2013-12-29T03:45:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: true
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -256,7 +259,8 @@ tasks:
   - 2013-12-30T04:10:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: true
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -343,7 +347,8 @@ tasks:
   - 2013-12-31T03:55:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: true
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -417,7 +422,8 @@ tasks:
   - 2014-01-01T03:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: true
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -491,7 +497,8 @@ tasks:
   - 2014-01-03T03:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: true
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -553,7 +560,8 @@ tasks:
   - 2014-01-04T03:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: 0
+    arrivalRank: false
+    arrivalTime: true
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
