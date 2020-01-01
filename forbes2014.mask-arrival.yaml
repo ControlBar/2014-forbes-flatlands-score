@@ -14,107 +14,107 @@ arrivalRank:
   - - - '24'
       - Steve Blenkinsop
     - rank: '2'
-      frac: 0.92141777
+      frac: 0.99426883
   - - - '1'
       - Michael Bilyk
     - rank: '3'
-      frac: 0.84820911
+      frac: 0.99412965
   - - - '29'
       - Adam Stevens
     - rank: '4'
-      frac: 0.78018107
+      frac: 0.88365962
   - - - '45'
       - Geoff Robertson
     - rank: '5'
-      frac: 0.71714068
+      frac: 0.83887011
   - - - '50'
       - Conrad Loten
     - rank: '6'
-      frac: 0.65889499
+      frac: 0.79350913
   - - - '39'
       - Jonny Durand
     - rank: '7'
-      frac: 0.60525103
+      frac: 0.74407466
   - - - '49'
       - Jonas Lobitz
     - rank: '8'
-      frac: 0.55601585
+      frac: 0.68778014
   - - - '4'
       - Cameron Tunbridge
     - rank: '9'
-      frac: 0.51099649
+      frac: 0.64196206
   - - - '18'
       - Rohan Taylor
     - rank: '10'
-      frac: 0.47
+      frac: 0.63966068
   - - - '33'
       - Filippo Oppici
     - rank: '11'
-      frac: 0.43283341
+      frac: 0.56980575
   - - - '23'
       - Anton Struganov
     - rank: '12'
-      frac: 0.39930376
+      frac: 0.56144592
   - - - '21'
       - Neil Petersen
     - rank: '13'
-      frac: 0.36921811
+      frac: 0.51862378
   - - - '62'
       - Christian Voiblet
     - rank: '14'
-      frac: 0.34238348
+      frac: 0.51587347
   - - - '60'
       - Davis Straub
     - rank: '15'
-      frac: 0.31860692
+      frac: 0.50930702
   - - - '28'
       - Guy Hubbard
     - rank: '16'
-      frac: 0.29769547
+      frac: 0.45806181
   - - - '43'
       - Rod Flockhart
     - rank: '17'
-      frac: 0.27945618
+      frac: 0.41634639
   - - - '19'
       - Andrew Luton
     - rank: '18'
-      frac: 0.26369608
+      frac: 0.38026504
   - - - '5'
       - Ryosuke Hattori
     - rank: '19'
-      frac: 0.25022222
+      frac: 0.35732238
   - - - '42'
       - Trent Brown
     - rank: '20'
-      frac: 0.23884164
+      frac: 0.28951946
   - - - '46'
       - Yasuhiro Noma
     - rank: '21'
-      frac: 0.22936138
+      frac: 0.28202136
   - - - '40'
       - Lukas Bader
     - rank: '22'
-      frac: 0.22158848
+      frac: 0.24600139
   - - - '41'
       - Attila Bertok
     - rank: '23'
-      frac: 0.21532998
+      frac: 0.2293877
   - - - '7'
       - Tony Giammichele
     - rank: '24'
-      frac: 0.21039293
+      frac: 0.20730221
   - - - '34'
       - Glen Mcfarlane
     - rank: '25'
-      frac: 0.20658436
+      frac: 0.19030881
   - - - '58'
       - Mark Russell
     - rank: '26'
-      frac: 0.20371132
+      frac: 3.180683e-2
   - - - '53'
       - Kathryn O'Riordan
     - rank: '27'
-      frac: 0.20158086
+      frac: 2.804835e-2
 - - - - '1'
       - Michael Bilyk
     - rank: '1'
@@ -122,55 +122,55 @@ arrivalRank:
   - - - '3'
       - Paris Williams
     - rank: '2'
-      frac: 0.85326421
+      frac: 0.99844488
   - - - '34'
       - Glen Mcfarlane
     - rank: '3'
-      frac: 0.7258484
+      frac: 0.99786164
   - - - '24'
       - Steve Blenkinsop
     - rank: '4'
-      frac: 0.61636844
+      frac: 0.99598309
   - - - '49'
       - Jonas Lobitz
     - rank: '5'
-      frac: 0.52344023
+      frac: 0.98643639
   - - - '50'
       - Conrad Loten
     - rank: '6'
-      frac: 0.44567966
+      frac: 0.98050072
   - - - '23'
       - Anton Struganov
     - rank: '7'
-      frac: 0.38170262
+      frac: 0.97816895
   - - - '29'
       - Adam Stevens
     - rank: '8'
-      frac: 0.330125
+      frac: 0.93386195
   - - - '42'
       - Trent Brown
     - rank: '9'
-      frac: 0.28956268
+      frac: 0.9233953
   - - - '40'
       - Lukas Bader
     - rank: '10'
-      frac: 0.25863156
+      frac: 0.89824789
   - - - '28'
       - Guy Hubbard
     - rank: '11'
-      frac: 0.23594752
+      frac: 0.84579062
   - - - '51'
       - Gavin Myers
     - rank: '12'
-      frac: 0.22012646
+      frac: 0.7190126
   - - - '46'
       - Yasuhiro Noma
     - rank: '13'
-      frac: 0.20978426
+      frac: 0.61351703
   - - - '5'
       - Ryosuke Hattori
     - rank: '14'
-      frac: 0.20353681
+      frac: 0.50511445
 - - - - '41'
       - Attila Bertok
     - rank: '1'
@@ -178,139 +178,139 @@ arrivalRank:
   - - - '39'
       - Jonny Durand
     - rank: '2'
-      frac: 0.93889871
+      frac: 0.99404903
   - - - '46'
       - Yasuhiro Noma
     - rank: '3'
-      frac: 0.88102148
+      frac: 0.74808822
   - - - '28'
       - Guy Hubbard
     - rank: '4'
-      frac: 0.82627974
+      frac: 0.71018465
   - - - '23'
       - Anton Struganov
     - rank: '5'
-      frac: 0.77458491
+      frac: 0.69079785
   - - - '40'
       - Lukas Bader
     - rank: '6'
-      frac: 0.7258484
+      frac: 0.68956207
   - - - '1'
       - Michael Bilyk
     - rank: '7'
-      frac: 0.67998162
+      frac: 0.66994166
   - - - '49'
       - Jonas Lobitz
     - rank: '8'
-      frac: 0.636896
+      frac: 0.66877681
   - - - '37'
       - Jon snr Durand
     - rank: '9'
-      frac: 0.59650295
+      frac: 0.66589048
   - - - '42'
       - Trent Brown
     - rank: '10'
-      frac: 0.55871389
+      frac: 0.6651062
   - - - '33'
       - Filippo Oppici
     - rank: '11'
-      frac: 0.52344023
+      frac: 0.65568484
   - - - '62'
       - Christian Voiblet
     - rank: '12'
-      frac: 0.4905934
+      frac: 0.64792398
   - - - '50'
       - Conrad Loten
     - rank: '13'
-      frac: 0.4600848
+      frac: 0.64291653
   - - - '15'
       - Nick Purcell
     - rank: '14'
-      frac: 0.43182587
+      frac: 0.63173322
   - - - '51'
       - Gavin Myers
     - rank: '15'
-      frac: 0.405728
+      frac: 0.60900451
   - - - '29'
       - Adam Stevens
     - rank: '16'
-      frac: 0.38170262
+      frac: 0.60875274
   - - - '52'
       - Olav Olsen
     - rank: '17'
-      frac: 0.35966115
+      frac: 0.57469723
   - - - '3'
       - Paris Williams
     - rank: '18'
-      frac: 0.33951501
+      frac: 0.56731727
   - - - '34'
       - Glen Mcfarlane
     - rank: '19'
-      frac: 0.3211756
+      frac: 0.55688676
   - - - '18'
       - Rohan Taylor
     - rank: '20'
-      frac: 0.30455436
+      frac: 0.55042846
   - - - '24'
       - Steve Blenkinsop
     - rank: '21'
-      frac: 0.28956268
+      frac: 0.54176783
   - - - '60'
       - Davis Straub
     - rank: '22'
-      frac: 0.276112
+      frac: 0.47922317
   - - - '30'
       - Phil Schroder
     - rank: '23'
-      frac: 0.26411373
+      frac: 0.47100283
   - - - '36'
       - Enda Murphy
     - rank: '24'
-      frac: 0.25347928
+      frac: 0.44315721
   - - - '48'
       - Victor Hare
     - rank: '25'
-      frac: 0.24412007
+      frac: 0.41242718
   - - - '58'
       - Mark Russell
     - rank: '26'
-      frac: 0.23594752
+      frac: 0.39156076
   - - - '2'
       - Andrew Barnes
     - rank: '27'
-      frac: 0.22887305
+      frac: 0.37069218
   - - - '45'
       - Geoff Robertson
     - rank: '28'
-      frac: 0.22280807
+      frac: 0.30847239
   - - - '8'
       - Federico Martini
     - rank: '29'
-      frac: 0.217664
+      frac: 0.22850628
   - - - '7'
       - Tony Giammichele
     - rank: '30'
-      frac: 0.21335226
+      frac: 0.22366549
   - - - '19'
       - Andrew Luton
     - rank: '31'
-      frac: 0.20978426
+      frac: 0.19367424
   - - - '53'
       - Kathryn O'Riordan
     - rank: '32'
-      frac: 0.20687142
+      frac: 0.1221538
   - - - '21'
       - Neil Petersen
     - rank: '33'
-      frac: 0.20452515
+      frac: 6.911521e-2
   - - - '20'
       - Nils Vesk
     - rank: '34'
-      frac: 0.20265689
+      frac: 6.826748e-2
   - - - '4'
       - Cameron Tunbridge
     - rank: '35'
-      frac: 0.20117803
+      frac: 1.814916e-2
 - - - - '41'
       - Attila Bertok
     - rank: '1'
@@ -318,107 +318,107 @@ arrivalRank:
   - - - '46'
       - Yasuhiro Noma
     - rank: '2'
-      frac: 0.92141777
+      frac: 0.94480898
   - - - '34'
       - Glen Mcfarlane
     - rank: '3'
-      frac: 0.84820911
+      frac: 0.84153988
   - - - '40'
       - Lukas Bader
     - rank: '4'
-      frac: 0.78018107
+      frac: 0.82551033
   - - - '1'
       - Michael Bilyk
     - rank: '5'
-      frac: 0.71714068
+      frac: 0.79524858
   - - - '15'
       - Nick Purcell
     - rank: '6'
-      frac: 0.65889499
+      frac: 0.79507597
   - - - '24'
       - Steve Blenkinsop
     - rank: '7'
-      frac: 0.60525103
+      frac: 0.79062594
   - - - '19'
       - Andrew Luton
     - rank: '8'
-      frac: 0.55601585
+      frac: 0.77322322
   - - - '28'
       - Guy Hubbard
     - rank: '9'
-      frac: 0.51099649
+      frac: 0.77236967
   - - - '51'
       - Gavin Myers
     - rank: '10'
-      frac: 0.47
+      frac: 0.70300467
   - - - '21'
       - Neil Petersen
     - rank: '11'
-      frac: 0.43283341
+      frac: 0.65815645
   - - - '33'
       - Filippo Oppici
     - rank: '12'
-      frac: 0.39930376
+      frac: 0.59506839
   - - - '70'
       - Carl Wallbank
     - rank: '13'
-      frac: 0.36921811
+      frac: 0.59057335
   - - - '45'
       - Geoff Robertson
     - rank: '14'
-      frac: 0.34238348
+      frac: 0.58800079
   - - - '39'
       - Jonny Durand
     - rank: '15'
-      frac: 0.31860692
+      frac: 0.58795226
   - - - '42'
       - Trent Brown
     - rank: '16'
-      frac: 0.29769547
+      frac: 0.58679923
   - - - '43'
       - Rod Flockhart
     - rank: '17'
-      frac: 0.27945618
+      frac: 0.58602837
   - - - '3'
       - Paris Williams
     - rank: '18'
-      frac: 0.26369608
+      frac: 0.56677952
   - - - '29'
       - Adam Stevens
     - rank: '19'
-      frac: 0.25022222
+      frac: 0.56442769
   - - - '4'
       - Cameron Tunbridge
     - rank: '20'
-      frac: 0.23884164
+      frac: 0.55635601
   - - - '30'
       - Phil Schroder
     - rank: '21'
-      frac: 0.22936138
+      frac: 0.50786885
   - - - '7'
       - Tony Giammichele
     - rank: '22'
-      frac: 0.22158848
+      frac: 0.43439863
   - - - '49'
       - Jonas Lobitz
     - rank: '23'
-      frac: 0.21532998
+      frac: 0.43199483
   - - - '60'
       - Davis Straub
     - rank: '24'
-      frac: 0.21039293
+      frac: 0.40652194
   - - - '8'
       - Federico Martini
     - rank: '25'
-      frac: 0.20658436
+      frac: 0.32772104
   - - - '2'
       - Andrew Barnes
     - rank: '26'
-      frac: 0.20371132
+      frac: 0.3058675
   - - - '31'
       - Dean Hervatin
     - rank: '27'
-      frac: 0.20158086
+      frac: 0
 - []
 - - - - '42'
       - Trent Brown
@@ -427,77 +427,77 @@ arrivalRank:
   - - - '70'
       - Carl Wallbank
     - rank: '2'
-      frac: 0.89519338
+      frac: 0.99577698
   - - - '34'
       - Glen Mcfarlane
     - rank: '3'
-      frac: 0.800057
+      frac: 0.993849
   - - - '62'
       - Christian Voiblet
     - rank: '4'
-      frac: 0.71411612
+      frac: 0.98941243
   - - - '49'
       - Jonas Lobitz
     - rank: '5'
-      frac: 0.636896
+      frac: 0.98822343
   - - - '28'
       - Guy Hubbard
     - rank: '6'
-      frac: 0.56792188
+      frac: 0.98312856
   - - - '45'
       - Geoff Robertson
     - rank: '7'
-      frac: 0.506719
+      frac: 0.96278886
   - - - '33'
       - Filippo Oppici
     - rank: '8'
-      frac: 0.45281262
+      frac: 0.93150528
   - - - '39'
       - Jonny Durand
     - rank: '9'
-      frac: 0.405728
+      frac: 0.843206
   - - - '46'
       - Yasuhiro Noma
     - rank: '10'
-      frac: 0.36499038
+      frac: 0.83573019
   - - - '3'
       - Paris Williams
     - rank: '11'
-      frac: 0.330125
+      frac: 0.74386805
   - - - '1'
       - Michael Bilyk
     - rank: '12'
-      frac: 0.30065712
+      frac: 0.58649804
   - - - '50'
       - Conrad Loten
     - rank: '13'
-      frac: 0.276112
+      frac: 0.58588494
   - - - '21'
       - Neil Petersen
     - rank: '14'
-      frac: 0.25601488
+      frac: 0.47355221
   - - - '43'
       - Rod Flockhart
     - rank: '15'
-      frac: 0.239891
+      frac: 0.45248505
   - - - '60'
       - Davis Straub
     - rank: '16'
-      frac: 0.22726562
+      frac: 0.4179423
   - - - '40'
       - Lukas Bader
     - rank: '17'
-      frac: 0.217664
+      frac: 0.28591788
   - - - '29'
       - Adam Stevens
     - rank: '18'
-      frac: 0.21061138
+      frac: 0.27212902
   - - - '20'
       - Nils Vesk
     - rank: '19'
-      frac: 0.205633
+      frac: 0.19618972
   - - - '8'
       - Federico Martini
     - rank: '20'
-      frac: 0.20225412
+      frac: 6.047097e-2
 - []
