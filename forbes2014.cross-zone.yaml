@@ -17,66 +17,8 @@ suspectDnf:
     - Peter Lamont
 - - - '59'
     - Hanspeter Schütz
-- - - '29'
-    - Adam Stevens
-  - - '23'
-    - Anton Struganov
-  - - '41'
-    - Attila Bertok
-  - - '70'
-    - Carl Wallbank
-  - - '62'
-    - Christian Voiblet
-  - - '50'
-    - Conrad Loten
-  - - '60'
-    - Davis Straub
-  - - '31'
-    - Dean Hervatin
-  - - '33'
-    - Filippo Oppici
-  - - '51'
-    - Gavin Myers
-  - - '45'
-    - Geoff Robertson
-  - - '34'
-    - Glen Mcfarlane
-  - - '28'
-    - Guy Hubbard
-  - - '59'
+- - - '59'
     - Hanspeter Schütz
-  - - '49'
-    - Jonas Lobitz
-  - - '39'
-    - Jonny Durand
-  - - '55'
-    - Len Paton
-  - - '40'
-    - Lukas Bader
-  - - '1'
-    - Michael Bilyk
-  - - '21'
-    - Neil Petersen
-  - - '20'
-    - Nils Vesk
-  - - '52'
-    - Olav Olsen
-  - - '3'
-    - Paris Williams
-  - - '44'
-    - Patrick Collin
-  - - '30'
-    - Phil Schroder
-  - - '43'
-    - Rod Flockhart
-  - - '24'
-    - Steve Blenkinsop
-  - - '7'
-    - Tony Giammichele
-  - - '42'
-    - Trent Brown
-  - - '46'
-    - Yasuhiro Noma
 flying:
 - - - - '22'
       - Adam Jones
@@ -4584,7 +4526,20 @@ flying:
     - null
   - - - '29'
       - Adam Stevens
-    - null
+    - loggedFixes: 1336
+      flyingFixes:
+      - 26
+      - 1328
+      loggedSeconds: 6698
+      flyingSeconds:
+      - 131
+      - 6663
+      loggedTimes:
+      - 2014-01-04T01:49:38Z
+      - 2014-01-04T03:41:16Z
+      flyingTimes:
+      - 2014-01-04T01:51:49Z
+      - 2014-01-04T03:40:41Z
   - - - '6'
       - Akiko Suzuki
     - null
@@ -4596,28 +4551,119 @@ flying:
     - null
   - - - '23'
       - Anton Struganov
-    - null
+    - loggedFixes: 3243
+      flyingFixes:
+      - 19
+      - 3242
+      loggedSeconds: 16290
+      flyingSeconds:
+      - 95
+      - 16290
+      loggedTimes:
+      - 2014-01-04T01:46:17Z
+      - 2014-01-04T06:17:47Z
+      flyingTimes:
+      - 2014-01-04T01:47:52Z
+      - 2014-01-04T06:17:47Z
   - - - '41'
       - Attila Bertok
-    - null
+    - loggedFixes: 5332
+      flyingFixes:
+      - 287
+      - 5293
+      loggedSeconds: 16047
+      flyingSeconds:
+      - 861
+      - 15933
+      loggedTimes:
+      - 2014-01-04T01:52:03Z
+      - 2014-01-04T06:19:30Z
+      flyingTimes:
+      - 2014-01-04T02:06:24Z
+      - 2014-01-04T06:17:36Z
   - - - '4'
       - Cameron Tunbridge
     - null
   - - - '70'
       - Carl Wallbank
-    - null
+    - loggedFixes: 5878
+      flyingFixes:
+      - 10
+      - 5824
+      loggedSeconds: 17273
+      flyingSeconds:
+      - 300
+      - 17220
+      loggedTimes:
+      - 2014-01-04T01:28:05Z
+      - 2014-01-04T06:15:58Z
+      flyingTimes:
+      - 2014-01-04T01:33:05Z
+      - 2014-01-04T06:15:05Z
   - - - '62'
       - Christian Voiblet
-    - null
+    - loggedFixes: 5632
+      flyingFixes:
+      - 10
+      - 5529
+      loggedSeconds: 16850
+      flyingSeconds:
+      - 301
+      - 16748
+      loggedTimes:
+      - 2014-01-04T01:36:39Z
+      - 2014-01-04T06:17:29Z
+      flyingTimes:
+      - 2014-01-04T01:41:40Z
+      - 2014-01-04T06:15:47Z
   - - - '50'
       - Conrad Loten
-    - null
+    - loggedFixes: 1256
+      flyingFixes:
+      - 2
+      - 1255
+      loggedSeconds: 12595
+      flyingSeconds:
+      - 20
+      - 12595
+      loggedTimes:
+      - 2014-01-04T01:46:39Z
+      - 2014-01-04T05:16:34Z
+      flyingTimes:
+      - 2014-01-04T01:46:59Z
+      - 2014-01-04T05:16:34Z
   - - - '60'
       - Davis Straub
-    - null
+    - loggedFixes: 3601
+      flyingFixes:
+      - 10
+      - 3600
+      loggedSeconds: 18523
+      flyingSeconds:
+      - 301
+      - 18523
+      loggedTimes:
+      - 2014-01-04T01:37:21Z
+      - 2014-01-04T06:46:04Z
+      flyingTimes:
+      - 2014-01-04T01:42:22Z
+      - 2014-01-04T06:46:04Z
   - - - '31'
       - Dean Hervatin
-    - null
+    - loggedFixes: 197
+      flyingFixes:
+      - 27
+      - 196
+      loggedSeconds: 1951
+      flyingSeconds:
+      - 271
+      - 1951
+      loggedTimes:
+      - 2014-01-04T03:10:17Z
+      - 2014-01-04T03:42:48Z
+      flyingTimes:
+      - 2014-01-04T03:14:48Z
+      - 2014-01-04T03:42:48Z
   - - - '36'
       - Enda Murphy
     - null
@@ -4626,19 +4672,84 @@ flying:
     - null
   - - - '33'
       - Filippo Oppici
-    - null
+    - loggedFixes: 1829
+      flyingFixes:
+      - 28
+      - 1828
+      loggedSeconds: 16413
+      flyingSeconds:
+      - 280
+      - 16413
+      loggedTimes:
+      - 2014-01-04T01:44:25Z
+      - 2014-01-04T06:17:58Z
+      flyingTimes:
+      - 2014-01-04T01:49:05Z
+      - 2014-01-04T06:17:58Z
   - - - '51'
       - Gavin Myers
-    - null
+    - loggedFixes: 2969
+      flyingFixes:
+      - 26
+      - 2896
+      loggedSeconds: 13901
+      flyingSeconds:
+      - 130
+      - 13829
+      loggedTimes:
+      - 2014-01-04T02:51:07Z
+      - 2014-01-04T06:42:48Z
+      flyingTimes:
+      - 2014-01-04T02:53:17Z
+      - 2014-01-04T06:41:36Z
   - - - '45'
       - Geoff Robertson
-    - null
+    - loggedFixes: 2115
+      flyingFixes:
+      - 6
+      - 2047
+      loggedSeconds: 16927
+      flyingSeconds:
+      - 180
+      - 16858
+      loggedTimes:
+      - 2014-01-04T01:42:34Z
+      - 2014-01-04T06:24:41Z
+      flyingTimes:
+      - 2014-01-04T01:45:34Z
+      - 2014-01-04T06:23:32Z
   - - - '34'
       - Glen Mcfarlane
-    - null
+    - loggedFixes: 8005
+      flyingFixes:
+      - 0
+      - 8000
+      loggedSeconds: 15968
+      flyingSeconds:
+      - 0
+      - 15964
+      loggedTimes:
+      - 2014-01-04T01:55:43Z
+      - 2014-01-04T06:21:51Z
+      flyingTimes:
+      - 2014-01-04T01:55:43Z
+      - 2014-01-04T06:21:47Z
   - - - '28'
       - Guy Hubbard
-    - null
+    - loggedFixes: 1766
+      flyingFixes:
+      - 47
+      - 1682
+      loggedSeconds: 7058
+      flyingSeconds:
+      - 188
+      - 6728
+      loggedTimes:
+      - 2014-01-04T01:52:34Z
+      - 2014-01-04T03:50:12Z
+      flyingTimes:
+      - 2014-01-04T01:55:42Z
+      - 2014-01-04T03:44:42Z
   - - - '64'
       - Hadewych van Kempen
     - null
@@ -4653,19 +4764,71 @@ flying:
     - null
   - - - '49'
       - Jonas Lobitz
-    - null
+    - loggedFixes: 3278
+      flyingFixes:
+      - 28
+      - 3276
+      loggedSeconds: 16401
+      flyingSeconds:
+      - 140
+      - 16396
+      loggedTimes:
+      - 2014-01-04T01:59:31Z
+      - 2014-01-04T06:32:52Z
+      flyingTimes:
+      - 2014-01-04T02:01:51Z
+      - 2014-01-04T06:32:47Z
   - - - '39'
       - Jonny Durand
-    - null
+    - loggedFixes: 1578
+      flyingFixes:
+      - 24
+      - 1446
+      loggedSeconds: 13679
+      flyingSeconds:
+      - 240
+      - 13548
+      loggedTimes:
+      - 2014-01-04T02:23:13Z
+      - 2014-01-04T06:11:12Z
+      flyingTimes:
+      - 2014-01-04T02:27:13Z
+      - 2014-01-04T06:09:01Z
   - - - '53'
       - Kathryn O'Riordan
     - null
   - - - '55'
       - Len Paton
-    - null
+    - loggedFixes: 1480
+      flyingFixes:
+      - 5
+      - 1479
+      loggedSeconds: 13053
+      flyingSeconds:
+      - 51
+      - 13053
+      loggedTimes:
+      - 2014-01-04T02:57:02Z
+      - 2014-01-04T06:34:35Z
+      flyingTimes:
+      - 2014-01-04T02:57:53Z
+      - 2014-01-04T06:34:35Z
   - - - '40'
       - Lukas Bader
-    - null
+    - loggedFixes: 8726
+      flyingFixes:
+      - 0
+      - 8383
+      loggedSeconds: 17450
+      flyingSeconds:
+      - 0
+      - 16766
+      loggedTimes:
+      - 2014-01-04T01:56:35Z
+      - 2014-01-04T06:47:25Z
+      flyingTimes:
+      - 2014-01-04T01:56:35Z
+      - 2014-01-04T06:36:01Z
   - - - '58'
       - Mark Russell
     - null
@@ -4674,7 +4837,20 @@ flying:
     - null
   - - - '1'
       - Michael Bilyk
-    - null
+    - loggedFixes: 7245
+      flyingFixes:
+      - 0
+      - 7244
+      loggedSeconds: 19005
+      flyingSeconds:
+      - 0
+      - 19005
+      loggedTimes:
+      - 2014-01-04T01:34:04Z
+      - 2014-01-04T06:50:49Z
+      flyingTimes:
+      - 2014-01-04T01:34:04Z
+      - 2014-01-04T06:50:49Z
   - - - '16'
       - Michael Tomlinson
     - null
@@ -4683,31 +4859,122 @@ flying:
     - null
   - - - '21'
       - Neil Petersen
-    - null
+    - loggedFixes: 701
+      flyingFixes:
+      - 27
+      - 700
+      loggedSeconds: 3506
+      flyingSeconds:
+      - 135
+      - 3506
+      loggedTimes:
+      - 2014-01-04T02:11:18Z
+      - 2014-01-04T03:09:44Z
+      flyingTimes:
+      - 2014-01-04T02:13:33Z
+      - 2014-01-04T03:09:44Z
   - - - '20'
       - Nils Vesk
-    - null
+    - loggedFixes: 1356
+      flyingFixes:
+      - 29
+      - 1355
+      loggedSeconds: 13551
+      flyingSeconds:
+      - 291
+      - 13551
+      loggedTimes:
+      - 2014-01-04T01:38:28Z
+      - 2014-01-04T05:24:19Z
+      flyingTimes:
+      - 2014-01-04T01:43:19Z
+      - 2014-01-04T05:24:19Z
   - - - '52'
       - Olav Olsen
-    - null
+    - loggedFixes: 1541
+      flyingFixes:
+      - 0
+      - 1540
+      loggedSeconds: 4634
+      flyingSeconds:
+      - 0
+      - 4634
+      loggedTimes:
+      - 2014-01-04T03:01:32Z
+      - 2014-01-04T04:18:46Z
+      flyingTimes:
+      - 2014-01-04T03:01:32Z
+      - 2014-01-04T04:18:46Z
   - - - '3'
       - Paris Williams
-    - null
+    - loggedFixes: 6165
+      flyingFixes:
+      - 376
+      - 5654
+      loggedSeconds: 18544
+      flyingSeconds:
+      - 1146
+      - 17275
+      loggedTimes:
+      - 2014-01-04T01:45:58Z
+      - 2014-01-04T06:55:02Z
+      flyingTimes:
+      - 2014-01-04T02:05:04Z
+      - 2014-01-04T06:33:53Z
   - - - '44'
       - Patrick Collin
-    - null
+    - loggedFixes: 1622
+      flyingFixes:
+      - 0
+      - 1621
+      loggedSeconds: 8361
+      flyingSeconds:
+      - 0
+      - 8361
+      loggedTimes:
+      - 2014-01-04T02:31:19Z
+      - 2014-01-04T04:50:40Z
+      flyingTimes:
+      - 2014-01-04T02:31:19Z
+      - 2014-01-04T04:50:40Z
   - - - '17'
       - Peter Lamont
     - null
   - - - '30'
       - Phil Schroder
-    - null
+    - loggedFixes: 2700
+      flyingFixes:
+      - 207
+      - 2461
+      loggedSeconds: 13492
+      flyingSeconds:
+      - 1035
+      - 12305
+      loggedTimes:
+      - 2014-01-04T01:53:51Z
+      - 2014-01-04T05:38:43Z
+      flyingTimes:
+      - 2014-01-04T02:11:06Z
+      - 2014-01-04T05:18:56Z
   - - - '69'
       - Phil Seeley
     - null
   - - - '43'
       - Rod Flockhart
-    - null
+    - loggedFixes: 1538
+      flyingFixes:
+      - 3
+      - 1450
+      loggedSeconds: 7681
+      flyingSeconds:
+      - 15
+      - 7250
+      loggedTimes:
+      - 2014-01-04T03:05:48Z
+      - 2014-01-04T05:13:49Z
+      flyingTimes:
+      - 2014-01-04T03:06:03Z
+      - 2014-01-04T05:06:38Z
   - - - '18'
       - Rohan Taylor
     - null
@@ -4716,16 +4983,68 @@ flying:
     - null
   - - - '24'
       - Steve Blenkinsop
-    - null
+    - loggedFixes: 4230
+      flyingFixes:
+      - 9
+      - 4229
+      loggedSeconds: 13200
+      flyingSeconds:
+      - 277
+      - 13200
+      loggedTimes:
+      - 2014-01-04T01:45:24Z
+      - 2014-01-04T05:25:24Z
+      flyingTimes:
+      - 2014-01-04T01:50:01Z
+      - 2014-01-04T05:25:24Z
   - - - '7'
       - Tony Giammichele
-    - null
+    - loggedFixes: 3742
+      flyingFixes:
+      - 24
+      - 3741
+      loggedSeconds: 11295
+      flyingSeconds:
+      - 72
+      - 11295
+      loggedTimes:
+      - 2014-01-04T03:14:55Z
+      - 2014-01-04T06:23:10Z
+      flyingTimes:
+      - 2014-01-04T03:16:07Z
+      - 2014-01-04T06:23:10Z
   - - - '42'
       - Trent Brown
-    - null
+    - loggedFixes: 3813
+      flyingFixes:
+      - 27
+      - 3740
+      loggedSeconds: 18363
+      flyingSeconds:
+      - 136
+      - 18290
+      loggedTimes:
+      - 2014-01-04T01:55:22Z
+      - 2014-01-04T07:01:25Z
+      flyingTimes:
+      - 2014-01-04T01:57:38Z
+      - 2014-01-04T07:00:12Z
   - - - '46'
       - Yasuhiro Noma
-    - null
+    - loggedFixes: 4822
+      flyingFixes:
+      - 551
+      - 4821
+      loggedSeconds: 14462
+      flyingSeconds:
+      - 1653
+      - 14462
+      loggedTimes:
+      - 2014-01-04T02:35:45Z
+      - 2014-01-04T06:36:47Z
+      flyingTimes:
+      - 2014-01-04T03:03:18Z
+      - 2014-01-04T06:36:47Z
 crossing:
 - - - - '22'
       - Adam Jones
@@ -63048,7 +63367,221 @@ crossing:
     - null
   - - - '29'
       - Adam Stevens
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 30
+          time: 2014-01-04T01:52:09Z
+          lat: -33.357067
+          lng: 147.931933
+          alt: 275
+        - fix: 31
+          time: 2014-01-04T01:52:14Z
+          lat: -33.357333
+          lng: 147.931533
+          alt: 283
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 981
+          time: 2014-01-04T03:11:40Z
+          lat: -33.290733
+          lng: 147.99985
+          alt: 1492
+        - fix: 982
+          time: 2014-01-04T03:11:45Z
+          lat: -33.289783
+          lng: 148.000517
+          alt: 1491
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 30
+            time: 2014-01-04T01:52:09Z
+            lat: -33.357067
+            lng: 147.931933
+            alt: 275
+          - fix: 31
+            time: 2014-01-04T01:52:14Z
+            lat: -33.357333
+            lng: 147.931533
+            alt: 283
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 35
+            time: 2014-01-04T01:52:34Z
+            lat: -33.358267
+            lng: 147.92945
+            alt: 323
+          - fix: 36
+            time: 2014-01-04T01:52:39Z
+            lat: -33.3582
+            lng: 147.928833
+            alt: 328
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 75
+            time: 2014-01-04T01:55:55Z
+            lat: -33.365133
+            lng: 147.932283
+            alt: 785
+          - fix: 76
+            time: 2014-01-04T01:56:00Z
+            lat: -33.36415
+            lng: 147.932217
+            alt: 817
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 89
+            time: 2014-01-04T01:57:05Z
+            lat: -33.36205
+            lng: 147.935633
+            alt: 1029
+          - fix: 90
+            time: 2014-01-04T01:57:10Z
+            lat: -33.3615
+            lng: 147.936383
+            alt: 1045
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 90
+            time: 2014-01-04T01:57:10Z
+            lat: -33.3615
+            lng: 147.936383
+            alt: 1045
+          - fix: 91
+            time: 2014-01-04T01:57:15Z
+            lat: -33.360933
+            lng: 147.936233
+            alt: 1062
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 92
+            time: 2014-01-04T01:57:20Z
+            lat: -33.3612
+            lng: 147.93625
+            alt: 1071
+          - fix: 93
+            time: 2014-01-04T01:57:25Z
+            lat: -33.361183
+            lng: 147.937133
+            alt: 1088
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 322
+            time: 2014-01-04T02:16:36Z
+            lat: -33.3584
+            lng: 147.935317
+            alt: 1004
+          - fix: 323
+            time: 2014-01-04T02:16:41Z
+            lat: -33.35855
+            lng: 147.934867
+            alt: 1013
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 326
+            time: 2014-01-04T02:16:56Z
+            lat: -33.359183
+            lng: 147.935433
+            alt: 1031
+          - fix: 327
+            time: 2014-01-04T02:17:01Z
+            lat: -33.35855
+            lng: 147.935667
+            alt: 1045
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 327
+            time: 2014-01-04T02:17:01Z
+            lat: -33.35855
+            lng: 147.935667
+            alt: 1045
+          - fix: 328
+            time: 2014-01-04T02:17:06Z
+            lat: -33.358617
+            lng: 147.935317
+            alt: 1057
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 328
+            time: 2014-01-04T02:17:06Z
+            lat: -33.358617
+            lng: 147.935317
+            alt: 1057
+          - fix: 329
+            time: 2014-01-04T02:17:11Z
+            lat: -33.35905
+            lng: 147.9358
+            alt: 1065
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 445
+            time: 2014-01-04T02:26:54Z
+            lat: -33.361617
+            lng: 147.936267
+            alt: 1401
+          - fix: 446
+            time: 2014-01-04T02:26:59Z
+            lat: -33.362
+            lng: 147.935867
+            alt: 1392
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 453
+            time: 2014-01-04T02:27:34Z
+            lat: -33.364183
+            lng: 147.9326
+            alt: 1351
+          - fix: 454
+            time: 2014-01-04T02:27:39Z
+            lat: -33.36465
+            lng: 147.932283
+            alt: 1346
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 981
+            time: 2014-01-04T03:11:40Z
+            lat: -33.290733
+            lng: 147.99985
+            alt: 1492
+          - fix: 982
+            time: 2014-01-04T03:11:45Z
+            lat: -33.289783
+            lng: 148.000517
+            alt: 1491
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '6'
       - Akiko Suzuki
     - null
@@ -63060,28 +63593,1896 @@ crossing:
     - null
   - - - '23'
       - Anton Struganov
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 117
+          time: 2014-01-04T01:56:06Z
+          lat: -33.364967
+          lng: 147.93275
+          alt: 810
+        - fix: 118
+          time: 2014-01-04T01:56:11Z
+          lat: -33.3642
+          lng: 147.932483
+          alt: 807
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 895
+          time: 2014-01-04T03:01:10Z
+          lat: -33.2845
+          lng: 147.9888
+          alt: 1790
+        - fix: 896
+          time: 2014-01-04T03:01:15Z
+          lat: -33.283617
+          lng: 147.989117
+          alt: 1783
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 3205
+          time: 2014-01-04T06:14:49Z
+          lat: -32.015433
+          lng: 149.415567
+          alt: 571
+        - fix: 3206
+          time: 2014-01-04T06:14:50Z
+          lat: -32.01525
+          lng: 149.415767
+          alt: 569
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 117
+            time: 2014-01-04T01:56:06Z
+            lat: -33.364967
+            lng: 147.93275
+            alt: 810
+          - fix: 118
+            time: 2014-01-04T01:56:11Z
+            lat: -33.3642
+            lng: 147.932483
+            alt: 807
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 132
+            time: 2014-01-04T01:57:21Z
+            lat: -33.360867
+            lng: 147.936283
+            alt: 922
+          - fix: 133
+            time: 2014-01-04T01:57:26Z
+            lat: -33.360317
+            lng: 147.937033
+            alt: 936
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 201
+            time: 2014-01-04T02:03:08Z
+            lat: -33.3597
+            lng: 147.936217
+            alt: 1099
+          - fix: 202
+            time: 2014-01-04T02:03:13Z
+            lat: -33.360017
+            lng: 147.935667
+            alt: 1090
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 214
+            time: 2014-01-04T02:04:13Z
+            lat: -33.361
+            lng: 147.927767
+            alt: 945
+          - fix: 215
+            time: 2014-01-04T02:04:18Z
+            lat: -33.3611
+            lng: 147.927167
+            alt: 935
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 234
+            time: 2014-01-04T02:05:54Z
+            lat: -33.359167
+            lng: 147.92765
+            alt: 944
+          - fix: 235
+            time: 2014-01-04T02:05:59Z
+            lat: -33.35875
+            lng: 147.928467
+            alt: 954
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 235
+            time: 2014-01-04T02:05:59Z
+            lat: -33.35875
+            lng: 147.928467
+            alt: 954
+          - fix: 236
+            time: 2014-01-04T02:06:04Z
+            lat: -33.358517
+            lng: 147.9283
+            alt: 963
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 236
+            time: 2014-01-04T02:06:04Z
+            lat: -33.358517
+            lng: 147.9283
+            alt: 963
+          - fix: 237
+            time: 2014-01-04T02:06:09Z
+            lat: -33.358717
+            lng: 147.92895
+            alt: 974
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 238
+            time: 2014-01-04T02:06:14Z
+            lat: -33.3581
+            lng: 147.929567
+            alt: 983
+          - fix: 239
+            time: 2014-01-04T02:06:19Z
+            lat: -33.357833
+            lng: 147.9293
+            alt: 992
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 239
+            time: 2014-01-04T02:06:19Z
+            lat: -33.357833
+            lng: 147.9293
+            alt: 992
+          - fix: 240
+            time: 2014-01-04T02:06:24Z
+            lat: -33.3581
+            lng: 147.929717
+            alt: 1001
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 241
+            time: 2014-01-04T02:06:29Z
+            lat: -33.357583
+            lng: 147.930583
+            alt: 1010
+          - fix: 242
+            time: 2014-01-04T02:06:34Z
+            lat: -33.357167
+            lng: 147.930433
+            alt: 1018
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 242
+            time: 2014-01-04T02:06:34Z
+            lat: -33.357167
+            lng: 147.930433
+            alt: 1018
+          - fix: 243
+            time: 2014-01-04T02:06:39Z
+            lat: -33.35745
+            lng: 147.9309
+            alt: 1028
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 243
+            time: 2014-01-04T02:06:39Z
+            lat: -33.35745
+            lng: 147.9309
+            alt: 1028
+          - fix: 244
+            time: 2014-01-04T02:06:44Z
+            lat: -33.357
+            lng: 147.93175
+            alt: 1037
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 881
+            time: 2014-01-04T03:00:09Z
+            lat: -33.285
+            lng: 147.990783
+            alt: 1814
+          - fix: 882
+            time: 2014-01-04T03:00:14Z
+            lat: -33.2848
+            lng: 147.9919
+            alt: 1815
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 891
+            time: 2014-01-04T03:00:59Z
+            lat: -33.284333
+            lng: 147.989817
+            alt: 1806
+          - fix: 892
+            time: 2014-01-04T03:01:04Z
+            lat: -33.284767
+            lng: 147.98935
+            alt: 1798
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 895
+            time: 2014-01-04T03:01:10Z
+            lat: -33.2845
+            lng: 147.9888
+            alt: 1790
+          - fix: 896
+            time: 2014-01-04T03:01:15Z
+            lat: -33.283617
+            lng: 147.989117
+            alt: 1783
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 3205
+            time: 2014-01-04T06:14:49Z
+            lat: -32.015433
+            lng: 149.415567
+            alt: 571
+          - fix: 3206
+            time: 2014-01-04T06:14:50Z
+            lat: -32.01525
+            lng: 149.415767
+            alt: 569
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3212
+            time: 2014-01-04T06:15:16Z
+            lat: -32.0117
+            lng: 149.421233
+            alt: 539
+          - fix: 3213
+            time: 2014-01-04T06:15:21Z
+            lat: -32.01105
+            lng: 149.422033
+            alt: 535
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3224
+            time: 2014-01-04T06:16:16Z
+            lat: -32.008917
+            lng: 149.420133
+            alt: 460
+          - fix: 3225
+            time: 2014-01-04T06:16:21Z
+            lat: -32.00915
+            lng: 149.41985
+            alt: 452
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '41'
       - Attila Bertok
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 302
+          time: 2014-01-04T02:07:09Z
+          lat: -33.357119
+          lng: 147.931944
+          alt: 323
+        - fix: 303
+          time: 2014-01-04T02:07:12Z
+          lat: -33.357319
+          lng: 147.931716
+          alt: 331
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1372
+          time: 2014-01-04T03:00:49Z
+          lat: -33.284615
+          lng: 147.989452
+          alt: 1680
+        - fix: 1373
+          time: 2014-01-04T03:00:52Z
+          lat: -33.284027
+          lng: 147.989849
+          alt: 1681
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 5227
+          time: 2014-01-04T06:14:18Z
+          lat: -32.015135
+          lng: 149.414834
+          alt: 555
+        - fix: 5228
+          time: 2014-01-04T06:14:21Z
+          lat: -32.014569
+          lng: 149.415388
+          alt: 559
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 302
+            time: 2014-01-04T02:07:09Z
+            lat: -33.357119
+            lng: 147.931944
+            alt: 323
+          - fix: 303
+            time: 2014-01-04T02:07:12Z
+            lat: -33.357319
+            lng: 147.931716
+            alt: 331
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 318
+            time: 2014-01-04T02:07:57Z
+            lat: -33.359616
+            lng: 147.928043
+            alt: 454
+          - fix: 319
+            time: 2014-01-04T02:08:00Z
+            lat: -33.359276
+            lng: 147.927725
+            alt: 453
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 516
+            time: 2014-01-04T02:17:53Z
+            lat: -33.3572
+            lng: 147.933721
+            alt: 716
+          - fix: 517
+            time: 2014-01-04T02:17:56Z
+            lat: -33.357496
+            lng: 147.933538
+            alt: 714
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 528
+            time: 2014-01-04T02:18:29Z
+            lat: -33.360268
+            lng: 147.935918
+            alt: 682
+          - fix: 529
+            time: 2014-01-04T02:18:32Z
+            lat: -33.359839
+            lng: 147.936377
+            alt: 689
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1359
+            time: 2014-01-04T03:00:10Z
+            lat: -33.284666
+            lng: 147.990077
+            alt: 1691
+          - fix: 1360
+            time: 2014-01-04T03:00:13Z
+            lat: -33.284155
+            lng: 147.990516
+            alt: 1700
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1365
+            time: 2014-01-04T03:00:28Z
+            lat: -33.284252
+            lng: 147.989618
+            alt: 1719
+          - fix: 1366
+            time: 2014-01-04T03:00:31Z
+            lat: -33.284491
+            lng: 147.989454
+            alt: 1720
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1372
+            time: 2014-01-04T03:00:49Z
+            lat: -33.284615
+            lng: 147.989452
+            alt: 1680
+          - fix: 1373
+            time: 2014-01-04T03:00:52Z
+            lat: -33.284027
+            lng: 147.989849
+            alt: 1681
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 5227
+            time: 2014-01-04T06:14:18Z
+            lat: -32.015135
+            lng: 149.414834
+            alt: 555
+          - fix: 5228
+            time: 2014-01-04T06:14:21Z
+            lat: -32.014569
+            lng: 149.415388
+            alt: 559
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '4'
       - Cameron Tunbridge
     - null
   - - - '70'
       - Carl Wallbank
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 28
+          time: 2014-01-04T01:33:59Z
+          lat: -33.360333
+          lng: 147.927833
+          alt: 474
+        - fix: 29
+          time: 2014-01-04T01:34:02Z
+          lat: -33.3604
+          lng: 147.92755
+          alt: 481
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1767
+          time: 2014-01-04T03:01:03Z
+          lat: -33.2853
+          lng: 147.9914
+          alt: 1154
+        - fix: 1768
+          time: 2014-01-04T03:01:06Z
+          lat: -33.285333
+          lng: 147.991667
+          alt: 1165
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 5548
+          time: 2014-01-04T06:10:28Z
+          lat: -32.0158
+          lng: 149.418783
+          alt: 804
+        - fix: 5549
+          time: 2014-01-04T06:10:30Z
+          lat: -32.015383
+          lng: 149.419267
+          alt: 797
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 28
+            time: 2014-01-04T01:33:59Z
+            lat: -33.360333
+            lng: 147.927833
+            alt: 474
+          - fix: 29
+            time: 2014-01-04T01:34:02Z
+            lat: -33.3604
+            lng: 147.92755
+            alt: 481
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 256
+            time: 2014-01-04T01:45:25Z
+            lat: -33.364383
+            lng: 147.9313
+            alt: 955
+          - fix: 257
+            time: 2014-01-04T01:45:28Z
+            lat: -33.363933
+            lng: 147.931433
+            alt: 960
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 279
+            time: 2014-01-04T01:46:34Z
+            lat: -33.36265
+            lng: 147.935467
+            alt: 1091
+          - fix: 280
+            time: 2014-01-04T01:46:37Z
+            lat: -33.3623
+            lng: 147.935983
+            alt: 1098
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 281
+            time: 2014-01-04T01:46:40Z
+            lat: -33.361833
+            lng: 147.9362
+            alt: 1104
+          - fix: 282
+            time: 2014-01-04T01:46:43Z
+            lat: -33.361517
+            lng: 147.936033
+            alt: 1107
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 284
+            time: 2014-01-04T01:46:49Z
+            lat: -33.36165
+            lng: 147.935867
+            alt: 1103
+          - fix: 285
+            time: 2014-01-04T01:46:52Z
+            lat: -33.361833
+            lng: 147.936267
+            alt: 1106
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 620
+            time: 2014-01-04T02:03:39Z
+            lat: -33.358617
+            lng: 147.935483
+            alt: 1406
+          - fix: 621
+            time: 2014-01-04T02:03:42Z
+            lat: -33.358717
+            lng: 147.935167
+            alt: 1399
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 644
+            time: 2014-01-04T02:04:51Z
+            lat: -33.36065
+            lng: 147.927767
+            alt: 1258
+          - fix: 645
+            time: 2014-01-04T02:04:54Z
+            lat: -33.360617
+            lng: 147.927417
+            alt: 1257
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 665
+            time: 2014-01-04T02:05:54Z
+            lat: -33.358617
+            lng: 147.928417
+            alt: 1339
+          - fix: 666
+            time: 2014-01-04T02:05:57Z
+            lat: -33.358467
+            lng: 147.92905
+            alt: 1346
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 667
+            time: 2014-01-04T02:06:00Z
+            lat: -33.358067
+            lng: 147.929467
+            alt: 1351
+          - fix: 668
+            time: 2014-01-04T02:06:03Z
+            lat: -33.357617
+            lng: 147.92955
+            alt: 1357
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1743
+            time: 2014-01-04T02:59:56Z
+            lat: -33.285467
+            lng: 147.991667
+            alt: 1046
+          - fix: 1744
+            time: 2014-01-04T02:59:59Z
+            lat: -33.285167
+            lng: 147.992233
+            alt: 1047
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1754
+            time: 2014-01-04T03:00:29Z
+            lat: -33.285433
+            lng: 147.991733
+            alt: 1061
+          - fix: 1755
+            time: 2014-01-04T03:00:32Z
+            lat: -33.285483
+            lng: 147.99165
+            alt: 1065
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1765
+            time: 2014-01-04T03:00:57Z
+            lat: -33.285667
+            lng: 147.991983
+            alt: 1141
+          - fix: 1766
+            time: 2014-01-04T03:01:00Z
+            lat: -33.285267
+            lng: 147.991667
+            alt: 1140
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1766
+            time: 2014-01-04T03:01:00Z
+            lat: -33.285267
+            lng: 147.991667
+            alt: 1140
+          - fix: 1767
+            time: 2014-01-04T03:01:03Z
+            lat: -33.2853
+            lng: 147.9914
+            alt: 1154
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1767
+            time: 2014-01-04T03:01:03Z
+            lat: -33.2853
+            lng: 147.9914
+            alt: 1154
+          - fix: 1768
+            time: 2014-01-04T03:01:06Z
+            lat: -33.285333
+            lng: 147.991667
+            alt: 1165
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 5548
+            time: 2014-01-04T06:10:28Z
+            lat: -32.0158
+            lng: 149.418783
+            alt: 804
+          - fix: 5549
+            time: 2014-01-04T06:10:30Z
+            lat: -32.015383
+            lng: 149.419267
+            alt: 797
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 5599
+            time: 2014-01-04T06:11:20Z
+            lat: -32.008817
+            lng: 149.4194
+            alt: 699
+          - fix: 5600
+            time: 2014-01-04T06:11:21Z
+            lat: -32.008733
+            lng: 149.419333
+            alt: 698
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 5608
+            time: 2014-01-04T06:11:29Z
+            lat: -32.008617
+            lng: 149.419
+            alt: 679
+          - fix: 5609
+            time: 2014-01-04T06:11:30Z
+            lat: -32.008667
+            lng: 149.419017
+            alt: 676
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 5620
+            time: 2014-01-04T06:11:41Z
+            lat: -32.009317
+            lng: 149.420367
+            alt: 648
+          - fix: 5621
+            time: 2014-01-04T06:11:42Z
+            lat: -32.009367
+            lng: 149.420533
+            alt: 646
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 5640
+            time: 2014-01-04T06:12:01Z
+            lat: -32.010433
+            lng: 149.42145
+            alt: 608
+          - fix: 5641
+            time: 2014-01-04T06:12:02Z
+            lat: -32.01045
+            lng: 149.4214
+            alt: 606
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 5693
+            time: 2014-01-04T06:12:54Z
+            lat: -32.009217
+            lng: 149.4201
+            alt: 509
+          - fix: 5694
+            time: 2014-01-04T06:12:55Z
+            lat: -32.009067
+            lng: 149.420133
+            alt: 507
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 5738
+            time: 2014-01-04T06:13:39Z
+            lat: -32.008817
+            lng: 149.419567
+            alt: 441
+          - fix: 5739
+            time: 2014-01-04T06:13:40Z
+            lat: -32.008883
+            lng: 149.4196
+            alt: 438
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '62'
       - Christian Voiblet
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 25
+          time: 2014-01-04T01:42:25Z
+          lat: -33.361
+          lng: 147.927717
+          alt: 400
+        - fix: 26
+          time: 2014-01-04T01:42:28Z
+          lat: -33.361233
+          lng: 147.927483
+          alt: 408
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1597
+          time: 2014-01-04T03:01:14Z
+          lat: -33.283533
+          lng: 147.9867
+          alt: 1650
+        - fix: 1598
+          time: 2014-01-04T03:01:17Z
+          lat: -33.282917
+          lng: 147.986967
+          alt: 1641
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 5460
+          time: 2014-01-04T06:14:38Z
+          lat: -32.0151
+          lng: 149.4152
+          alt: 482
+        - fix: 5461
+          time: 2014-01-04T06:14:39Z
+          lat: -32.0149
+          lng: 149.4154
+          alt: 481
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 25
+            time: 2014-01-04T01:42:25Z
+            lat: -33.361
+            lng: 147.927717
+            alt: 400
+          - fix: 26
+            time: 2014-01-04T01:42:28Z
+            lat: -33.361233
+            lng: 147.927483
+            alt: 408
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 89
+            time: 2014-01-04T01:45:38Z
+            lat: -33.364583
+            lng: 147.932
+            alt: 750
+          - fix: 90
+            time: 2014-01-04T01:45:41Z
+            lat: -33.364283
+            lng: 147.931867
+            alt: 756
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 90
+            time: 2014-01-04T01:45:41Z
+            lat: -33.364283
+            lng: 147.931867
+            alt: 756
+          - fix: 91
+            time: 2014-01-04T01:45:44Z
+            lat: -33.364517
+            lng: 147.93185
+            alt: 757
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 93
+            time: 2014-01-04T01:45:50Z
+            lat: -33.364417
+            lng: 147.933
+            alt: 769
+          - fix: 94
+            time: 2014-01-04T01:45:53Z
+            lat: -33.363917
+            lng: 147.933117
+            alt: 775
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 96
+            time: 2014-01-04T01:45:59Z
+            lat: -33.364167
+            lng: 147.93305
+            alt: 785
+          - fix: 97
+            time: 2014-01-04T01:46:02Z
+            lat: -33.36415
+            lng: 147.933767
+            alt: 788
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 97
+            time: 2014-01-04T01:46:02Z
+            lat: -33.36415
+            lng: 147.933767
+            alt: 788
+          - fix: 98
+            time: 2014-01-04T01:46:05Z
+            lat: -33.36365
+            lng: 147.934183
+            alt: 794
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 101
+            time: 2014-01-04T01:46:14Z
+            lat: -33.363567
+            lng: 147.9343
+            alt: 814
+          - fix: 102
+            time: 2014-01-04T01:46:17Z
+            lat: -33.36345
+            lng: 147.935033
+            alt: 818
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 102
+            time: 2014-01-04T01:46:17Z
+            lat: -33.36345
+            lng: 147.935033
+            alt: 818
+          - fix: 103
+            time: 2014-01-04T01:46:20Z
+            lat: -33.362967
+            lng: 147.935433
+            alt: 828
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 106
+            time: 2014-01-04T01:46:29Z
+            lat: -33.36275
+            lng: 147.935133
+            alt: 842
+          - fix: 107
+            time: 2014-01-04T01:46:32Z
+            lat: -33.3627
+            lng: 147.935783
+            alt: 845
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 107
+            time: 2014-01-04T01:46:32Z
+            lat: -33.3627
+            lng: 147.935783
+            alt: 845
+          - fix: 108
+            time: 2014-01-04T01:46:35Z
+            lat: -33.362167
+            lng: 147.936
+            alt: 847
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 110
+            time: 2014-01-04T01:46:41Z
+            lat: -33.361967
+            lng: 147.935733
+            alt: 861
+          - fix: 111
+            time: 2014-01-04T01:46:44Z
+            lat: -33.3621
+            lng: 147.936333
+            alt: 865
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 294
+            time: 2014-01-04T01:55:55Z
+            lat: -33.359117
+            lng: 147.93605
+            alt: 1164
+          - fix: 295
+            time: 2014-01-04T01:55:58Z
+            lat: -33.35935
+            lng: 147.935833
+            alt: 1167
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 307
+            time: 2014-01-04T01:56:34Z
+            lat: -33.361267
+            lng: 147.935817
+            alt: 1184
+          - fix: 308
+            time: 2014-01-04T01:56:37Z
+            lat: -33.360767
+            lng: 147.93635
+            alt: 1182
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 309
+            time: 2014-01-04T01:56:40Z
+            lat: -33.36025
+            lng: 147.936333
+            alt: 1174
+          - fix: 310
+            time: 2014-01-04T01:56:43Z
+            lat: -33.360117
+            lng: 147.936
+            alt: 1167
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 317
+            time: 2014-01-04T01:57:04Z
+            lat: -33.360883
+            lng: 147.936233
+            alt: 1189
+          - fix: 318
+            time: 2014-01-04T01:57:07Z
+            lat: -33.360317
+            lng: 147.93665
+            alt: 1195
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 320
+            time: 2014-01-04T01:57:13Z
+            lat: -33.35955
+            lng: 147.9362
+            alt: 1202
+          - fix: 321
+            time: 2014-01-04T01:57:16Z
+            lat: -33.35965
+            lng: 147.93595
+            alt: 1208
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 322
+            time: 2014-01-04T01:57:19Z
+            lat: -33.35995
+            lng: 147.936067
+            alt: 1210
+          - fix: 323
+            time: 2014-01-04T01:57:22Z
+            lat: -33.360283
+            lng: 147.9366
+            alt: 1214
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 447
+            time: 2014-01-04T02:03:35Z
+            lat: -33.358183
+            lng: 147.93525
+            alt: 1210
+          - fix: 448
+            time: 2014-01-04T02:03:38Z
+            lat: -33.35835
+            lng: 147.934933
+            alt: 1207
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 466
+            time: 2014-01-04T02:04:33Z
+            lat: -33.3607
+            lng: 147.928033
+            alt: 1073
+          - fix: 467
+            time: 2014-01-04T02:04:36Z
+            lat: -33.360867
+            lng: 147.927633
+            alt: 1064
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 486
+            time: 2014-01-04T02:05:33Z
+            lat: -33.359467
+            lng: 147.927767
+            alt: 1111
+          - fix: 487
+            time: 2014-01-04T02:05:36Z
+            lat: -33.358983
+            lng: 147.928267
+            alt: 1118
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 487
+            time: 2014-01-04T02:05:36Z
+            lat: -33.358983
+            lng: 147.928267
+            alt: 1118
+          - fix: 488
+            time: 2014-01-04T02:05:39Z
+            lat: -33.358533
+            lng: 147.9282
+            alt: 1128
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 490
+            time: 2014-01-04T02:05:45Z
+            lat: -33.358783
+            lng: 147.928217
+            alt: 1135
+          - fix: 491
+            time: 2014-01-04T02:05:48Z
+            lat: -33.3587
+            lng: 147.928933
+            alt: 1137
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 492
+            time: 2014-01-04T02:05:51Z
+            lat: -33.358167
+            lng: 147.929317
+            alt: 1145
+          - fix: 493
+            time: 2014-01-04T02:05:54Z
+            lat: -33.3578
+            lng: 147.929183
+            alt: 1155
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 494
+            time: 2014-01-04T02:05:57Z
+            lat: -33.357833
+            lng: 147.928983
+            alt: 1160
+          - fix: 495
+            time: 2014-01-04T02:06:00Z
+            lat: -33.358133
+            lng: 147.92925
+            alt: 1165
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 497
+            time: 2014-01-04T02:06:06Z
+            lat: -33.35755
+            lng: 147.930417
+            alt: 1175
+          - fix: 498
+            time: 2014-01-04T02:06:09Z
+            lat: -33.357133
+            lng: 147.93035
+            alt: 1186
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 499
+            time: 2014-01-04T02:06:12Z
+            lat: -33.35715
+            lng: 147.930133
+            alt: 1190
+          - fix: 500
+            time: 2014-01-04T02:06:15Z
+            lat: -33.357467
+            lng: 147.930383
+            alt: 1194
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 501
+            time: 2014-01-04T02:06:18Z
+            lat: -33.357417
+            lng: 147.9311
+            alt: 1197
+          - fix: 502
+            time: 2014-01-04T02:06:21Z
+            lat: -33.356917
+            lng: 147.9316
+            alt: 1205
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 677
+            time: 2014-01-04T02:15:08Z
+            lat: -33.3587
+            lng: 147.93555
+            alt: 1418
+          - fix: 678
+            time: 2014-01-04T02:15:11Z
+            lat: -33.358967
+            lng: 147.9354
+            alt: 1411
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 696
+            time: 2014-01-04T02:16:05Z
+            lat: -33.3641
+            lng: 147.933117
+            alt: 1262
+          - fix: 697
+            time: 2014-01-04T02:16:08Z
+            lat: -33.3644
+            lng: 147.933
+            alt: 1255
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 713
+            time: 2014-01-04T02:16:56Z
+            lat: -33.364433
+            lng: 147.929733
+            alt: 1206
+          - fix: 714
+            time: 2014-01-04T02:16:59Z
+            lat: -33.363817
+            lng: 147.9299
+            alt: 1210
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 735
+            time: 2014-01-04T02:18:03Z
+            lat: -33.357433
+            lng: 147.93185
+            alt: 1286
+          - fix: 736
+            time: 2014-01-04T02:18:06Z
+            lat: -33.357
+            lng: 147.931683
+            alt: 1288
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1575
+            time: 2014-01-04T03:00:08Z
+            lat: -33.284733
+            lng: 147.990233
+            alt: 1636
+          - fix: 1576
+            time: 2014-01-04T03:00:11Z
+            lat: -33.284067
+            lng: 147.9905
+            alt: 1646
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1592
+            time: 2014-01-04T03:00:59Z
+            lat: -33.283417
+            lng: 147.988517
+            alt: 1668
+          - fix: 1593
+            time: 2014-01-04T03:01:02Z
+            lat: -33.283533
+            lng: 147.988083
+            alt: 1659
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1597
+            time: 2014-01-04T03:01:14Z
+            lat: -33.283533
+            lng: 147.9867
+            alt: 1650
+          - fix: 1598
+            time: 2014-01-04T03:01:17Z
+            lat: -33.282917
+            lng: 147.986967
+            alt: 1641
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 5460
+            time: 2014-01-04T06:14:38Z
+            lat: -32.0151
+            lng: 149.4152
+            alt: 482
+          - fix: 5461
+            time: 2014-01-04T06:14:39Z
+            lat: -32.0149
+            lng: 149.4154
+            alt: 481
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 5492
+            time: 2014-01-04T06:15:10Z
+            lat: -32.011217
+            lng: 149.421667
+            alt: 449
+          - fix: 5493
+            time: 2014-01-04T06:15:11Z
+            lat: -32.0111
+            lng: 149.421833
+            alt: 448
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 5513
+            time: 2014-01-04T06:15:31Z
+            lat: -32.009317
+            lng: 149.420383
+            alt: 393
+          - fix: 5514
+            time: 2014-01-04T06:15:32Z
+            lat: -32.009367
+            lng: 149.42025
+            alt: 391
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '50'
       - Conrad Loten
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 27
+          time: 2014-01-04T01:51:10Z
+          lat: -33.357283
+          lng: 147.9332
+          alt: 248
+        - fix: 28
+          time: 2014-01-04T01:51:20Z
+          lat: -33.3579
+          lng: 147.9326
+          alt: 262
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 621
+          time: 2014-01-04T03:30:29Z
+          lat: -33.304333
+          lng: 148.014383
+          alt: 1319
+        - fix: 622
+          time: 2014-01-04T03:30:39Z
+          lat: -33.302517
+          lng: 148.015433
+          alt: 1308
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 27
+            time: 2014-01-04T01:51:10Z
+            lat: -33.357283
+            lng: 147.9332
+            alt: 248
+          - fix: 28
+            time: 2014-01-04T01:51:20Z
+            lat: -33.3579
+            lng: 147.9326
+            alt: 262
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 34
+            time: 2014-01-04T01:52:20Z
+            lat: -33.36275
+            lng: 147.928933
+            alt: 422
+          - fix: 35
+            time: 2014-01-04T01:52:30Z
+            lat: -33.363667
+            lng: 147.928267
+            alt: 454
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 63
+            time: 2014-01-04T01:57:12Z
+            lat: -33.36295
+            lng: 147.93575
+            alt: 580
+          - fix: 64
+            time: 2014-01-04T01:57:22Z
+            lat: -33.360983
+            lng: 147.9363
+            alt: 562
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 65
+            time: 2014-01-04T01:57:32Z
+            lat: -33.360233
+            lng: 147.936083
+            alt: 551
+          - fix: 66
+            time: 2014-01-04T01:57:42Z
+            lat: -33.3601
+            lng: 147.937433
+            alt: 548
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 178
+            time: 2014-01-04T02:16:28Z
+            lat: -33.356017
+            lng: 147.931717
+            alt: 924
+          - fix: 179
+            time: 2014-01-04T02:16:38Z
+            lat: -33.357317
+            lng: 147.931933
+            alt: 909
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 184
+            time: 2014-01-04T02:17:28Z
+            lat: -33.358017
+            lng: 147.934683
+            alt: 953
+          - fix: 185
+            time: 2014-01-04T02:17:38Z
+            lat: -33.357867
+            lng: 147.935317
+            alt: 978
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 621
+            time: 2014-01-04T03:30:29Z
+            lat: -33.304333
+            lng: 148.014383
+            alt: 1319
+          - fix: 622
+            time: 2014-01-04T03:30:39Z
+            lat: -33.302517
+            lng: 148.015433
+            alt: 1308
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '60'
       - Davis Straub
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 21
+          time: 2014-01-04T01:43:17Z
+          lat: -33.362967
+          lng: 147.929083
+          alt: 414
+        - fix: 22
+          time: 2014-01-04T01:43:22Z
+          lat: -33.363417
+          lng: 147.9288
+          alt: 425
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1257
+          time: 2014-01-04T03:30:23Z
+          lat: -33.302733
+          lng: 148.013483
+          alt: 1317
+        - fix: 1258
+          time: 2014-01-04T03:30:28Z
+          lat: -33.301717
+          lng: 148.014183
+          alt: 1305
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 21
+            time: 2014-01-04T01:43:17Z
+            lat: -33.362967
+            lng: 147.929083
+            alt: 414
+          - fix: 22
+            time: 2014-01-04T01:43:22Z
+            lat: -33.363417
+            lng: 147.9288
+            alt: 425
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 264
+            time: 2014-01-04T02:03:36Z
+            lat: -33.358167
+            lng: 147.935133
+            alt: 1091
+          - fix: 265
+            time: 2014-01-04T02:03:41Z
+            lat: -33.358383
+            lng: 147.9349
+            alt: 1079
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 281
+            time: 2014-01-04T02:05:02Z
+            lat: -33.359933
+            lng: 147.928083
+            alt: 899
+          - fix: 282
+            time: 2014-01-04T02:05:07Z
+            lat: -33.36
+            lng: 147.927617
+            alt: 894
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 292
+            time: 2014-01-04T02:05:57Z
+            lat: -33.3595
+            lng: 147.927817
+            alt: 968
+          - fix: 293
+            time: 2014-01-04T02:06:02Z
+            lat: -33.3591
+            lng: 147.928933
+            alt: 977
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 294
+            time: 2014-01-04T02:06:07Z
+            lat: -33.35835
+            lng: 147.929117
+            alt: 981
+          - fix: 295
+            time: 2014-01-04T02:06:12Z
+            lat: -33.358117
+            lng: 147.928733
+            alt: 996
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 295
+            time: 2014-01-04T02:06:12Z
+            lat: -33.358117
+            lng: 147.928733
+            alt: 996
+          - fix: 296
+            time: 2014-01-04T02:06:17Z
+            lat: -33.358433
+            lng: 147.9288
+            alt: 1003
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 301
+            time: 2014-01-04T02:06:42Z
+            lat: -33.35735
+            lng: 147.9315
+            alt: 1045
+          - fix: 302
+            time: 2014-01-04T02:06:47Z
+            lat: -33.35685
+            lng: 147.93125
+            alt: 1058
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 302
+            time: 2014-01-04T02:06:47Z
+            lat: -33.35685
+            lng: 147.93125
+            alt: 1058
+          - fix: 303
+            time: 2014-01-04T02:06:52Z
+            lat: -33.357233
+            lng: 147.931533
+            alt: 1060
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 303
+            time: 2014-01-04T02:06:52Z
+            lat: -33.357233
+            lng: 147.931533
+            alt: 1060
+          - fix: 304
+            time: 2014-01-04T02:06:57Z
+            lat: -33.356933
+            lng: 147.932483
+            alt: 1062
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 409
+            time: 2014-01-04T02:15:44Z
+            lat: -33.3578
+            lng: 147.934667
+            alt: 1007
+          - fix: 410
+            time: 2014-01-04T02:15:49Z
+            lat: -33.358367
+            lng: 147.9348
+            alt: 1008
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 431
+            time: 2014-01-04T02:17:34Z
+            lat: -33.358617
+            lng: 147.934517
+            alt: 987
+          - fix: 432
+            time: 2014-01-04T02:17:39Z
+            lat: -33.358433
+            lng: 147.935567
+            alt: 994
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 551
+            time: 2014-01-04T02:27:36Z
+            lat: -33.357417
+            lng: 147.933883
+            alt: 1193
+          - fix: 552
+            time: 2014-01-04T02:27:41Z
+            lat: -33.357533
+            lng: 147.933333
+            alt: 1181
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 566
+            time: 2014-01-04T02:28:51Z
+            lat: -33.360967
+            lng: 147.92775
+            alt: 998
+          - fix: 567
+            time: 2014-01-04T02:28:56Z
+            lat: -33.361317
+            lng: 147.927483
+            alt: 991
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 588
+            time: 2014-01-04T02:30:42Z
+            lat: -33.363983
+            lng: 147.928467
+            alt: 689
+          - fix: 589
+            time: 2014-01-04T02:30:47Z
+            lat: -33.3637
+            lng: 147.9296
+            alt: 678
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 595
+            time: 2014-01-04T02:31:17Z
+            lat: -33.361333
+            lng: 147.936
+            alt: 604
+          - fix: 596
+            time: 2014-01-04T02:31:22Z
+            lat: -33.3606
+            lng: 147.9368
+            alt: 594
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 666
+            time: 2014-01-04T02:39:50Z
+            lat: -33.356483
+            lng: 147.93445
+            alt: 232
+          - fix: 667
+            time: 2014-01-04T02:40:20Z
+            lat: -33.3575
+            lng: 147.933333
+            alt: 256
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 681
+            time: 2014-01-04T02:41:30Z
+            lat: -33.36105
+            lng: 147.927917
+            alt: 445
+          - fix: 682
+            time: 2014-01-04T02:41:35Z
+            lat: -33.361217
+            lng: 147.927517
+            alt: 465
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 781
+            time: 2014-01-04T02:50:22Z
+            lat: -33.356767
+            lng: 147.9344
+            alt: 236
+          - fix: 782
+            time: 2014-01-04T02:50:53Z
+            lat: -33.358583
+            lng: 147.930733
+            alt: 315
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 787
+            time: 2014-01-04T02:51:18Z
+            lat: -33.35985
+            lng: 147.92835
+            alt: 377
+          - fix: 788
+            time: 2014-01-04T02:51:23Z
+            lat: -33.359683
+            lng: 147.92775
+            alt: 385
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1257
+            time: 2014-01-04T03:30:23Z
+            lat: -33.302733
+            lng: 148.013483
+            alt: 1317
+          - fix: 1258
+            time: 2014-01-04T03:30:28Z
+            lat: -33.301717
+            lng: 148.014183
+            alt: 1305
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '31'
       - Dean Hervatin
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 31
+          time: 2014-01-04T03:15:16Z
+          lat: -33.357
+          lng: 147.9317
+          alt: 272
+        - fix: 32
+          time: 2014-01-04T03:15:26Z
+          lat: -33.357583
+          lng: 147.93085
+          alt: 290
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 124
+          time: 2014-01-04T03:30:47Z
+          lat: -33.29105
+          lng: 148.000217
+          alt: 917
+        - fix: 125
+          time: 2014-01-04T03:30:57Z
+          lat: -33.289083
+          lng: 148.001517
+          alt: 885
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 31
+            time: 2014-01-04T03:15:16Z
+            lat: -33.357
+            lng: 147.9317
+            alt: 272
+          - fix: 32
+            time: 2014-01-04T03:15:26Z
+            lat: -33.357583
+            lng: 147.93085
+            alt: 290
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 34
+            time: 2014-01-04T03:15:46Z
+            lat: -33.358533
+            lng: 147.9289
+            alt: 333
+          - fix: 35
+            time: 2014-01-04T03:15:56Z
+            lat: -33.358967
+            lng: 147.927933
+            alt: 359
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 124
+            time: 2014-01-04T03:30:47Z
+            lat: -33.29105
+            lng: 148.000217
+            alt: 917
+          - fix: 125
+            time: 2014-01-04T03:30:57Z
+            lat: -33.289083
+            lng: 148.001517
+            alt: 885
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '36'
       - Enda Murphy
     - null
@@ -63090,19 +65491,1249 @@ crossing:
     - null
   - - - '33'
       - Filippo Oppici
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 31
+          time: 2014-01-04T01:49:17Z
+          lat: -33.357017
+          lng: 147.933267
+          alt: 261
+        - fix: 32
+          time: 2014-01-04T01:49:27Z
+          lat: -33.35765
+          lng: 147.9325
+          alt: 284
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 457
+          time: 2014-01-04T03:00:19Z
+          lat: -33.28465
+          lng: 147.988917
+          alt: 1624
+        - fix: 458
+          time: 2014-01-04T03:00:29Z
+          lat: -33.283883
+          lng: 147.9908
+          alt: 1636
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1621
+          time: 2014-01-04T06:14:23Z
+          lat: -32.016967
+          lng: 149.413333
+          alt: 527
+        - fix: 1622
+          time: 2014-01-04T06:14:33Z
+          lat: -32.014817
+          lng: 149.415117
+          alt: 515
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 31
+            time: 2014-01-04T01:49:17Z
+            lat: -33.357017
+            lng: 147.933267
+            alt: 261
+          - fix: 32
+            time: 2014-01-04T01:49:27Z
+            lat: -33.35765
+            lng: 147.9325
+            alt: 284
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 38
+            time: 2014-01-04T01:50:27Z
+            lat: -33.3628
+            lng: 147.9295
+            alt: 506
+          - fix: 39
+            time: 2014-01-04T01:50:37Z
+            lat: -33.363917
+            lng: 147.929
+            alt: 539
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 47
+            time: 2014-01-04T01:51:57Z
+            lat: -33.3636
+            lng: 147.934933
+            alt: 820
+          - fix: 48
+            time: 2014-01-04T01:52:07Z
+            lat: -33.36345
+            lng: 147.93355
+            alt: 862
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 49
+            time: 2014-01-04T01:52:17Z
+            lat: -33.364067
+            lng: 147.933117
+            alt: 867
+          - fix: 50
+            time: 2014-01-04T01:52:27Z
+            lat: -33.364967
+            lng: 147.933767
+            alt: 859
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 66
+            time: 2014-01-04T01:55:07Z
+            lat: -33.358983
+            lng: 147.936467
+            alt: 957
+          - fix: 67
+            time: 2014-01-04T01:55:17Z
+            lat: -33.359433
+            lng: 147.93575
+            alt: 947
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 78
+            time: 2014-01-04T01:57:08Z
+            lat: -33.360617
+            lng: 147.9348
+            alt: 1077
+          - fix: 79
+            time: 2014-01-04T01:57:18Z
+            lat: -33.360883
+            lng: 147.936467
+            alt: 1100
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 115
+            time: 2014-01-04T02:03:18Z
+            lat: -33.357267
+            lng: 147.93405
+            alt: 1168
+          - fix: 116
+            time: 2014-01-04T02:03:28Z
+            lat: -33.3574
+            lng: 147.932983
+            alt: 1142
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 119
+            time: 2014-01-04T02:03:58Z
+            lat: -33.35815
+            lng: 147.929467
+            alt: 1072
+          - fix: 120
+            time: 2014-01-04T02:04:08Z
+            lat: -33.3586
+            lng: 147.928417
+            alt: 1048
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 129
+            time: 2014-01-04T02:05:38Z
+            lat: -33.358817
+            lng: 147.92705
+            alt: 1084
+          - fix: 130
+            time: 2014-01-04T02:05:48Z
+            lat: -33.358483
+            lng: 147.9288
+            alt: 1099
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 130
+            time: 2014-01-04T02:05:48Z
+            lat: -33.358483
+            lng: 147.9288
+            alt: 1099
+          - fix: 131
+            time: 2014-01-04T02:05:58Z
+            lat: -33.357933
+            lng: 147.9287
+            alt: 1125
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 186
+            time: 2014-01-04T02:15:08Z
+            lat: -33.357217
+            lng: 147.9345
+            alt: 1414
+          - fix: 187
+            time: 2014-01-04T02:15:18Z
+            lat: -33.3582
+            lng: 147.93465
+            alt: 1384
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 203
+            time: 2014-01-04T02:17:58Z
+            lat: -33.361633
+            lng: 147.936017
+            alt: 1391
+          - fix: 204
+            time: 2014-01-04T02:18:08Z
+            lat: -33.360717
+            lng: 147.9368
+            alt: 1423
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 258
+            time: 2014-01-04T02:27:08Z
+            lat: -33.36005
+            lng: 147.936467
+            alt: 1479
+          - fix: 259
+            time: 2014-01-04T02:27:18Z
+            lat: -33.360533
+            lng: 147.935583
+            alt: 1461
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 265
+            time: 2014-01-04T02:28:18Z
+            lat: -33.363867
+            lng: 147.930267
+            alt: 1380
+          - fix: 266
+            time: 2014-01-04T02:28:28Z
+            lat: -33.364267
+            lng: 147.929333
+            alt: 1364
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 457
+            time: 2014-01-04T03:00:19Z
+            lat: -33.28465
+            lng: 147.988917
+            alt: 1624
+          - fix: 458
+            time: 2014-01-04T03:00:29Z
+            lat: -33.283883
+            lng: 147.9908
+            alt: 1636
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1621
+            time: 2014-01-04T06:14:23Z
+            lat: -32.016967
+            lng: 149.413333
+            alt: 527
+          - fix: 1622
+            time: 2014-01-04T06:14:33Z
+            lat: -32.014817
+            lng: 149.415117
+            alt: 515
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1659
+            time: 2014-01-04T06:15:09Z
+            lat: -32.009783
+            lng: 149.420867
+            alt: 480
+          - fix: 1660
+            time: 2014-01-04T06:15:10Z
+            lat: -32.009633
+            lng: 149.420867
+            alt: 476
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1667
+            time: 2014-01-04T06:15:17Z
+            lat: -32.009167
+            lng: 149.4202
+            alt: 447
+          - fix: 1668
+            time: 2014-01-04T06:15:18Z
+            lat: -32.00915
+            lng: 149.420067
+            alt: 446
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1685
+            time: 2014-01-04T06:15:35Z
+            lat: -32.010383
+            lng: 149.4212
+            alt: 439
+          - fix: 1686
+            time: 2014-01-04T06:15:36Z
+            lat: -32.010217
+            lng: 149.4213
+            alt: 434
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1690
+            time: 2014-01-04T06:15:40Z
+            lat: -32.009783
+            lng: 149.420933
+            alt: 425
+          - fix: 1691
+            time: 2014-01-04T06:15:41Z
+            lat: -32.009767
+            lng: 149.4208
+            alt: 424
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '51'
       - Gavin Myers
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 27
+          time: 2014-01-04T02:53:22Z
+          lat: -33.35675
+          lng: 147.932533
+          alt: 236
+        - fix: 28
+          time: 2014-01-04T02:53:27Z
+          lat: -33.3572
+          lng: 147.932
+          alt: 253
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 471
+          time: 2014-01-04T03:30:19Z
+          lat: -33.3045
+          lng: 148.016267
+          alt: 1056
+        - fix: 472
+          time: 2014-01-04T03:30:24Z
+          lat: -33.303667
+          lng: 148.0172
+          alt: 1043
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 2729
+          time: 2014-01-04T06:38:48Z
+          lat: -32.015617
+          lng: 149.414533
+          alt: 584
+        - fix: 2730
+          time: 2014-01-04T06:38:51Z
+          lat: -32.015033
+          lng: 149.415267
+          alt: 572
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 27
+            time: 2014-01-04T02:53:22Z
+            lat: -33.35675
+            lng: 147.932533
+            alt: 236
+          - fix: 28
+            time: 2014-01-04T02:53:27Z
+            lat: -33.3572
+            lng: 147.932
+            alt: 253
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 37
+            time: 2014-01-04T02:54:12Z
+            lat: -33.360667
+            lng: 147.927917
+            alt: 414
+          - fix: 38
+            time: 2014-01-04T02:54:17Z
+            lat: -33.361133
+            lng: 147.927583
+            alt: 422
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 471
+            time: 2014-01-04T03:30:19Z
+            lat: -33.3045
+            lng: 148.016267
+            alt: 1056
+          - fix: 472
+            time: 2014-01-04T03:30:24Z
+            lat: -33.303667
+            lng: 148.0172
+            alt: 1043
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2729
+            time: 2014-01-04T06:38:48Z
+            lat: -32.015617
+            lng: 149.414533
+            alt: 584
+          - fix: 2730
+            time: 2014-01-04T06:38:51Z
+            lat: -32.015033
+            lng: 149.415267
+            alt: 572
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2789
+            time: 2014-01-04T06:39:50Z
+            lat: -32.009867
+            lng: 149.42095
+            alt: 497
+          - fix: 2790
+            time: 2014-01-04T06:39:51Z
+            lat: -32.009733
+            lng: 149.421133
+            alt: 495
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2825
+            time: 2014-01-04T06:40:26Z
+            lat: -32.009283
+            lng: 149.4204
+            alt: 405
+          - fix: 2826
+            time: 2014-01-04T06:40:27Z
+            lat: -32.009317
+            lng: 149.420333
+            alt: 402
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '45'
       - Geoff Robertson
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 6
+          time: 2014-01-04T01:45:34Z
+          lat: -33.356767
+          lng: 147.933467
+          alt: 243
+        - fix: 7
+          time: 2014-01-04T01:46:04Z
+          lat: -33.358083
+          lng: 147.9298
+          alt: 330
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 464
+          time: 2014-01-04T03:02:12Z
+          lat: -33.285433
+          lng: 147.9884
+          alt: 1367
+        - fix: 465
+          time: 2014-01-04T03:02:22Z
+          lat: -33.284633
+          lng: 147.990667
+          alt: 1370
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1613
+          time: 2014-01-04T06:16:04Z
+          lat: -32.015617
+          lng: 149.4162
+          alt: 726
+        - fix: 1614
+          time: 2014-01-04T06:16:05Z
+          lat: -32.015383
+          lng: 149.416333
+          alt: 724
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 6
+            time: 2014-01-04T01:45:34Z
+            lat: -33.356767
+            lng: 147.933467
+            alt: 243
+          - fix: 7
+            time: 2014-01-04T01:46:04Z
+            lat: -33.358083
+            lng: 147.9298
+            alt: 330
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 7
+            time: 2014-01-04T01:46:04Z
+            lat: -33.358083
+            lng: 147.9298
+            alt: 330
+          - fix: 8
+            time: 2014-01-04T01:46:14Z
+            lat: -33.35825
+            lng: 147.928733
+            alt: 366
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 25
+            time: 2014-01-04T01:49:04Z
+            lat: -33.3635
+            lng: 147.935283
+            alt: 737
+          - fix: 26
+            time: 2014-01-04T01:49:14Z
+            lat: -33.361283
+            lng: 147.936267
+            alt: 756
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 26
+            time: 2014-01-04T01:49:14Z
+            lat: -33.361283
+            lng: 147.936267
+            alt: 756
+          - fix: 27
+            time: 2014-01-04T01:49:24Z
+            lat: -33.359133
+            lng: 147.936333
+            alt: 792
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 68
+            time: 2014-01-04T01:56:15Z
+            lat: -33.3587
+            lng: 147.9361
+            alt: 923
+          - fix: 69
+            time: 2014-01-04T01:56:25Z
+            lat: -33.3597
+            lng: 147.935617
+            alt: 916
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 74
+            time: 2014-01-04T01:57:15Z
+            lat: -33.361867
+            lng: 147.93595
+            alt: 1027
+          - fix: 75
+            time: 2014-01-04T01:57:25Z
+            lat: -33.360717
+            lng: 147.937083
+            alt: 1051
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 114
+            time: 2014-01-04T02:03:56Z
+            lat: -33.357267
+            lng: 147.93365
+            alt: 994
+          - fix: 115
+            time: 2014-01-04T02:04:06Z
+            lat: -33.35775
+            lng: 147.932517
+            alt: 962
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 119
+            time: 2014-01-04T02:04:46Z
+            lat: -33.359483
+            lng: 147.928017
+            alt: 880
+          - fix: 120
+            time: 2014-01-04T02:04:56Z
+            lat: -33.3601
+            lng: 147.926933
+            alt: 852
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 125
+            time: 2014-01-04T02:05:46Z
+            lat: -33.35925
+            lng: 147.926683
+            alt: 917
+          - fix: 126
+            time: 2014-01-04T02:05:56Z
+            lat: -33.359683
+            lng: 147.928233
+            alt: 937
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 126
+            time: 2014-01-04T02:05:56Z
+            lat: -33.359683
+            lng: 147.928233
+            alt: 937
+          - fix: 127
+            time: 2014-01-04T02:06:06Z
+            lat: -33.358233
+            lng: 147.92855
+            alt: 952
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 128
+            time: 2014-01-04T02:06:16Z
+            lat: -33.35865
+            lng: 147.9284
+            alt: 968
+          - fix: 129
+            time: 2014-01-04T02:06:26Z
+            lat: -33.359
+            lng: 147.930317
+            alt: 975
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 130
+            time: 2014-01-04T02:06:36Z
+            lat: -33.357283
+            lng: 147.931017
+            alt: 981
+          - fix: 131
+            time: 2014-01-04T02:06:46Z
+            lat: -33.356783
+            lng: 147.930317
+            alt: 997
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 131
+            time: 2014-01-04T02:06:46Z
+            lat: -33.356783
+            lng: 147.930317
+            alt: 997
+          - fix: 132
+            time: 2014-01-04T02:06:56Z
+            lat: -33.357483
+            lng: 147.93145
+            alt: 1007
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 132
+            time: 2014-01-04T02:06:56Z
+            lat: -33.357483
+            lng: 147.93145
+            alt: 1007
+          - fix: 133
+            time: 2014-01-04T02:07:06Z
+            lat: -33.356283
+            lng: 147.933267
+            alt: 1013
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 187
+            time: 2014-01-04T02:16:08Z
+            lat: -33.3574
+            lng: 147.934683
+            alt: 982
+          - fix: 188
+            time: 2014-01-04T02:16:18Z
+            lat: -33.3587
+            lng: 147.934467
+            alt: 968
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 194
+            time: 2014-01-04T02:17:18Z
+            lat: -33.358667
+            lng: 147.9354
+            alt: 1083
+          - fix: 195
+            time: 2014-01-04T02:17:28Z
+            lat: -33.3575
+            lng: 147.935333
+            alt: 1108
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 253
+            time: 2014-01-04T02:27:09Z
+            lat: -33.359683
+            lng: 147.936517
+            alt: 1408
+          - fix: 254
+            time: 2014-01-04T02:27:19Z
+            lat: -33.3598
+            lng: 147.935333
+            alt: 1392
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 260
+            time: 2014-01-04T02:28:19Z
+            lat: -33.362667
+            lng: 147.9293
+            alt: 1311
+          - fix: 261
+            time: 2014-01-04T02:28:29Z
+            lat: -33.363383
+            lng: 147.928467
+            alt: 1289
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 464
+            time: 2014-01-04T03:02:12Z
+            lat: -33.285433
+            lng: 147.9884
+            alt: 1367
+          - fix: 465
+            time: 2014-01-04T03:02:22Z
+            lat: -33.284633
+            lng: 147.990667
+            alt: 1370
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1613
+            time: 2014-01-04T06:16:04Z
+            lat: -32.015617
+            lng: 149.4162
+            alt: 726
+          - fix: 1614
+            time: 2014-01-04T06:16:05Z
+            lat: -32.015383
+            lng: 149.416333
+            alt: 724
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1646
+            time: 2014-01-04T06:16:38Z
+            lat: -32.01025
+            lng: 149.42125
+            alt: 719
+          - fix: 1647
+            time: 2014-01-04T06:16:39Z
+            lat: -32.0101
+            lng: 149.421333
+            alt: 723
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2012
+            time: 2014-01-04T06:22:56Z
+            lat: -32.00915
+            lng: 149.420133
+            alt: 406
+          - fix: 2013
+            time: 2014-01-04T06:22:57Z
+            lat: -32.009183
+            lng: 149.420067
+            alt: 403
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '34'
       - Glen Mcfarlane
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 13
+          time: 2014-01-04T02:00:49Z
+          lat: -33.357167
+          lng: 147.931483
+          alt: 282
+        - fix: 14
+          time: 2014-01-04T02:00:51Z
+          lat: -33.357267
+          lng: 147.9313
+          alt: 288
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1789
+          time: 2014-01-04T03:00:06Z
+          lat: -33.2854
+          lng: 147.99085
+          alt: 1808
+        - fix: 1790
+          time: 2014-01-04T03:00:08Z
+          lat: -33.285183
+          lng: 147.991317
+          alt: 1808
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 7676
+          time: 2014-01-04T06:16:22Z
+          lat: -32.016
+          lng: 149.4171
+          alt: 587
+        - fix: 7677
+          time: 2014-01-04T06:16:24Z
+          lat: -32.01545
+          lng: 149.417483
+          alt: 577
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 13
+            time: 2014-01-04T02:00:49Z
+            lat: -33.357167
+            lng: 147.931483
+            alt: 282
+          - fix: 14
+            time: 2014-01-04T02:00:51Z
+            lat: -33.357267
+            lng: 147.9313
+            alt: 288
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 37
+            time: 2014-01-04T02:01:37Z
+            lat: -33.36095
+            lng: 147.92775
+            alt: 408
+          - fix: 38
+            time: 2014-01-04T02:01:39Z
+            lat: -33.361217
+            lng: 147.9277
+            alt: 412
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1789
+            time: 2014-01-04T03:00:06Z
+            lat: -33.2854
+            lng: 147.99085
+            alt: 1808
+          - fix: 1790
+            time: 2014-01-04T03:00:08Z
+            lat: -33.285183
+            lng: 147.991317
+            alt: 1808
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 7676
+            time: 2014-01-04T06:16:22Z
+            lat: -32.016
+            lng: 149.4171
+            alt: 587
+          - fix: 7677
+            time: 2014-01-04T06:16:24Z
+            lat: -32.01545
+            lng: 149.417483
+            alt: 577
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 7702
+            time: 2014-01-04T06:16:48Z
+            lat: -32.009633
+            lng: 149.4206
+            alt: 512
+          - fix: 7703
+            time: 2014-01-04T06:16:49Z
+            lat: -32.009467
+            lng: 149.420583
+            alt: 513
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 7721
+            time: 2014-01-04T06:17:07Z
+            lat: -32.0085
+            lng: 149.4186
+            alt: 567
+          - fix: 7722
+            time: 2014-01-04T06:17:08Z
+            lat: -32.008567
+            lng: 149.418633
+            alt: 570
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 7726
+            time: 2014-01-04T06:17:12Z
+            lat: -32.00875
+            lng: 149.4192
+            alt: 586
+          - fix: 7727
+            time: 2014-01-04T06:17:13Z
+            lat: -32.008683
+            lng: 149.419383
+            alt: 590
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 7794
+            time: 2014-01-04T06:18:20Z
+            lat: -32.009867
+            lng: 149.421067
+            alt: 695
+          - fix: 7795
+            time: 2014-01-04T06:18:21Z
+            lat: -32.009917
+            lng: 149.421
+            alt: 691
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 7879
+            time: 2014-01-04T06:19:46Z
+            lat: -32.00855
+            lng: 149.418467
+            alt: 428
+          - fix: 7880
+            time: 2014-01-04T06:19:47Z
+            lat: -32.0084
+            lng: 149.418667
+            alt: 426
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 7892
+            time: 2014-01-04T06:19:59Z
+            lat: -32.00895
+            lng: 149.419933
+            alt: 392
+          - fix: 7893
+            time: 2014-01-04T06:20:00Z
+            lat: -32.00905
+            lng: 149.419867
+            alt: 389
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '28'
       - Guy Hubbard
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 54
+          time: 2014-01-04T01:56:10Z
+          lat: -33.357158
+          lng: 147.931478
+          alt: 210
+        - fix: 55
+          time: 2014-01-04T01:56:14Z
+          lat: -33.357293
+          lng: 147.931228
+          alt: 223
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1189
+          time: 2014-01-04T03:11:50Z
+          lat: -33.289801
+          lng: 147.998817
+          alt: 1350
+        - fix: 1190
+          time: 2014-01-04T03:11:54Z
+          lat: -33.289059
+          lng: 147.999208
+          alt: 1353
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 54
+            time: 2014-01-04T01:56:10Z
+            lat: -33.357158
+            lng: 147.931478
+            alt: 210
+          - fix: 55
+            time: 2014-01-04T01:56:14Z
+            lat: -33.357293
+            lng: 147.931228
+            alt: 223
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 75
+            time: 2014-01-04T01:57:34Z
+            lat: -33.360795
+            lng: 147.927775
+            alt: 473
+          - fix: 76
+            time: 2014-01-04T01:57:38Z
+            lat: -33.360774
+            lng: 147.927496
+            alt: 483
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 195
+            time: 2014-01-04T02:05:34Z
+            lat: -33.35941
+            lng: 147.927496
+            alt: 1112
+          - fix: 196
+            time: 2014-01-04T02:05:38Z
+            lat: -33.359164
+            lng: 147.928325
+            alt: 1118
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 196
+            time: 2014-01-04T02:05:38Z
+            lat: -33.359164
+            lng: 147.928325
+            alt: 1118
+          - fix: 197
+            time: 2014-01-04T02:05:42Z
+            lat: -33.358562
+            lng: 147.928577
+            alt: 1127
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 199
+            time: 2014-01-04T02:05:50Z
+            lat: -33.358575
+            lng: 147.928387
+            alt: 1136
+          - fix: 200
+            time: 2014-01-04T02:05:54Z
+            lat: -33.358707
+            lng: 147.929141
+            alt: 1142
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 202
+            time: 2014-01-04T02:06:02Z
+            lat: -33.35792
+            lng: 147.930483
+            alt: 1159
+          - fix: 203
+            time: 2014-01-04T02:06:06Z
+            lat: -33.357394
+            lng: 147.930393
+            alt: 1170
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 204
+            time: 2014-01-04T02:06:10Z
+            lat: -33.357258
+            lng: 147.930106
+            alt: 1176
+          - fix: 205
+            time: 2014-01-04T02:06:14Z
+            lat: -33.357644
+            lng: 147.930593
+            alt: 1179
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 206
+            time: 2014-01-04T02:06:18Z
+            lat: -33.357358
+            lng: 147.931386
+            alt: 1189
+          - fix: 207
+            time: 2014-01-04T02:06:22Z
+            lat: -33.356768
+            lng: 147.931453
+            alt: 1198
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 344
+            time: 2014-01-04T02:15:30Z
+            lat: -33.357332
+            lng: 147.933798
+            alt: 1270
+          - fix: 345
+            time: 2014-01-04T02:15:34Z
+            lat: -33.357651
+            lng: 147.933769
+            alt: 1251
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 360
+            time: 2014-01-04T02:16:34Z
+            lat: -33.360033
+            lng: 147.928319
+            alt: 1160
+          - fix: 361
+            time: 2014-01-04T02:16:38Z
+            lat: -33.359932
+            lng: 147.927771
+            alt: 1162
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 364
+            time: 2014-01-04T02:16:50Z
+            lat: -33.36071
+            lng: 147.927407
+            alt: 1180
+          - fix: 365
+            time: 2014-01-04T02:16:54Z
+            lat: -33.360863
+            lng: 147.928235
+            alt: 1185
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 387
+            time: 2014-01-04T02:18:22Z
+            lat: -33.359314
+            lng: 147.935897
+            alt: 1256
+          - fix: 388
+            time: 2014-01-04T02:18:26Z
+            lat: -33.359605
+            lng: 147.936918
+            alt: 1263
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 509
+            time: 2014-01-04T02:26:30Z
+            lat: -33.358972
+            lng: 147.935994
+            alt: 1315
+          - fix: 510
+            time: 2014-01-04T02:26:34Z
+            lat: -33.359118
+            lng: 147.93554
+            alt: 1306
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 526
+            time: 2014-01-04T02:27:38Z
+            lat: -33.361728
+            lng: 147.9281
+            alt: 1148
+          - fix: 527
+            time: 2014-01-04T02:27:42Z
+            lat: -33.361883
+            lng: 147.927611
+            alt: 1137
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1189
+            time: 2014-01-04T03:11:50Z
+            lat: -33.289801
+            lng: 147.998817
+            alt: 1350
+          - fix: 1190
+            time: 2014-01-04T03:11:54Z
+            lat: -33.289059
+            lng: 147.999208
+            alt: 1353
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '64'
       - Hadewych van Kempen
     - null
@@ -63117,19 +66748,645 @@ crossing:
     - null
   - - - '49'
       - Jonas Lobitz
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 30
+          time: 2014-01-04T02:02:01Z
+          lat: -33.357133
+          lng: 147.9334
+          alt: 249
+        - fix: 31
+          time: 2014-01-04T02:02:06Z
+          lat: -33.357433
+          lng: 147.932867
+          alt: 266
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1090
+          time: 2014-01-04T03:30:28Z
+          lat: -33.303467
+          lng: 148.0151
+          alt: 1345
+        - fix: 1091
+          time: 2014-01-04T03:30:33Z
+          lat: -33.302517
+          lng: 148.01575
+          alt: 1336
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 30
+            time: 2014-01-04T02:02:01Z
+            lat: -33.357133
+            lng: 147.9334
+            alt: 249
+          - fix: 31
+            time: 2014-01-04T02:02:06Z
+            lat: -33.357433
+            lng: 147.932867
+            alt: 266
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 40
+            time: 2014-01-04T02:02:51Z
+            lat: -33.360267
+            lng: 147.928017
+            alt: 408
+          - fix: 41
+            time: 2014-01-04T02:02:56Z
+            lat: -33.36045
+            lng: 147.927617
+            alt: 413
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 67
+            time: 2014-01-04T02:05:07Z
+            lat: -33.36325
+            lng: 147.928167
+            alt: 778
+          - fix: 68
+            time: 2014-01-04T02:05:12Z
+            lat: -33.362317
+            lng: 147.92835
+            alt: 800
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 70
+            time: 2014-01-04T02:05:22Z
+            lat: -33.360433
+            lng: 147.928133
+            alt: 836
+          - fix: 71
+            time: 2014-01-04T02:05:27Z
+            lat: -33.3595
+            lng: 147.927917
+            alt: 852
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 80
+            time: 2014-01-04T02:06:12Z
+            lat: -33.358767
+            lng: 147.928383
+            alt: 969
+          - fix: 81
+            time: 2014-01-04T02:06:17Z
+            lat: -33.359083
+            lng: 147.92915
+            alt: 971
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 83
+            time: 2014-01-04T02:06:27Z
+            lat: -33.35785
+            lng: 147.93065
+            alt: 979
+          - fix: 84
+            time: 2014-01-04T02:06:32Z
+            lat: -33.357283
+            lng: 147.930467
+            alt: 987
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 85
+            time: 2014-01-04T02:06:37Z
+            lat: -33.3572
+            lng: 147.9302
+            alt: 996
+          - fix: 86
+            time: 2014-01-04T02:06:42Z
+            lat: -33.3576
+            lng: 147.9304
+            alt: 1004
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 88
+            time: 2014-01-04T02:06:52Z
+            lat: -33.35755
+            lng: 147.93235
+            alt: 1008
+          - fix: 89
+            time: 2014-01-04T02:06:57Z
+            lat: -33.356733
+            lng: 147.93295
+            alt: 1012
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 355
+            time: 2014-01-04T02:29:11Z
+            lat: -33.361517
+            lng: 147.936467
+            alt: 1342
+          - fix: 356
+            time: 2014-01-04T02:29:17Z
+            lat: -33.3616
+            lng: 147.936
+            alt: 1335
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 367
+            time: 2014-01-04T02:30:12Z
+            lat: -33.364267
+            lng: 147.931083
+            alt: 1194
+          - fix: 368
+            time: 2014-01-04T02:30:17Z
+            lat: -33.364533
+            lng: 147.930683
+            alt: 1178
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1090
+            time: 2014-01-04T03:30:28Z
+            lat: -33.303467
+            lng: 148.0151
+            alt: 1345
+          - fix: 1091
+            time: 2014-01-04T03:30:33Z
+            lat: -33.302517
+            lng: 148.01575
+            alt: 1336
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '39'
       - Jonny Durand
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 31
+          time: 2014-01-04T02:28:23Z
+          lat: -33.357217
+          lng: 147.931083
+          alt: 299
+        - fix: 32
+          time: 2014-01-04T02:28:33Z
+          lat: -33.357717
+          lng: 147.930267
+          alt: 326
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 222
+          time: 2014-01-04T03:00:02Z
+          lat: -33.28495
+          lng: 147.989267
+          alt: 1647
+        - fix: 223
+          time: 2014-01-04T03:00:12Z
+          lat: -33.284067
+          lng: 147.990083
+          alt: 1673
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1344
+          time: 2014-01-04T06:07:18Z
+          lat: -32.0149
+          lng: 149.41425
+          alt: 549
+        - fix: 1345
+          time: 2014-01-04T06:07:20Z
+          lat: -32.014583
+          lng: 149.4148
+          alt: 543
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 31
+            time: 2014-01-04T02:28:23Z
+            lat: -33.357217
+            lng: 147.931083
+            alt: 299
+          - fix: 32
+            time: 2014-01-04T02:28:33Z
+            lat: -33.357717
+            lng: 147.930267
+            alt: 326
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 35
+            time: 2014-01-04T02:29:03Z
+            lat: -33.359433
+            lng: 147.928117
+            alt: 406
+          - fix: 36
+            time: 2014-01-04T02:29:13Z
+            lat: -33.3602
+            lng: 147.927583
+            alt: 428
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 222
+            time: 2014-01-04T03:00:02Z
+            lat: -33.28495
+            lng: 147.989267
+            alt: 1647
+          - fix: 223
+            time: 2014-01-04T03:00:12Z
+            lat: -33.284067
+            lng: 147.990083
+            alt: 1673
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1344
+            time: 2014-01-04T06:07:18Z
+            lat: -32.0149
+            lng: 149.41425
+            alt: 549
+          - fix: 1345
+            time: 2014-01-04T06:07:20Z
+            lat: -32.014583
+            lng: 149.4148
+            alt: 543
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1374
+            time: 2014-01-04T06:07:49Z
+            lat: -32.0098
+            lng: 149.420917
+            alt: 458
+          - fix: 1375
+            time: 2014-01-04T06:07:50Z
+            lat: -32.009583
+            lng: 149.420917
+            alt: 455
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1395
+            time: 2014-01-04T06:08:10Z
+            lat: -32.0092
+            lng: 149.420283
+            alt: 408
+          - fix: 1396
+            time: 2014-01-04T06:08:11Z
+            lat: -32.009267
+            lng: 149.420233
+            alt: 406
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '53'
       - Kathryn O'Riordan
     - null
   - - - '55'
       - Len Paton
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 6
+          time: 2014-01-04T02:58:03Z
+          lat: -33.357217
+          lng: 147.93295
+          alt: 265
+        - fix: 7
+          time: 2014-01-04T02:58:13Z
+          lat: -33.357567
+          lng: 147.931733
+          alt: 303
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 201
+          time: 2014-01-04T03:30:12Z
+          lat: -33.302233
+          lng: 148.011983
+          alt: 1225
+        - fix: 202
+          time: 2014-01-04T03:30:22Z
+          lat: -33.3002
+          lng: 148.0132
+          alt: 1193
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1287
+          time: 2014-01-04T06:31:22Z
+          lat: -32.013783
+          lng: 149.4136
+          alt: 516
+        - fix: 1288
+          time: 2014-01-04T06:31:23Z
+          lat: -32.0136
+          lng: 149.413867
+          alt: 513
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 6
+            time: 2014-01-04T02:58:03Z
+            lat: -33.357217
+            lng: 147.93295
+            alt: 265
+          - fix: 7
+            time: 2014-01-04T02:58:13Z
+            lat: -33.357567
+            lng: 147.931733
+            alt: 303
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 9
+            time: 2014-01-04T02:58:33Z
+            lat: -33.358017
+            lng: 147.929467
+            alt: 359
+          - fix: 10
+            time: 2014-01-04T02:58:43Z
+            lat: -33.358383
+            lng: 147.928367
+            alt: 381
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 201
+            time: 2014-01-04T03:30:12Z
+            lat: -33.302233
+            lng: 148.011983
+            alt: 1225
+          - fix: 202
+            time: 2014-01-04T03:30:22Z
+            lat: -33.3002
+            lng: 148.0132
+            alt: 1193
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1287
+            time: 2014-01-04T06:31:22Z
+            lat: -32.013783
+            lng: 149.4136
+            alt: 516
+          - fix: 1288
+            time: 2014-01-04T06:31:23Z
+            lat: -32.0136
+            lng: 149.413867
+            alt: 513
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1321
+            time: 2014-01-04T06:31:56Z
+            lat: -32.009433
+            lng: 149.420417
+            alt: 464
+          - fix: 1322
+            time: 2014-01-04T06:31:57Z
+            lat: -32.0093
+            lng: 149.420533
+            alt: 463
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1333
+            time: 2014-01-04T06:32:08Z
+            lat: -32.009333
+            lng: 149.420467
+            alt: 440
+          - fix: 1334
+            time: 2014-01-04T06:32:09Z
+            lat: -32.009333
+            lng: 149.420367
+            alt: 434
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1338
+            time: 2014-01-04T06:32:13Z
+            lat: -32.00905
+            lng: 149.41995
+            alt: 433
+          - fix: 1339
+            time: 2014-01-04T06:32:14Z
+            lat: -32.008933
+            lng: 149.419917
+            alt: 432
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1357
+            time: 2014-01-04T06:32:33Z
+            lat: -32.008567
+            lng: 149.4188
+            alt: 408
+          - fix: 1358
+            time: 2014-01-04T06:32:34Z
+            lat: -32.008667
+            lng: 149.418883
+            alt: 405
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '40'
       - Lukas Bader
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 6
+          time: 2014-01-04T01:56:47Z
+          lat: -33.3573
+          lng: 147.933217
+          alt: 266
+        - fix: 7
+          time: 2014-01-04T01:56:49Z
+          lat: -33.357433
+          lng: 147.933067
+          alt: 271
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2821
+          time: 2014-01-04T03:30:37Z
+          lat: -33.304133
+          lng: 148.016117
+          alt: 1195
+        - fix: 2822
+          time: 2014-01-04T03:30:39Z
+          lat: -33.303783
+          lng: 148.016267
+          alt: 1192
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 8256
+          time: 2014-01-04T06:31:47Z
+          lat: -32.01555
+          lng: 149.415933
+          alt: 648
+        - fix: 8257
+          time: 2014-01-04T06:31:49Z
+          lat: -32.015067
+          lng: 149.4163
+          alt: 638
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 6
+            time: 2014-01-04T01:56:47Z
+            lat: -33.3573
+            lng: 147.933217
+            alt: 266
+          - fix: 7
+            time: 2014-01-04T01:56:49Z
+            lat: -33.357433
+            lng: 147.933067
+            alt: 271
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 53
+            time: 2014-01-04T01:58:21Z
+            lat: -33.362183
+            lng: 147.928033
+            alt: 518
+          - fix: 54
+            time: 2014-01-04T01:58:23Z
+            lat: -33.362317
+            lng: 147.9279
+            alt: 520
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 894
+            time: 2014-01-04T02:26:23Z
+            lat: -33.358417
+            lng: 147.935433
+            alt: 1360
+          - fix: 895
+            time: 2014-01-04T02:26:25Z
+            lat: -33.358467
+            lng: 147.935267
+            alt: 1357
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 938
+            time: 2014-01-04T02:27:51Z
+            lat: -33.36225
+            lng: 147.928167
+            alt: 1134
+          - fix: 939
+            time: 2014-01-04T02:27:53Z
+            lat: -33.362417
+            lng: 147.92805
+            alt: 1132
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2821
+            time: 2014-01-04T03:30:37Z
+            lat: -33.304133
+            lng: 148.016117
+            alt: 1195
+          - fix: 2822
+            time: 2014-01-04T03:30:39Z
+            lat: -33.303783
+            lng: 148.016267
+            alt: 1192
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 8256
+            time: 2014-01-04T06:31:47Z
+            lat: -32.01555
+            lng: 149.415933
+            alt: 648
+          - fix: 8257
+            time: 2014-01-04T06:31:49Z
+            lat: -32.015067
+            lng: 149.4163
+            alt: 638
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 8284
+            time: 2014-01-04T06:32:43Z
+            lat: -32.00985
+            lng: 149.420967
+            alt: 579
+          - fix: 8285
+            time: 2014-01-04T06:32:45Z
+            lat: -32.010033
+            lng: 149.421167
+            alt: 574
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 8285
+            time: 2014-01-04T06:32:45Z
+            lat: -32.010033
+            lng: 149.421167
+            alt: 574
+          - fix: 8286
+            time: 2014-01-04T06:32:47Z
+            lat: -32.010183
+            lng: 149.421167
+            alt: 574
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '58'
       - Mark Russell
     - null
@@ -63138,7 +67395,163 @@ crossing:
     - null
   - - - '1'
       - Michael Bilyk
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 23
+          time: 2014-01-04T02:04:17Z
+          lat: -33.357178
+          lng: 147.93191
+          alt: 260
+        - fix: 24
+          time: 2014-01-04T02:04:18Z
+          lat: -33.357241
+          lng: 147.931812
+          alt: 264
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2250
+          time: 2014-01-04T03:30:23Z
+          lat: -33.303352
+          lng: 148.014982
+          alt: 1423
+        - fix: 2251
+          time: 2014-01-04T03:30:25Z
+          lat: -33.30294
+          lng: 148.015198
+          alt: 1420
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 7193
+          time: 2014-01-04T06:31:32Z
+          lat: -32.013431
+          lng: 149.413563
+          alt: 552
+        - fix: 7194
+          time: 2014-01-04T06:31:34Z
+          lat: -32.012973
+          lng: 149.413995
+          alt: 546
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 23
+            time: 2014-01-04T02:04:17Z
+            lat: -33.357178
+            lng: 147.93191
+            alt: 260
+          - fix: 24
+            time: 2014-01-04T02:04:18Z
+            lat: -33.357241
+            lng: 147.931812
+            alt: 264
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 55
+            time: 2014-01-04T02:05:09Z
+            lat: -33.361241
+            lng: 147.927761
+            alt: 405
+          - fix: 56
+            time: 2014-01-04T02:05:11Z
+            lat: -33.361358
+            lng: 147.927608
+            alt: 413
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 244
+            time: 2014-01-04T02:11:38Z
+            lat: -33.3642
+            lng: 147.933709
+            alt: 491
+          - fix: 245
+            time: 2014-01-04T02:11:42Z
+            lat: -33.363729
+            lng: 147.933552
+            alt: 485
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 266
+            time: 2014-01-04T02:12:21Z
+            lat: -33.359973
+            lng: 147.936104
+            alt: 385
+          - fix: 267
+            time: 2014-01-04T02:12:23Z
+            lat: -33.359663
+            lng: 147.936196
+            alt: 380
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2250
+            time: 2014-01-04T03:30:23Z
+            lat: -33.303352
+            lng: 148.014982
+            alt: 1423
+          - fix: 2251
+            time: 2014-01-04T03:30:25Z
+            lat: -33.30294
+            lng: 148.015198
+            alt: 1420
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 7193
+            time: 2014-01-04T06:31:32Z
+            lat: -32.013431
+            lng: 149.413563
+            alt: 552
+          - fix: 7194
+            time: 2014-01-04T06:31:34Z
+            lat: -32.012973
+            lng: 149.413995
+            alt: 546
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 7208
+            time: 2014-01-04T06:31:57Z
+            lat: -32.009241
+            lng: 149.418009
+            alt: 503
+          - fix: 7209
+            time: 2014-01-04T06:32:02Z
+            lat: -32.008553
+            lng: 149.418771
+            alt: 507
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 7222
+            time: 2014-01-04T06:32:30Z
+            lat: -32.009309
+            lng: 149.420659
+            alt: 453
+          - fix: 7223
+            time: 2014-01-04T06:32:33Z
+            lat: -32.009534
+            lng: 149.420277
+            alt: 445
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '16'
       - Michael Tomlinson
     - null
@@ -63147,31 +67560,885 @@ crossing:
     - null
   - - - '21'
       - Neil Petersen
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 29
+          time: 2014-01-04T02:13:43Z
+          lat: -33.357183
+          lng: 147.9322
+          alt: 244
+        - fix: 30
+          time: 2014-01-04T02:13:47Z
+          lat: -33.3575
+          lng: 147.931833
+          alt: 261
+        inZone:
+        - false
+        - true
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 29
+            time: 2014-01-04T02:13:43Z
+            lat: -33.357183
+            lng: 147.9322
+            alt: 244
+          - fix: 30
+            time: 2014-01-04T02:13:47Z
+            lat: -33.3575
+            lng: 147.931833
+            alt: 261
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 41
+            time: 2014-01-04T02:14:38Z
+            lat: -33.362383
+            lng: 147.9282
+            alt: 430
+          - fix: 42
+            time: 2014-01-04T02:14:43Z
+            lat: -33.362883
+            lng: 147.92775
+            alt: 452
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      zonesCrossExcluded: []
   - - - '20'
       - Nils Vesk
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 30
+          time: 2014-01-04T01:43:29Z
+          lat: -33.35715
+          lng: 147.932367
+          alt: 256
+        - fix: 31
+          time: 2014-01-04T01:43:39Z
+          lat: -33.358117
+          lng: 147.931283
+          alt: 285
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 505
+          time: 2014-01-04T03:02:33Z
+          lat: -33.28465
+          lng: 147.988
+          alt: 1329
+        - fix: 506
+          time: 2014-01-04T03:02:43Z
+          lat: -33.283317
+          lng: 147.989167
+          alt: 1335
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 30
+            time: 2014-01-04T01:43:29Z
+            lat: -33.35715
+            lng: 147.932367
+            alt: 256
+          - fix: 31
+            time: 2014-01-04T01:43:39Z
+            lat: -33.358117
+            lng: 147.931283
+            alt: 285
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 35
+            time: 2014-01-04T01:44:19Z
+            lat: -33.360483
+            lng: 147.927933
+            alt: 381
+          - fix: 36
+            time: 2014-01-04T01:44:29Z
+            lat: -33.360917
+            lng: 147.927333
+            alt: 393
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 56
+            time: 2014-01-04T01:47:50Z
+            lat: -33.361767
+            lng: 147.926633
+            alt: 977
+          - fix: 57
+            time: 2014-01-04T01:48:00Z
+            lat: -33.36075
+            lng: 147.927867
+            alt: 992
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 57
+            time: 2014-01-04T01:48:00Z
+            lat: -33.36075
+            lng: 147.927867
+            alt: 992
+          - fix: 58
+            time: 2014-01-04T01:48:10Z
+            lat: -33.360783
+            lng: 147.92755
+            alt: 998
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 58
+            time: 2014-01-04T01:48:10Z
+            lat: -33.360783
+            lng: 147.92755
+            alt: 998
+          - fix: 59
+            time: 2014-01-04T01:48:20Z
+            lat: -33.360067
+            lng: 147.929383
+            alt: 989
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 62
+            time: 2014-01-04T01:48:50Z
+            lat: -33.358217
+            lng: 147.930967
+            alt: 1029
+          - fix: 63
+            time: 2014-01-04T01:49:00Z
+            lat: -33.357033
+            lng: 147.932117
+            alt: 1039
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 63
+            time: 2014-01-04T01:49:00Z
+            lat: -33.357033
+            lng: 147.932117
+            alt: 1039
+          - fix: 64
+            time: 2014-01-04T01:49:10Z
+            lat: -33.357217
+            lng: 147.932067
+            alt: 1049
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 64
+            time: 2014-01-04T01:49:10Z
+            lat: -33.357217
+            lng: 147.932067
+            alt: 1049
+          - fix: 65
+            time: 2014-01-04T01:49:20Z
+            lat: -33.3564
+            lng: 147.934083
+            alt: 1043
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 150
+            time: 2014-01-04T02:03:31Z
+            lat: -33.357883
+            lng: 147.935983
+            alt: 1524
+          - fix: 151
+            time: 2014-01-04T02:03:41Z
+            lat: -33.35835
+            lng: 147.93515
+            alt: 1516
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 158
+            time: 2014-01-04T02:04:51Z
+            lat: -33.360567
+            lng: 147.92805
+            alt: 1384
+          - fix: 159
+            time: 2014-01-04T02:05:01Z
+            lat: -33.360617
+            lng: 147.92715
+            alt: 1377
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 161
+            time: 2014-01-04T02:05:21Z
+            lat: -33.361533
+            lng: 147.926133
+            alt: 1372
+          - fix: 162
+            time: 2014-01-04T02:05:31Z
+            lat: -33.360967
+            lng: 147.927933
+            alt: 1373
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 162
+            time: 2014-01-04T02:05:31Z
+            lat: -33.360967
+            lng: 147.927933
+            alt: 1373
+          - fix: 163
+            time: 2014-01-04T02:05:41Z
+            lat: -33.360533
+            lng: 147.927517
+            alt: 1388
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 163
+            time: 2014-01-04T02:05:41Z
+            lat: -33.360533
+            lng: 147.927517
+            alt: 1388
+          - fix: 164
+            time: 2014-01-04T02:05:52Z
+            lat: -33.36005
+            lng: 147.929083
+            alt: 1392
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 168
+            time: 2014-01-04T02:06:32Z
+            lat: -33.357883
+            lng: 147.9309
+            alt: 1434
+          - fix: 169
+            time: 2014-01-04T02:06:42Z
+            lat: -33.356783
+            lng: 147.932467
+            alt: 1443
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 230
+            time: 2014-01-04T02:16:52Z
+            lat: -33.357517
+            lng: 147.930133
+            alt: 1238
+          - fix: 231
+            time: 2014-01-04T02:17:02Z
+            lat: -33.358617
+            lng: 147.929817
+            alt: 1232
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 239
+            time: 2014-01-04T02:18:22Z
+            lat: -33.357217
+            lng: 147.931883
+            alt: 1321
+          - fix: 240
+            time: 2014-01-04T02:18:32Z
+            lat: -33.356983
+            lng: 147.9334
+            alt: 1332
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 505
+            time: 2014-01-04T03:02:33Z
+            lat: -33.28465
+            lng: 147.988
+            alt: 1329
+          - fix: 506
+            time: 2014-01-04T03:02:43Z
+            lat: -33.283317
+            lng: 147.989167
+            alt: 1335
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '52'
       - Olav Olsen
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 33
+          time: 2014-01-04T03:03:07Z
+          lat: -33.357367
+          lng: 147.933433
+          alt: 240
+        - fix: 34
+          time: 2014-01-04T03:03:10Z
+          lat: -33.35755
+          lng: 147.933117
+          alt: 241
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 410
+          time: 2014-01-04T03:22:02Z
+          lat: -33.299817
+          lng: 148.011833
+          alt: 1596
+        - fix: 411
+          time: 2014-01-04T03:22:05Z
+          lat: -33.2992
+          lng: 148.01225
+          alt: 1596
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 33
+            time: 2014-01-04T03:03:07Z
+            lat: -33.357367
+            lng: 147.933433
+            alt: 240
+          - fix: 34
+            time: 2014-01-04T03:03:10Z
+            lat: -33.35755
+            lng: 147.933117
+            alt: 241
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 42
+            time: 2014-01-04T03:03:34Z
+            lat: -33.35795
+            lng: 147.929783
+            alt: 285
+          - fix: 43
+            time: 2014-01-04T03:03:37Z
+            lat: -33.3579
+            lng: 147.929333
+            alt: 294
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 63
+            time: 2014-01-04T03:04:37Z
+            lat: -33.358983
+            lng: 147.927967
+            alt: 455
+          - fix: 64
+            time: 2014-01-04T03:04:40Z
+            lat: -33.3591
+            lng: 147.928667
+            alt: 476
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 69
+            time: 2014-01-04T03:04:55Z
+            lat: -33.357483
+            lng: 147.931733
+            alt: 565
+          - fix: 70
+            time: 2014-01-04T03:04:58Z
+            lat: -33.356967
+            lng: 147.932017
+            alt: 578
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 410
+            time: 2014-01-04T03:22:02Z
+            lat: -33.299817
+            lng: 148.011833
+            alt: 1596
+          - fix: 411
+            time: 2014-01-04T03:22:05Z
+            lat: -33.2992
+            lng: 148.01225
+            alt: 1596
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '3'
       - Paris Williams
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 380
+          time: 2014-01-04T02:05:19Z
+          lat: -33.356899
+          lng: 147.932217
+          alt: 278
+        - fix: 381
+          time: 2014-01-04T02:05:22Z
+          lat: -33.357204
+          lng: 147.931942
+          alt: 289
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2051
+          time: 2014-01-04T03:30:17Z
+          lat: -33.303929
+          lng: 148.015789
+          alt: 1414
+        - fix: 2052
+          time: 2014-01-04T03:30:20Z
+          lat: -33.303338
+          lng: 148.016221
+          alt: 1405
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 5606
+          time: 2014-01-04T06:31:26Z
+          lat: -32.014524
+          lng: 149.413447
+          alt: 586
+        - fix: 5607
+          time: 2014-01-04T06:31:29Z
+          lat: -32.013955
+          lng: 149.414271
+          alt: 574
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 380
+            time: 2014-01-04T02:05:19Z
+            lat: -33.356899
+            lng: 147.932217
+            alt: 278
+          - fix: 381
+            time: 2014-01-04T02:05:22Z
+            lat: -33.357204
+            lng: 147.931942
+            alt: 289
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 392
+            time: 2014-01-04T02:05:55Z
+            lat: -33.358931
+            lng: 147.928308
+            alt: 406
+          - fix: 393
+            time: 2014-01-04T02:05:58Z
+            lat: -33.358953
+            lng: 147.927992
+            alt: 417
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 404
+            time: 2014-01-04T02:06:31Z
+            lat: -33.360759
+            lng: 147.927342
+            alt: 543
+          - fix: 405
+            time: 2014-01-04T02:06:34Z
+            lat: -33.361014
+            lng: 147.927916
+            alt: 554
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 414
+            time: 2014-01-04T02:07:01Z
+            lat: -33.35762
+            lng: 147.931901
+            alt: 651
+          - fix: 415
+            time: 2014-01-04T02:07:04Z
+            lat: -33.35706
+            lng: 147.931816
+            alt: 661
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 842
+            time: 2014-01-04T02:28:49Z
+            lat: -33.36141
+            lng: 147.936451
+            alt: 1360
+          - fix: 843
+            time: 2014-01-04T02:28:52Z
+            lat: -33.361533
+            lng: 147.936228
+            alt: 1351
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 843
+            time: 2014-01-04T02:28:52Z
+            lat: -33.361533
+            lng: 147.936228
+            alt: 1351
+          - fix: 844
+            time: 2014-01-04T02:28:55Z
+            lat: -33.362059
+            lng: 147.936372
+            alt: 1348
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2051
+            time: 2014-01-04T03:30:17Z
+            lat: -33.303929
+            lng: 148.015789
+            alt: 1414
+          - fix: 2052
+            time: 2014-01-04T03:30:20Z
+            lat: -33.303338
+            lng: 148.016221
+            alt: 1405
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 5606
+            time: 2014-01-04T06:31:26Z
+            lat: -32.014524
+            lng: 149.413447
+            alt: 586
+          - fix: 5607
+            time: 2014-01-04T06:31:29Z
+            lat: -32.013955
+            lng: 149.414271
+            alt: 574
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 5618
+            time: 2014-01-04T06:32:02Z
+            lat: -32.010372
+            lng: 149.421193
+            alt: 511
+          - fix: 5619
+            time: 2014-01-04T06:32:05Z
+            lat: -32.009812
+            lng: 149.421347
+            alt: 505
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 5625
+            time: 2014-01-04T06:32:23Z
+            lat: -32.009018
+            lng: 149.420467
+            alt: 469
+          - fix: 5626
+            time: 2014-01-04T06:32:26Z
+            lat: -32.009138
+            lng: 149.420066
+            alt: 463
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '44'
       - Patrick Collin
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 25
+          time: 2014-01-04T02:37:36Z
+          lat: -33.35715
+          lng: 147.930567
+          alt: 471
+        - fix: 26
+          time: 2014-01-04T02:37:41Z
+          lat: -33.3575
+          lng: 147.931067
+          alt: 466
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 327
+          time: 2014-01-04T03:02:42Z
+          lat: -33.28845
+          lng: 147.996033
+          alt: 959
+        - fix: 328
+          time: 2014-01-04T03:02:47Z
+          lat: -33.288283
+          lng: 147.997
+          alt: 970
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 25
+            time: 2014-01-04T02:37:36Z
+            lat: -33.35715
+            lng: 147.930567
+            alt: 471
+          - fix: 26
+            time: 2014-01-04T02:37:41Z
+            lat: -33.3575
+            lng: 147.931067
+            alt: 466
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 33
+            time: 2014-01-04T02:38:16Z
+            lat: -33.3582
+            lng: 147.9348
+            alt: 441
+          - fix: 34
+            time: 2014-01-04T02:38:21Z
+            lat: -33.357717
+            lng: 147.934817
+            alt: 438
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 327
+            time: 2014-01-04T03:02:42Z
+            lat: -33.28845
+            lng: 147.996033
+            alt: 959
+          - fix: 328
+            time: 2014-01-04T03:02:47Z
+            lat: -33.288283
+            lng: 147.997
+            alt: 970
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '17'
       - Peter Lamont
     - null
   - - - '30'
       - Phil Schroder
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 217
+          time: 2014-01-04T02:11:56Z
+          lat: -33.357154
+          lng: 147.931476
+          alt: 187
+        - fix: 218
+          time: 2014-01-04T02:12:01Z
+          lat: -33.357513
+          lng: 147.930969
+          alt: 200
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 815
+          time: 2014-01-04T03:01:46Z
+          lat: -33.284609
+          lng: 147.988363
+          alt: 1689
+        - fix: 816
+          time: 2014-01-04T03:01:51Z
+          lat: -33.283695
+          lng: 147.988624
+          alt: 1680
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 217
+            time: 2014-01-04T02:11:56Z
+            lat: -33.357154
+            lng: 147.931476
+            alt: 187
+          - fix: 218
+            time: 2014-01-04T02:12:01Z
+            lat: -33.357513
+            lng: 147.930969
+            alt: 200
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 224
+            time: 2014-01-04T02:12:31Z
+            lat: -33.359871
+            lng: 147.928152
+            alt: 287
+          - fix: 225
+            time: 2014-01-04T02:12:36Z
+            lat: -33.360218
+            lng: 147.927723
+            alt: 310
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 794
+            time: 2014-01-04T03:00:01Z
+            lat: -33.285302
+            lng: 147.99101
+            alt: 1724
+          - fix: 795
+            time: 2014-01-04T03:00:06Z
+            lat: -33.284327
+            lng: 147.99137
+            alt: 1732
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 811
+            time: 2014-01-04T03:01:26Z
+            lat: -33.284015
+            lng: 147.989482
+            alt: 1693
+          - fix: 812
+            time: 2014-01-04T03:01:31Z
+            lat: -33.284277
+            lng: 147.989282
+            alt: 1687
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 815
+            time: 2014-01-04T03:01:46Z
+            lat: -33.284609
+            lng: 147.988363
+            alt: 1689
+          - fix: 816
+            time: 2014-01-04T03:01:51Z
+            lat: -33.283695
+            lng: 147.988624
+            alt: 1680
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '69'
       - Phil Seeley
     - null
   - - - '43'
       - Rod Flockhart
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 44
+          time: 2014-01-04T03:09:28Z
+          lat: -33.35925
+          lng: 147.92801
+          alt: 917
+        - fix: 45
+          time: 2014-01-04T03:09:33Z
+          lat: -33.358846
+          lng: 147.928831
+          alt: 907
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 297
+          time: 2014-01-04T03:30:33Z
+          lat: -33.304059
+          lng: 148.015802
+          alt: 1297
+        - fix: 298
+          time: 2014-01-04T03:30:38Z
+          lat: -33.30316
+          lng: 148.016385
+          alt: 1279
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 44
+            time: 2014-01-04T03:09:28Z
+            lat: -33.35925
+            lng: 147.92801
+            alt: 917
+          - fix: 45
+            time: 2014-01-04T03:09:33Z
+            lat: -33.358846
+            lng: 147.928831
+            alt: 907
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 45
+            time: 2014-01-04T03:09:33Z
+            lat: -33.358846
+            lng: 147.928831
+            alt: 907
+          - fix: 46
+            time: 2014-01-04T03:09:38Z
+            lat: -33.358055
+            lng: 147.928783
+            alt: 901
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 297
+            time: 2014-01-04T03:30:33Z
+            lat: -33.304059
+            lng: 148.015802
+            alt: 1297
+          - fix: 298
+            time: 2014-01-04T03:30:38Z
+            lat: -33.30316
+            lng: 148.016385
+            alt: 1279
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '18'
       - Rohan Taylor
     - null
@@ -63180,16 +68447,756 @@ crossing:
     - null
   - - - '24'
       - Steve Blenkinsop
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 9
+          time: 2014-01-04T01:50:01Z
+          lat: -33.356317
+          lng: 147.933467
+          alt: 228
+        - fix: 10
+          time: 2014-01-04T01:50:32Z
+          lat: -33.358167
+          lng: 147.930967
+          alt: 330
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1401
+          time: 2014-01-04T03:01:44Z
+          lat: -33.285367
+          lng: 147.991
+          alt: 1271
+        - fix: 1402
+          time: 2014-01-04T03:01:47Z
+          lat: -33.284817
+          lng: 147.99175
+          alt: 1266
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 9
+            time: 2014-01-04T01:50:01Z
+            lat: -33.356317
+            lng: 147.933467
+            alt: 228
+          - fix: 10
+            time: 2014-01-04T01:50:32Z
+            lat: -33.358167
+            lng: 147.930967
+            alt: 330
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 26
+            time: 2014-01-04T01:51:21Z
+            lat: -33.361517
+            lng: 147.9278
+            alt: 511
+          - fix: 27
+            time: 2014-01-04T01:51:24Z
+            lat: -33.361767
+            lng: 147.9276
+            alt: 524
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 92
+            time: 2014-01-04T01:54:44Z
+            lat: -33.36355
+            lng: 147.928517
+            alt: 923
+          - fix: 93
+            time: 2014-01-04T01:54:47Z
+            lat: -33.363167
+            lng: 147.929
+            alt: 922
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 103
+            time: 2014-01-04T01:55:18Z
+            lat: -33.364133
+            lng: 147.9304
+            alt: 920
+          - fix: 104
+            time: 2014-01-04T01:55:21Z
+            lat: -33.36435
+            lng: 147.93065
+            alt: 918
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 114
+            time: 2014-01-04T01:55:51Z
+            lat: -33.364367
+            lng: 147.931267
+            alt: 921
+          - fix: 115
+            time: 2014-01-04T01:55:54Z
+            lat: -33.364233
+            lng: 147.931333
+            alt: 923
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 133
+            time: 2014-01-04T01:56:50Z
+            lat: -33.362067
+            lng: 147.935933
+            alt: 1016
+          - fix: 134
+            time: 2014-01-04T01:56:53Z
+            lat: -33.36185
+            lng: 147.936217
+            alt: 1024
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 134
+            time: 2014-01-04T01:56:53Z
+            lat: -33.36185
+            lng: 147.936217
+            alt: 1024
+          - fix: 135
+            time: 2014-01-04T01:56:56Z
+            lat: -33.361667
+            lng: 147.936183
+            alt: 1030
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 135
+            time: 2014-01-04T01:56:56Z
+            lat: -33.361667
+            lng: 147.936183
+            alt: 1030
+          - fix: 136
+            time: 2014-01-04T01:56:59Z
+            lat: -33.361733
+            lng: 147.936367
+            alt: 1039
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 277
+            time: 2014-01-04T02:04:13Z
+            lat: -33.357283
+            lng: 147.933033
+            alt: 1082
+          - fix: 278
+            time: 2014-01-04T02:04:16Z
+            lat: -33.3574
+            lng: 147.932733
+            alt: 1076
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 292
+            time: 2014-01-04T02:04:59Z
+            lat: -33.3595
+            lng: 147.928
+            alt: 985
+          - fix: 293
+            time: 2014-01-04T02:05:02Z
+            lat: -33.3597
+            lng: 147.927717
+            alt: 978
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 305
+            time: 2014-01-04T02:05:39Z
+            lat: -33.359483
+            lng: 147.927867
+            alt: 1032
+          - fix: 306
+            time: 2014-01-04T02:05:42Z
+            lat: -33.359367
+            lng: 147.92845
+            alt: 1038
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 320
+            time: 2014-01-04T02:06:25Z
+            lat: -33.35755
+            lng: 147.930867
+            alt: 1111
+          - fix: 321
+            time: 2014-01-04T02:06:28Z
+            lat: -33.3572
+            lng: 147.9308
+            alt: 1116
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 322
+            time: 2014-01-04T02:06:31Z
+            lat: -33.357283
+            lng: 147.9309
+            alt: 1122
+          - fix: 323
+            time: 2014-01-04T02:06:34Z
+            lat: -33.3573
+            lng: 147.931467
+            alt: 1128
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 323
+            time: 2014-01-04T02:06:34Z
+            lat: -33.3573
+            lng: 147.931467
+            alt: 1128
+          - fix: 324
+            time: 2014-01-04T02:06:37Z
+            lat: -33.357
+            lng: 147.931917
+            alt: 1133
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 513
+            time: 2014-01-04T02:16:19Z
+            lat: -33.357283
+            lng: 147.933367
+            alt: 1198
+          - fix: 514
+            time: 2014-01-04T02:16:22Z
+            lat: -33.35755
+            lng: 147.933133
+            alt: 1194
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 552
+            time: 2014-01-04T02:18:19Z
+            lat: -33.358083
+            lng: 147.934767
+            alt: 1250
+          - fix: 553
+            time: 2014-01-04T02:18:22Z
+            lat: -33.35785
+            lng: 147.9354
+            alt: 1254
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 712
+            time: 2014-01-04T02:26:31Z
+            lat: -33.35905
+            lng: 147.9358
+            alt: 1497
+          - fix: 713
+            time: 2014-01-04T02:26:34Z
+            lat: -33.35905
+            lng: 147.93545
+            alt: 1491
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 736
+            time: 2014-01-04T02:27:45Z
+            lat: -33.362133
+            lng: 147.928183
+            alt: 1301
+          - fix: 737
+            time: 2014-01-04T02:27:48Z
+            lat: -33.36235
+            lng: 147.927867
+            alt: 1292
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1401
+            time: 2014-01-04T03:01:44Z
+            lat: -33.285367
+            lng: 147.991
+            alt: 1271
+          - fix: 1402
+            time: 2014-01-04T03:01:47Z
+            lat: -33.284817
+            lng: 147.99175
+            alt: 1266
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '7'
       - Tony Giammichele
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 28
+          time: 2014-01-04T03:16:19Z
+          lat: -33.357167
+          lng: 147.93365
+          alt: 242
+        - fix: 29
+          time: 2014-01-04T03:16:22Z
+          lat: -33.357367
+          lng: 147.933317
+          alt: 246
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 330
+          time: 2014-01-04T03:31:29Z
+          lat: -33.300283
+          lng: 148.011283
+          alt: 1192
+        - fix: 331
+          time: 2014-01-04T03:31:32Z
+          lat: -33.2998
+          lng: 148.011833
+          alt: 1187
+        inZone:
+        - true
+        - false
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 28
+            time: 2014-01-04T03:16:19Z
+            lat: -33.357167
+            lng: 147.93365
+            alt: 242
+          - fix: 29
+            time: 2014-01-04T03:16:22Z
+            lat: -33.357367
+            lng: 147.933317
+            alt: 246
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 38
+            time: 2014-01-04T03:16:46Z
+            lat: -33.35755
+            lng: 147.930933
+            alt: 285
+          - fix: 39
+            time: 2014-01-04T03:16:49Z
+            lat: -33.357367
+            lng: 147.93055
+            alt: 291
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 330
+            time: 2014-01-04T03:31:29Z
+            lat: -33.300283
+            lng: 148.011283
+            alt: 1192
+          - fix: 331
+            time: 2014-01-04T03:31:32Z
+            lat: -33.2998
+            lng: 148.011833
+            alt: 1187
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
   - - - '42'
       - Trent Brown
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 30
+          time: 2014-01-04T01:57:53Z
+          lat: -33.357283
+          lng: 147.933567
+          alt: 241
+        - fix: 31
+          time: 2014-01-04T01:57:58Z
+          lat: -33.357617
+          lng: 147.933333
+          alt: 246
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1131
+          time: 2014-01-04T03:30:07Z
+          lat: -33.271117
+          lng: 147.9421
+          alt: 1230
+        - fix: 1132
+          time: 2014-01-04T03:30:12Z
+          lat: -33.270367
+          lng: 147.94245
+          alt: 1216
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 3614
+          time: 2014-01-04T06:58:03Z
+          lat: -32.013217
+          lng: 149.4118
+          alt: 624
+        - fix: 3615
+          time: 2014-01-04T06:58:08Z
+          lat: -32.01265
+          lng: 149.4135
+          alt: 604
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 30
+            time: 2014-01-04T01:57:53Z
+            lat: -33.357283
+            lng: 147.933567
+            alt: 241
+          - fix: 31
+            time: 2014-01-04T01:57:58Z
+            lat: -33.357617
+            lng: 147.933333
+            alt: 246
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 47
+            time: 2014-01-04T01:59:19Z
+            lat: -33.360467
+            lng: 147.927767
+            alt: 460
+          - fix: 48
+            time: 2014-01-04T01:59:24Z
+            lat: -33.360683
+            lng: 147.927283
+            alt: 470
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 127
+            time: 2014-01-04T02:06:02Z
+            lat: -33.357317
+            lng: 147.929483
+            alt: 1156
+          - fix: 128
+            time: 2014-01-04T02:06:07Z
+            lat: -33.357617
+            lng: 147.930117
+            alt: 1165
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 128
+            time: 2014-01-04T02:06:07Z
+            lat: -33.357617
+            lng: 147.930117
+            alt: 1165
+          - fix: 129
+            time: 2014-01-04T02:06:12Z
+            lat: -33.35715
+            lng: 147.93095
+            alt: 1173
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 130
+            time: 2014-01-04T02:06:17Z
+            lat: -33.356983
+            lng: 147.930833
+            alt: 1182
+          - fix: 131
+            time: 2014-01-04T02:06:22Z
+            lat: -33.357267
+            lng: 147.931567
+            alt: 1192
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 131
+            time: 2014-01-04T02:06:22Z
+            lat: -33.357267
+            lng: 147.931567
+            alt: 1192
+          - fix: 132
+            time: 2014-01-04T02:06:27Z
+            lat: -33.356683
+            lng: 147.93235
+            alt: 1202
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 226
+            time: 2014-01-04T02:14:20Z
+            lat: -33.3573
+            lng: 147.9345
+            alt: 1470
+          - fix: 227
+            time: 2014-01-04T02:14:25Z
+            lat: -33.3579
+            lng: 147.934217
+            alt: 1458
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 236
+            time: 2014-01-04T02:15:11Z
+            lat: -33.36295
+            lng: 147.935
+            alt: 1345
+          - fix: 237
+            time: 2014-01-04T02:15:16Z
+            lat: -33.3634
+            lng: 147.935233
+            alt: 1332
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 372
+            time: 2014-01-04T02:26:37Z
+            lat: -33.361183
+            lng: 147.9365
+            alt: 1614
+          - fix: 373
+            time: 2014-01-04T02:26:42Z
+            lat: -33.361333
+            lng: 147.935917
+            alt: 1604
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 384
+            time: 2014-01-04T02:27:37Z
+            lat: -33.363633
+            lng: 147.93005
+            alt: 1497
+          - fix: 385
+            time: 2014-01-04T02:27:43Z
+            lat: -33.363933
+            lng: 147.929533
+            alt: 1489
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1131
+            time: 2014-01-04T03:30:07Z
+            lat: -33.271117
+            lng: 147.9421
+            alt: 1230
+          - fix: 1132
+            time: 2014-01-04T03:30:12Z
+            lat: -33.270367
+            lng: 147.94245
+            alt: 1216
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 3614
+            time: 2014-01-04T06:58:03Z
+            lat: -32.013217
+            lng: 149.4118
+            alt: 624
+          - fix: 3615
+            time: 2014-01-04T06:58:08Z
+            lat: -32.01265
+            lng: 149.4135
+            alt: 604
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3650
+            time: 2014-01-04T06:58:42Z
+            lat: -32.010517
+            lng: 149.421417
+            alt: 519
+          - fix: 3651
+            time: 2014-01-04T06:58:43Z
+            lat: -32.010367
+            lng: 149.421467
+            alt: 517
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3674
+            time: 2014-01-04T06:59:06Z
+            lat: -32.00945
+            lng: 149.420633
+            alt: 483
+          - fix: 3675
+            time: 2014-01-04T06:59:07Z
+            lat: -32.009567
+            lng: 149.420633
+            alt: 482
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '46'
       - Yasuhiro Noma
-    - null
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 566
+          time: 2014-01-04T03:04:03Z
+          lat: -33.35722
+          lng: 147.93342
+          alt: 264
+        - fix: 567
+          time: 2014-01-04T03:04:06Z
+          lat: -33.35743
+          lng: 147.933028
+          alt: 272
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1095
+          time: 2014-01-04T03:30:30Z
+          lat: -33.304113
+          lng: 148.015353
+          alt: 1383
+        - fix: 1096
+          time: 2014-01-04T03:30:33Z
+          lat: -33.303611
+          lng: 148.015774
+          alt: 1374
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 4768
+          time: 2014-01-04T06:34:09Z
+          lat: -32.012832
+          lng: 149.413414
+          alt: 595
+        - fix: 4769
+          time: 2014-01-04T06:34:12Z
+          lat: -32.012282
+          lng: 149.414391
+          alt: 574
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 566
+            time: 2014-01-04T03:04:03Z
+            lat: -33.35722
+            lng: 147.93342
+            alt: 264
+          - fix: 567
+            time: 2014-01-04T03:04:06Z
+            lat: -33.35743
+            lng: 147.933028
+            alt: 272
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 580
+            time: 2014-01-04T03:04:45Z
+            lat: -33.358466
+            lng: 147.928748
+            alt: 383
+          - fix: 581
+            time: 2014-01-04T03:04:48Z
+            lat: -33.358511
+            lng: 147.928442
+            alt: 396
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1095
+            time: 2014-01-04T03:30:30Z
+            lat: -33.304113
+            lng: 148.015353
+            alt: 1383
+          - fix: 1096
+            time: 2014-01-04T03:30:33Z
+            lat: -33.303611
+            lng: 148.015774
+            alt: 1374
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 4768
+            time: 2014-01-04T06:34:09Z
+            lat: -32.012832
+            lng: 149.413414
+            alt: 595
+          - fix: 4769
+            time: 2014-01-04T06:34:12Z
+            lat: -32.012282
+            lng: 149.414391
+            alt: 574
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 4788
+            time: 2014-01-04T06:35:09Z
+            lat: -32.009268
+            lng: 149.419945
+            alt: 498
+          - fix: 4789
+            time: 2014-01-04T06:35:12Z
+            lat: -32.008824
+            lng: 149.419835
+            alt: 488
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 4789
+            time: 2014-01-04T06:35:12Z
+            lat: -32.008824
+            lng: 149.419835
+            alt: 488
+          - fix: 4790
+            time: 2014-01-04T06:35:15Z
+            lat: -32.008847
+            lng: 149.419486
+            alt: 475
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
 trackLogError:
 - fileUnset:
   - - '25'
@@ -63332,66 +69339,8 @@ trackLogError:
     - Rohan Taylor
   - - '5'
     - Ryosuke Hattori
-  dirMissing:
-  - - '29'
-    - Adam Stevens
-  - - '23'
-    - Anton Struganov
-  - - '41'
-    - Attila Bertok
-  - - '70'
-    - Carl Wallbank
-  - - '62'
-    - Christian Voiblet
-  - - '50'
-    - Conrad Loten
-  - - '60'
-    - Davis Straub
-  - - '31'
-    - Dean Hervatin
-  - - '33'
-    - Filippo Oppici
-  - - '51'
-    - Gavin Myers
-  - - '45'
-    - Geoff Robertson
-  - - '34'
-    - Glen Mcfarlane
-  - - '28'
-    - Guy Hubbard
+  dirMissing: []
+  fileMissing:
   - - '59'
     - Hanspeter Schütz
-  - - '49'
-    - Jonas Lobitz
-  - - '39'
-    - Jonny Durand
-  - - '55'
-    - Len Paton
-  - - '40'
-    - Lukas Bader
-  - - '1'
-    - Michael Bilyk
-  - - '21'
-    - Neil Petersen
-  - - '20'
-    - Nils Vesk
-  - - '52'
-    - Olav Olsen
-  - - '3'
-    - Paris Williams
-  - - '44'
-    - Patrick Collin
-  - - '30'
-    - Phil Schroder
-  - - '43'
-    - Rod Flockhart
-  - - '24'
-    - Steve Blenkinsop
-  - - '7'
-    - Tony Giammichele
-  - - '42'
-    - Trent Brown
-  - - '46'
-    - Yasuhiro Noma
-  fileMissing: []
   fileUnread: []

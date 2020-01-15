@@ -5,7 +5,7 @@ ssBestTime:
 - 2.418571 h
 - null
 - 3.113900 h
-- null
+- 3.017636 h
 gsBestTime:
 - 2.870675 h
 - 2.488939 h
@@ -13,7 +13,7 @@ gsBestTime:
 - 2.460878 h
 - null
 - 3.169585 h
-- null
+- 3.022976 h
 taskDistance:
 - 145.345933 km
 - 152.906523 km
@@ -524,7 +524,66 @@ ssSpeed:
       - Federico Martini
     - time: 4.047939 h
       frac: 0.34565286
-- []
+- - - - '55'
+      - Len Paton
+    - time: 3.017636 h
+      frac: 1
+  - - - '1'
+      - Michael Bilyk
+    - time: 3.018791 h
+      frac: 0.992381
+  - - - '40'
+      - Lukas Bader
+    - time: 3.019404 h
+      frac: 0.98988123
+  - - - '3'
+      - Paris Williams
+    - time: 3.019570 h
+      frac: 0.98925556
+  - - - '46'
+      - Yasuhiro Noma
+    - time: 3.060040 h
+      frac: 0.91585071
+  - - - '39'
+      - Jonny Durand
+    - time: 3.119770 h
+      frac: 0.84879777
+  - - - '51'
+      - Gavin Myers
+    - time: 3.141887 h
+      frac: 0.82768967
+  - - - '70'
+      - Carl Wallbank
+    - time: 3.157174 h
+      frac: 0.8138312
+  - - - '62'
+      - Christian Voiblet
+    - time: 3.222590 h
+      frac: 0.75944448
+  - - - '41'
+      - Attila Bertok
+    - time: 3.224596 h
+      frac: 0.75787724
+  - - - '23'
+      - Anton Struganov
+    - time: 3.226874 h
+      frac: 0.75610399
+  - - - '45'
+      - Geoff Robertson
+    - time: 3.228789 h
+      frac: 0.75461774
+  - - - '33'
+      - Filippo Oppici
+    - time: 3.235945 h
+      frac: 0.74910482
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 3.270917 h
+      frac: 0.72297844
+  - - - '42'
+      - Trent Brown
+    - time: 3.466340 h
+      frac: 0.59441248
 gsSpeed:
 - - - - '39'
       - Jonny Durand
@@ -1019,7 +1078,66 @@ gsSpeed:
       - Federico Martini
     - time: 4.080822 h
       frac: 0.36013718
-- []
+- - - - '55'
+      - Len Paton
+    - time: 3.022976 h
+      frac: 1
+  - - - '3'
+      - Paris Williams
+    - time: 3.024531 h
+      frac: 0.99071626
+  - - - '1'
+      - Michael Bilyk
+    - time: 3.025653 h
+      frac: 0.98666787
+  - - - '40'
+      - Lukas Bader
+    - time: 3.029861 h
+      frac: 0.97497032
+  - - - '46'
+      - Yasuhiro Noma
+    - time: 3.069201 h
+      frac: 0.91092189
+  - - - '39'
+      - Jonny Durand
+    - time: 3.122073 h
+      frac: 0.85189729
+  - - - '51'
+      - Gavin Myers
+    - time: 3.147453 h
+      frac: 0.82758245
+  - - - '70'
+      - Carl Wallbank
+    - time: 3.174922 h
+      frac: 0.80306895
+  - - - '41'
+      - Attila Bertok
+    - time: 3.238619 h
+      frac: 0.75129871
+  - - - '33'
+      - Filippo Oppici
+    - time: 3.242345 h
+      frac: 0.74844193
+  - - - '62'
+      - Christian Voiblet
+    - time: 3.243932 h
+      frac: 0.74722991
+  - - - '23'
+      - Anton Struganov
+    - time: 3.247137 h
+      frac: 0.74479159
+  - - - '45'
+      - Geoff Robertson
+    - time: 3.267911 h
+      frac: 0.72925801
+  - - - '34'
+      - Glen Mcfarlane
+    - time: 3.273095 h
+      frac: 0.72545109
+  - - - '42'
+      - Trent Brown
+    - time: 3.468827 h
+      frac: 0.59637167
 altStopped:
 - - - - '22'
       - Adam Jones
@@ -1477,4 +1595,45 @@ altStopped:
   - - - '48'
       - Victor Hare
     - 533.000 m
-- []
+- - - - '29'
+      - Adam Stevens
+    - 326.000 m
+  - - - '50'
+      - Conrad Loten
+    - 355.000 m
+  - - - '60'
+      - Davis Straub
+    - 425.000 m
+  - - - '31'
+      - Dean Hervatin
+    - 257.000 m
+  - - - '28'
+      - Guy Hubbard
+    - 300.000 m
+  - - - '49'
+      - Jonas Lobitz
+    - 415.000 m
+  - - - '21'
+      - Neil Petersen
+    - 282.000 m
+  - - - '20'
+      - Nils Vesk
+    - 377.000 m
+  - - - '52'
+      - Olav Olsen
+    - 665.000 m
+  - - - '44'
+      - Patrick Collin
+    - 386.000 m
+  - - - '30'
+      - Phil Schroder
+    - 243.000 m
+  - - - '43'
+      - Rod Flockhart
+    - 394.000 m
+  - - - '24'
+      - Steve Blenkinsop
+    - 383.000 m
+  - - - '7'
+      - Tony Giammichele
+    - 391.000 m

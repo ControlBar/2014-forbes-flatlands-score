@@ -5,7 +5,7 @@ bestEffort:
 - 155.789542 km
 - 111.679084 km
 - 193.680697 km
-- null
+- 203.698097 km
 land:
 - - - - '53'
       - Kathryn O'Riordan
@@ -743,10 +743,66 @@ land:
       - Mark Russell
     - togo: 4.300023 km
       made: 199.398074 km
+  - - - '49'
+      - Jonas Lobitz
+    - togo: 4.929382 km
+      made: 198.768715 km
+  - - - '60'
+      - Davis Straub
+    - togo: 19.249917 km
+      made: 184.448180 km
+  - - - '7'
+      - Tony Giammichele
+    - togo: 46.697063 km
+      made: 157.001034 km
+  - - - '24'
+      - Steve Blenkinsop
+    - togo: 57.785713 km
+      made: 145.912384 km
+  - - - '30'
+      - Phil Schroder
+    - togo: 80.622111 km
+      made: 123.075986 km
+  - - - '50'
+      - Conrad Loten
+    - togo: 91.739735 km
+      made: 111.958362 km
+  - - - '43'
+      - Rod Flockhart
+    - togo: 96.567725 km
+      made: 107.130372 km
+  - - - '20'
+      - Nils Vesk
+    - togo: 99.473737 km
+      made: 104.224360 km
+  - - - '44'
+      - Patrick Collin
+    - togo: 109.080452 km
+      made: 94.617645 km
+  - - - '52'
+      - Olav Olsen
+    - togo: 148.206262 km
+      made: 55.491835 km
   - - - '37'
       - Jon snr Durand
     - togo: 148.370799 km
       made: 55.327298 km
+  - - - '28'
+      - Guy Hubbard
+    - togo: 168.648458 km
+      made: 35.049639 km
+  - - - '29'
+      - Adam Stevens
+    - togo: 172.726043 km
+      made: 30.972054 km
+  - - - '31'
+      - Dean Hervatin
+    - togo: 187.578915 km
+      made: 16.119182 km
+  - - - '21'
+      - Neil Petersen
+    - togo: 195.508359 km
+      made: 8.189738 km
   - - - '22'
       - Adam Jones
     - togo: 198.698097 km

@@ -5,7 +5,7 @@ pilotsAtEss:
 - 27
 - 0
 - 20
-- 0
+- 15
 arrivalRank:
 - - - - '3'
       - Paris Williams
@@ -623,4 +623,78 @@ arrivalRank:
     - lag: 0.911237 h
       rank: '20'
       frac: 6.047097e-2
-- []
+- - - - '39'
+      - Jonny Durand
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '70'
+      - Carl Wallbank
+    - lag: 0.052848 h
+      rank: '2'
+      frac: 0.89798326
+  - - - '41'
+      - Attila Bertok
+    - lag: 0.116545 h
+      rank: '3'
+      frac: 0.7845509
+  - - - '33'
+      - Filippo Oppici
+    - lag: 0.120271 h
+      rank: '4'
+      frac: 0.7782286
+  - - - '62'
+      - Christian Voiblet
+    - lag: 0.121859 h
+      rank: '5'
+      frac: 0.77554577
+  - - - '23'
+      - Anton Struganov
+    - lag: 0.125064 h
+      rank: '6'
+      frac: 0.77014779
+  - - - '45'
+      - Geoff Robertson
+    - lag: 0.145838 h
+      rank: '7'
+      frac: 0.7357638
+  - - - '34'
+      - Glen Mcfarlane
+    - lag: 0.151022 h
+      rank: '8'
+      frac: 0.72734586
+  - - - '55'
+      - Len Paton
+    - lag: 0.400903 h
+      rank: '9'
+      frac: 0.39340027
+  - - - '3'
+      - Paris Williams
+    - lag: 0.402458 h
+      rank: '10'
+      frac: 0.39173261
+  - - - '1'
+      - Michael Bilyk
+    - lag: 0.403579 h
+      rank: '11'
+      frac: 0.39053326
+  - - - '40'
+      - Lukas Bader
+    - lag: 0.407788 h
+      rank: '12'
+      frac: 0.3860535
+  - - - '46'
+      - Yasuhiro Noma
+    - lag: 0.447127 h
+      rank: '13'
+      frac: 0.34582289
+  - - - '51'
+      - Gavin Myers
+    - lag: 0.525380 h
+      rank: '14'
+      frac: 0.27430418
+  - - - '42'
+      - Trent Brown
+    - lag: 0.846754 h
+      rank: '15'
+      frac: 8.259561e-2
