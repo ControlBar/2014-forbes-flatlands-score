@@ -10,6 +10,7 @@ extract-input --file=%COMP% --give-fraction=0.005 --haversines
 task-length --file=%COMP%
 cross-zone --file=%COMP%
 tag-zone --file=%COMP%
+unpack-track --file=%COMP%
 peg-frame --file=%COMP%
 align-time --file=%COMP%
 discard-further --file=%COMP%
