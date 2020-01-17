@@ -402,10 +402,10 @@ difficulty:
     downers:
     - - '25'
       - Ai Fukutomi
-    - - '64'
-      - Hadewych van Kempen
     - - '6'
       - Akiko Suzuki
+    - - '64'
+      - Hadewych van Kempen
     - - '59'
       - Hanspeter Schütz
     downward: 3
@@ -521,14 +521,14 @@ difficulty:
     endAhead: 43.0 km
     down: 3
     downs:
-    - 30.347 km
     - 30.309 km
+    - 30.347 km
     - 30.355 km
     downers:
-    - - '43'
-      - Rod Flockhart
     - - '39'
       - Jonny Durand
+    - - '43'
+      - Rod Flockhart
     - - '41'
       - Attila Bertok
     downward: 8
@@ -816,10 +816,10 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '56'
-      - Maximilian Respondek
     - - '6'
       - Akiko Suzuki
+    - - '56'
+      - Maximilian Respondek
     downward: 3
     rel: 6.3275e-4
     frac: 3.227031e-2
@@ -1041,12 +1041,12 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '5'
-      - Ryosuke Hattori
     - - '25'
       - Ai Fukutomi
     - - '58'
       - Mark Russell
+    - - '5'
+      - Ryosuke Hattori
     downward: 5
     rel: 9.574e-4
     frac: 4.104835e-2
@@ -1303,13 +1303,13 @@ difficulty:
     endAhead: 121.4 km
     down: 2
     downs:
-    - 104.181 km
     - 104.129 km
+    - 104.181 km
     downers:
-    - - '50'
-      - Conrad Loten
     - - '23'
       - Anton Struganov
+    - - '50'
+      - Conrad Loten
     downward: 2
     rel: 4.787e-4
     frac: 0.4587123
@@ -1363,10 +1363,10 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '64'
-      - Hadewych van Kempen
     - - '6'
       - Akiko Suzuki
+    - - '64'
+      - Hadewych van Kempen
     - - '21'
       - Neil Petersen
     - - '17'
@@ -1773,13 +1773,13 @@ difficulty:
     endAhead: 98.3 km
     down: 2
     downs:
-    - 91.984 km
     - 91.969 km
+    - 91.984 km
     downers:
-    - - '43'
-      - Rod Flockhart
     - - '55'
       - Len Paton
+    - - '43'
+      - Rod Flockhart
     downward: 2
     rel: 6.105e-4
     frac: 0.36004274
@@ -1854,13 +1854,13 @@ difficulty:
     endAhead: 113.7 km
     down: 2
     downs:
-    - 107.352 km
     - 107.332 km
+    - 107.352 km
     downers:
-    - - '40'
-      - Lukas Bader
     - - '50'
       - Conrad Loten
+    - - '40'
+      - Lukas Bader
     downward: 8
     rel: 1.52625e-3
     frac: 0.4751221
@@ -1935,13 +1935,13 @@ difficulty:
     endAhead: 116.6 km
     down: 2
     downs:
-    - 110.217 km
     - 110.201 km
+    - 110.217 km
     downers:
-    - - '3'
-      - Paris Williams
     - - '1'
       - Michael Bilyk
+    - - '3'
+      - Paris Williams
     downward: 1
     rel: 4.5788e-4
     frac: 0.49771062
@@ -2386,42 +2386,42 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '59'
-      - Hanspeter Schütz
-    - - '4'
-      - Cameron Tunbridge
-    - - '64'
-      - Hadewych van Kempen
-    - - '56'
-      - Maximilian Respondek
+    - - '22'
+      - Adam Jones
     - - '6'
       - Akiko Suzuki
+    - - '2'
+      - Andrew Barnes
+    - - '19'
+      - Andrew Luton
+    - - '4'
+      - Cameron Tunbridge
+    - - '36'
+      - Enda Murphy
+    - - '8'
+      - Federico Martini
+    - - '64'
+      - Hadewych van Kempen
+    - - '59'
+      - Hanspeter Schütz
     - - '35'
       - Jamie Shelden
     - - '53'
       - Kathryn O'Riordan
+    - - '56'
+      - Maximilian Respondek
+    - - '16'
+      - Michael Tomlinson
+    - - '14'
+      - Mikhail Karmazin
+    - - '17'
+      - Peter Lamont
     - - '69'
       - Phil Seeley
     - - '18'
       - Rohan Taylor
-    - - '8'
-      - Federico Martini
-    - - '36'
-      - Enda Murphy
-    - - '19'
-      - Andrew Luton
-    - - '2'
-      - Andrew Barnes
-    - - '14'
-      - Mikhail Karmazin
     - - '5'
       - Ryosuke Hattori
-    - - '22'
-      - Adam Jones
-    - - '16'
-      - Michael Tomlinson
-    - - '17'
-      - Peter Lamont
     downward: 2
     rel: 2.71223e-3
     frac: 0.13832384

@@ -83,10 +83,10 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '59'
-      - Hanspeter Schütz
     - - '64'
       - Hadewych van Kempen
+    - - '59'
+      - Hanspeter Schütz
     downward: 4
     rel: 4.9456e-4
     frac: 2.336795e-2
@@ -416,14 +416,14 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '59'
-      - Hanspeter Schütz
-    - - '64'
-      - Hadewych van Kempen
-    - - '6'
-      - Akiko Suzuki
     - - '25'
       - Ai Fukutomi
+    - - '6'
+      - Akiko Suzuki
+    - - '64'
+      - Hadewych van Kempen
+    - - '59'
+      - Hanspeter Schütz
     downward: 7
     rel: 8.2938e-4
     frac: 3.684834e-2
@@ -842,10 +842,10 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '56'
-      - Maximilian Respondek
     - - '6'
       - Akiko Suzuki
+    - - '56'
+      - Maximilian Respondek
     downward: 4
     rel: 4.9615e-4
     frac: 2.530389e-2
@@ -1054,12 +1054,12 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '5'
-      - Ryosuke Hattori
-    - - '58'
-      - Mark Russell
     - - '25'
       - Ai Fukutomi
+    - - '58'
+      - Mark Russell
+    - - '5'
+      - Ryosuke Hattori
     downward: 8
     rel: 9.6409e-4
     frac: 4.543263e-2
@@ -1362,12 +1362,12 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '21'
-      - Neil Petersen
-    - - '64'
-      - Hadewych van Kempen
     - - '6'
       - Akiko Suzuki
+    - - '64'
+      - Hadewych van Kempen
+    - - '21'
+      - Neil Petersen
     downward: 3
     rel: 4.5774e-4
     frac: 2.334452e-2
@@ -2307,40 +2307,40 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '5'
-      - Ryosuke Hattori
-    - - '18'
-      - Rohan Taylor
-    - - '69'
-      - Phil Seeley
-    - - '17'
-      - Peter Lamont
-    - - '14'
-      - Mikhail Karmazin
-    - - '16'
-      - Michael Tomlinson
-    - - '56'
-      - Maximilian Respondek
-    - - '53'
-      - Kathryn O'Riordan
-    - - '35'
-      - Jamie Shelden
-    - - '64'
-      - Hadewych van Kempen
-    - - '8'
-      - Federico Martini
-    - - '36'
-      - Enda Murphy
-    - - '4'
-      - Cameron Tunbridge
-    - - '19'
-      - Andrew Luton
-    - - '2'
-      - Andrew Barnes
-    - - '6'
-      - Akiko Suzuki
     - - '22'
       - Adam Jones
+    - - '6'
+      - Akiko Suzuki
+    - - '2'
+      - Andrew Barnes
+    - - '19'
+      - Andrew Luton
+    - - '4'
+      - Cameron Tunbridge
+    - - '36'
+      - Enda Murphy
+    - - '8'
+      - Federico Martini
+    - - '64'
+      - Hadewych van Kempen
+    - - '35'
+      - Jamie Shelden
+    - - '53'
+      - Kathryn O'Riordan
+    - - '56'
+      - Maximilian Respondek
+    - - '16'
+      - Michael Tomlinson
+    - - '14'
+      - Mikhail Karmazin
+    - - '17'
+      - Peter Lamont
+    - - '69'
+      - Phil Seeley
+    - - '18'
+      - Rohan Taylor
+    - - '5'
+      - Ryosuke Hattori
     downward: 19
     rel: 2.56687e-3
     frac: 0.13091056
