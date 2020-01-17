@@ -1776,17 +1776,17 @@ score:
   - - - '64'
       - Hadewych van Kempen
     - place: 52=
-      total: 7
+      total: 17
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 9.785
         arrival: 0
         time: 0
         reach: 7.203
-        distance: 7.203
+        distance: 16.988
         leading: 0
       velocity: null
       reach:
@@ -1797,17 +1797,17 @@ score:
   - - - '59'
       - Hanspeter Schütz
     - place: 52=
-      total: 7
+      total: 17
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 9.785
         arrival: 0
         time: 0
         reach: 7.203
-        distance: 7.203
+        distance: 16.988
         leading: 0
       velocity: null
       reach:
@@ -3152,17 +3152,17 @@ score:
   - - - '25'
       - Ai Fukutomi
     - place: 47=
-      total: 9
+      total: 30
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.459
         arrival: 0
         time: 0
         reach: 9.078
-        distance: 9.078
+        distance: 29.536
         leading: 0
       velocity: null
       reach:
@@ -3173,17 +3173,17 @@ score:
   - - - '6'
       - Akiko Suzuki
     - place: 47=
-      total: 9
+      total: 30
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.459
         arrival: 0
         time: 0
         reach: 9.078
-        distance: 9.078
+        distance: 29.536
         leading: 0
       velocity: null
       reach:
@@ -3194,17 +3194,17 @@ score:
   - - - '64'
       - Hadewych van Kempen
     - place: 47=
-      total: 9
+      total: 30
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.459
         arrival: 0
         time: 0
         reach: 9.078
-        distance: 9.078
+        distance: 29.536
         leading: 0
       velocity: null
       reach:
@@ -3215,17 +3215,17 @@ score:
   - - - '59'
       - Hanspeter Schütz
     - place: 47=
-      total: 9
+      total: 30
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.459
         arrival: 0
         time: 0
         reach: 9.078
-        distance: 9.078
+        distance: 29.536
         leading: 0
       velocity: null
       reach:
@@ -4670,17 +4670,17 @@ score:
   - - - '6'
       - Akiko Suzuki
     - place: 51=
-      total: 6
+      total: 16
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 9.576
         arrival: 0
         time: 0
         reach: 6.16
-        distance: 6.16
+        distance: 15.737
         leading: 0
       velocity: null
       reach:
@@ -4691,17 +4691,17 @@ score:
   - - - '56'
       - Maximilian Respondek
     - place: 51=
-      total: 6
+      total: 16
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 9.576
         arrival: 0
         time: 0
         reach: 6.16
-        distance: 6.16
+        distance: 15.737
         leading: 0
       velocity: null
       reach:
@@ -6146,17 +6146,17 @@ score:
   - - - '25'
       - Ai Fukutomi
     - place: 51=
-      total: 7
+      total: 26
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 19.19
         arrival: 0
         time: 0
         reach: 6.778
-        distance: 6.778
+        distance: 25.968
         leading: 0
       velocity: null
       reach:
@@ -6167,17 +6167,17 @@ score:
   - - - '58'
       - Mark Russell
     - place: 51=
-      total: 7
+      total: 26
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 19.19
         arrival: 0
         time: 0
         reach: 6.778
-        distance: 6.778
+        distance: 25.968
         leading: 0
       velocity: null
       reach:
@@ -6188,17 +6188,17 @@ score:
   - - - '5'
       - Ryosuke Hattori
     - place: 51=
-      total: 7
+      total: 26
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 19.19
         arrival: 0
         time: 0
         reach: 6.778
-        distance: 6.778
+        distance: 25.968
         leading: 0
       velocity: null
       reach:
@@ -7413,17 +7413,17 @@ score:
   - - - '6'
       - Akiko Suzuki
     - place: 45=
-      total: 20
+      total: 41
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 21.01
         arrival: 0
         time: 0
         reach: 20.147
-        distance: 20.147
+        distance: 41.157
         leading: 0
       velocity: null
       reach:
@@ -7434,17 +7434,17 @@ score:
   - - - '64'
       - Hadewych van Kempen
     - place: 45=
-      total: 20
+      total: 41
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 21.01
         arrival: 0
         time: 0
         reach: 20.147
-        distance: 20.147
+        distance: 41.157
         leading: 0
       velocity: null
       reach:
@@ -7455,17 +7455,17 @@ score:
   - - - '21'
       - Neil Petersen
     - place: 45=
-      total: 20
+      total: 41
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 21.01
         arrival: 0
         time: 0
         reach: 20.147
-        distance: 20.147
+        distance: 41.157
         leading: 0
       velocity: null
       reach:
@@ -8897,17 +8897,17 @@ score:
   - - - '52'
       - Olav Olsen
     - place: '50'
-      total: 6
+      total: 17
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 11.112
         arrival: 0
         time: 0
         reach: 6.132
-        distance: 6.132
+        distance: 17.244
         leading: 0
       velocity: null
       reach:
@@ -9801,17 +9801,17 @@ score:
   - - - '22'
       - Adam Jones
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -9822,17 +9822,17 @@ score:
   - - - '6'
       - Akiko Suzuki
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -9843,17 +9843,17 @@ score:
   - - - '2'
       - Andrew Barnes
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -9864,17 +9864,17 @@ score:
   - - - '19'
       - Andrew Luton
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -9885,17 +9885,17 @@ score:
   - - - '4'
       - Cameron Tunbridge
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -9906,17 +9906,17 @@ score:
   - - - '36'
       - Enda Murphy
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -9927,17 +9927,17 @@ score:
   - - - '8'
       - Federico Martini
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -9948,17 +9948,17 @@ score:
   - - - '64'
       - Hadewych van Kempen
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -9969,17 +9969,17 @@ score:
   - - - '35'
       - Jamie Shelden
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -9990,17 +9990,17 @@ score:
   - - - '53'
       - Kathryn O'Riordan
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -10011,17 +10011,17 @@ score:
   - - - '56'
       - Maximilian Respondek
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -10032,17 +10032,17 @@ score:
   - - - '16'
       - Michael Tomlinson
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -10053,17 +10053,17 @@ score:
   - - - '14'
       - Mikhail Karmazin
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -10074,17 +10074,17 @@ score:
   - - - '17'
       - Peter Lamont
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -10095,17 +10095,17 @@ score:
   - - - '69'
       - Phil Seeley
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -10116,17 +10116,17 @@ score:
   - - - '18'
       - Rohan Taylor
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -10137,17 +10137,17 @@ score:
   - - - '5'
       - Ryosuke Hattori
     - place: 32=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19018,17 +19018,17 @@ scoreDfNoTrack:
   - - - '64'
       - Hadewych van Kempen
     - place: 4=
-      total: 7
+      total: 17
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 9.785
         arrival: 0
         time: 0
         reach: 7.203
-        distance: 7.203
+        distance: 16.988
         leading: 0
       velocity: null
       reach:
@@ -19039,17 +19039,17 @@ scoreDfNoTrack:
   - - - '59'
       - Hanspeter Schütz
     - place: 4=
-      total: 7
+      total: 17
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 9.785
         arrival: 0
         time: 0
         reach: 7.203
-        distance: 7.203
+        distance: 16.988
         leading: 0
       velocity: null
       reach:
@@ -19060,17 +19060,17 @@ scoreDfNoTrack:
 - - - - '25'
       - Ai Fukutomi
     - place: 1=
-      total: 9
+      total: 30
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.459
         arrival: 0
         time: 0
         reach: 9.078
-        distance: 9.078
+        distance: 29.536
         leading: 0
       velocity: null
       reach:
@@ -19081,17 +19081,17 @@ scoreDfNoTrack:
   - - - '6'
       - Akiko Suzuki
     - place: 1=
-      total: 9
+      total: 30
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.459
         arrival: 0
         time: 0
         reach: 9.078
-        distance: 9.078
+        distance: 29.536
         leading: 0
       velocity: null
       reach:
@@ -19102,17 +19102,17 @@ scoreDfNoTrack:
   - - - '64'
       - Hadewych van Kempen
     - place: 1=
-      total: 9
+      total: 30
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.459
         arrival: 0
         time: 0
         reach: 9.078
-        distance: 9.078
+        distance: 29.536
         leading: 0
       velocity: null
       reach:
@@ -19123,17 +19123,17 @@ scoreDfNoTrack:
   - - - '59'
       - Hanspeter Schütz
     - place: 1=
-      total: 9
+      total: 30
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 20.459
         arrival: 0
         time: 0
         reach: 9.078
-        distance: 9.078
+        distance: 29.536
         leading: 0
       velocity: null
       reach:
@@ -19186,17 +19186,17 @@ scoreDfNoTrack:
   - - - '6'
       - Akiko Suzuki
     - place: 3=
-      total: 6
+      total: 16
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 9.576
         arrival: 0
         time: 0
         reach: 6.16
-        distance: 6.16
+        distance: 15.737
         leading: 0
       velocity: null
       reach:
@@ -19207,17 +19207,17 @@ scoreDfNoTrack:
   - - - '56'
       - Maximilian Respondek
     - place: 3=
-      total: 6
+      total: 16
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 9.576
         arrival: 0
         time: 0
         reach: 6.16
-        distance: 6.16
+        distance: 15.737
         leading: 0
       velocity: null
       reach:
@@ -19270,17 +19270,17 @@ scoreDfNoTrack:
   - - - '25'
       - Ai Fukutomi
     - place: 3=
-      total: 7
+      total: 26
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 19.19
         arrival: 0
         time: 0
         reach: 6.778
-        distance: 6.778
+        distance: 25.968
         leading: 0
       velocity: null
       reach:
@@ -19291,17 +19291,17 @@ scoreDfNoTrack:
   - - - '58'
       - Mark Russell
     - place: 3=
-      total: 7
+      total: 26
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 19.19
         arrival: 0
         time: 0
         reach: 6.778
-        distance: 6.778
+        distance: 25.968
         leading: 0
       velocity: null
       reach:
@@ -19312,17 +19312,17 @@ scoreDfNoTrack:
   - - - '5'
       - Ryosuke Hattori
     - place: 3=
-      total: 7
+      total: 26
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 19.19
         arrival: 0
         time: 0
         reach: 6.778
-        distance: 6.778
+        distance: 25.968
         leading: 0
       velocity: null
       reach:
@@ -19522,17 +19522,17 @@ scoreDfNoTrack:
   - - - '6'
       - Akiko Suzuki
     - place: 10=
-      total: 20
+      total: 41
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 21.01
         arrival: 0
         time: 0
         reach: 20.147
-        distance: 20.147
+        distance: 41.157
         leading: 0
       velocity: null
       reach:
@@ -19543,17 +19543,17 @@ scoreDfNoTrack:
   - - - '64'
       - Hadewych van Kempen
     - place: 10=
-      total: 20
+      total: 41
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 21.01
         arrival: 0
         time: 0
         reach: 20.147
-        distance: 20.147
+        distance: 41.157
         leading: 0
       velocity: null
       reach:
@@ -19564,17 +19564,17 @@ scoreDfNoTrack:
   - - - '21'
       - Neil Petersen
     - place: 10=
-      total: 20
+      total: 41
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 21.01
         arrival: 0
         time: 0
         reach: 20.147
-        distance: 20.147
+        distance: 41.157
         leading: 0
       velocity: null
       reach:
@@ -19585,17 +19585,17 @@ scoreDfNoTrack:
 - - - - '52'
       - Olav Olsen
     - place: '1'
-      total: 6
+      total: 17
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 11.112
         arrival: 0
         time: 0
         reach: 6.132
-        distance: 6.132
+        distance: 17.244
         leading: 0
       velocity: null
       reach:
@@ -19648,17 +19648,17 @@ scoreDfNoTrack:
   - - - '22'
       - Adam Jones
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19669,17 +19669,17 @@ scoreDfNoTrack:
   - - - '6'
       - Akiko Suzuki
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19690,17 +19690,17 @@ scoreDfNoTrack:
   - - - '2'
       - Andrew Barnes
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19711,17 +19711,17 @@ scoreDfNoTrack:
   - - - '19'
       - Andrew Luton
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19732,17 +19732,17 @@ scoreDfNoTrack:
   - - - '4'
       - Cameron Tunbridge
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19753,17 +19753,17 @@ scoreDfNoTrack:
   - - - '36'
       - Enda Murphy
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19774,17 +19774,17 @@ scoreDfNoTrack:
   - - - '8'
       - Federico Martini
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19795,17 +19795,17 @@ scoreDfNoTrack:
   - - - '64'
       - Hadewych van Kempen
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19816,17 +19816,17 @@ scoreDfNoTrack:
   - - - '35'
       - Jamie Shelden
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19837,17 +19837,17 @@ scoreDfNoTrack:
   - - - '53'
       - Kathryn O'Riordan
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19858,17 +19858,17 @@ scoreDfNoTrack:
   - - - '56'
       - Maximilian Respondek
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19879,17 +19879,17 @@ scoreDfNoTrack:
   - - - '16'
       - Michael Tomlinson
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19900,17 +19900,17 @@ scoreDfNoTrack:
   - - - '14'
       - Mikhail Karmazin
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19921,17 +19921,17 @@ scoreDfNoTrack:
   - - - '17'
       - Peter Lamont
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19942,17 +19942,17 @@ scoreDfNoTrack:
   - - - '69'
       - Phil Seeley
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19963,17 +19963,17 @@ scoreDfNoTrack:
   - - - '18'
       - Rohan Taylor
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
@@ -19984,17 +19984,17 @@ scoreDfNoTrack:
   - - - '5'
       - Ryosuke Hattori
     - place: 3=
-      total: 7
+      total: 76
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0
+        effort: 69.905
         arrival: 0
         time: 0
         reach: 6.554
-        distance: 6.554
+        distance: 76.459
         leading: 0
       velocity: null
       reach:
