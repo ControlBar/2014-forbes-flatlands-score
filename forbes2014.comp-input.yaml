@@ -124,6 +124,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 2 - Blown Away
@@ -189,6 +190,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 3 - TCDSay
@@ -265,6 +267,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 4 - Greased Lightning
@@ -353,6 +356,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 5 - Find Your Own Fxx Pad
@@ -428,6 +432,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 6 - Attila Killer
@@ -503,6 +508,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 7 - 126.7
@@ -566,6 +572,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 taskFolders:
