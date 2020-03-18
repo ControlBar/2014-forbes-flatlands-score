@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: false
   arrivalTime: true
+  leadingAreaDistanceSquared: false
   leadingWeightScaling: 0
 tasks:
 - taskName: Task 1 - Child of god
@@ -120,6 +121,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -186,6 +188,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -263,6 +266,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -352,6 +356,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -428,6 +433,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -504,6 +510,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
@@ -568,6 +575,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
