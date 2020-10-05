@@ -6,16 +6,16 @@ fs-arrival --file=%COMP%
 fs-effort --file=%COMP%
 fs-score --file=%COMP%
 
-extract-input --file=%COMP% --give-fraction=0.005 --haversines
-task-length --file=%COMP%
-cross-zone --file=%COMP%
-tag-zone --file=%COMP%
-unpack-track --file=%COMP%
-peg-frame --file=%COMP%
-align-time --file=%COMP%
-discard-further --file=%COMP%
-mask-track --file=%COMP%
-land-out --file=%COMP%
-gap-point --file=%COMP%
+ft-extract-input --file=%COMP% --give-fraction=0.005 --haversines
+ft-task-length --file=%COMP%
+ft-cross-zone --file=%COMP%
+ft-tag-zone --file=%COMP%
+ft-unpack-track --file=%COMP%
+ft-peg-frame --file=%COMP%
+ft-align-time --file=%COMP%
+ft-discard-further --file=%COMP%
+ft-mask-track --file=%COMP%
+ft-land-out --file=%COMP%
+ft-gap-point --file=%COMP%
 
-#comp-serve %COMP%
+#ft-comp-serve %COMP%
