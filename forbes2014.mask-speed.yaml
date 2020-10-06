@@ -153,8 +153,8 @@ ssSpeed:
       frac: 0.98974341
   - - - '49'
       - Jonas Lobitz
-    - time: 2.479109 h
-      frac: 0.97686955
+    - time: 2.481542 h
+      frac: 0.97050805
   - - - '50'
       - Conrad Loten
     - time: 2.483896 h
@@ -173,20 +173,20 @@ ssSpeed:
       frac: 0.89898902
   - - - '24'
       - Steve Blenkinsop
-    - time: 2.626137 h
-      frac: 0.78888435
+    - time: 2.628966 h
+      frac: 0.78628283
   - - - '29'
       - Adam Stevens
-    - time: 2.658743 h
-      frac: 0.75978472
+    - time: 2.661233 h
+      frac: 0.75763603
   - - - '51'
       - Gavin Myers
     - time: 2.662690 h
       frac: 0.75638379
   - - - '46'
       - Yasuhiro Noma
-    - time: 2.671870 h
-      frac: 0.74856169
+    - time: 2.697850 h
+      frac: 0.72705416
   - - - '28'
       - Guy Hubbard
     - time: 2.708424 h
@@ -273,8 +273,8 @@ ssSpeed:
       frac: 0.63983666
   - - - '51'
       - Gavin Myers
-    - time: 3.015646 h
-      frac: 0.6352158
+    - time: 3.020023 h
+      frac: 0.63225774
   - - - '15'
       - Nick Purcell
     - time: 3.021408 h
@@ -313,8 +313,8 @@ ssSpeed:
       frac: 0.54177424
   - - - '48'
       - Victor Hare
-    - time: 3.177360 h
-      frac: 0.53260784
+    - time: 3.184473 h
+      frac: 0.52836192
   - - - '45'
       - Geoff Robertson
     - time: 3.297047 h
@@ -327,14 +327,14 @@ ssSpeed:
       - Kathryn O'Riordan
     - time: 3.509888 h
       frac: 0.35040557
-  - - - '4'
-      - Cameron Tunbridge
-    - time: 3.669068 h
-      frac: 0.27194667
   - - - '20'
       - Nils Vesk
     - time: 3.675104 h
       frac: 0.26905582
+  - - - '4'
+      - Cameron Tunbridge
+    - time: 3.859072 h
+      frac: 0.18349936
 - - - - '15'
       - Nick Purcell
     - time: 2.418571 h
@@ -393,8 +393,8 @@ ssSpeed:
       frac: 0.64631008
   - - - '34'
       - Glen Mcfarlane
-    - time: 2.757388 h
-      frac: 0.63793166
+    - time: 2.771036 h
+      frac: 0.62827263
   - - - '1'
       - Michael Bilyk
     - time: 2.783443 h
@@ -409,8 +409,8 @@ ssSpeed:
       frac: 0.60372172
   - - - '21'
       - Neil Petersen
-    - time: 2.881678 h
-      frac: 0.55406854
+    - time: 2.886262 h
+      frac: 0.55113068
   - - - '45'
       - Geoff Robertson
     - time: 2.908219 h
@@ -425,8 +425,8 @@ ssSpeed:
       frac: 0.52315152
   - - - '4'
       - Cameron Tunbridge
-    - time: 2.947843 h
-      frac: 0.51254646
+    - time: 2.956815 h
+      frac: 0.50705323
   - - - '30'
       - Phil Schroder
     - time: 2.969327 h
@@ -450,8 +450,8 @@ ssSpeed:
       frac: 1
   - - - '42'
       - Trent Brown
-    - time: 3.153000 h
-      frac: 0.92111107
+    - time: 3.156898 h
+      frac: 0.9159513
   - - - '70'
       - Carl Wallbank
     - time: 3.160248 h
@@ -554,28 +554,28 @@ ssSpeed:
       frac: 0.82768967
   - - - '70'
       - Carl Wallbank
-    - time: 3.157174 h
-      frac: 0.8138312
-  - - - '62'
-      - Christian Voiblet
-    - time: 3.222590 h
-      frac: 0.75944448
-  - - - '41'
-      - Attila Bertok
-    - time: 3.224596 h
-      frac: 0.75787724
-  - - - '23'
-      - Anton Struganov
-    - time: 3.226874 h
-      frac: 0.75610399
+    - time: 3.158797 h
+      frac: 0.81239058
   - - - '45'
       - Geoff Robertson
     - time: 3.228789 h
       frac: 0.75461774
+  - - - '41'
+      - Attila Bertok
+    - time: 3.235713 h
+      frac: 0.74928274
   - - - '33'
       - Filippo Oppici
     - time: 3.235945 h
       frac: 0.74910482
+  - - - '62'
+      - Christian Voiblet
+    - time: 3.241608 h
+      frac: 0.74478402
+  - - - '23'
+      - Anton Struganov
+    - time: 3.244516 h
+      frac: 0.74257988
   - - - '34'
       - Glen Mcfarlane
     - time: 3.270917 h
