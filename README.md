@@ -1,5 +1,7 @@
 # Australian National Hang Gliding Championships 2014
 
+Free flight competition scored with [flare-timing](https://github.com/BlockScope/flare-timing).
+
 The official scores made by FS and the tracklogs for each task are available
 online at;
 
