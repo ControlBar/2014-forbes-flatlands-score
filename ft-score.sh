@@ -17,8 +17,15 @@ ft-peg-frame "$COMP"
 ft-align-time "$COMP"
 ft-discard-further "$COMP"
 ft-area-step "$COMP"
-ft-mask-track "$COMP"
+
+ft-mask-arrival "$COMP"
+ft-mask-bonus "$COMP"
+ft-mask-effort "$COMP"
+ft-mask-lead "$COMP"
+ft-mask-reach "$COMP"
+
 ft-land-out "$COMP"
+ft-far-out "$COMP"
 ft-gap-point "$COMP"
 
 ft-comp-serve "$COMP"

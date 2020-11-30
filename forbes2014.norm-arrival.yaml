@@ -2,7 +2,7 @@ pilotsAtEss:
 - 28
 - 14
 - 35
-- 27
+- 26
 - 0
 - 20
 - 15
@@ -522,11 +522,6 @@ arrivalRank:
     - lag: 0.489444 h
       rank: '26'
       frac: 0.3057784
-  - - - '31'
-      - Dean Hervatin
-    - lag: 1.728056 h
-      rank: '27'
-      frac: 0
 - []
 - - - - '42'
       - Trent Brown

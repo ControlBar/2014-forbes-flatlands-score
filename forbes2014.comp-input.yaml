@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: false
   arrivalTime: true
+  essNotGoalScaling: 0
   leadingAreaDistanceSquared: false
   leadingWeightScaling: 0
 tasks:
@@ -118,9 +119,11 @@ tasks:
   - 2013-12-28T03:20:00Z
   - 2013-12-28T03:40:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
@@ -185,9 +188,11 @@ tasks:
   - 2013-12-29T03:30:00Z
   - 2013-12-29T03:45:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
@@ -263,9 +268,11 @@ tasks:
   - 2013-12-30T03:50:00Z
   - 2013-12-30T04:10:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
@@ -353,9 +360,11 @@ tasks:
   - 2013-12-31T03:35:00Z
   - 2013-12-31T03:55:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
@@ -430,9 +439,11 @@ tasks:
   - 2014-01-01T03:00:00Z
   - 2014-01-01T03:30:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
@@ -507,9 +518,11 @@ tasks:
   - 2014-01-03T03:00:00Z
   - 2014-01-03T03:30:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
@@ -572,9 +585,11 @@ tasks:
   - 2014-01-04T03:00:00Z
   - 2014-01-04T03:30:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: true
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: 0
   earlyStart:
