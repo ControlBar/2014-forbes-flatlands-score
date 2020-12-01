@@ -4643,9 +4643,54 @@ score:
       subtotal: 82.52
       landedMade: 15.663 km
       stoppedAlt: 1152.000 m
+  - - - '36'
+      - Enda Murphy
+    - place: '45'
+      total: 76.841
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 50.154
+        arrival: 0
+        time: 0
+        reach: 26.687
+        distance: 76.841
+        leading: 0
+      velocity:
+        ss: 2013-12-29T03:22:48.658005351428Z
+        gs: 2013-12-29T03:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 14.700 km
+        flown: 14.700 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 76.841
+      landedMade: 14.700 km
+      stoppedAlt: 246.000 m
   - - - '69'
       - Phil Seeley
-    - place: '45'
+    - place: '46'
       total: 42.202
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -4690,7 +4735,7 @@ score:
       stoppedAlt: 249.000 m
   - - - '25'
       - Ai Fukutomi
-    - place: 46=
+    - place: 47=
       total: 29.275
       essNotGoal: null
       penaltiesEssNotGoal:
@@ -4727,7 +4772,7 @@ score:
       stoppedAlt: null
   - - - '6'
       - Akiko Suzuki
-    - place: 46=
+    - place: 47=
       total: 29.275
       essNotGoal: null
       penaltiesEssNotGoal:
@@ -4764,7 +4809,7 @@ score:
       stoppedAlt: null
   - - - '64'
       - Hadewych van Kempen
-    - place: 46=
+    - place: 47=
       total: 29.275
       essNotGoal: null
       penaltiesEssNotGoal:
@@ -4801,7 +4846,7 @@ score:
       stoppedAlt: null
   - - - '59'
       - Hanspeter Schütz
-    - place: 46=
+    - place: 47=
       total: 29.275
       essNotGoal: null
       penaltiesEssNotGoal:
@@ -4836,51 +4881,6 @@ score:
       subtotal: 29.275
       landedMade: 0.000 km
       stoppedAlt: null
-  - - - '36'
-      - Enda Murphy
-    - place: '50'
-      total: 26.687
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 26.687
-        distance: 26.687
-        leading: 0
-      velocity:
-        ss: 2013-12-29T03:22:48.658005351428Z
-        gs: 2013-12-29T03:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 14.700 km
-        flown: 14.700 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 26.687
-      landedMade: 14.700 km
-      stoppedAlt: 246.000 m
 - - - - '23'
       - Anton Struganov
     - place: '1'
@@ -19944,9 +19944,54 @@ scoreDf:
       subtotal: 82.52
       landedMade: 15.663 km
       stoppedAlt: 1152.000 m
+  - - - '36'
+      - Enda Murphy
+    - place: '45'
+      total: 76.841
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 50.154
+        arrival: 0
+        time: 0
+        reach: 26.687
+        distance: 76.841
+        leading: 0
+      velocity:
+        ss: 2013-12-29T03:22:48.658005351428Z
+        gs: 2013-12-29T03:15:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 14.700 km
+        flown: 14.700 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 76.841
+      landedMade: 14.700 km
+      stoppedAlt: 246.000 m
   - - - '69'
       - Phil Seeley
-    - place: '45'
+    - place: '46'
       total: 42.202
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -19989,51 +20034,6 @@ scoreDf:
       subtotal: 42.202
       landedMade: 8.089 km
       stoppedAlt: 249.000 m
-  - - - '36'
-      - Enda Murphy
-    - place: '46'
-      total: 26.687
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 26.687
-        distance: 26.687
-        leading: 0
-      velocity:
-        ss: 2013-12-29T03:22:48.658005351428Z
-        gs: 2013-12-29T03:15:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 14.700 km
-        flown: 14.700 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 26.687
-      landedMade: 14.700 km
-      stoppedAlt: 246.000 m
 - - - - '23'
       - Anton Struganov
     - place: '1'
